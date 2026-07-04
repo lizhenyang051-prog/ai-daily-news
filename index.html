@@ -3,59 +3,64 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI 每日日报</title>
+<title>AI ????</title>
 <style>
 :root{--bg:#0f172a;--card:#1e293b;--accent:#38bdf8;--accent2:#818cf8;--text:#f1f5f9;--muted:#94a3b8;--border:#334155}
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Noto Sans SC',sans-serif;background:var(--bg);color:var(--text);line-height:1.6;padding:20px}
-.container{max-width:900px;margin:0 auto}
-header{text-align:center;padding:40px 0 30px;border-bottom:1px solid var(--border);margin-bottom:30px}
-header h1{font-size:2.2em;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
-header .subtitle{color:var(--muted);margin-top:8px;font-size:.95em}
-header .update-time{color:var(--muted);font-size:.85em;margin-top:4px}
-.stats{display:flex;gap:20px;justify-content:center;margin:20px 0 30px;flex-wrap:wrap}
-.stat-item{background:var(--card);padding:10px 20px;border-radius:10px;border:1px solid var(--border);font-size:.9em}
-.stat-item strong{color:var(--accent)}
-.section{margin-bottom:36px}
-.section-title{font-size:1.3em;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:10px}
-.section-title .icon{font-size:1.2em}
-.section-title .badge{font-size:.55em;background:var(--accent);color:#000;padding:2px 10px;border-radius:20px;font-weight:600}
-.news-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:18px 22px;margin-bottom:12px}
-.news-card:hover{border-color:var(--accent)}
-.news-card .meta{display:flex;gap:12px;font-size:.8em;color:var(--muted);margin-bottom:6px;flex-wrap:wrap}
-.news-card .meta .source{color:var(--accent);font-weight:600}
-.news-card .meta .tag{background:rgba(56,189,248,0.15);color:var(--accent);padding:1px 8px;border-radius:4px;font-size:.85em}
-.news-card h3{font-size:1.05em;font-weight:600;margin-bottom:6px}
-.news-card h3 a{color:var(--text);text-decoration:none}
-.news-card h3 a:hover{color:var(--accent)}
-.news-card p{color:var(--muted);font-size:.9em;line-height:1.5}
-.focus-card{background:linear-gradient(135deg,var(--card),#1a2332);border:1px solid var(--accent);border-radius:14px;padding:24px 26px;margin-bottom:14px}
-.focus-card .meta .source{color:#fbbf24}
-.focus-card h3{font-size:1.15em}
+.container{max-width:960px;margin:0 auto}
+header{text-align:center;padding:36px 0 24px;border-bottom:1px solid var(--border);margin-bottom:28px}
+header h1{font-size:2em;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+header .sub{color:var(--muted);margin-top:6px;font-size:.9em}
+header .time{color:var(--muted);font-size:.82em;margin-top:4px}
+.stats{display:flex;gap:16px;justify-content:center;margin:16px 0 28px;flex-wrap:wrap}
+.stat-item{background:var(--card);padding:8px 18px;border-radius:10px;border:1px solid var(--border);font-size:.85em}
+.stat-item b{color:var(--accent)}
+.section{margin-bottom:32px}
+.stitle{font-size:1.15em;font-weight:700;margin-bottom:12px;display:flex;align-items:center;gap:8px}
+.stitle .ic{font-size:1.1em}
+.stitle .desc{font-size:.55em;font-weight:400;color:var(--muted);margin-left:4px}
+.stitle .badge{font-size:.5em;background:var(--accent);color:#000;padding:2px 10px;border-radius:20px;font-weight:600;margin-left:auto}
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 20px;margin-bottom:10px}
+.card:hover{border-color:var(--accent)}
+.card .meta{display:flex;gap:10px;font-size:.78em;color:var(--muted);margin-bottom:5px;flex-wrap:wrap}
+.card .meta .src{color:var(--accent);font-weight:600}
+.card .meta .tag{background:rgba(56,189,248,0.12);color:var(--accent);padding:1px 7px;border-radius:4px;font-size:.85em}
+.card h3{font-size:1em;font-weight:600;margin-bottom:5px}
+.card h3 a{color:var(--text);text-decoration:none}
+.card h3 a:hover{color:var(--accent)}
+.card p{color:var(--muted);font-size:.85em;line-height:1.5}
+.tip{background:linear-gradient(135deg,#1a1a2e,#16213e);border:1px solid var(--accent2);border-radius:12px;padding:20px 24px;margin-bottom:32px}
+.tip .t{font-size:.95em;font-weight:600;margin-bottom:6px;color:var(--accent)}
+.tip p{font-size:.82em;color:var(--muted);line-height:1.6}
 .loading,.error{text-align:center;padding:80px 20px;color:var(--muted)}
-.loading .spinner{display:inline-block;width:40px;height:40px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin-bottom:16px}
-@keyframes spin{to{transform:rotate(360deg)}}
-.error h2{color:#f87171;margin-bottom:10px}
-footer{text-align:center;padding:30px 0;color:var(--muted);font-size:.85em;border-top:1px solid var(--border);margin-top:40px}
-@media(max-width:640px){header h1{font-size:1.6em}.news-card,.focus-card{padding:14px 16px}}
+.loading .sp{display:inline-block;width:36px;height:36px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:s .8s linear infinite;margin-bottom:14px}
+@keyframes s{to{transform:rotate(360deg)}}
+.error h2{color:#f87171;margin-bottom:8px}
+footer{text-align:center;padding:28px 0;color:var(--muted);font-size:.8em;border-top:1px solid var(--border);margin-top:36px}
+@media(max-width:640px){header h1{font-size:1.5em}.card,.tip{padding:12px 14px}}
 </style>
 </head>
 <body>
 <div class="container">
 <header>
 <h1>🤖 AI 每日日报</h1>
-<p class="subtitle">聚合全球AI资讯 · 每日自动更新</p>
-<p class="update-time" id="updateTime">加载中...</p>
+<p class="sub">小白友好版 · AI工具、产品动态、实操案例每日聚合</p>
+<p class="time" id="updateTime">加载中...</p>
 </header>
 <div class="stats" id="stats"></div>
-<div id="app"><div class="loading"><div class="spinner"></div><p>正在加载今日日报...</p></div></div>
-<footer><p>AI 每日日报 · 数据来源于公开RSS源 · 仅供参考</p></footer>
+<div class="tip" id="tip">
+<div class="t">☆ 今日热门</div>
+<p id="focusText">加载中...</p>
+</div>
+<div id="app"><div class="loading"><div class="sp"></div><p>正在加载...</p></div></div>
+<footer>· AI 每日日报 · 数据来源于公开 RSS · 仅供参考</footer>
 </div>
 <script>
-const L={news:{icon:'📰',label:'最新动态'},paper:{icon:'📄',label:'热门论文'},discussion:{icon:'💬',label:'社区热议'}};
-async function load(){try{const r=await fetch('news_data.json?_='+Date.now());if(!r.ok)throw Error();const d=await r.json();render(d)}catch(e){document.getElementById('app').innerHTML='<div class="error"><h2>😿 暂时没有日报数据</h2><p>GitHub Action 正在运行中，请过几分钟刷新页面</p></div>'}}
-function render(d){const a=d.articles||[];document.getElementById('updateTime').textContent='🕐 更新于 '+d.updated_at;const s=[...new Set(a.map(x=>x.source))];document.getElementById('stats').innerHTML='<div class="stat-item">📊 今日资讯 <strong>'+a.length+'</strong> 条</div><div class="stat-item">📡 信息来源 <strong>'+s.length+'</strong> 个</div>';let h='<div class="section"><h2 class="section-title"><span class="icon">⭐</span> 今日焦点 <span class="badge">TOP 3</span></h2>';for(const i of a.slice(0,3))h+=c(i,1);h+='</div>';for(const[k,v]of Object.entries(L)){const i=a.filter(x=>x.category===k);if(!i.length)continue;h+='<div class="section"><h2 class="section-title"><span class="icon">'+v.icon+'</span> '+v.label+'</h2>';for(const j of i)h+=c(j);h+='</div>'}document.getElementById('app').innerHTML=h}
-function c(i,f){const t=i.lang==='zh'?'🇨🇳':'🌐';const cl=f?'focus-card':'news-card';const tm=i.published?i.published.slice(5,16):'';return'<div class="'+cl+'"><div class="meta"><span class="source">'+i.source+'</span><span>'+tm+'</span><span class="tag">'+t+'</span></div><h3><a href="'+i.link+'" target="_blank" rel="noopener">'+i.title+'</a></h3>'+(i.summary?'<p>'+i.summary+'</p>':'')+'</div>'}
+const C={tool:{ic:"\u{1f6e0}\ufe0f",lb:"AI\u5de5\u5177\u63a8\u8350",de:"\u666e\u901a\u4eba\u76f4\u63a5\u80fd\u7528\u7684AI\u5de5\u5177\u548c\u529f\u80fd\u66f4\u65b0"},product:{ic:"\u{1f680}",lb:"\u4ea7\u54c1\u52a8\u6001",de:"\u5927\u516c\u53f8AI\u65b0\u4ea7\u54c1\u3001\u65b0\u80fd\u529b\u53d1\u5e03"},case:{ic:"\u{1f4a1}",lb:"\u5b9e\u64cd\u6848\u4f8b",de:"\u522b\u4eba\u600e\u4e48\u7528AI\u89e3\u51b3\u5b9e\u9645\u95ee\u9898\u7684\u53ef\u590d\u5236\u73a9\u6cd5"},knowledge:{ic:"\u{1f4d6}",lb:"\u8ba4\u77e5\u00b7\u907f\u5751",de:"AI\u57fa\u7840\u5e38\u8bc6\u3001\u907f\u5751\u6307\u5357"},vertical:{ic:"\u{1f3af}",lb:"\u5782\u76f4\u5e94\u7528",de:"\u548c\u4f60\u76f8\u5173\u7684AI\u843d\u5730\u573a\u666f"}};
+async function load(){try{const r=await fetch('news_data.json?_='+Date.now());if(!r.ok)throw Error();const d=await r.json();render(d)}catch(e){document.getElementById('app').innerHTML='<div class=\"error\"><h2>\u{1f639} \u6682\u65f6\u6ca1\u6709\u65e5\u62a5\u6570\u636e</h2><p>GitHub Action \u6b63\u5728\u8fd0\u884c\u4e2d\uff0c\u8bf7\u8fc7\u51e0\u5206\u949f\u5237\u65b0</p></div>'}}
+function render(d){const a=d.articles||[];document.getElementById('updateTime').textContent='\u{1f550} \u66f4\u65b0\u4e8e '+d.updated_at;const s=new Set(a.map(x=>x.source)),cats=new Set(a.map(x=>x.category));document.getElementById('stats').innerHTML='<div class=\"stat-item\">\u2611\ufe0f \u4eca\u65e5 <b>'+a.length+'</b> \u6761</div><div class=\"stat-item\">\u{1f4e1} \u6765\u6e90 <b>'+s.size+'</b> \u4e2a</div><div class=\"stat-item\">\u{1f4ca} \u7c7b\u522b <b>'+cats.size+'</b> \u7c7b</div>';const top=a.slice(0,3);document.getElementById('focusText').innerHTML=top.map((x,i)=>'<b>'+(i+1)+'.</b> '+x.title).join('<br>');let h='';for(const[k,v]of Object.entries(C)){const i=a.filter(x=>x.category===k);if(!i.length)continue;h+='<div class=\"section\"><div class=\"stitle\"><span class=\"ic\">'+v.ic+'</span>'+v.lb+'<span class=\"desc\">'+v.de+'</span><span class=\"badge\">'+i.length+'\u6761</span></div>';for(const j of i)h+=c(j);h+='</div>'}document.getElementById('app').innerHTML=h}
+function c(i){const t=i.lang==='zh'?'\u{1f1e8}\u{1f1f3}':'\u{1f310}',tm=i.published?i.published.slice(5,16):'';return'<div class=\"card\"><div class=\"meta\"><span class=\"src\">'+i.source+'</span><span>'+tm+'</span><span class=\"tag\">'+t+'</span></div><h3><a href=\"'+i.link+'\" target=\"_blank\" rel=\"noopener\">'+i.title+'</a></h3>'+(i.summary?'<p>'+i.summary+'</p>':'')+'</div>'}
 load();
 </script>
 </body>
