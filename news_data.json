@@ -1,148 +1,49 @@
 {
-  "updated_at": "2026-07-11 02:09:05",
+  "updated_at": "2026-07-12 02:13:28",
   "articles": [
     {
-      "id": "4c1e7a544c3d",
-      "title": "I've been building this alone for months. Roast it before I lose any more time",
-      "link": "https://peakd.io",
-      "summary": "\nArticle URL: https://peakd.io\nComments URL: https://news.ycombinator.com/item?id=48867364\nPoints: 3\n# Comments: 0\n",
-      "source": "Hacker News",
+      "id": "e59fcfd960f8",
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "link": "https://www.qbitai.com/2026/07/447902.html",
+      "summary": "已跑通300余项应用",
+      "source": "量子位",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-07-11 00:53:48",
-      "timestamp": 1783731228
+      "lang": "zh",
+      "published": "2026-07-11 10:07:17",
+      "timestamp": 1783764437
     },
     {
-      "id": "75a455c8c51b",
-      "title": "FreeCAD in the Browser",
-      "link": "https://magik.net/freecad/",
-      "summary": "\nArticle URL: https://magik.net/freecad/\nComments URL: https://news.ycombinator.com/item?id=48867264\nPoints: 21\n# Comments: 12\n",
-      "source": "Hacker News",
+      "id": "5dea88070b4d",
+      "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
+      "link": "https://sspai.com/post/68024",
+      "summary": "面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-07-11 00:44:00",
-      "timestamp": 1783730640
+      "lang": "zh",
+      "published": "2026-07-11 15:05:21",
+      "timestamp": 1783753521
     },
     {
-      "id": "00b2acbbd800",
-      "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
-      "link": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
-      "summary": "\nArticle URL: https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/\nComments URL: https://news.ycombinator.com/item?id=48867261\nPoints: 9\n# Comments: 0\n",
-      "source": "Hacker News",
+      "id": "51708223b43b",
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "link": "https://www.qbitai.com/2026/07/447891.html",
+      "summary": "从FP64到INT8，全精度覆盖。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-11 06:26:46",
+      "timestamp": 1783751206
+    },
+    {
+      "id": "2b732a45bfb9",
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "link": "https://www.qbitai.com/2026/07/447873.html",
+      "summary": "神话级大模型驾驭宝典",
+      "source": "量子位",
       "category": "product",
-      "lang": "en",
-      "published": "2026-07-11 00:43:39",
-      "timestamp": 1783730619
-    },
-    {
-      "id": "478e30ee039d",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "link": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-      "summary": "\nArticle URL: https://www.bbc.com/news/articles/c2dy6e8klw0o\nComments URL: https://news.ycombinator.com/item?id=48867233\nPoints: 20\n# Comments: 8\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-07-11 00:40:36",
-      "timestamp": 1783730436
-    },
-    {
-      "id": "6b009273cfaa",
-      "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
-      "link": "https://tilion.dev/blog/cloudflare-blocks-agents",
-      "summary": "\nArticle URL: https://tilion.dev/blog/cloudflare-blocks-agents\nComments URL: https://news.ycombinator.com/item?id=48867124\nPoints: 6\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-07-11 00:26:16",
-      "timestamp": 1783729576
-    },
-    {
-      "id": "bdc3191d9ca0",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "summary": "\nArticle URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 99\n# Comments: 38\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 22:30:44",
-      "timestamp": 1783722644
-    },
-    {
-      "id": "9e343a182cc9",
-      "title": "Moss (YC F25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
-      "summary": "\nArticle URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\nComments URL: https://news.ycombinator.com/item?id=48865332\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 21:11:18",
-      "timestamp": 1783717878
-    },
-    {
-      "id": "94e98edcca44",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "summary": "\nhttps://www.macrumors.com/2026/07/10/apple-sues-openai/\n\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 551\n# Comments: 259\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-07-10 20:47:09",
-      "timestamp": 1783716429
-    },
-    {
-      "id": "f6b7e7963c56",
-      "title": "An update on residential proxies and the scraper situation",
-      "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "summary": "\nArticle URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\nComments URL: https://news.ycombinator.com/item?id=48864252\nPoints: 88\n# Comments: 76\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 19:38:34",
-      "timestamp": 1783712314
-    },
-    {
-      "id": "d0f91b5a5b1d",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "summary": "\nhttps://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...\n\nComments URL: https://news.ycombinator.com/item?id=48863490\nPoints: 355\n# Comments: 284\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-07-10 18:29:19",
-      "timestamp": 1783708159
-    },
-    {
-      "id": "08129db6fe21",
-      "title": "New York City to to ban deceptive subscription practices",
-      "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "summary": "\nhttps://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani...\n\nComments URL: https://news.ycombinator.com/item?id=48863464\nPoints: 418\n# Comments: 216\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 18:26:24",
-      "timestamp": 1783707984
-    },
-    {
-      "id": "307c58907ed9",
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "link": "https://waratlas.org",
-      "summary": "\nArticle URL: https://waratlas.org\nComments URL: https://news.ycombinator.com/item?id=48863080\nPoints: 117\n# Comments: 58\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 17:52:48",
-      "timestamp": 1783705968
-    },
-    {
-      "id": "1ad41c83e205",
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "summary": "\nArticle URL: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/\nComments URL: https://news.ycombinator.com/item?id=48863064\nPoints: 77\n# Comments: 246\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 17:51:07",
-      "timestamp": 1783705867
+      "lang": "zh",
+      "published": "2026-07-11 05:30:11",
+      "timestamp": 1783747811
     },
     {
       "id": "291f4ca862d5",
@@ -156,61 +57,6 @@
       "timestamp": 1783703891
     },
     {
-      "id": "ed455347765a",
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "summary": "\nArticle URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\nComments URL: https://news.ycombinator.com/item?id=48862365\nPoints: 167\n# Comments: 67\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 16:48:41",
-      "timestamp": 1783702121
-    },
-    {
-      "id": "0ea31c726600",
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "summary": "\nArticle URL: https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\nComments URL: https://news.ycombinator.com/item?id=48862252\nPoints: 155\n# Comments: 126\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 16:37:52",
-      "timestamp": 1783701472
-    },
-    {
-      "id": "aee3c971ff38",
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "summary": "\nArticle URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/\nComments URL: https://news.ycombinator.com/item?id=48861717\nPoints: 456\n# Comments: 173\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 15:59:53",
-      "timestamp": 1783699193
-    },
-    {
-      "id": "af31181a2975",
-      "title": "A love letter to flashcards",
-      "link": "https://lesleylai.info/en/flashcards/",
-      "summary": "\nArticle URL: https://lesleylai.info/en/flashcards/\nComments URL: https://news.ycombinator.com/item?id=48861319\nPoints: 127\n# Comments: 80\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 15:30:44",
-      "timestamp": 1783697444
-    },
-    {
-      "id": "f9983a7d8f01",
-      "title": "Computation as a universal and fundamental concept",
-      "link": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "summary": "\nArticle URL: https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept\nComments URL: https://news.ycombinator.com/item?id=48861213\nPoints: 87\n# Comments: 72\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 15:23:42",
-      "timestamp": 1783697022
-    },
-    {
       "id": "74573affbdd9",
       "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
       "link": "https://www.qbitai.com/2026/07/447832.html",
@@ -220,28 +66,6 @@
       "lang": "zh",
       "published": "2026-07-10 14:13:37",
       "timestamp": 1783692817
-    },
-    {
-      "id": "7863ed212feb",
-      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
-      "link": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "summary": "\nArticle URL: https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html\nComments URL: https://news.ycombinator.com/item?id=48859673\nPoints: 81\n# Comments: 94\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 13:30:41",
-      "timestamp": 1783690241
-    },
-    {
-      "id": "b74100680aa0",
-      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
-      "link": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
-      "summary": "\nArticle URL: https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance\nComments URL: https://news.ycombinator.com/item?id=48858745\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-10 12:00:36",
-      "timestamp": 1783684836
     },
     {
       "id": "35221c0e9564",
@@ -321,28 +145,6 @@
       "timestamp": 1783666800
     },
     {
-      "id": "096355944d6e",
-      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-      "link": "https://www.qbitai.com/2026/07/447602.html",
-      "summary": "字节也入局了",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-07-10 04:44:38",
-      "timestamp": 1783658678
-    },
-    {
-      "id": "74c9b6a80135",
-      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
-      "link": "https://www.qbitai.com/2026/07/447597.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-10 03:28:59",
-      "timestamp": 1783654139
-    },
-    {
       "id": "675fbf9a8973",
       "title": "Vibe Coding 时代，为什么降本不一定增效？",
       "link": "https://sspai.com/post/111975",
@@ -363,17 +165,6 @@
       "lang": "en",
       "published": "2026-07-09 20:22:28",
       "timestamp": 1783628548
-    },
-    {
-      "id": "21d1d8ade658",
-      "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
-      "link": "https://www.qbitai.com/2026/07/447508.html",
-      "summary": "“已经出现泛化涌现”",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-09 12:18:17",
-      "timestamp": 1783599497
     },
     {
       "id": "c8fd540d5e51",
@@ -429,17 +220,6 @@
       "lang": "zh",
       "published": "2026-07-08 17:26:49",
       "timestamp": 1783502809
-    },
-    {
-      "id": "d0434353a571",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "link": "https://sspai.com/post/112044",
-      "summary": "暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-08 15:14:26",
-      "timestamp": 1783494866
     },
     {
       "id": "55b94e71e863",
