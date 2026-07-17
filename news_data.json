@@ -1,6 +1,380 @@
 {
-  "updated_at": "2026-07-16 02:07:26",
+  "updated_at": "2026-07-17 02:10:27",
   "articles": [
+    {
+      "id": "e0994f972479",
+      "title": "Google Kills Custom Search API on Jan 1, 2027",
+      "link": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
+      "summary": "\nArticle URL: https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/\nComments URL: https://news.ycombinator.com/item?id=48942250\nPoints: 24\n# Comments: 6\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-07-17 01:03:25",
+      "timestamp": 1784250205
+    },
+    {
+      "id": "8d68749dac85",
+      "title": "派早报：OPPO 宣布调整旗下子品牌的全球产品策略等",
+      "link": "https://sspai.com/post/112414",
+      "summary": "月之暗面发布 Kimi K3 模型，支付宝升级 Apple 教育优惠认证等。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-17 08:45:30",
+      "timestamp": 1784249130
+    },
+    {
+      "id": "affda2516a6f",
+      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "summary": "\nArticle URL: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive\nComments URL: https://news.ycombinator.com/item?id=48942125\nPoints: 26\n# Comments: 6\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-17 00:45:05",
+      "timestamp": 1784249105
+    },
+    {
+      "id": "5f3e0ac94536",
+      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "summary": "\nArticle URL: https://github.com/Robbyant/lingbot-map\nComments URL: https://news.ycombinator.com/item?id=48941908\nPoints: 5\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-17 00:07:49",
+      "timestamp": 1784246869
+    },
+    {
+      "id": "8b84b96ce5cc",
+      "title": "My car’s OTA update broke Android Auto",
+      "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "summary": "\nArticle URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/\nComments URL: https://news.ycombinator.com/item?id=48941129\nPoints: 124\n# Comments: 146\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 22:29:44",
+      "timestamp": 1784240984
+    },
+    {
+      "id": "9f1e69553302",
+      "title": "Show HN: Mojibake – A low-level Unicode library written in C",
+      "link": "https://mojibake.zaerl.com/",
+      "summary": "\nI've written Mojibake because I don't like the other Unicode libraries for Unicode support.It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unicode algorithms, such as normalization, case conversion, segmentation, bidirectional text, collation",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 22:29:21",
+      "timestamp": 1784240961
+    },
+    {
+      "id": "48a20e7aae77",
+      "title": "The Little Book of Reinforcement Learning",
+      "link": "https://github.com/alxndrTL/little-book-rl/",
+      "summary": "\nArticle URL: https://github.com/alxndrTL/little-book-rl/\nComments URL: https://news.ycombinator.com/item?id=48941104\nPoints: 56\n# Comments: 8\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 22:27:22",
+      "timestamp": 1784240842
+    },
+    {
+      "id": "7aaef7db1d9f",
+      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+      "link": "https://hellorecon.com/blog/cve-2026-25089",
+      "summary": "\nArticle URL: https://hellorecon.com/blog/cve-2026-25089\nComments URL: https://news.ycombinator.com/item?id=48940895\nPoints: 18\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 22:07:30",
+      "timestamp": 1784239650
+    },
+    {
+      "id": "46f6a3278be7",
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "summary": "\nArticle URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin\nComments URL: https://news.ycombinator.com/item?id=48940833\nPoints: 41\n# Comments: 6\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 22:00:00",
+      "timestamp": 1784239200
+    },
+    {
+      "id": "8e753e35212b",
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "link": "https://arxiv.org/abs/2607.12395",
+      "summary": "\nArticle URL: https://arxiv.org/abs/2607.12395\nComments URL: https://news.ycombinator.com/item?id=48940603\nPoints: 37\n# Comments: 13\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 21:38:02",
+      "timestamp": 1784237882
+    },
+    {
+      "id": "55fe4036d86d",
+      "title": "Mathematics of Data Science",
+      "link": "https://arxiv.org/abs/2607.11938",
+      "summary": "\nArticle URL: https://arxiv.org/abs/2607.11938\nComments URL: https://news.ycombinator.com/item?id=48939896\nPoints: 92\n# Comments: 2\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 20:38:48",
+      "timestamp": 1784234328
+    },
+    {
+      "id": "5970a51e5a53",
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+      "link": "https://timelinescan.com/",
+      "summary": "\nArticle URL: https://timelinescan.com/\nComments URL: https://news.ycombinator.com/item?id=48939764\nPoints: 28\n# Comments: 25\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 20:25:47",
+      "timestamp": 1784233547
+    },
+    {
+      "id": "41c27ff202c9",
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "link": "https://www.science.org/doi/10.1126/science.aea9708",
+      "summary": "\nArticle URL: https://www.science.org/doi/10.1126/science.aea9708\nComments URL: https://news.ycombinator.com/item?id=48939742\nPoints: 63\n# Comments: 16\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 20:24:02",
+      "timestamp": 1784233442
+    },
+    {
+      "id": "93774b91970a",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "summary": "\nArticle URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic\nComments URL: https://news.ycombinator.com/item?id=48939662\nPoints: 161\n# Comments: 63\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-07-16 20:18:15",
+      "timestamp": 1784233095
+    },
+    {
+      "id": "c6ff27ee81e2",
+      "title": "The privacy problems hidden in your period tracker",
+      "link": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+      "summary": "\nArticle URL: https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details\nComments URL: https://news.ycombinator.com/item?id=48939641\nPoints: 73\n# Comments: 41\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 20:15:58",
+      "timestamp": 1784232958
+    },
+    {
+      "id": "60503a84aedb",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "summary": "\nArticle URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6\nComments URL: https://news.ycombinator.com/item?id=48939524\nPoints: 132\n# Comments: 139\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 20:03:23",
+      "timestamp": 1784232203
+    },
+    {
+      "id": "63701b14d33b",
+      "title": "Adaptional (YC S25) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/adaptional/jobs",
+      "summary": "\nArticle URL: https://www.ycombinator.com/companies/adaptional/jobs\nComments URL: https://news.ycombinator.com/item?id=48937125\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 17:00:55",
+      "timestamp": 1784221255
+    },
+    {
+      "id": "7ede72e3689a",
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "link": "https://news.ycombinator.com/item?id=48937020",
+      "summary": "\nHey HN, we’re Xia and Varun, the founders of Traceforce (https://www.traceforce.ai/). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how the",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 16:52:16",
+      "timestamp": 1784220736
+    },
+    {
+      "id": "974e440dffb6",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "summary": "\nArticle URL: https://blog.lyc8503.net/en/post/llm-classifier/\nComments URL: https://news.ycombinator.com/item?id=48936880\nPoints: 158\n# Comments: 105\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 16:41:37",
+      "timestamp": 1784220097
+    },
+    {
+      "id": "15c3c1d12063",
+      "title": "Decoy Font",
+      "link": "https://www.mixfont.com/experiments/decoy-font",
+      "summary": "\nArticle URL: https://www.mixfont.com/experiments/decoy-font\nComments URL: https://news.ycombinator.com/item?id=48936584\nPoints: 408\n# Comments: 98\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 16:18:21",
+      "timestamp": 1784218701
+    },
+    {
+      "id": "da7ec31e941f",
+      "title": "NotebookLM is now Gemini Notebook",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "summary": "\nArticle URL: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\nComments URL: https://news.ycombinator.com/item?id=48936451\nPoints: 240\n# Comments: 126\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-16 16:08:13",
+      "timestamp": 1784218093
+    },
+    {
+      "id": "17a2ee91cde4",
+      "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
+      "link": "https://www.qbitai.com/2026/07/451576.html",
+      "summary": "最快下周一提车",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-16 15:12:41",
+      "timestamp": 1784214761
+    },
+    {
+      "id": "8c30bab86708",
+      "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
+      "link": "https://www.qbitai.com/2026/07/451403.html",
+      "summary": "还能让机器人边干边学",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-16 10:51:10",
+      "timestamp": 1784199070
+    },
+    {
+      "id": "784cff8a1165",
+      "title": "新玩意 246｜少数派的编辑们最近买了啥？",
+      "link": "https://sspai.com/post/112400",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-16 17:39:52",
+      "timestamp": 1784194792
+    },
+    {
+      "id": "4a0a22d49cf9",
+      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
+      "link": "https://www.qbitai.com/2026/07/451379.html",
+      "summary": "为破解具身智能行业发展瓶颈构建了新一代“进化底座”",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-16 09:25:17",
+      "timestamp": 1784193917
+    },
+    {
+      "id": "504afe7d24cc",
+      "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
+      "link": "https://www.qbitai.com/2026/07/451327.html",
+      "summary": "Robotaxi第一股文远知行孵化",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-16 09:13:01",
+      "timestamp": 1784193181
+    },
+    {
+      "id": "8722b166276a",
+      "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
+      "link": "https://www.qbitai.com/2026/07/451084.html",
+      "summary": "不要赌某个模型能通吃一切。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-16 08:04:18",
+      "timestamp": 1784189058
+    },
+    {
+      "id": "d1e2cb16ebd8",
+      "title": "Apple 高校优惠活动开始了，今年有些不一样",
+      "link": "https://sspai.com/post/112386",
+      "summary": "又到了一年一度的Apple高校优惠活动季，高校师生们可以在活动期间，购买指定型号iPad或Mac设备，获得指定配件产品，享受到限时的教育优惠+买赠活动。与往年不同的是，今年的Apple高校优惠活动不论 ...查看全文",
+      "source": "少数派",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-07-16 16:03:38",
+      "timestamp": 1784189018
+    },
+    {
+      "id": "cfad4e949fc9",
+      "title": "一位失忆患者，揭开了AI记忆的误区",
+      "link": "https://www.qbitai.com/2026/07/451049.html",
+      "summary": "记忆能够独立成层",
+      "source": "量子位",
+      "category": "knowledge",
+      "lang": "zh",
+      "published": "2026-07-16 07:34:14",
+      "timestamp": 1784187254
+    },
+    {
+      "id": "3f8a3fb2ce72",
+      "title": "具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性",
+      "link": "https://sspai.com/post/112375",
+      "summary": "全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-16 15:00:00",
+      "timestamp": 1784185200
+    },
+    {
+      "id": "c5427aa0e357",
+      "title": "一句「哈哈」引发的苹果OpenAI窃密大战",
+      "link": "https://www.qbitai.com/2026/07/450921.html",
+      "summary": "苹果怒斥：烂到骨子里",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-07-16 04:47:55",
+      "timestamp": 1784177275
+    },
+    {
+      "id": "b0cb2b2adc87",
+      "title": "从上海到世界：WAICA正以“AI原生”范式重写顶会规则",
+      "link": "https://www.qbitai.com/2026/07/450917.html",
+      "summary": "",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-16 04:02:31",
+      "timestamp": 1784174551
+    },
+    {
+      "id": "4413666e9eb6",
+      "title": "翻译「世界杯」的赛事名称，为什么中文比日文更简洁？",
+      "link": "https://sspai.com/post/111086",
+      "summary": "国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？查看全文",
+      "source": "少数派",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-07-16 10:58:08",
+      "timestamp": 1784170688
+    },
+    {
+      "id": "dae1f466f3bb",
+      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+      "link": "https://www.qbitai.com/2026/07/450896.html",
+      "summary": "后训练中真机数据需求骤降60%",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-16 02:30:46",
+      "timestamp": 1784169046
+    },
     {
       "id": "d0c399df9165",
       "title": "派早报：国行版 Apple Intelligence 完成备案等",
@@ -11,160 +385,6 @@
       "lang": "zh",
       "published": "2026-07-16 08:22:40",
       "timestamp": 1784161360
-    },
-    {
-      "id": "a8853a48fc1d",
-      "title": "Show HN: One More Letter",
-      "link": "https://playonemoreletter.com/",
-      "summary": "\nArticle URL: https://playonemoreletter.com/\nComments URL: https://news.ycombinator.com/item?id=48928402\nPoints: 30\n# Comments: 21\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 23:10:10",
-      "timestamp": 1784157010
-    },
-    {
-      "id": "ce95320d117a",
-      "title": "Nul Characters in Strings in SQLite",
-      "link": "https://sqlite.org/nulinstr.html",
-      "summary": "\nArticle URL: https://sqlite.org/nulinstr.html\nComments URL: https://news.ycombinator.com/item?id=48928343\nPoints: 29\n# Comments: 2\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 23:03:45",
-      "timestamp": 1784156625
-    },
-    {
-      "id": "d81127dd7ff0",
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-      "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-      "summary": "\nArticle URL: https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials\nComments URL: https://news.ycombinator.com/item?id=48928313\nPoints: 38\n# Comments: 10\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-07-15 23:00:31",
-      "timestamp": 1784156431
-    },
-    {
-      "id": "6b955ad21ead",
-      "title": "The Anti-Mac User Interface (1996)",
-      "link": "https://www.nngroup.com/articles/anti-mac-interface/",
-      "summary": "\nArticle URL: https://www.nngroup.com/articles/anti-mac-interface/\nComments URL: https://news.ycombinator.com/item?id=48928234\nPoints: 54\n# Comments: 17\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 22:52:36",
-      "timestamp": 1784155956
-    },
-    {
-      "id": "abf57ea96ad6",
-      "title": "SQLite should have (Rust-style) editions",
-      "link": "https://mort.coffee/home/sqlite-editions/",
-      "summary": "\nArticle URL: https://mort.coffee/home/sqlite-editions/\nComments URL: https://news.ycombinator.com/item?id=48928135\nPoints: 118\n# Comments: 46\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 22:42:58",
-      "timestamp": 1784155378
-    },
-    {
-      "id": "4ea4c29e3cc1",
-      "title": "LLM Networking with MikroTik",
-      "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "summary": "\nArticle URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html\nComments URL: https://news.ycombinator.com/item?id=48927915\nPoints: 47\n# Comments: 13\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 22:23:27",
-      "timestamp": 1784154207
-    },
-    {
-      "id": "5c43c74d6f31",
-      "title": "P2P local file transfer based on WebRTC",
-      "link": "https://pairdrop.net/",
-      "summary": "\nArticle URL: https://pairdrop.net/\nComments URL: https://news.ycombinator.com/item?id=48927900\nPoints: 32\n# Comments: 14\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 22:22:08",
-      "timestamp": 1784154128
-    },
-    {
-      "id": "2292f2859189",
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "summary": "\nArticle URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf\nComments URL: https://news.ycombinator.com/item?id=48927095\nPoints: 88\n# Comments: 36\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 21:16:36",
-      "timestamp": 1784150196
-    },
-    {
-      "id": "af88a879661f",
-      "title": "Show HN: Firefox in WebAssembly",
-      "link": "https://developer.puter.com/labs/firefox-wasm/",
-      "summary": "\nThis is the entire Firefox browser rendering to a  element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly.Here are a few things you might find interesting:- This is fully end to end encrypted! We use the WISP protocol for TCP-over-websockets.- ",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 21:00:17",
-      "timestamp": 1784149217
-    },
-    {
-      "id": "46b8fc5b2fce",
-      "title": "Grok Build is open source",
-      "link": "https://github.com/xai-org/grok-build",
-      "summary": "\nArticle URL: https://github.com/xai-org/grok-build\nComments URL: https://news.ycombinator.com/item?id=48926590\nPoints: 267\n# Comments: 311\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 20:24:58",
-      "timestamp": 1784147098
-    },
-    {
-      "id": "7cb6cf3a2a8d",
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "link": "https://brainless.swerdlow.dev",
-      "summary": "\nArticle URL: https://brainless.swerdlow.dev\nComments URL: https://news.ycombinator.com/item?id=48926085\nPoints: 92\n# Comments: 18\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 19:42:53",
-      "timestamp": 1784144573
-    },
-    {
-      "id": "eb5273daffc4",
-      "title": "Voxatron",
-      "link": "https://www.lexaloffle.com/voxatron.php",
-      "summary": "\nArticle URL: https://www.lexaloffle.com/voxatron.php\nComments URL: https://news.ycombinator.com/item?id=48926053\nPoints: 63\n# Comments: 19\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 19:40:23",
-      "timestamp": 1784144423
-    },
-    {
-      "id": "2602e795a7a5",
-      "title": "Duskers, the scary command line game, is getting a sequel",
-      "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-      "summary": "\nArticle URL: https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20\nComments URL: https://news.ycombinator.com/item?id=48925888\nPoints: 92\n# Comments: 21\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 19:27:59",
-      "timestamp": 1784143679
-    },
-    {
-      "id": "29ff26d7435d",
-      "title": "Inkling: Our Open-Weights Model",
-      "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "summary": "\nArticle URL: https://thinkingmachines.ai/news/introducing-inkling/\nComments URL: https://news.ycombinator.com/item?id=48924912\nPoints: 692\n# Comments: 177\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 18:12:45",
-      "timestamp": 1784139165
     },
     {
       "id": "633ea2882ac4",
@@ -178,105 +398,6 @@
       "timestamp": 1784135377
     },
     {
-      "id": "5a8a4954135d",
-      "title": "Artie (YC S23) Is Hiring Software Engineers",
-      "link": "https://jobs.ashbyhq.com/artie",
-      "summary": "\nArticle URL: https://jobs.ashbyhq.com/artie\nComments URL: https://news.ycombinator.com/item?id=48923833\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 17:01:02",
-      "timestamp": 1784134862
-    },
-    {
-      "id": "977636a63388",
-      "title": "Collection of Digital Clock Designs",
-      "link": "https://clocks.dev",
-      "summary": "\nArticle URL: https://clocks.dev\nComments URL: https://news.ycombinator.com/item?id=48923380\nPoints: 178\n# Comments: 36\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 16:33:15",
-      "timestamp": 1784133195
-    },
-    {
-      "id": "a8f26bc19163",
-      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-      "link": "https://github.com/welcome-to-the-sunny-side/misa77",
-      "summary": "\nI've spent the last few months working on this codec.It has the following characteristics:  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort levels)\n  - Slow compression\n\nMost of the gains can be attributed to reducing branches and making decomp",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 15:58:59",
-      "timestamp": 1784131139
-    },
-    {
-      "id": "7d04b84e06c6",
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "summary": "\nArticle URL: https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/\nComments URL: https://news.ycombinator.com/item?id=48922434\nPoints: 233\n# Comments: 152\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 15:34:05",
-      "timestamp": 1784129645
-    },
-    {
-      "id": "240cacfdfb5d",
-      "title": "Towards a harness that can do anything",
-      "link": "https://eardatasci.github.io/c/ambiance/index.html",
-      "summary": "\nArticle URL: https://eardatasci.github.io/c/ambiance/index.html\nComments URL: https://news.ycombinator.com/item?id=48921077\nPoints: 173\n# Comments: 86\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 14:08:28",
-      "timestamp": 1784124508
-    },
-    {
-      "id": "24815143d379",
-      "title": "Mysteries of Telegram Data Centers (2022)",
-      "link": "https://dev.moe/en/3025",
-      "summary": "\nArticle URL: https://dev.moe/en/3025\nComments URL: https://news.ycombinator.com/item?id=48920475\nPoints: 240\n# Comments: 131\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-15 13:22:00",
-      "timestamp": 1784121720
-    },
-    {
-      "id": "9b4e7b9d1f13",
-      "title": "测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布",
-      "link": "https://www.qbitai.com/2026/07/450841.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-15 09:45:53",
-      "timestamp": 1784108753
-    },
-    {
-      "id": "2776ef702d32",
-      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
-      "link": "https://www.qbitai.com/2026/07/450831.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-07-15 09:18:03",
-      "timestamp": 1784107083
-    },
-    {
-      "id": "fe99c8707c2a",
-      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
-      "link": "https://www.qbitai.com/2026/07/450709.html",
-      "summary": "26名员工正在集体起诉Meta",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-07-15 09:03:58",
-      "timestamp": 1784106238
-    },
-    {
       "id": "35fbc174cdb1",
       "title": "Leitra 诞生记：一次未完成的实践",
       "link": "https://sspai.com/post/112077",
@@ -286,28 +407,6 @@
       "lang": "zh",
       "published": "2026-07-15 17:00:00",
       "timestamp": 1784106000
-    },
-    {
-      "id": "5d2c1a8f9109",
-      "title": "我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布",
-      "link": "https://www.qbitai.com/2026/07/450130.html",
-      "summary": "世界就是你的画布",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-15 08:09:57",
-      "timestamp": 1784102997
-    },
-    {
-      "id": "857175074de2",
-      "title": "马斯克也开始L4降维L2了！FSD正式进入反转时刻",
-      "link": "https://www.qbitai.com/2026/07/450657.html",
-      "summary": "FSD、Robotaxi共用一套模型",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-15 07:22:26",
-      "timestamp": 1784100146
     },
     {
       "id": "d21ee3d93c5a",
@@ -321,50 +420,6 @@
       "timestamp": 1784098800
     },
     {
-      "id": "d610a819e257",
-      "title": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
-      "link": "https://www.qbitai.com/2026/07/450652.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-15 06:43:37",
-      "timestamp": 1784097817
-    },
-    {
-      "id": "1136748be286",
-      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-      "link": "https://www.qbitai.com/2026/07/436498.html",
-      "summary": "180家企业携成果入驻",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-15 05:33:28",
-      "timestamp": 1784093608
-    },
-    {
-      "id": "1a123d919b0a",
-      "title": "不是吧OpenAI首款硬件吹半天就是个AI音箱？？",
-      "link": "https://www.qbitai.com/2026/07/450385.html",
-      "summary": "难怪苹果急眼了",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-07-15 04:46:18",
-      "timestamp": 1784090778
-    },
-    {
-      "id": "98dbd2155aaa",
-      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
-      "link": "https://www.qbitai.com/2026/07/450250.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-07-15 03:48:46",
-      "timestamp": 1784087326
-    },
-    {
       "id": "884f67f85cfe",
       "title": "角落新声｜从桌面「长」出来的创业空间，我靠这些好物「偷」一点清闲",
       "link": "https://sspai.com/post/112243",
@@ -374,17 +429,6 @@
       "lang": "zh",
       "published": "2026-07-15 11:00:00",
       "timestamp": 1784084400
-    },
-    {
-      "id": "866c7ead51fc",
-      "title": "派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等",
-      "link": "https://sspai.com/post/112334",
-      "summary": "Google 推出新版图片搜索功能，Spotify 开启语音交互功能内测等。查看全文",
-      "source": "少数派",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-07-15 08:19:12",
-      "timestamp": 1784074752
     },
     {
       "id": "0ae2624e5583",
@@ -398,28 +442,6 @@
       "timestamp": 1784021259
     },
     {
-      "id": "62d5398a254e",
-      "title": "具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能",
-      "link": "https://sspai.com/post/112287",
-      "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-14 15:00:00",
-      "timestamp": 1784012400
-    },
-    {
-      "id": "8af273e4c12f",
-      "title": "iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项",
-      "link": "https://sspai.com/post/112288",
-      "summary": "7月14日凌晨，Apple终于推送了今年iOS27、iPadOS27、watchOS27、macOSGoldenGate、HomePod软件27以及AirPods固件新版的首个PublicBeta公开 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-14 12:07:18",
-      "timestamp": 1784002038
-    },
-    {
       "id": "8d445f90b8e0",
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
       "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
@@ -429,28 +451,6 @@
       "lang": "en",
       "published": "2026-07-13 18:00:00",
       "timestamp": 1783965600
-    },
-    {
-      "id": "89dcce84183b",
-      "title": "派评 | 近期值得关注的 App",
-      "link": "https://sspai.com/post/112229",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-13 17:55:40",
-      "timestamp": 1783936540
-    },
-    {
-      "id": "d5cb3b9c08b4",
-      "title": "具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件",
-      "link": "https://sspai.com/prime/story/inside-release-notes-260713",
-      "summary": "聊聊Android17的应用内存限制@克莱德：每隔一段时间，我都会整理一下自己的书桌。毕竟要在一张120×60cm的桌面上放下一块34英寸带鱼屏和一台40L机箱，留给其他常用物件的空间实在不多。前几天 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-13 17:48:45",
-      "timestamp": 1783936125
     },
     {
       "id": "704636578b98",
