@@ -1,115 +1,302 @@
 {
-  "updated_at": "2026-07-25 02:10:32",
+  "updated_at": "2026-07-26 02:21:31",
   "articles": [
     {
-      "id": "35566c940239",
-      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-      "summary": "\nArticle URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/\nComments URL: https://news.ycombinator.com/item?id=49042751\nPoints: 28\n# Comments: 1\n",
+      "id": "6f848cbb3595",
+      "title": "Possible invasive species superspreader event near Strait of Hormuz",
+      "link": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+      "summary": "\nArticle URL: https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186\nComments URL: https://news.ycombinator.com/item?id=49053603\nPoints: 15\n# Comments: 1\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-07-24 23:13:18",
-      "timestamp": 1784934798
+      "published": "2026-07-26 01:13:19",
+      "timestamp": 1785028399
     },
     {
-      "id": "c3a5afde4c26",
-      "title": "AIs don't do what you want. This is bad",
-      "link": "https://rewardhacking.org",
-      "summary": "\nArticle URL: https://rewardhacking.org\nComments URL: https://news.ycombinator.com/item?id=49042354\nPoints: 64\n# Comments: 43\n",
+      "id": "fcb0fa61e24f",
+      "title": "Git rebase -I is not that scary",
+      "link": "https://cachebag.sh/journal/interactive-rebasing/",
+      "summary": "\nArticle URL: https://cachebag.sh/journal/interactive-rebasing/\nComments URL: https://news.ycombinator.com/item?id=49053385\nPoints: 7\n# Comments: 2\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-07-24 22:24:08",
-      "timestamp": 1784931848
+      "published": "2026-07-26 00:37:54",
+      "timestamp": 1785026274
     },
     {
-      "id": "aeade81b77eb",
-      "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
-      "link": "https://github.com/apresta/max-studio-tools",
-      "summary": "\nArticle URL: https://github.com/apresta/max-studio-tools\nComments URL: https://news.ycombinator.com/item?id=49041546\nPoints: 19\n# Comments: 0\n",
+      "id": "92e9f7f2e253",
+      "title": "Systems and Delays",
+      "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "summary": "\nArticle URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html\nComments URL: https://news.ycombinator.com/item?id=49053382\nPoints: 15\n# Comments: 4\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-07-24 21:03:10",
-      "timestamp": 1784926990
+      "published": "2026-07-26 00:37:30",
+      "timestamp": 1785026250
     },
     {
-      "id": "d569abd36a91",
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "link": "https://artificialanalysis.ai/models",
-      "summary": "\nArticle URL: https://artificialanalysis.ai/models\nComments URL: https://news.ycombinator.com/item?id=49040741\nPoints: 141\n# Comments: 84\n",
+      "id": "212581105a19",
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "summary": "\nArticle URL: https://huggingface.co/owensong/Inflect-Micro-v2\nComments URL: https://news.ycombinator.com/item?id=49053375\nPoints: 8\n# Comments: 1\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-07-24 19:45:10",
-      "timestamp": 1784922310
+      "published": "2026-07-26 00:36:30",
+      "timestamp": 1785026190
     },
     {
-      "id": "833a648c621f",
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "summary": "\nArticle URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability\nComments URL: https://news.ycombinator.com/item?id=49040296\nPoints: 203\n# Comments: 37\n",
+      "id": "3f672513564f",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "summary": "\nArticle URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf\nComments URL: https://news.ycombinator.com/item?id=4905291",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-07-24 19:05:53",
-      "timestamp": 1784919953
+      "published": "2026-07-25 23:32:50",
+      "timestamp": 1785022370
     },
     {
-      "id": "f656c196fe39",
-      "title": "Gsxui – Shadcn-style components for Go",
-      "link": "https://ui.gsxhq.dev/",
-      "summary": "\nArticle URL: https://ui.gsxhq.dev/\nComments URL: https://news.ycombinator.com/item?id=49039395\nPoints: 55\n# Comments: 8\n",
+      "id": "13e431c47944",
+      "title": "Clinical Failure Rates over the Decades: Yikes",
+      "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "summary": "\nArticle URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes\nComments URL: https://news.ycombinator.com/item?id=49052628\nPoints: 43\n# Comments: 25\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-07-24 17:59:08",
-      "timestamp": 1784915948
+      "published": "2026-07-25 22:57:17",
+      "timestamp": 1785020237
     },
     {
-      "id": "158cef6b19b2",
-      "title": "Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "summary": "\nhttps://www.anthropic.com/claude-opus-5-system-card\n\nComments URL: https://news.ycombinator.com/item?id=49038433\nPoints: 1311\n# Comments: 710\n",
+      "id": "9017d6020148",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "summary": "\nArticle URL: https://blog.cloudflare.com/content-independence-day-ai-options/\nComments URL: https://news.ycombinator.com/item?id=49052564\nPoints: 36\n# Comments: 14\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-07-24 16:57:41",
-      "timestamp": 1784912261
+      "published": "2026-07-25 22:50:49",
+      "timestamp": 1785019849
     },
     {
-      "id": "559e6fa2d1d2",
-      "title": "Don't Take the Black Pill [video]",
-      "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-      "summary": "\nArticle URL: https://www.youtube.com/watch?v=zLZwpH5lCD4\nComments URL: https://news.ycombinator.com/item?id=49038298\nPoints: 125\n# Comments: 86\n",
+      "id": "42630894bb35",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "summary": "\nArticle URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy\nComments URL: https://news.ycombinator.com/item?id=49051947\nPoints: 127\n# Comments: 42\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-07-24 16:48:57",
-      "timestamp": 1784911737
+      "published": "2026-07-25 21:48:22",
+      "timestamp": 1785016102
     },
     {
-      "id": "528e7911db08",
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "summary": "\nArticle URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker\nComments URL: https://news.ycombinator.com/item?id=49038060\nPoints: 422\n# Comments: 231\n",
+      "id": "f8d62351a8b4",
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "link": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "summary": "\nArticle URL: https://www.maxmynter.com/pages/blog/jobhunt\nComments URL: https://news.ycombinator.com/item?id=49051707\nPoints: 18\n# Comments: 5\n",
       "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 21:19:42",
+      "timestamp": 1785014382
+    },
+    {
+      "id": "d0867d8b0fc9",
+      "title": "Multicast TV Distribution on My Home Network",
+      "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
+      "summary": "\nArticle URL: https://www.apalrd.net/posts/2026/isp_mcast/\nComments URL: https://news.ycombinator.com/item?id=49051463\nPoints: 39\n# Comments: 11\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 20:55:12",
+      "timestamp": 1785012912
+    },
+    {
+      "id": "0483cf237169",
+      "title": "Turn And Face The Strange",
+      "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "summary": "\nArticle URL: https://fly.io/blog/kurt-scott-money-sprites/\nComments URL: https://news.ycombinator.com/item?id=49051369\nPoints: 142\n# Comments: 112\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 20:43:11",
+      "timestamp": 1785012191
+    },
+    {
+      "id": "f55f3062e817",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "summary": "\nArticle URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\nComments URL: https://news.ycombinator.com/item?id=49051361\nPoints: 167\n# Comments: 115\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 20:42:35",
+      "timestamp": 1785012155
+    },
+    {
+      "id": "cfcaabd4dfa6",
+      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "link": "https://news.ycombinator.com/item?id=49051130",
+      "summary": "\nI like writing Markdown, but do not like writing it inside a plain textarea.I wanted something I could use anywhere by dropping in a single web component:``````That became Writemark.It renders Markdown while you write, but Markdown remains the value you read, store, and submit. It also has source, ",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 20:18:54",
+      "timestamp": 1785010734
+    },
+    {
+      "id": "3f4ef2884302",
+      "title": "Did They Ghost You?",
+      "link": "https://didtheyghostyou.com/",
+      "summary": "\nArticle URL: https://didtheyghostyou.com/\nComments URL: https://news.ycombinator.com/item?id=49051120\nPoints: 298\n# Comments: 130\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 20:18:03",
+      "timestamp": 1785010683
+    },
+    {
+      "id": "53405f2fa986",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "link": "https://www.debian.org/vote/2026/vote_002",
+      "summary": "\nArticle URL: https://www.debian.org/vote/2026/vote_002\nComments URL: https://news.ycombinator.com/item?id=49050859\nPoints: 78\n# Comments: 67\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 19:44:39",
+      "timestamp": 1785008679
+    },
+    {
+      "id": "4cac064c5c41",
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "summary": "\nArticle URL: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/\nComments URL: https://news.ycombinator.com/item?id=49050735\nPoints: 90\n# Comments: 61\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 19:30:24",
+      "timestamp": 1785007824
+    },
+    {
+      "id": "4676c2cc8a47",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "link": "https://github.com/slvDev/esp32-ai",
+      "summary": "\nArticle URL: https://github.com/slvDev/esp32-ai\nComments URL: https://news.ycombinator.com/item?id=49050512\nPoints: 79\n# Comments: 12\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 18:59:50",
+      "timestamp": 1785005990
+    },
+    {
+      "id": "69b3be145dec",
+      "title": "Memory Safety Absolutists",
+      "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+      "summary": "\nArticle URL: https://itsallaboutthebit.com/memory-safety-absolutists/\nComments URL: https://news.ycombinator.com/item?id=49050058\nPoints: 58\n# Comments: 73\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 18:08:52",
+      "timestamp": 1785002932
+    },
+    {
+      "id": "b309f4cdf020",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "link": "https://brolly.sh/forecast/RWFP2qW8",
+      "summary": "\nThe UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.I made https://brolly.sh, a minimalist, plain text weather forecasting site. You can",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 17:34:34",
+      "timestamp": 1785000874
+    },
+    {
+      "id": "80354339e2f8",
+      "title": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
+      "link": "https://github.com/alokdhir/spinwin",
+      "summary": "\nSpinWin is an open source menu bar app to visually rotate any individual window. You can rotate / spin as many as you want one by one.I was scrolling reels when one came on where the content creator suggested \"turning the phone upside down\" for a portion. I was sitting at my mac, and decided to see",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-07-25 17:29:55",
+      "timestamp": 1785000595
+    },
+    {
+      "id": "1cdd880c5a6a",
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "link": "https://www.qbitai.com/2026/07/460892.html",
+      "summary": "开源、隐私、本地优先、模型无关",
+      "source": "量子位",
       "category": "product",
-      "lang": "en",
-      "published": "2026-07-24 16:33:31",
-      "timestamp": 1784910811
+      "lang": "zh",
+      "published": "2026-07-25 12:35:34",
+      "timestamp": 1784982934
     },
     {
-      "id": "0676948037a7",
-      "title": "Unitree As2-W",
-      "link": "https://www.unitree.com/As2-W/",
-      "summary": "\nArticle URL: https://www.unitree.com/As2-W/\nComments URL: https://news.ycombinator.com/item?id=49038045\nPoints: 94\n# Comments: 40\n",
-      "source": "Hacker News",
+      "id": "0cd239579714",
+      "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+      "link": "https://www.qbitai.com/2026/07/460542.html",
+      "summary": "这是机器人领域最好的时代",
+      "source": "量子位",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-07-24 16:32:52",
-      "timestamp": 1784910772
+      "lang": "zh",
+      "published": "2026-07-25 12:24:27",
+      "timestamp": 1784982267
+    },
+    {
+      "id": "e6e3bc5f7079",
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "link": "https://www.qbitai.com/2026/07/460253.html",
+      "summary": "模型变强，Claude Code系统提示词都精简了",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-25 12:11:39",
+      "timestamp": 1784981499
+    },
+    {
+      "id": "ff0bdb7fa6f2",
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "link": "https://www.qbitai.com/2026/07/460234.html",
+      "summary": "不做人形，抓住真实用户需求",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-25 11:54:44",
+      "timestamp": 1784980484
+    },
+    {
+      "id": "f51658d10a86",
+      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+      "link": "https://www.qbitai.com/2026/07/460186.html",
+      "summary": "工业圈和学术圈“唱反调”",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-07-25 11:07:25",
+      "timestamp": 1784977645
+    },
+    {
+      "id": "a83f1e539405",
+      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+      "link": "https://www.qbitai.com/2026/07/460174.html",
+      "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路\n\n",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-07-25 03:21:53",
+      "timestamp": 1784949713
+    },
+    {
+      "id": "83f53a97904c",
+      "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
+      "link": "https://sspai.com/post/112093",
+      "summary": "基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-07-25 11:09:49",
+      "timestamp": 1784948989
     },
     {
       "id": "91219c3fc293",
@@ -123,17 +310,6 @@
       "timestamp": 1784904152
     },
     {
-      "id": "0fe9917edc26",
-      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-      "link": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-      "summary": "\nArticle URL: https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece\nComments URL: https://news.ycombinator.com/item?id=49036433\nPoints: 376\n# Comments: 277\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-24 14:41:59",
-      "timestamp": 1784904119
-    },
-    {
       "id": "3a49c406edec",
       "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
       "link": "https://www.qbitai.com/2026/07/460041.html",
@@ -143,61 +319,6 @@
       "lang": "zh",
       "published": "2026-07-24 14:19:06",
       "timestamp": 1784902746
-    },
-    {
-      "id": "465c81b25c16",
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "summary": "\nLetter: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-L... [pdf]https://x.com/JensenHuang/status/2080643682408321103, https://xcancel.com/JensenHuang/status/2080643682408321103https://www.wired.com/story/silicon-valley-is-completely-div..., https://archive.ph/LAkVI\n\nComments URL: https",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-07-24 13:32:30",
-      "timestamp": 1784899950
-    },
-    {
-      "id": "13e8bdce64d2",
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "summary": "\nArticle URL: https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18\nComments URL: https://news.ycombinator.com/item?id=49034868\nPoints: 272\n# Comments: 51\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-24 12:53:59",
-      "timestamp": 1784897639
-    },
-    {
-      "id": "625b3c23664b",
-      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
-      "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
-      "summary": "\nArticle URL: https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/\nComments URL: https://news.ycombinator.com/item?id=49034673\nPoints: 38\n# Comments: 21\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-24 12:34:28",
-      "timestamp": 1784896468
-    },
-    {
-      "id": "12b51fa3054d",
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "link": "https://hhh.hn/hanwha-github-token/",
-      "summary": "\nArticle URL: https://hhh.hn/hanwha-github-token/\nComments URL: https://news.ycombinator.com/item?id=49034292\nPoints: 512\n# Comments: 177\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-24 11:54:41",
-      "timestamp": 1784894081
-    },
-    {
-      "id": "cfac480f460a",
-      "title": "The case for MUDs in modern times (2018)",
-      "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-      "summary": "\nArticle URL: https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times\nComments URL: https://news.ycombinator.com/item?id=49034217\nPoints: 80\n# Comments: 67\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-24 11:46:40",
-      "timestamp": 1784893600
     },
     {
       "id": "d8929096f66c",
@@ -222,17 +343,6 @@
       "timestamp": 1784887055
     },
     {
-      "id": "d4e61d9ee972",
-      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-      "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-      "summary": "\nArticle URL: https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/\nComments URL: https://news.ycombinator.com/item?id=49033240\nPoints: 242\n# Comments: 308\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-24 09:52:58",
-      "timestamp": 1784886778
-    },
-    {
       "id": "bb99a34799a4",
       "title": "本周看什么 | 最近值得一看的 13 部作品",
       "link": "https://sspai.com/post/112692",
@@ -244,39 +354,6 @@
       "timestamp": 1784885915
     },
     {
-      "id": "c8d652baaf12",
-      "title": "Future euro banknote design proposals",
-      "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-      "summary": "\nhttps://www.ecb.europa.eu/euro/banknotes/future_banknotes/ht...\n\nComments URL: https://news.ycombinator.com/item?id=49033110\nPoints: 127\n# Comments: 121\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-24 09:29:44",
-      "timestamp": 1784885384
-    },
-    {
-      "id": "ba3185159893",
-      "title": "If coding has been solved, why does software keep getting worse?",
-      "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "summary": "\nArticle URL: https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/\nComments URL: https://news.ycombinator.com/item?id=49033004\nPoints: 528\n# Comments: 414\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-24 09:08:17",
-      "timestamp": 1784884097
-    },
-    {
-      "id": "b12d0ca438df",
-      "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
-      "link": "https://www.qbitai.com/2026/07/458617.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-24 07:29:57",
-      "timestamp": 1784878197
-    },
-    {
       "id": "2be1c9c01ce8",
       "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
       "link": "https://sspai.com/post/112232",
@@ -286,39 +363,6 @@
       "lang": "zh",
       "published": "2026-07-24 15:00:00",
       "timestamp": 1784876400
-    },
-    {
-      "id": "ef9f2359d59f",
-      "title": "亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限",
-      "link": "https://www.qbitai.com/2026/07/458864.html",
-      "summary": "\"看得懂、定得准\"的智能运维底座",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-07-24 05:50:48",
-      "timestamp": 1784872248
-    },
-    {
-      "id": "148b041edbc9",
-      "title": "长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字",
-      "link": "https://www.qbitai.com/2026/07/458687.html",
-      "summary": "再长的上下文也救不了长内容任务",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-07-24 05:41:17",
-      "timestamp": 1784871677
-    },
-    {
-      "id": "a4d233e0ad24",
-      "title": "OPC创业者看过来，最高10万美元云资源等你拿",
-      "link": "https://www.qbitai.com/2026/07/458622.html",
-      "summary": "还有明星导师阵容",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-24 05:05:38",
-      "timestamp": 1784869538
     },
     {
       "id": "83d08820b280",
@@ -341,17 +385,6 @@
       "lang": "zh",
       "published": "2026-07-24 08:33:05",
       "timestamp": 1784853185
-    },
-    {
-      "id": "dc0d8bdf91cb",
-      "title": "Fil-C: Garbage In, Memory Safety Out [video]",
-      "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-      "summary": "\nArticle URL: https://www.youtube.com/watch?v=5F-2Y1LPRek\nComments URL: https://news.ycombinator.com/item?id=49026933\nPoints: 106\n# Comments: 98\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-07-23 19:37:37",
-      "timestamp": 1784835457
     },
     {
       "id": "bd379c4c759f",
@@ -418,17 +451,6 @@
       "lang": "zh",
       "published": "2026-07-22 17:43:06",
       "timestamp": 1784713386
-    },
-    {
-      "id": "df8e1afd9e0f",
-      "title": "滤镜背后的色彩科学：LUT 是什么？",
-      "link": "https://sspai.com/post/111550",
-      "summary": "从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-07-22 15:00:00",
-      "timestamp": 1784703600
     },
     {
       "id": "e9b659805d16",
