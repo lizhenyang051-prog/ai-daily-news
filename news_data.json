@@ -1,203 +1,115 @@
 {
-  "updated_at": "2026-08-12 01:25:18",
+  "updated_at": "2026-08-13 01:26:59",
   "articles": [
     {
-      "id": "5e676552f24a",
-      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-      "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
-      "summary": "\nArticle URL: https://www.cftc.gov/PressRoom/PressReleases/9281-26\nComments URL: https://news.ycombinator.com/item?id=49266277\nPoints: 89\n# Comments: 49\n",
-      "source": "Hacker News",
+      "id": "23c0ef4ac081",
+      "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
+      "link": "https://sspai.com/post/113385",
+      "summary": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-08-12 00:17:59",
-      "timestamp": 1786493879
+      "lang": "zh",
+      "published": "2026-08-13 08:14:09",
+      "timestamp": 1786580049
     },
     {
-      "id": "ea3829caa610",
-      "title": "US hires over 2k video gamers as air traffic controllers",
-      "link": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-      "summary": "\nArticle URL: https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/\nComments URL: https://news.ycombinator.com/item?id=49265879\nPoints: 66\n# Comments: 49\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 23:26:17",
-      "timestamp": 1786490777
-    },
-    {
-      "id": "12be269b4374",
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "summary": "\nArticle URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\nComments URL: https://news.ycombinator.com/item?id=49265051\nPoints: 108\n# Comments: 39\n",
-      "source": "Hacker News",
+      "id": "a2f02e3373b7",
+      "title": "Scaling AI agents with trustworthy data",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
+      "source": "MIT Tech Review",
       "category": "product",
       "lang": "en",
-      "published": "2026-08-11 21:56:18",
-      "timestamp": 1786485378
+      "published": "2026-08-12 16:51:57",
+      "timestamp": 1786553517
     },
     {
-      "id": "ec7f4f33f55d",
-      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
-      "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "summary": "\nArticle URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026\nComments URL: https://news.ycombinator.com/item?id=49265031\nPoints: 32\n# Comments: 2\n",
-      "source": "Hacker News",
+      "id": "b544b06dab40",
+      "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+      "link": "https://www.qbitai.com/2026/08/471049.html",
+      "summary": "具身模型一小时狂拣1816件异形包裹",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-12 13:10:55",
+      "timestamp": 1786540255
+    },
+    {
+      "id": "e0b76cb5b9ab",
+      "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+      "link": "https://www.qbitai.com/2026/08/471030.html",
+      "summary": "免训练、开箱即用！",
+      "source": "量子位",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 21:54:25",
-      "timestamp": 1786485265
+      "lang": "zh",
+      "published": "2026-08-12 10:54:29",
+      "timestamp": 1786532069
     },
     {
-      "id": "7a2b5c82cef9",
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "link": "https://www.suzanne3d.com/",
-      "summary": "\nArticle URL: https://www.suzanne3d.com/\nComments URL: https://news.ycombinator.com/item?id=49264755\nPoints: 36\n# Comments: 26\n",
-      "source": "Hacker News",
+      "id": "d012351fb619",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "link": "https://sspai.com/post/113219",
+      "summary": "想法被及时、完好的记下来，然后呢？查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 21:28:26",
-      "timestamp": 1786483706
+      "lang": "zh",
+      "published": "2026-08-12 17:30:00",
+      "timestamp": 1786527000
     },
     {
-      "id": "98fb8190a369",
-      "title": "Emergent Introspective Awareness in Large Language Models",
-      "link": "https://arxiv.org/abs/2601.01828",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2601.01828\nComments URL: https://news.ycombinator.com/item?id=49264583\nPoints: 23\n# Comments: 9\n",
-      "source": "Hacker News",
+      "id": "60c58f18fdd5",
+      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+      "link": "https://sspai.com/post/113352",
+      "summary": "《三五环》主播刘飞邀请老麦聊了聊他从 Palm 时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变了他对科技媒体商业模式认知的故事。查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-12 15:00:00",
+      "timestamp": 1786518000
+    },
+    {
+      "id": "7c7f63296230",
+      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+      "link": "https://www.qbitai.com/2026/08/470874.html",
+      "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
+      "source": "量子位",
+      "category": "knowledge",
+      "lang": "zh",
+      "published": "2026-08-12 04:29:57",
+      "timestamp": 1786508997
+    },
+    {
+      "id": "27f2d80f0a75",
+      "title": "我，与「唯一」的 iPhone Air",
+      "link": "https://sspai.com/post/112880",
+      "summary": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 21:14:10",
-      "timestamp": 1786482850
+      "lang": "zh",
+      "published": "2026-08-12 11:04:34",
+      "timestamp": 1786503874
     },
     {
-      "id": "7f9aa544f143",
-      "title": "Compression is prediction",
-      "link": "https://ngrok.com/blog/compression-is-prediction",
-      "summary": "\nArticle URL: https://ngrok.com/blog/compression-is-prediction\nComments URL: https://news.ycombinator.com/item?id=49263497\nPoints: 242\n# Comments: 103\n",
-      "source": "Hacker News",
+      "id": "9c67d38aebb9",
+      "title": "刚刚，Manus恢复独立运营",
+      "link": "https://www.qbitai.com/2026/08/470805.html",
+      "summary": "Manus，完成复活赛了！",
+      "source": "量子位",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-08-12 02:51:44",
+      "timestamp": 1786503104
+    },
+    {
+      "id": "92b32c37d9b5",
+      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
+      "link": "https://sspai.com/post/113343",
+      "summary": "雷蛇那伽梵蛇 V3 专业版无线鼠标发布，铭凡推出 Elite Mini M2 Air-304 迷你主机等。查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 19:49:44",
-      "timestamp": 1786477784
-    },
-    {
-      "id": "e2d7c78c5d76",
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "summary": "\nArticle URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/\nComments URL: https://news.ycombinator.com/item?id=49263340\nPoints: 177\n# Comments: 90\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 19:35:52",
-      "timestamp": 1786476952
-    },
-    {
-      "id": "cc7f34771ce6",
-      "title": "Making holograms with a pen plotter",
-      "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "\nArticle URL: https://blog.jordan.matelsky.com/Penplotter-holography/\nComments URL: https://news.ycombinator.com/item?id=49262811\nPoints: 112\n# Comments: 11\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 18:51:35",
-      "timestamp": 1786474295
-    },
-    {
-      "id": "f201848192ce",
-      "title": "How we used to get jobs: A newspaper classifieds story",
-      "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "summary": "\nArticle URL: https://ironicsans.ghost.io/how-we-used-to-get-jobs/\nComments URL: https://news.ycombinator.com/item?id=49262211\nPoints: 108\n# Comments: 89\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 18:09:56",
-      "timestamp": 1786471796
-    },
-    {
-      "id": "8fcaef2ceec9",
-      "title": "OpenSSH 10.5/10.5p1",
-      "link": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "\nArticle URL: https://www.openssh.org/releasenotes.html#10.5\nComments URL: https://news.ycombinator.com/item?id=49261895\nPoints: 99\n# Comments: 32\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 17:49:37",
-      "timestamp": 1786470577
-    },
-    {
-      "id": "cd2029259c5c",
-      "title": "Grok Bot",
-      "link": "https://x.ai/bot",
-      "summary": "\nArticle URL: https://x.ai/bot\nComments URL: https://news.ycombinator.com/item?id=49261514\nPoints: 129\n# Comments: 116\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 17:23:09",
-      "timestamp": 1786468989
-    },
-    {
-      "id": "bae6b50ac8ee",
-      "title": "CSS properties you should know for better text designs",
-      "link": "https://master.dev/blog/typographic-css-tricks/",
-      "summary": "\nArticle URL: https://master.dev/blog/typographic-css-tricks/\nComments URL: https://news.ycombinator.com/item?id=49261417\nPoints: 74\n# Comments: 7\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 17:16:06",
-      "timestamp": 1786468566
-    },
-    {
-      "id": "fdd80af5a83e",
-      "title": "RSI Simulator",
-      "link": "https://www.paradigm.xyz/writing/rsi-simulator",
-      "summary": "\nhttps://www.paradigm.xyz/research/rsi/game\n\nComments URL: https://news.ycombinator.com/item?id=49261192\nPoints: 30\n# Comments: 12\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 17:01:21",
-      "timestamp": 1786467681
-    },
-    {
-      "id": "fd3ed7d5ed43",
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "summary": "\nArticle URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\nComments URL: https://news.ycombinator.com/item?id=49261133\nPoints: 255\n# Comments: 314\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-08-11 16:57:09",
-      "timestamp": 1786467429
-    },
-    {
-      "id": "b326352b63af",
-      "title": "Mojo 1.0",
-      "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "summary": "\nArticle URL: https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here\nComments URL: https://news.ycombinator.com/item?id=49261128\nPoints: 283\n# Comments: 128\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 16:56:46",
-      "timestamp": 1786467406
-    },
-    {
-      "id": "77e2d844abc0",
-      "title": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
-      "link": "https://github.com/TheRealYT/git-knife",
-      "summary": "\nArticle URL: https://github.com/TheRealYT/git-knife\nComments URL: https://news.ycombinator.com/item?id=49259611\nPoints: 128\n# Comments: 85\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 15:09:34",
-      "timestamp": 1786460974
-    },
-    {
-      "id": "36d4d156e072",
-      "title": "Manus will return to operating as an independent company",
-      "link": "https://manus.im/blog/a-note-to-our-users",
-      "summary": "\nArticle URL: https://manus.im/blog/a-note-to-our-users\nComments URL: https://news.ycombinator.com/item?id=49258764\nPoints: 131\n# Comments: 68\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 14:14:53",
-      "timestamp": 1786457693
+      "lang": "zh",
+      "published": "2026-08-12 08:44:13",
+      "timestamp": 1786495453
     },
     {
       "id": "ac30443c2710",
@@ -209,28 +121,6 @@
       "lang": "zh",
       "published": "2026-08-11 13:57:46",
       "timestamp": 1786456666
-    },
-    {
-      "id": "ab2defc144a1",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "link": "https://stolen-thoughts.com/",
-      "summary": "\nArticle URL: https://stolen-thoughts.com/\nComments URL: https://news.ycombinator.com/item?id=49257876\nPoints: 485\n# Comments: 204\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 13:22:00",
-      "timestamp": 1786454520
-    },
-    {
-      "id": "998225836b5e",
-      "title": "England set to be one of the first countries to eliminate hepatitis C",
-      "link": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "summary": "\nArticle URL: https://www.bbc.com/news/articles/c75gk620r22o\nComments URL: https://news.ycombinator.com/item?id=49257377\nPoints: 487\n# Comments: 349\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-11 12:41:59",
-      "timestamp": 1786452119
     },
     {
       "id": "2bded0aea36f",
@@ -277,28 +167,6 @@
       "timestamp": 1786427967
     },
     {
-      "id": "58e32cc588bc",
-      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-      "link": "https://www.qbitai.com/2026/08/470485.html",
-      "summary": "把下界推高了一大截",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-11 05:12:20",
-      "timestamp": 1786425140
-    },
-    {
-      "id": "3148ca534539",
-      "title": "宇树会破发吗？王兴兴回应了",
-      "link": "https://www.qbitai.com/2026/08/470307.html",
-      "summary": "200问回应一切",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-11 04:42:50",
-      "timestamp": 1786423370
-    },
-    {
       "id": "5acfaf91592e",
       "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
       "link": "https://sspai.com/post/113288",
@@ -310,39 +178,6 @@
       "timestamp": 1786420800
     },
     {
-      "id": "c91502d87dde",
-      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
-      "link": "https://www.qbitai.com/2026/08/470228.html",
-      "summary": "大水印时代来了",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-11 03:51:24",
-      "timestamp": 1786420284
-    },
-    {
-      "id": "b101658d4ff7",
-      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
-      "link": "https://www.qbitai.com/2026/08/469880.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-11 03:37:31",
-      "timestamp": 1786419451
-    },
-    {
-      "id": "273be621bb8d",
-      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
-      "link": "https://www.qbitai.com/2026/08/469869.html",
-      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-08-11 03:11:12",
-      "timestamp": 1786417872
-    },
-    {
       "id": "a0ac3d398afc",
       "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍",
       "link": "https://sspai.com/post/113263",
@@ -352,17 +187,6 @@
       "lang": "zh",
       "published": "2026-08-11 10:17:21",
       "timestamp": 1786414641
-    },
-    {
-      "id": "0cfd60d21e94",
-      "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
-      "link": "https://www.qbitai.com/2026/08/469860.html",
-      "summary": "三视角世界模型谁更稳?",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-08-11 00:46:23",
-      "timestamp": 1786409183
     },
     {
       "id": "aecad86e0e04",
@@ -387,28 +211,6 @@
       "timestamp": 1786392000
     },
     {
-      "id": "d3219e030929",
-      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
-      "link": "https://sspai.com/prime/story/direct-power-supply-mod",
-      "summary": "去年4月，我在某视频的影响下，萌生了将家里的旧安卓手机利用起来的想法。后续虽然跑起来了，但因为设备需要长期充电，电池安全又成了一个让我困扰的难题。为了解决这个问题，我在《彻底告别电池焦虑：旧手机再利用 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-10 21:50:02",
-      "timestamp": 1786369802
-    },
-    {
-      "id": "075404e0def5",
-      "title": "派评 | 近期值得关注的 App",
-      "link": "https://sspai.com/post/113283",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-10 18:00:00",
-      "timestamp": 1786356000
-    },
-    {
       "id": "0651a9adf307",
       "title": "AI for science needs reasoning, not just data",
       "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
@@ -429,39 +231,6 @@
       "lang": "en",
       "published": "2026-08-10 09:00:00",
       "timestamp": 1786352400
-    },
-    {
-      "id": "90b32daeba50",
-      "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
-      "link": "https://sspai.com/post/113115",
-      "summary": "从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-10 15:00:00",
-      "timestamp": 1786345200
-    },
-    {
-      "id": "dbc85711c10a",
-      "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
-      "link": "https://sspai.com/post/113202",
-      "summary": "喜欢，从来没有一个明确的定义。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-10 11:00:56",
-      "timestamp": 1786330856
-    },
-    {
-      "id": "1d1ade16ed75",
-      "title": "派早报：央视曝光酒店评级标识消费陷阱",
-      "link": "https://sspai.com/post/113268",
-      "summary": " 央视曝光酒店评级标识消费陷阱《时代》网站展示仅 AI 可见广告Edge 浏览器将禁用 Manifest V2 扩展油价上涨致美国混动车需求激增廉价手机壳存在毒性隐患美国调查中国 AI 企业使用海外英伟达芯片看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-10 07:08:03",
-      "timestamp": 1786316883
     },
     {
       "id": "296284a345a7",
@@ -528,17 +297,6 @@
       "lang": "en",
       "published": "2026-07-27 18:00:00",
       "timestamp": 1785175200
-    },
-    {
-      "id": "a679fbce7574",
-      "title": "The path to artificial superintelligence",
-      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not",
-      "source": "MIT Tech Review",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-07-27 12:00:00",
-      "timestamp": 1785153600
     }
   ]
 }
