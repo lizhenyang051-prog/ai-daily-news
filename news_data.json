@@ -1,6 +1,380 @@
 {
-  "updated_at": "2026-08-13 01:26:59",
+  "updated_at": "2026-08-14 01:26:29",
   "articles": [
+    {
+      "id": "19d484c09ae4",
+      "title": "Bluesky Protocol Services",
+      "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "summary": "\nArticle URL: https://atproto.com/blog/introducing-bluesky-protocol-services\nComments URL: https://news.ycombinator.com/item?id=49293324\nPoints: 50\n# Comments: 9\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-14 00:14:28",
+      "timestamp": 1786666468
+    },
+    {
+      "id": "efde810a0a80",
+      "title": "SparrowMap – Cameras that watch government vehicles",
+      "link": "https://sparrowmap.com/",
+      "summary": "\nArticle URL: https://sparrowmap.com/\nComments URL: https://news.ycombinator.com/item?id=49293294\nPoints: 17\n# Comments: 2\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-14 00:10:04",
+      "timestamp": 1786666204
+    },
+    {
+      "id": "9cf72677d8a4",
+      "title": "Blog about things you don't understand yet",
+      "link": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "summary": "\nArticle URL: https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/\nComments URL: https://news.ycombinator.com/item?id=49293087\nPoints: 8\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 23:39:33",
+      "timestamp": 1786664373
+    },
+    {
+      "id": "d57a2b2b32db",
+      "title": "How AI text watermarking works",
+      "link": "https://declaude.org/watermarking/",
+      "summary": "\nArticle URL: https://declaude.org/watermarking/\nComments URL: https://news.ycombinator.com/item?id=49292932\nPoints: 65\n# Comments: 37\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 23:16:55",
+      "timestamp": 1786663015
+    },
+    {
+      "id": "85d98b602c5d",
+      "title": "NP-Overrated",
+      "link": "https://gruhn.me/blog/2026-08-13/",
+      "summary": "\nArticle URL: https://gruhn.me/blog/2026-08-13/\nComments URL: https://news.ycombinator.com/item?id=49291268\nPoints: 145\n# Comments: 89\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 20:14:17",
+      "timestamp": 1786652057
+    },
+    {
+      "id": "f23ec2210040",
+      "title": "How Gödel's Proof Works (2020)",
+      "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "summary": "\nArticle URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/\nComments URL: https://news.ycombinator.com/item?id=49290969\nPoints: 65\n# Comments: 34\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 19:44:46",
+      "timestamp": 1786650286
+    },
+    {
+      "id": "28d9ecb3b9ea",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "summary": "\nArticle URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\nComments URL: https://news.ycombinator.com/item?id=49290768\nPoints: 65\n# Comments: 35\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 19:25:38",
+      "timestamp": 1786649138
+    },
+    {
+      "id": "a766bc07d205",
+      "title": "Understanding is the new bottleneck",
+      "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "summary": "\nArticle URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck\nComments URL: https://news.ycombinator.com/item?id=49290299\nPoints: 197\n# Comments: 108\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 18:47:19",
+      "timestamp": 1786646839
+    },
+    {
+      "id": "21c990878213",
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "link": "https://github.com/systemd/systemd/issues/40262",
+      "summary": "\nArticle URL: https://github.com/systemd/systemd/issues/40262\nComments URL: https://news.ycombinator.com/item?id=49290215\nPoints: 146\n# Comments: 93\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 18:41:01",
+      "timestamp": 1786646461
+    },
+    {
+      "id": "78229670ec8f",
+      "title": "Hello, me. It's been a while",
+      "link": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "summary": "\nArticle URL: https://themech.net/2026/08/hello-me-its-been-a-while/\nComments URL: https://news.ycombinator.com/item?id=49290166\nPoints: 15\n# Comments: 6\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 18:37:18",
+      "timestamp": 1786646238
+    },
+    {
+      "id": "fa0c16ed8a8a",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "summary": "\nArticle URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\nComments URL: https://news.ycombinator.com/item?id=49289844\nPoints: 414\n# Comments: 172\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-08-13 18:10:02",
+      "timestamp": 1786644602
+    },
+    {
+      "id": "96a9fc046245",
+      "title": "How Compaction Works in Pi",
+      "link": "https://earendil.com/posts/compaction-in-pi/",
+      "summary": "\nArticle URL: https://earendil.com/posts/compaction-in-pi/\nComments URL: https://news.ycombinator.com/item?id=49289654\nPoints: 102\n# Comments: 39\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 17:57:50",
+      "timestamp": 1786643870
+    },
+    {
+      "id": "90794de8fc0e",
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "link": "https://0.mk/blog/link-rot",
+      "summary": "\nArticle URL: https://0.mk/blog/link-rot\nComments URL: https://news.ycombinator.com/item?id=49289532\nPoints: 127\n# Comments: 107\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 17:49:18",
+      "timestamp": 1786643358
+    },
+    {
+      "id": "d57efec5ca20",
+      "title": "Choose Boring Technology (2015)",
+      "link": "https://mcfunley.com/choose-boring-technology",
+      "summary": "\nArticle URL: https://mcfunley.com/choose-boring-technology\nComments URL: https://news.ycombinator.com/item?id=49289512\nPoints: 246\n# Comments: 130\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 17:48:13",
+      "timestamp": 1786643293
+    },
+    {
+      "id": "dbc8e379fcbc",
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "link": "https://donkeybas.com/",
+      "summary": "\nArticle URL: https://donkeybas.com/\nComments URL: https://news.ycombinator.com/item?id=49289465\nPoints: 185\n# Comments: 79\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 17:45:50",
+      "timestamp": 1786643150
+    },
+    {
+      "id": "788a2af12084",
+      "title": "Compute-optimal is not cluster-optimal",
+      "link": "https://szha.ai/blog/compute-optimal-is-not-cluster-optimal/",
+      "summary": "\nhttps://arxiv.org/pdf/2608.10605: Our new paper folds the systems stage into the scaling-law stage. Price every candidate architecture on what the cluster actually delivers, and the answer changes: the sparsity an MoE 'should' have depends on the cluster you train it on.\n\nComments URL: https://news",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 17:40:09",
+      "timestamp": 1786642809
+    },
+    {
+      "id": "4e60e0291dc7",
+      "title": "I want extern \"fil-C\"",
+      "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+      "summary": "\nArticle URL: https://domenkozar.com/2026/08/13/i-want-extern-fil-c/\nComments URL: https://news.ycombinator.com/item?id=49289260\nPoints: 18\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 17:32:07",
+      "timestamp": 1786642327
+    },
+    {
+      "id": "f82fd247745b",
+      "title": "Gemini 3.7 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "summary": "\nhttps://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...\n\nComments URL: https://news.ycombinator.com/item?id=49289112\nPoints: 609\n# Comments: 339\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 17:23:22",
+      "timestamp": 1786641802
+    },
+    {
+      "id": "fa9c8dc610e6",
+      "title": "Mistral OCR 4.1",
+      "link": "https://docs.mistral.ai/models/ocr-4-1",
+      "summary": "\nArticle URL: https://docs.mistral.ai/models/ocr-4-1\nComments URL: https://news.ycombinator.com/item?id=49288889\nPoints: 248\n# Comments: 97\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 17:05:12",
+      "timestamp": 1786640712
+    },
+    {
+      "id": "6c773f39e4c2",
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "summary": "\nArticle URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html\nComments URL: https://news.ycombinator.com/item?id=49288293\nPoints: 89\n# Comments: 45\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 16:22:05",
+      "timestamp": 1786638125
+    },
+    {
+      "id": "c8a0a052ec3a",
+      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+      "link": "https://www.qbitai.com/2026/08/472208.html",
+      "summary": "欢迎，为后人种点树",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-13 16:03:19",
+      "timestamp": 1786636999
+    },
+    {
+      "id": "070f2f5d4cfd",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 13:41:10",
+      "timestamp": 1786628470
+    },
+    {
+      "id": "48613edaed9e",
+      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "link": "https://www.qbitai.com/2026/08/472059.html",
+      "summary": "首颗AI芯片已进入量产",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-13 12:34:42",
+      "timestamp": 1786624482
+    },
+    {
+      "id": "9a41153cc567",
+      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+      "link": "https://www.qbitai.com/2026/08/472016.html",
+      "summary": "好数学家不挑AI模型",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-13 11:29:04",
+      "timestamp": 1786620544
+    },
+    {
+      "id": "02bb09c9e55d",
+      "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
+      "link": "https://www.qbitai.com/2026/08/471893.html",
+      "summary": "让一部分人先飞起来",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-13 10:20:32",
+      "timestamp": 1786616432
+    },
+    {
+      "id": "713f2f7c79ba",
+      "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
+      "link": "https://www.qbitai.com/2026/08/471884.html",
+      "summary": "",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-13 10:01:47",
+      "timestamp": 1786615307
+    },
+    {
+      "id": "48c8a90da248",
+      "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
+      "link": "https://sspai.com/post/113225",
+      "summary": "对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-13 17:30:00",
+      "timestamp": 1786613400
+    },
+    {
+      "id": "8456cfcd9b34",
+      "title": "How kids feel about AI, in their own words",
+      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-13 09:00:00",
+      "timestamp": 1786611600
+    },
+    {
+      "id": "6fe873cf93d7",
+      "title": "刚刚！Ilya首个模型曝光了",
+      "link": "https://www.qbitai.com/2026/08/471701.html",
+      "summary": "SSI第一剑，劈向持续学习",
+      "source": "量子位",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-08-13 08:36:53",
+      "timestamp": 1786610213
+    },
+    {
+      "id": "e965f945c7f6",
+      "title": "从原理出发，高效搞定夏日营养冷食",
+      "link": "https://sspai.com/prime/story/summer-cold-meal-guide",
+      "summary": "不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "source": "少数派",
+      "category": "knowledge",
+      "lang": "zh",
+      "published": "2026-08-13 16:01:56",
+      "timestamp": 1786608116
+    },
+    {
+      "id": "04124952b7bd",
+      "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
+      "link": "https://sspai.com/post/113338",
+      "summary": "SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-13 15:01:08",
+      "timestamp": 1786604468
+    },
+    {
+      "id": "5c7f0b406972",
+      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+      "link": "https://www.qbitai.com/2026/08/471697.html",
+      "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-13 06:33:52",
+      "timestamp": 1786602832
+    },
+    {
+      "id": "481aa411edb1",
+      "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
+      "link": "https://www.qbitai.com/2026/08/471668.html",
+      "summary": "",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-13 05:10:50",
+      "timestamp": 1786597850
+    },
+    {
+      "id": "a92f054ac598",
+      "title": "6 天时间丈量独库公路：我的平安骑行指南",
+      "link": "https://sspai.com/post/112873",
+      "summary": "如果你也想骑一次独库，希望这份来自普通骑行爱好者的实战记录，能让你出发前少踩一点坑。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-13 11:18:09",
+      "timestamp": 1786591089
+    },
     {
       "id": "23c0ef4ac081",
       "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
@@ -22,28 +396,6 @@
       "lang": "en",
       "published": "2026-08-12 16:51:57",
       "timestamp": 1786553517
-    },
-    {
-      "id": "b544b06dab40",
-      "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
-      "link": "https://www.qbitai.com/2026/08/471049.html",
-      "summary": "具身模型一小时狂拣1816件异形包裹",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-08-12 13:10:55",
-      "timestamp": 1786540255
-    },
-    {
-      "id": "e0b76cb5b9ab",
-      "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
-      "link": "https://www.qbitai.com/2026/08/471030.html",
-      "summary": "免训练、开箱即用！",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-12 10:54:29",
-      "timestamp": 1786532069
     },
     {
       "id": "d012351fb619",
@@ -68,17 +420,6 @@
       "timestamp": 1786518000
     },
     {
-      "id": "7c7f63296230",
-      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
-      "link": "https://www.qbitai.com/2026/08/470874.html",
-      "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
-      "source": "量子位",
-      "category": "knowledge",
-      "lang": "zh",
-      "published": "2026-08-12 04:29:57",
-      "timestamp": 1786508997
-    },
-    {
       "id": "27f2d80f0a75",
       "title": "我，与「唯一」的 iPhone Air",
       "link": "https://sspai.com/post/112880",
@@ -88,61 +429,6 @@
       "lang": "zh",
       "published": "2026-08-12 11:04:34",
       "timestamp": 1786503874
-    },
-    {
-      "id": "9c67d38aebb9",
-      "title": "刚刚，Manus恢复独立运营",
-      "link": "https://www.qbitai.com/2026/08/470805.html",
-      "summary": "Manus，完成复活赛了！",
-      "source": "量子位",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-08-12 02:51:44",
-      "timestamp": 1786503104
-    },
-    {
-      "id": "92b32c37d9b5",
-      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
-      "link": "https://sspai.com/post/113343",
-      "summary": "雷蛇那伽梵蛇 V3 专业版无线鼠标发布，铭凡推出 Elite Mini M2 Air-304 迷你主机等。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-12 08:44:13",
-      "timestamp": 1786495453
-    },
-    {
-      "id": "ac30443c2710",
-      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
-      "link": "https://www.qbitai.com/2026/08/470674.html",
-      "summary": "资本正从具身本体集体涌向触觉",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-11 13:57:46",
-      "timestamp": 1786456666
-    },
-    {
-      "id": "2bded0aea36f",
-      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
-      "link": "https://www.qbitai.com/2026/08/470621.html",
-      "summary": "算力竞赛的天平，正在向电力倾斜",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-11 11:36:42",
-      "timestamp": 1786448202
-    },
-    {
-      "id": "de5cf3c00142",
-      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
-      "link": "https://www.qbitai.com/2026/08/470576.html",
-      "summary": "谷歌算力分配内耗严重",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-11 09:24:44",
-      "timestamp": 1786440284
     },
     {
       "id": "bf7a66933ab5",
@@ -165,39 +451,6 @@
       "lang": "zh",
       "published": "2026-08-11 13:59:27",
       "timestamp": 1786427967
-    },
-    {
-      "id": "5acfaf91592e",
-      "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
-      "link": "https://sspai.com/post/113288",
-      "summary": "从最初的测试与共创算起，Quote/0（摘录）已经陪伴大家近一年半的时间。最初我们只想做一块安静的墨水屏：不推送、不闪烁，只把真正重要的信息留在抬眼可见的地方。后来Quote/0进入了许多我们没有预设 ...查看全文",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-08-11 12:00:00",
-      "timestamp": 1786420800
-    },
-    {
-      "id": "a0ac3d398afc",
-      "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍",
-      "link": "https://sspai.com/post/113263",
-      "summary": "因为不太喜欢传统的那种原文、译文按段落或按分页对照的那种双语书形式，我做了一款可以让你按需查看译文的 ovid。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-11 10:17:21",
-      "timestamp": 1786414641
-    },
-    {
-      "id": "aecad86e0e04",
-      "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
-      "link": "https://sspai.com/post/113301",
-      "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解Quote/0摘录 ...查看全文",
-      "source": "少数派",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-08-11 08:09:35",
-      "timestamp": 1786406975
     },
     {
       "id": "9fbc76ff7fde",
@@ -275,28 +528,6 @@
       "lang": "en",
       "published": "2026-07-29 08:42:57",
       "timestamp": 1785314577
-    },
-    {
-      "id": "6dde226d146a",
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
-      "source": "MIT Tech Review",
-      "category": "vertical",
-      "lang": "en",
-      "published": "2026-07-28 09:18:57",
-      "timestamp": 1785230337
-    },
-    {
-      "id": "c03b0d96cdee",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
-      "source": "MIT Tech Review",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-07-27 18:00:00",
-      "timestamp": 1785175200
     }
   ]
 }
