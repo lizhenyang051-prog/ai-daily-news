@@ -1,170 +1,302 @@
 {
-  "updated_at": "2026-08-15 00:56:39",
+  "updated_at": "2026-08-16 00:59:38",
   "articles": [
     {
-      "id": "ef472064dd31",
-      "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
-      "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
-      "summary": "\nArticle URL: https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697\nComments URL: https://news.ycombinator.com/item?id=49305927\nPoints: 48\n# Comments: 10\n",
+      "id": "6aaee223e9c7",
+      "title": "Tea5767-Radio-Tuner",
+      "link": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "summary": "\nArticle URL: https://github.com/turtushig22-blip/tea5767-radio-tuner\nComments URL: https://news.ycombinator.com/item?id=49315456\nPoints: 4\n# Comments: 0\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 23:40:37",
-      "timestamp": 1786750837
+      "published": "2026-08-15 23:54:35",
+      "timestamp": 1786838075
     },
     {
-      "id": "e54066a7074e",
-      "title": "The case for overhauling American science",
-      "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-      "summary": "\nArticle URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science\nComments URL: https://news.ycombinator.com/item?id=49305708\nPoints: 17\n# Comments: 10\n",
+      "id": "957341f8f7e1",
+      "title": "Credit card debt rises to $1.26T, nearing all-time record",
+      "link": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
+      "summary": "\nArticle URL: https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/\nComments URL: https://news.ycombinator.com/item?id=49315232\nPoints: 24\n# Comments: 20\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 23:11:34",
-      "timestamp": 1786749094
+      "published": "2026-08-15 23:22:59",
+      "timestamp": 1786836179
     },
     {
-      "id": "c5909586f2d6",
-      "title": "Stop sending me huge PRs; a rant",
-      "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
-      "summary": "\nArticle URL: https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va\nComments URL: https://news.ycombinator.com/item?id=49305558\nPoints: 29\n# Comments: 17\n",
+      "id": "15914e48d1d6",
+      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+      "link": "https://sugartrack-beta.vercel.app/",
+      "summary": "\nArticle URL: https://sugartrack-beta.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49314884\nPoints: 14\n# Comments: 3\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 22:48:15",
-      "timestamp": 1786747695
+      "published": "2026-08-15 22:28:14",
+      "timestamp": 1786832894
     },
     {
-      "id": "1b7294c7d866",
-      "title": "RISC-V: They should have known better",
-      "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "summary": "\nArticle URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV\nComments URL: https://news.ycombinator.com/item?id=49305492\nPoints: 94\n# Comments: 50\n",
+      "id": "d7102ea0d8ae",
+      "title": "Oracle – a photorealistic browser for every Magic card ever printed",
+      "link": "https://magic-oracle.com/",
+      "summary": "\nArticle URL: https://magic-oracle.com/\nComments URL: https://news.ycombinator.com/item?id=49314869\nPoints: 3\n# Comments: 2\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 22:38:34",
-      "timestamp": 1786747114
+      "published": "2026-08-15 22:27:03",
+      "timestamp": 1786832823
     },
     {
-      "id": "16bfc5acf695",
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "\nArticle URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\nComments URL: https://news.ycombinator.com/item?id=49304447\nPoints: 166\n# Comments: 106\n",
+      "id": "797a35ba1372",
+      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "link": "https://xescu.re/keeta-consensus.pdf",
+      "summary": "\nArticle URL: https://xescu.re/keeta-consensus.pdf\nComments URL: https://news.ycombinator.com/item?id=49314642\nPoints: 10\n# Comments: 1\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 20:52:44",
-      "timestamp": 1786740764
+      "published": "2026-08-15 21:49:45",
+      "timestamp": 1786830585
     },
     {
-      "id": "44890517c0e5",
-      "title": "Every exterior shot in The Taking of Pelham 123",
-      "link": "https://iafisher.com/2026/07/pelham-123",
-      "summary": "\nArticle URL: https://iafisher.com/2026/07/pelham-123\nComments URL: https://news.ycombinator.com/item?id=49303957\nPoints: 27\n# Comments: 6\n",
+      "id": "cf244a721227",
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "link": "https://spectrum.ieee.org/digital-signal-processing",
+      "summary": "\nArticle URL: https://spectrum.ieee.org/digital-signal-processing\nComments URL: https://news.ycombinator.com/item?id=49314615\nPoints: 52\n# Comments: 2\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 20:10:49",
-      "timestamp": 1786738249
+      "published": "2026-08-15 21:45:54",
+      "timestamp": 1786830354
     },
     {
-      "id": "a6b417cdbf72",
-      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
-      "link": "https://arxiv.org/abs/2608.11158",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2608.11158\nComments URL: https://news.ycombinator.com/item?id=49303652\nPoints: 33\n# Comments: 4\n",
+      "id": "960468a836dc",
+      "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+      "link": "https://en.wikipedia.org/wiki/Wow!_signal",
+      "summary": "\nArticle URL: https://en.wikipedia.org/wiki/Wow!_signal\nComments URL: https://news.ycombinator.com/item?id=49314596\nPoints: 56\n# Comments: 9\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 19:41:42",
-      "timestamp": 1786736502
+      "published": "2026-08-15 21:42:47",
+      "timestamp": 1786830167
     },
     {
-      "id": "d2dddcc365f3",
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "summary": "\nArticle URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html\nComments URL: https://news.ycombinator.com/item?id=49303202\nPoints: 342\n# Comments: 119\n",
+      "id": "78e775606de2",
+      "title": "Tracking down a Zsh history data loss bug",
+      "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "summary": "\nArticle URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/\nComments URL: https://news.ycombinator.com/item?id=49314579\nPoints: 26\n# Comments: 3\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 19:03:20",
-      "timestamp": 1786734200
+      "published": "2026-08-15 21:39:09",
+      "timestamp": 1786829949
     },
     {
-      "id": "777ba0022d05",
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "link": "https://github.com/lajosdeme/mole",
-      "summary": "\nDoing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.So I built th",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-08-14 18:52:48",
-      "timestamp": 1786733568
-    },
-    {
-      "id": "3beb9488f381",
-      "title": "The American sports plutocracy",
-      "link": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
-      "summary": "\nArticle URL: https://www.derekthompson.org/p/the-american-sports-plutocracy-is\nComments URL: https://news.ycombinator.com/item?id=49302943\nPoints: 48\n# Comments: 32\n",
+      "id": "6c39bf95daac",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "summary": "\nArticle URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi\nComments URL: https://news.ycombinator.com/item?id=49314403\nPoints: 129\n# Comments: 91\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 18:43:49",
-      "timestamp": 1786733029
+      "published": "2026-08-15 21:14:34",
+      "timestamp": 1786828474
     },
     {
-      "id": "d68584f632ef",
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "link": "https://luacad.ad-si.com",
-      "summary": "\nLuaCAD models solids in Lua rather than the OpenSCAD language, with operator\noverloading for CSG (`a + b`, `a - b`, `a * b`).It ships with a CLI and a desktop app, including a preview area and a text editor.I've always been a big fan of OpenSCAD, but the SCAD language itself is unfortunately quite ",
+      "id": "741000c3dd00",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "summary": "\nArticle URL: https://www.henrikkarlsson.xyz/p/good-ideas\nComments URL: https://news.ycombinator.com/item?id=49314235\nPoints: 68\n# Comments: 17\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 16:43:22",
-      "timestamp": 1786725802
+      "published": "2026-08-15 20:54:11",
+      "timestamp": 1786827251
     },
     {
-      "id": "ccd997a0aa08",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "summary": "\nArticle URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\nComments URL: https://news.ycombinator.com/item?id=49300800\nPoints: 127\n# Comments: 86\n",
+      "id": "2c12142ae8ab",
+      "title": "Humazon",
+      "link": "https://hughhowey.com/humazon/",
+      "summary": "\nArticle URL: https://hughhowey.com/humazon/\nComments URL: https://news.ycombinator.com/item?id=49313941\nPoints: 20\n# Comments: 8\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 16:15:21",
-      "timestamp": 1786724121
+      "published": "2026-08-15 20:18:37",
+      "timestamp": 1786825117
     },
     {
-      "id": "a92200204125",
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "\nArticle URL: https://rustdesk.com/blog/unattended-remote-access-wayland/\nComments URL: https://news.ycombinator.com/item?id=49300759\nPoints: 213\n# Comments: 93\n",
+      "id": "31b162aba41d",
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "summary": "\nArticle URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/\nComments URL: https://news.ycombinator.com/item?id=49313428\nPoints: 53\n# Comments: 13\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 16:12:52",
-      "timestamp": 1786723972
+      "published": "2026-08-15 19:20:51",
+      "timestamp": 1786821651
     },
     {
-      "id": "68249b7b61f5",
-      "title": "AI by Hand",
-      "link": "https://www.byhand.ai/",
-      "summary": "\nArticle URL: https://www.byhand.ai/\nComments URL: https://news.ycombinator.com/item?id=49300568\nPoints: 190\n# Comments: 15\n",
+      "id": "27241991870d",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "summary": "\nhttps://www.nature.com/articles/s41573-026-01496-2\n\nComments URL: https://news.ycombinator.com/item?id=49313367\nPoints: 80\n# Comments: 42\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 15:58:59",
-      "timestamp": 1786723139
+      "published": "2026-08-15 19:12:53",
+      "timestamp": 1786821173
     },
     {
-      "id": "373cebacce81",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "summary": "\nArticle URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\nComments URL: https://news.ycombinator.com/item?id=49300314\nPoints: 267\n# Comments: 162\n",
+      "id": "46f4ec51bf6a",
+      "title": "Tess's Android Wayland Compositor",
+      "link": "https://github.com/wmww/tawc",
+      "summary": "\nArticle URL: https://github.com/wmww/tawc\nComments URL: https://news.ycombinator.com/item?id=49313068\nPoints: 39\n# Comments: 3\n",
       "source": "Hacker News",
-      "category": "product",
+      "category": "tool",
       "lang": "en",
-      "published": "2026-08-14 15:43:10",
-      "timestamp": 1786722190
+      "published": "2026-08-15 18:34:26",
+      "timestamp": 1786818866
+    },
+    {
+      "id": "61b58c67e0e2",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "summary": "\nArticle URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\nComments URL: https://news.ycombinator.com/item?id=49313047\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-15 18:33:25",
+      "timestamp": 1786818805
+    },
+    {
+      "id": "542ca028c405",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "summary": "\nArticle URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\nComments URL: https://news.ycombinator.com/item?id=49312845\nPoints: 396\n# Comments: 349\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-15 18:13:02",
+      "timestamp": 1786817582
+    },
+    {
+      "id": "be43d1feba5f",
+      "title": "I Remain a Skeptic",
+      "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "summary": "\nArticle URL: https://blog.jsbarretto.com/post/i-remain-a-skeptic\nComments URL: https://news.ycombinator.com/item?id=49312053\nPoints: 47\n# Comments: 20\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-15 16:42:58",
+      "timestamp": 1786812178
+    },
+    {
+      "id": "b9e507c0c243",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "summary": "\nArticle URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432\nComments URL: https://news.ycombinator.com/item?id=49311651\nPoints: 337\n# Comments: 234\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-15 15:58:53",
+      "timestamp": 1786809533
+    },
+    {
+      "id": "0ac2089e3318",
+      "title": "A spectre is haunting Unicode",
+      "link": "https://www.dampfkraft.com/ghost-characters.html",
+      "summary": "\nArticle URL: https://www.dampfkraft.com/ghost-characters.html\nComments URL: https://news.ycombinator.com/item?id=49310926\nPoints: 162\n# Comments: 48\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-15 14:34:04",
+      "timestamp": 1786804444
+    },
+    {
+      "id": "89db3c1ecec5",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "summary": "\nArticle URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/\nComments URL: https://news.ycombinator.com/item?id=49310682\nPoints: 207\n# Comments: 71\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-15 14:04:49",
+      "timestamp": 1786802689
+    },
+    {
+      "id": "11ce72f0e43c",
+      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+      "link": "https://sspai.com/post/111974",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-15 15:07:54",
+      "timestamp": 1786777674
+    },
+    {
+      "id": "86e3d9ab1e64",
+      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+      "link": "https://www.qbitai.com/2026/08/473876.html",
+      "summary": "理解大模型，无需再训练一个替代网络",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-15 06:42:23",
+      "timestamp": 1786776143
+    },
+    {
+      "id": "9f27e0bc3b7b",
+      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+      "link": "https://www.qbitai.com/2026/08/473866.html",
+      "summary": "音潮API限时免费开放",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-15 06:36:05",
+      "timestamp": 1786775765
+    },
+    {
+      "id": "15ae289cd854",
+      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+      "link": "https://www.qbitai.com/2026/08/473669.html",
+      "summary": "推理能力还能自定义",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-15 06:05:31",
+      "timestamp": 1786773931
+    },
+    {
+      "id": "97f569128a76",
+      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+      "link": "https://www.qbitai.com/2026/08/473597.html",
+      "summary": "大家已经给DeepSeek装上了啥",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-15 05:53:01",
+      "timestamp": 1786773181
+    },
+    {
+      "id": "e789431d3dca",
+      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+      "link": "https://www.qbitai.com/2026/08/473407.html",
+      "summary": "1.9万字全文实录",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-15 04:21:09",
+      "timestamp": 1786767669
+    },
+    {
+      "id": "08775bfb8db8",
+      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+      "link": "https://www.qbitai.com/2026/08/473395.html",
+      "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-15 04:03:37",
+      "timestamp": 1786766617
     },
     {
       "id": "57a83f67cb69",
@@ -178,39 +310,6 @@
       "timestamp": 1786722072
     },
     {
-      "id": "33322cdc8548",
-      "title": "Introducing Toast 1",
-      "link": "https://www.mixedbread.com/blog/toast-1",
-      "summary": "\nArticle URL: https://www.mixedbread.com/blog/toast-1\nComments URL: https://news.ycombinator.com/item?id=49299746\nPoints: 171\n# Comments: 57\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-14 15:07:57",
-      "timestamp": 1786720077
-    },
-    {
-      "id": "6d4f10c42184",
-      "title": "Seven books I keep close because I love them",
-      "link": "https://blog.plover.com/2026/08/02/",
-      "summary": "\nArticle URL: https://blog.plover.com/2026/08/02/\nComments URL: https://news.ycombinator.com/item?id=49299675\nPoints: 291\n# Comments: 129\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-14 15:03:26",
-      "timestamp": 1786719806
-    },
-    {
-      "id": "2b42a21006d5",
-      "title": "Qwen 3.8 27B",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "\nArticle URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8\nComments URL: https://news.ycombinator.com/item?id=49299605\nPoints: 865\n# Comments: 568\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-14 15:00:00",
-      "timestamp": 1786719600
-    },
-    {
       "id": "1b1761db5191",
       "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
       "link": "https://www.qbitai.com/2026/08/473153.html",
@@ -220,28 +319,6 @@
       "lang": "zh",
       "published": "2026-08-14 14:51:48",
       "timestamp": 1786719108
-    },
-    {
-      "id": "2939f7c02c73",
-      "title": "Every Fucking Website (2020)",
-      "link": "https://lxe.github.io/everywebsite/",
-      "summary": "\nArticle URL: https://lxe.github.io/everywebsite/\nComments URL: https://news.ycombinator.com/item?id=49299222\nPoints: 733\n# Comments: 442\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-14 14:31:08",
-      "timestamp": 1786717868
-    },
-    {
-      "id": "89aa384fa35c",
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "link": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "summary": "\nArticle URL: https://heyjonny.dev/posts/rss-to-eink-newspaper/\nComments URL: https://news.ycombinator.com/item?id=49299081\nPoints: 142\n# Comments: 58\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-14 14:21:18",
-      "timestamp": 1786717278
     },
     {
       "id": "8d69331876c1",
@@ -266,39 +343,6 @@
       "timestamp": 1786701002
     },
     {
-      "id": "e8817cfdbf07",
-      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
-      "link": "https://www.qbitai.com/2026/08/473038.html",
-      "summary": "顺手拿下最强开源安全模型",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-14 08:47:51",
-      "timestamp": 1786697271
-    },
-    {
-      "id": "33e533f839f6",
-      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-      "link": "https://www.qbitai.com/2026/08/473144.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-08-14 08:36:00",
-      "timestamp": 1786696560
-    },
-    {
-      "id": "f58ed89c7a09",
-      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
-      "link": "https://www.qbitai.com/2026/08/472722.html",
-      "summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-08-14 07:29:22",
-      "timestamp": 1786692562
-    },
-    {
       "id": "9787c7aba8ef",
       "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
       "link": "https://sspai.com/post/113416",
@@ -308,17 +352,6 @@
       "lang": "zh",
       "published": "2026-08-14 15:00:00",
       "timestamp": 1786690800
-    },
-    {
-      "id": "821f77c6bcfb",
-      "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
-      "link": "https://www.qbitai.com/2026/08/472718.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-14 06:18:56",
-      "timestamp": 1786688336
     },
     {
       "id": "3a58e729e798",
@@ -354,17 +387,6 @@
       "timestamp": 1786668744
     },
     {
-      "id": "c8a0a052ec3a",
-      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
-      "link": "https://www.qbitai.com/2026/08/472208.html",
-      "summary": "欢迎，为后人种点树",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-13 16:03:19",
-      "timestamp": 1786636999
-    },
-    {
       "id": "070f2f5d4cfd",
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
       "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
@@ -374,17 +396,6 @@
       "lang": "en",
       "published": "2026-08-13 13:41:10",
       "timestamp": 1786628470
-    },
-    {
-      "id": "48613edaed9e",
-      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-      "link": "https://www.qbitai.com/2026/08/472059.html",
-      "summary": "首颗AI芯片已进入量产",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-08-13 12:34:42",
-      "timestamp": 1786624482
     },
     {
       "id": "48c8a90da248",
@@ -440,17 +451,6 @@
       "lang": "zh",
       "published": "2026-08-13 11:18:09",
       "timestamp": 1786591089
-    },
-    {
-      "id": "23c0ef4ac081",
-      "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
-      "link": "https://sspai.com/post/113385",
-      "summary": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-13 08:14:09",
-      "timestamp": 1786580049
     },
     {
       "id": "a2f02e3373b7",
