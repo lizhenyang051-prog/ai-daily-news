@@ -1,225 +1,379 @@
 {
-  "updated_at": "2026-08-25 00:58:05",
+  "updated_at": "2026-08-26 00:59:26",
   "articles": [
     {
-      "id": "a31adf7b065e",
-      "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
-      "link": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
-      "summary": "\nArticle URL: https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas\nComments URL: https://news.ycombinator.com/item?id=49427046\nPoints: 14\n# Comments: 1\n",
+      "id": "f33a9b590fc5",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "link": "https://github.com/runetes/maiao",
+      "summary": "\nArticle URL: https://github.com/runetes/maiao\nComments URL: https://news.ycombinator.com/item?id=49441666\nPoints: 20\n# Comments: 2\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 23:06:37",
-      "timestamp": 1787612797
+      "published": "2026-08-25 22:40:07",
+      "timestamp": 1787697607
     },
     {
-      "id": "e043f028d26b",
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "link": "https://github.com/murerkinn/bookshelf",
-      "summary": "\nArticle URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 22\n# Comments: 4\n",
+      "id": "0045bcef3c37",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "link": "https://github.com/swimmingbrain/texbrain",
+      "summary": "\nI'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 23:00:37",
-      "timestamp": 1787612437
+      "published": "2026-08-25 22:08:50",
+      "timestamp": 1787695730
     },
     {
-      "id": "200c775e4bde",
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "\nArticle URL: https://developer.apple.com/news/?id=1ptvdtcm\nComments URL: https://news.ycombinator.com/item?id=49426564\nPoints: 191\n# Comments: 38\n",
+      "id": "6ab8716c5269",
+      "title": "Python's pre-declared constants are kinda weird",
+      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "summary": "\nArticle URL: https://sebsite.pw/w/20260801-pythonconstants.html\nComments URL: https://news.ycombinator.com/item?id=49441033\nPoints: 129\n# Comments: 85\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 22:13:40",
-      "timestamp": 1787609620
+      "published": "2026-08-25 21:39:02",
+      "timestamp": 1787693942
     },
     {
-      "id": "839f5f44f817",
-      "title": "Moon (2024)",
-      "link": "https://ciechanow.ski/moon/",
-      "summary": "\nArticle URL: https://ciechanow.ski/moon/\nComments URL: https://news.ycombinator.com/item?id=49426466\nPoints: 89\n# Comments: 14\n",
+      "id": "838b1124f9f0",
+      "title": "XCancel also down, at least for time being",
+      "link": "https://news.ycombinator.com/item?id=49440786",
+      "summary": "\nMessage on xcancel website:\"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.\nThe service XCancel is stopped until further notice.\nWe are seeking legal advice and won't share more details for now.\nThank you for the trust you have pu",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 22:06:02",
-      "timestamp": 1787609162
+      "published": "2026-08-25 21:18:23",
+      "timestamp": 1787692703
     },
     {
-      "id": "304584f851d1",
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "summary": "\nArticle URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk\nComments URL: https://news.ycombinator.com/item?id=49425819\nPoints: 115\n# Comments: 90\n",
+      "id": "3c24c872573e",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "summary": "\nArticle URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=49440410\nPoints: 47\n# Comments: 25\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 21:03:06",
-      "timestamp": 1787605386
+      "published": "2026-08-25 20:49:03",
+      "timestamp": 1787690943
     },
     {
-      "id": "7ade3236d427",
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "summary": "\nArticle URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/\nComments URL: https://news.ycombinator.com/item?id=49425800\nPoints: 48\n# Comments: 8\n",
+      "id": "ba8c71a3411a",
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "summary": "\nArticle URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\nComments URL: https://news.ycombinator.com/item?id=49439499\nPoints: 70\n# Comments: 31\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 21:01:38",
-      "timestamp": 1787605298
+      "published": "2026-08-25 19:38:24",
+      "timestamp": 1787686704
     },
     {
-      "id": "97bf86bae17b",
-      "title": "Oceans hit highest temperature on record",
-      "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "summary": "\nArticle URL: https://www.bbc.com/news/articles/c62m4gpnp78o\nComments URL: https://news.ycombinator.com/item?id=49424606\nPoints: 386\n# Comments: 275\n",
+      "id": "2cae6e1e7415",
+      "title": "A brief history of federal lift ticket regulation",
+      "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+      "summary": "\nArticle URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket\nComments URL: https://news.ycombinator.com/item?id=49439296\nPoints: 21\n# Comments: 0\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 19:19:08",
-      "timestamp": 1787599148
+      "published": "2026-08-25 19:25:43",
+      "timestamp": 1787685943
     },
     {
-      "id": "70a6602e1303",
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "summary": "\nArticle URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\nComments URL: https://news.ycombinator.com/item?id=49424387\nPoints: 87\n# Comments: 49\n",
+      "id": "9a55131094db",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "summary": "\nArticle URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\nComments URL: https://news.ycombinator.com/item?id=49439017\nPoints: 233\n# Comments: 136\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 19:03:06",
-      "timestamp": 1787598186
+      "published": "2026-08-25 19:07:01",
+      "timestamp": 1787684821
     },
     {
-      "id": "3cadde96c6b7",
-      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "link": "https://textlog.cc/post/2059",
-      "summary": "\nArticle URL: https://textlog.cc/post/2059\nComments URL: https://news.ycombinator.com/item?id=49424167\nPoints: 46\n# Comments: 22\n",
+      "id": "d200587f01cd",
+      "title": "Dolly Parton has died",
+      "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "summary": "\nhttps://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d..., https://archive.ph/w4vsEhttps://www.hollywoodreporter.com/music/music-news/dolly-par...\n\nComments URL: https://news.ycombinator.com/item?id=49438052\nPoints: 1173\n# Comment",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 18:45:43",
-      "timestamp": 1787597143
+      "published": "2026-08-25 18:02:22",
+      "timestamp": 1787680942
     },
     {
-      "id": "7343f6ac7fcc",
-      "title": "Anger, Anxiety and Agency",
-      "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-      "summary": "\nArticle URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/\nComments URL: https://news.ycombinator.com/item?id=49424082\nPoints: 91\n# Comments: 102\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-24 18:37:24",
-      "timestamp": 1787596644
-    },
-    {
-      "id": "4e8e702cbfdb",
-      "title": "What Is a Syslog Server?",
-      "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-      "summary": "\nArticle URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php\nComments URL: https://news.ycombinator.com/item?id=49423799\nPoints: 51\n# Comments: 38\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-24 18:15:50",
-      "timestamp": 1787595350
-    },
-    {
-      "id": "7979b7b5cb9f",
-      "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-      "summary": "\nArticle URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/\nComments URL: https://news.ycombinator.com/item?id=49423539\nPoints: 72\n# Comments: 39\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-24 17:57:13",
-      "timestamp": 1787594233
-    },
-    {
-      "id": "f97d092532b2",
-      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-      "summary": "\nArticle URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4\nComments URL: https://news.ycombinator.com/item?id=49423495\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-24 17:53:14",
-      "timestamp": 1787593994
-    },
-    {
-      "id": "5f3cfa1dcec9",
-      "title": "Agent Lightning v1.0",
-      "link": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-      "summary": "\nArticle URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1\nComments URL: https://news.ycombinator.com/item?id=49423077\nPoints: 40\n# Comments: 2\n",
+      "id": "a0030b7336a2",
+      "title": "Firefox 157 will include JPEG XL by default on all platforms",
+      "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+      "summary": "\nArticle URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1\nComments URL: https://news.ycombinator.com/item?id=49437946\nPoints: 266\n# Comments: 67\n",
       "source": "Hacker News",
       "category": "product",
       "lang": "en",
-      "published": "2026-08-24 17:23:22",
-      "timestamp": 1787592202
+      "published": "2026-08-25 17:55:23",
+      "timestamp": 1787680523
     },
     {
-      "id": "5c85239e8709",
-      "title": "Where did all the public bathrooms go?",
-      "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "summary": "\nArticle URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/\nComments URL: https://news.ycombinator.com/item?id=49422800\nPoints: 142\n# Comments: 290\n",
+      "id": "e80f00b1d61d",
+      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+      "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "summary": "\nArticle URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=49437566\nPoints: 0\n# Comments: 0\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 17:07:01",
-      "timestamp": 1787591221
+      "published": "2026-08-25 17:28:52",
+      "timestamp": 1787678932
     },
     {
-      "id": "bec358c15b46",
-      "title": "The entire city of San Francisco as a video game",
-      "link": "https://sf.thijs.gg/",
-      "summary": "\nhttps://twitter.com/cdngdev/status/2091909073038082139, https://xcancel.com/cdngdev/status/2091909073038082139\n\nComments URL: https://news.ycombinator.com/item?id=49422784\nPoints: 326\n# Comments: 115\n",
+      "id": "ea74209d849b",
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "summary": "\nArticle URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\nComments URL: https://news.ycombinator.com/item?id=49437483\nPoints: 113\n# Comments: 53\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 17:05:38",
-      "timestamp": 1787591138
+      "published": "2026-08-25 17:23:07",
+      "timestamp": 1787678587
     },
     {
-      "id": "67b5137a8db1",
-      "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-      "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-      "summary": "\nArticle URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc\nComments URL: https://news.ycombinator.com/item?id=49422548\nPoints: 75\n# Comments: 9\n",
+      "id": "74167e2abee3",
+      "title": "Nitter project received cease and desist",
+      "link": "https://github.com/zedeus/nitter/issues/1442",
+      "summary": "\nArticle URL: https://github.com/zedeus/nitter/issues/1442\nComments URL: https://news.ycombinator.com/item?id=49437283\nPoints: 591\n# Comments: 421\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 16:52:01",
-      "timestamp": 1787590321
+      "published": "2026-08-25 17:08:21",
+      "timestamp": 1787677701
     },
     {
-      "id": "e42c84e9d4d5",
-      "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-      "link": "https://glassbox.codecanary.org",
-      "summary": "\nArticle URL: https://glassbox.codecanary.org\nComments URL: https://news.ycombinator.com/item?id=49421948\nPoints: 88\n# Comments: 44\n",
+      "id": "4d3aae23d6f1",
+      "title": "Black hole singularity is a surface not a point",
+      "link": "https://arxiv.org/abs/2608.21590",
+      "summary": "\nArticle URL: https://arxiv.org/abs/2608.21590\nComments URL: https://news.ycombinator.com/item?id=49437210\nPoints: 179\n# Comments: 125\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 16:15:10",
-      "timestamp": 1787588110
+      "published": "2026-08-25 17:02:49",
+      "timestamp": 1787677369
     },
     {
-      "id": "777ba0dc3292",
-      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-      "link": "https://picomq.com/",
-      "summary": "\nPicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade.S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library. Coordina",
+      "id": "5db7746db21d",
+      "title": "My Friend Aaron",
+      "link": "https://rorz.io/writing/my-friend-aaron",
+      "summary": "\nArticle URL: https://rorz.io/writing/my-friend-aaron\nComments URL: https://news.ycombinator.com/item?id=49437069\nPoints: 428\n# Comments: 117\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 16:08:17",
-      "timestamp": 1787587697
+      "published": "2026-08-25 16:53:33",
+      "timestamp": 1787676813
     },
     {
-      "id": "241db79eb5f8",
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "summary": "\nArticle URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise\nComments URL: https://news.ycombinator.com/item?id=49421554\nPoints: 447\n# Comments: 451\n",
+      "id": "f70ad5a5a390",
+      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "link": "https://github.com/jeffhajewski/latticedb",
+      "summary": "\nWe have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better.\n\nComments URL: https://news.ycombinator.com/item?id=49437049\nPoints: 101\n# Comments: 31\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-08-24 15:52:33",
-      "timestamp": 1787586753
+      "published": "2026-08-25 16:52:05",
+      "timestamp": 1787676725
+    },
+    {
+      "id": "0be84e996919",
+      "title": "Starbase, LA",
+      "link": "https://www.spacex.com/sites/starbase-la",
+      "summary": "\nArticle URL: https://www.spacex.com/sites/starbase-la\nComments URL: https://news.ycombinator.com/item?id=49436822\nPoints: 212\n# Comments: 380\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-25 16:37:52",
+      "timestamp": 1787675872
+    },
+    {
+      "id": "cb45b84a8c08",
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "summary": "\nArticle URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/\nComments URL: https://news.ycombinator.com/item?id=49436786\nPoints: 108\n# Comments: 23\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-25 16:35:36",
+      "timestamp": 1787675736
+    },
+    {
+      "id": "ccd3799a4055",
+      "title": "Fuzzing the Gleam Compiler",
+      "link": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+      "summary": "\nArticle URL: https://www.kurz.net/posts/fuzzing-gleam-compiler\nComments URL: https://news.ycombinator.com/item?id=49436706\nPoints: 55\n# Comments: 6\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-25 16:30:55",
+      "timestamp": 1787675455
+    },
+    {
+      "id": "f21554b3cc33",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "link": "https://github.com/ThinkOffApp/CarWatch",
+      "summary": "\nFound that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. An",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-25 15:20:20",
+      "timestamp": 1787671220
+    },
+    {
+      "id": "b53b47186f2f",
+      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+      "link": "https://www.qbitai.com/2026/08/479314.html",
+      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-25 09:31:16",
+      "timestamp": 1787650276
+    },
+    {
+      "id": "c54a5040e5b6",
+      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
+      "link": "https://sspai.com/post/113828",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-25 17:00:00",
+      "timestamp": 1787648400
+    },
+    {
+      "id": "8df663423138",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are a",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-25 09:00:00",
+      "timestamp": 1787648400
+    },
+    {
+      "id": "ed186fb9589b",
+      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
+      "link": "https://sspai.com/post/113673",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-25 15:00:00",
+      "timestamp": 1787641200
+    },
+    {
+      "id": "e160c7f83ca7",
+      "title": "开源国产8B模型，比肩闭源Image 2了！",
+      "link": "https://www.qbitai.com/2026/08/479192.html",
+      "summary": "SenseNova U1.5 Lite",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-25 06:53:26",
+      "timestamp": 1787640806
+    },
+    {
+      "id": "81583a6a7a92",
+      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+      "link": "https://www.qbitai.com/2026/08/479096.html",
+      "summary": "AI科研能力从工具级转向系统级",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-25 05:48:05",
+      "timestamp": 1787636885
+    },
+    {
+      "id": "4c220d2e40a5",
+      "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+      "link": "https://www.qbitai.com/2026/08/478996.html",
+      "summary": "下一代Agent天然会走向云端和更大规模的计算资源",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-25 05:20:50",
+      "timestamp": 1787635250
+    },
+    {
+      "id": "02ce04e9a5c3",
+      "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
+      "link": "https://www.qbitai.com/2026/08/478912.html",
+      "summary": "今年50位获奖人来自13个城市的30家高校、医院和科研机构",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-25 05:15:23",
+      "timestamp": 1787634923
+    },
+    {
+      "id": "3683e283147b",
+      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+      "link": "https://www.qbitai.com/2026/08/478839.html",
+      "summary": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
+      "source": "量子位",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-08-25 04:08:21",
+      "timestamp": 1787630901
+    },
+    {
+      "id": "44855e59ebc3",
+      "title": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
+      "link": "https://www.qbitai.com/2026/08/478479.html",
+      "summary": "2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！ ",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-25 04:06:18",
+      "timestamp": 1787630778
+    },
+    {
+      "id": "cda1dab9de52",
+      "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙",
+      "link": "https://sspai.com/post/112442",
+      "summary": "你会把它当成一个金融账户，还是一件属于自己人生的收藏品？查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-25 11:13:35",
+      "timestamp": 1787627615
+    },
+    {
+      "id": "faf64973665d",
+      "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
+      "link": "https://www.qbitai.com/2026/08/478791.html",
+      "summary": "机器人大脑新SOTA",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-25 02:22:01",
+      "timestamp": 1787624521
+    },
+    {
+      "id": "cd6f82f038ed",
+      "title": "VC开始靠AI预测未来了",
+      "link": "https://www.qbitai.com/2026/08/478774.html",
+      "summary": "FutureX榜单前十占了仨",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-25 02:16:43",
+      "timestamp": 1787624203
+    },
+    {
+      "id": "5de2131f8fce",
+      "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
+      "link": "https://sspai.com/post/113813",
+      "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ...查看全文",
+      "source": "少数派",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-25 08:28:32",
+      "timestamp": 1787617712
     },
     {
       "id": "52a1f41e2bcc",
@@ -231,28 +385,6 @@
       "lang": "en",
       "published": "2026-08-24 14:20:19",
       "timestamp": 1787581219
-    },
-    {
-      "id": "7b191cccc5e8",
-      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
-      "link": "https://www.qbitai.com/2026/08/478670.html",
-      "summary": "Visa看到的AI未来",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-24 13:32:13",
-      "timestamp": 1787578333
-    },
-    {
-      "id": "1df2493e70e4",
-      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
-      "link": "https://www.qbitai.com/2026/08/478568.html",
-      "summary": "全球大厂开始押注的AI科研，终于有了统一标准",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-24 13:21:22",
-      "timestamp": 1787577682
     },
     {
       "id": "6bd0cd88d56e",
@@ -288,17 +420,6 @@
       "timestamp": 1787560106
     },
     {
-      "id": "70d4aaa30b78",
-      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
-      "link": "https://www.qbitai.com/2026/08/478473.html",
-      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-24 08:07:59",
-      "timestamp": 1787558879
-    },
-    {
       "id": "93e54b9ff835",
       "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
       "link": "https://sspai.com/post/113563",
@@ -308,50 +429,6 @@
       "lang": "zh",
       "published": "2026-08-24 15:14:08",
       "timestamp": 1787555648
-    },
-    {
-      "id": "edf6235886e2",
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "link": "https://www.qbitai.com/2026/08/478469.html",
-      "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-24 07:04:36",
-      "timestamp": 1787555076
-    },
-    {
-      "id": "78130afd064d",
-      "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
-      "link": "https://www.qbitai.com/2026/08/478447.html",
-      "summary": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。",
-      "source": "量子位",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-08-24 06:03:13",
-      "timestamp": 1787551393
-    },
-    {
-      "id": "e39566d8b7d5",
-      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-      "link": "https://www.qbitai.com/2026/08/478427.html",
-      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-08-24 05:09:27",
-      "timestamp": 1787548167
-    },
-    {
-      "id": "1b27ad22e6d7",
-      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-      "link": "https://www.qbitai.com/2026/08/478421.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-24 05:04:52",
-      "timestamp": 1787547892
     },
     {
       "id": "d7d8cf550edd",
@@ -365,17 +442,6 @@
       "timestamp": 1787542244
     },
     {
-      "id": "ed1c67f5039f",
-      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-      "link": "https://www.qbitai.com/2026/08/478358.html",
-      "summary": "Tim和胡彦斌亲自颁奖",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-23 23:19:06",
-      "timestamp": 1787527146
-    },
-    {
       "id": "0c6880402447",
       "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
       "link": "https://sspai.com/post/113767",
@@ -387,28 +453,6 @@
       "timestamp": 1787526835
     },
     {
-      "id": "43ff52526a60",
-      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-      "link": "https://www.qbitai.com/2026/08/478319.html",
-      "summary": "玩的就是真实",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-23 13:20:00",
-      "timestamp": 1787491200
-    },
-    {
-      "id": "08317e9ecd49",
-      "title": "具身创业里的香港教授们",
-      "link": "https://www.qbitai.com/2026/08/478289.html",
-      "summary": "香港的大学里冒出了一批很特别的人",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-23 11:20:13",
-      "timestamp": 1787484013
-    },
-    {
       "id": "dd4c69993cef",
       "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
       "link": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
@@ -418,50 +462,6 @@
       "lang": "zh",
       "published": "2026-08-23 15:25:29",
       "timestamp": 1787469929
-    },
-    {
-      "id": "1e5cac17e54b",
-      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
-      "link": "https://sspai.com/post/113002",
-      "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-23 11:00:00",
-      "timestamp": 1787454000
-    },
-    {
-      "id": "ca2e743ddc5a",
-      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
-      "link": "https://sspai.com/post/113675",
-      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-22 11:00:00",
-      "timestamp": 1787367600
-    },
-    {
-      "id": "87d89fd49da9",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "link": "https://sspai.com/post/113693",
-      "summary": "📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-21 18:08:59",
-      "timestamp": 1787306939
-    },
-    {
-      "id": "9a252749d0db",
-      "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
-      "link": "https://sspai.com/post/113586",
-      "summary": "Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并不差，至少在中价位产品中绝对不能算落后。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-21 11:05:01",
-      "timestamp": 1787281501
     },
     {
       "id": "e74c797b71c0",
@@ -539,17 +539,6 @@
       "lang": "en",
       "published": "2026-08-13 13:41:10",
       "timestamp": 1786628470
-    },
-    {
-      "id": "8456cfcd9b34",
-      "title": "How kids feel about AI, in their own words",
-      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-13 09:00:00",
-      "timestamp": 1786611600
     }
   ]
 }
