@@ -1,6 +1,391 @@
 {
-  "updated_at": "2026-08-27 06:52:43",
+  "updated_at": "2026-08-28 08:40:39",
   "articles": [
+    {
+      "id": "63a7e2ccce5e",
+      "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
+      "link": "https://www.qbitai.com/2026/08/480591.html",
+      "summary": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 07:20:14",
+      "timestamp": 1787901614
+    },
+    {
+      "id": "1ee0dc3e7833",
+      "title": "Climate change is strengthening El Niño, coral records suggest",
+      "link": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
+      "summary": "\nArticle URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest\nComments URL: https://news.ycombinator.com/item?id=49475404\nPoints: 14\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-28 07:19:16",
+      "timestamp": 1787901556
+    },
+    {
+      "id": "9972e1cc72b8",
+      "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+      "link": "https://sspai.com/post/68623",
+      "summary": "这些内容，即使毕了业也能有所帮助。查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-28 15:04:57",
+      "timestamp": 1787900697
+    },
+    {
+      "id": "5e9c679d3e9f",
+      "title": "首款癌症疫苗，一针300万？？？",
+      "link": "https://www.qbitai.com/2026/08/480557.html",
+      "summary": "别让顶级治疗方法称为富人专属",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-28 06:22:59",
+      "timestamp": 1787898179
+    },
+    {
+      "id": "8f99305c44c5",
+      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+      "link": "https://www.qbitai.com/2026/08/480482.html",
+      "summary": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 06:22:20",
+      "timestamp": 1787898140
+    },
+    {
+      "id": "b2733724dd62",
+      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+      "link": "https://www.qbitai.com/2026/08/480487.html",
+      "summary": "Claude觉醒超体",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 06:13:59",
+      "timestamp": 1787897639
+    },
+    {
+      "id": "f0a19b26366a",
+      "title": "Sovereign Tech Agency invests €500k in Flatpak",
+      "link": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "summary": "\nArticle URL: https://modal.cx/blog/announcing-flatpak-sta/\nComments URL: https://news.ycombinator.com/item?id=49474786\nPoints: 79\n# Comments: 37\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-28 05:42:47",
+      "timestamp": 1787895767
+    },
+    {
+      "id": "6aa640c5efc7",
+      "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+      "link": "https://www.qbitai.com/2026/08/480227.html",
+      "summary": "国产算力跑通视频生成规模化应用",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-28 04:09:39",
+      "timestamp": 1787890179
+    },
+    {
+      "id": "239b1863e048",
+      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+      "link": "https://www.qbitai.com/2026/08/480223.html",
+      "summary": "国产异构助力前沿智能进入普惠时代",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 04:06:16",
+      "timestamp": 1787889976
+    },
+    {
+      "id": "eecf7fc8b843",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "link": "https://sspai.com/post/113883",
+      "summary": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 12:00:00",
+      "timestamp": 1787889600
+    },
+    {
+      "id": "68835b65dace",
+      "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
+      "link": "https://www.qbitai.com/2026/08/480208.html",
+      "summary": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 03:45:45",
+      "timestamp": 1787888745
+    },
+    {
+      "id": "3dab13645fe2",
+      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "summary": "\nArticle URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\nComments URL: https://news.ycombinator.com/item?id=49474060\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-28 03:35:15",
+      "timestamp": 1787888115
+    },
+    {
+      "id": "62156c5ffba2",
+      "title": "34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及",
+      "link": "https://www.qbitai.com/2026/08/480202.html",
+      "summary": "8 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）公布雷鸟 iO 首销战报",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 03:03:42",
+      "timestamp": 1787886222
+    },
+    {
+      "id": "b283f60bff21",
+      "title": "Bootstrappable Builds: How and Why",
+      "link": "https://lwn.net/Articles/1088279/",
+      "summary": "\nArticle URL: https://lwn.net/Articles/1088279/\nComments URL: https://news.ycombinator.com/item?id=49473868\nPoints: 36\n# Comments: 16\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-28 03:02:42",
+      "timestamp": 1787886162
+    },
+    {
+      "id": "e7d15018f89a",
+      "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
+      "link": "https://www.qbitai.com/2026/08/480083.html",
+      "summary": "8月27日，网易有道正式发布OpenPods有道AI耳机。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 02:48:37",
+      "timestamp": 1787885317
+    },
+    {
+      "id": "796592733c04",
+      "title": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
+      "link": "https://github.com/IndexFlowing/IndexFlow-core",
+      "summary": "\nArticle URL: https://github.com/IndexFlowing/IndexFlow-core\nComments URL: https://news.ycombinator.com/item?id=49473767\nPoints: 17\n# Comments: 6\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-28 02:46:39",
+      "timestamp": 1787885199
+    },
+    {
+      "id": "5abfa18fbe79",
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "summary": "\nhttps://archive.ph/qdE54\n\nComments URL: https://news.ycombinator.com/item?id=49473483\nPoints: 132\n# Comments: 151\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-28 01:57:26",
+      "timestamp": 1787882246
+    },
+    {
+      "id": "52777b61b207",
+      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+      "link": "https://sspai.com/post/113909",
+      "summary": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 09:56:00",
+      "timestamp": 1787882160
+    },
+    {
+      "id": "62f329d68bc0",
+      "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
+      "link": "https://sspai.com/post/113922",
+      "summary": "Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文",
+      "source": "少数派",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-28 08:29:37",
+      "timestamp": 1787876977
+    },
+    {
+      "id": "3100a9eba965",
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "link": "https://www.terminal-bench-science.ai/announcement",
+      "summary": "\nArticle URL: https://www.terminal-bench-science.ai/announcement\nComments URL: https://news.ycombinator.com/item?id=49472820\nPoints: 75\n# Comments: 23\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-08-28 00:06:51",
+      "timestamp": 1787875611
+    },
+    {
+      "id": "2e88aff43dd8",
+      "title": "Select * from Internet.blogposts",
+      "link": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+      "summary": "\nArticle URL: https://pfrazee.leaflet.pub/3mu3p2smmis22\nComments URL: https://news.ycombinator.com/item?id=49472161\nPoints: 82\n# Comments: 38\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 22:34:32",
+      "timestamp": 1787870072
+    },
+    {
+      "id": "03f212b4908d",
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "link": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "summary": "\nhttps://web.archive.org/web/20260826205502/https://www.newsc...https://archive.ph/zahjc\n\nComments URL: https://news.ycombinator.com/item?id=49472090\nPoints: 103\n# Comments: 96\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 22:26:04",
+      "timestamp": 1787869564
+    },
+    {
+      "id": "cc8604ea474d",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "link": "https://github.com/elyosh/OpenTIE/",
+      "summary": "\nArticle URL: https://github.com/elyosh/OpenTIE/\nComments URL: https://news.ycombinator.com/item?id=49471965\nPoints: 152\n# Comments: 37\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 22:10:47",
+      "timestamp": 1787868647
+    },
+    {
+      "id": "2acf13272f85",
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "link": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "summary": "\nArticle URL: https://github.com/calmrocks/ai-engineer-notebooks\nComments URL: https://news.ycombinator.com/item?id=49471714\nPoints: 99\n# Comments: 11\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-08-27 21:46:39",
+      "timestamp": 1787867199
+    },
+    {
+      "id": "182f05063ac9",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "link": "https://github.com/experientiallabs/experiential",
+      "summary": "\nHi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place.It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameter",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 21:18:35",
+      "timestamp": 1787865515
+    },
+    {
+      "id": "5b48763afc05",
+      "title": "Previewing the Model Hardware Standard",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "summary": "\nArticle URL: https://www.anthropic.com/news/model-hardware-standard-research-preview\nComments URL: https://news.ycombinator.com/item?id=49468834\nPoints: 111\n# Comments: 42\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 18:04:50",
+      "timestamp": 1787853890
+    },
+    {
+      "id": "f47c095cad4b",
+      "title": "Gemini-3.5-Transcribe",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "summary": "\nArticle URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/\nComments URL: https://news.ycombinator.com/item?id=49468818\nPoints: 263\n# Comments: 84\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 18:03:42",
+      "timestamp": 1787853822
+    },
+    {
+      "id": "d963a801ff58",
+      "title": "Show HN: Voronoi Go",
+      "link": "https://voronoigo.com/",
+      "summary": "\nI posted once before but wanted to share again because a lot has changed. There's now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The combination of these things helps a bit in finding people to play against.\n\nComments URL: https://news.yco",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 18:03:37",
+      "timestamp": 1787853817
+    },
+    {
+      "id": "b8da1287dfb1",
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "summary": "\nArticle URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290\nComments URL: https://news.ycombinator.com/item?id=49468642\nPoints: 229\n# Comments: 179\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 17:53:40",
+      "timestamp": 1787853220
+    },
+    {
+      "id": "9ad12c6b088c",
+      "title": "M5Stack Launches PaperMono",
+      "link": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+      "summary": "\nArticle URL: https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects\nComments URL: https://news.ycombinator.com/item?id=49468593\nPoints: 131\n# Comments: 49\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 17:50:57",
+      "timestamp": 1787853057
+    },
+    {
+      "id": "8cd68fa14dc0",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "summary": "\nArticle URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/\nComments URL: https://news.ycombinator.com/item?id=49468083\nPoints: 719\n# Comments: 216\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 17:17:57",
+      "timestamp": 1787851077
+    },
+    {
+      "id": "dd917515e060",
+      "title": "Gemini Omni 1.1 Flash",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "summary": "\nArticle URL: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/\nComments URL: https://news.ycombinator.com/item?id=49467922\nPoints: 239\n# Comments: 174\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 17:06:32",
+      "timestamp": 1787850392
+    },
+    {
+      "id": "aac4d7e68bdc",
+      "title": "Small Models Have Arrived",
+      "link": "https://calv.info/small-models-have-arrived",
+      "summary": "\nArticle URL: https://calv.info/small-models-have-arrived\nComments URL: https://news.ycombinator.com/item?id=49466917\nPoints: 614\n# Comments: 282\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-27 15:56:58",
+      "timestamp": 1787846218
+    },
+    {
+      "id": "facb64bc41cc",
+      "title": "新玩意 250｜少数派的编辑们最近买了啥？",
+      "link": "https://sspai.com/post/113905",
+      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-27 18:00:05",
+      "timestamp": 1787824805
+    },
+    {
+      "id": "f89b5b4a8bec",
+      "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
+      "link": "https://sspai.com/post/89194",
+      "summary": "不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-27 15:28:44",
+      "timestamp": 1787815724
+    },
     {
       "id": "4ce011930ae4",
       "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
@@ -11,28 +396,6 @@
       "lang": "zh",
       "published": "2026-08-27 11:01:42",
       "timestamp": 1787799702
-    },
-    {
-      "id": "a2be43f0e1b9",
-      "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
-      "link": "https://www.qbitai.com/2026/08/480005.html",
-      "summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-08-27 02:46:35",
-      "timestamp": 1787798795
-    },
-    {
-      "id": "82c0d0c9fe43",
-      "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
-      "link": "https://www.qbitai.com/2026/08/480001.html",
-      "summary": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-27 01:45:08",
-      "timestamp": 1787795108
     },
     {
       "id": "4c9812fa9238",
@@ -55,61 +418,6 @@
       "lang": "en",
       "published": "2026-08-26 19:00:00",
       "timestamp": 1787770800
-    },
-    {
-      "id": "c8f0ace66410",
-      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
-      "link": "https://www.qbitai.com/2026/08/479919.html",
-      "summary": "GLM-5.3 Flash",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-08-26 16:48:12",
-      "timestamp": 1787762892
-    },
-    {
-      "id": "88df7ddbe64f",
-      "title": "AI视频应用井喷，美图打开新的增长空间",
-      "link": "https://www.qbitai.com/2026/08/479895.html",
-      "summary": "从图像到视频，美图找到了一门更赚钱的生意",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-26 10:18:10",
-      "timestamp": 1787739490
-    },
-    {
-      "id": "6e33ab80ae0c",
-      "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
-      "link": "https://www.qbitai.com/2026/08/479811.html",
-      "summary": "AI内容创作者增长187%，相关节目数量增长239%",
-      "source": "量子位",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-08-26 10:17:15",
-      "timestamp": 1787739435
-    },
-    {
-      "id": "d0a8b933602b",
-      "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
-      "link": "https://www.qbitai.com/2026/08/479834.html",
-      "summary": "具身智能迈向GPT时刻",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-26 10:07:09",
-      "timestamp": 1787738829
-    },
-    {
-      "id": "ba3ccf39fbb0",
-      "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
-      "link": "https://www.qbitai.com/2026/08/479808.html",
-      "summary": "长乐机场综保区智算中心全栈算电协同服务",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-26 09:17:08",
-      "timestamp": 1787735828
     },
     {
       "id": "72e2edf71116",
@@ -156,17 +464,6 @@
       "timestamp": 1787731143
     },
     {
-      "id": "a4528679e7ae",
-      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
-      "link": "https://sspai.com/post/113851",
-      "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...查看全文",
-      "source": "少数派",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-08-26 15:11:40",
-      "timestamp": 1787728300
-    },
-    {
       "id": "e02dc5233fee",
       "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
       "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
@@ -178,72 +475,6 @@
       "timestamp": 1787727660
     },
     {
-      "id": "f9921e5af26f",
-      "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
-      "link": "https://www.qbitai.com/2026/08/479670.html",
-      "summary": "Agnes Video 2.5 Flash",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-26 05:56:25",
-      "timestamp": 1787723785
-    },
-    {
-      "id": "27f236990457",
-      "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
-      "link": "https://www.qbitai.com/2026/08/479634.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-26 05:52:06",
-      "timestamp": 1787723526
-    },
-    {
-      "id": "3df3fb9a857b",
-      "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
-      "link": "https://www.qbitai.com/2026/08/479631.html",
-      "summary": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。",
-      "source": "量子位",
-      "category": "knowledge",
-      "lang": "zh",
-      "published": "2026-08-26 03:25:00",
-      "timestamp": 1787714700
-    },
-    {
-      "id": "2fcdc82c20f7",
-      "title": "在正镶白旗，用五天共同生活理解现代牧场",
-      "link": "https://sspai.com/post/113714",
-      "summary": "这一趟田野调查旅行打破了以往我对旅行的传统认识，不再是到了一个地方打卡就结束，而是要和当地人产生连接。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-26 10:39:24",
-      "timestamp": 1787711964
-    },
-    {
-      "id": "2864fbab06da",
-      "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等",
-      "link": "https://sspai.com/post/113847",
-      "summary": "索尼正式发布 Xperia 10 VIII 手机，Apple 钱包上线郑州绿城通交通卡等。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-26 08:09:01",
-      "timestamp": 1787702941
-    },
-    {
-      "id": "c54a5040e5b6",
-      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
-      "link": "https://sspai.com/post/113828",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-08-25 17:00:00",
-      "timestamp": 1787648400
-    },
-    {
       "id": "8df663423138",
       "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
       "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
@@ -253,28 +484,6 @@
       "lang": "en",
       "published": "2026-08-25 09:00:00",
       "timestamp": 1787648400
-    },
-    {
-      "id": "ed186fb9589b",
-      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
-      "link": "https://sspai.com/post/113673",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-08-25 15:00:00",
-      "timestamp": 1787641200
-    },
-    {
-      "id": "cda1dab9de52",
-      "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙",
-      "link": "https://sspai.com/post/112442",
-      "summary": "你会把它当成一个金融账户，还是一件属于自己人生的收藏品？查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-25 11:13:35",
-      "timestamp": 1787627615
     },
     {
       "id": "52a1f41e2bcc",
