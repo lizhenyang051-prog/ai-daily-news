@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-08-28 08:40:39",
+  "updated_at": "2026-08-29 05:18:55",
   "articles": [
+    {
+      "id": "d17100d19834",
+      "title": "2026 烟灶选购指南",
+      "link": "https://sspai.com/post/112775",
+      "summary": "如何在新老国标换代这一年买到合适自己的烟机灶具呢？查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-29 09:20:06",
+      "timestamp": 1787966406
+    },
+    {
+      "id": "5524be2f6dd1",
+      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+      "link": "https://www.qbitai.com/2026/08/480700.html",
+      "summary": "",
+      "source": "量子位",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-08-28 15:36:12",
+      "timestamp": 1787931372
+    },
+    {
+      "id": "99453329c68a",
+      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+      "link": "https://www.qbitai.com/2026/08/480666.html",
+      "summary": "久久不愿来到台前的智元掌舵人",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 11:13:35",
+      "timestamp": 1787915615
+    },
+    {
+      "id": "9af98232e27b",
+      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+      "link": "https://www.qbitai.com/2026/08/480600.html",
+      "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-28 09:45:19",
+      "timestamp": 1787910319
+    },
+    {
+      "id": "ba3458fd9bc2",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "link": "https://sspai.com/post/113944",
+      "summary": "📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-28 17:44:32",
+      "timestamp": 1787910272
+    },
     {
       "id": "63a7e2ccce5e",
       "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
@@ -11,17 +66,6 @@
       "lang": "zh",
       "published": "2026-08-28 07:20:14",
       "timestamp": 1787901614
-    },
-    {
-      "id": "1ee0dc3e7833",
-      "title": "Climate change is strengthening El Niño, coral records suggest",
-      "link": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
-      "summary": "\nArticle URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest\nComments URL: https://news.ycombinator.com/item?id=49475404\nPoints: 14\n# Comments: 1\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-28 07:19:16",
-      "timestamp": 1787901556
     },
     {
       "id": "9972e1cc72b8",
@@ -68,17 +112,6 @@
       "timestamp": 1787897639
     },
     {
-      "id": "f0a19b26366a",
-      "title": "Sovereign Tech Agency invests €500k in Flatpak",
-      "link": "https://modal.cx/blog/announcing-flatpak-sta/",
-      "summary": "\nArticle URL: https://modal.cx/blog/announcing-flatpak-sta/\nComments URL: https://news.ycombinator.com/item?id=49474786\nPoints: 79\n# Comments: 37\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-28 05:42:47",
-      "timestamp": 1787895767
-    },
-    {
       "id": "6aa640c5efc7",
       "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
       "link": "https://www.qbitai.com/2026/08/480227.html",
@@ -112,83 +145,6 @@
       "timestamp": 1787889600
     },
     {
-      "id": "68835b65dace",
-      "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
-      "link": "https://www.qbitai.com/2026/08/480208.html",
-      "summary": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-28 03:45:45",
-      "timestamp": 1787888745
-    },
-    {
-      "id": "3dab13645fe2",
-      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "summary": "\nArticle URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\nComments URL: https://news.ycombinator.com/item?id=49474060\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-28 03:35:15",
-      "timestamp": 1787888115
-    },
-    {
-      "id": "62156c5ffba2",
-      "title": "34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及",
-      "link": "https://www.qbitai.com/2026/08/480202.html",
-      "summary": "8 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）公布雷鸟 iO 首销战报",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-28 03:03:42",
-      "timestamp": 1787886222
-    },
-    {
-      "id": "b283f60bff21",
-      "title": "Bootstrappable Builds: How and Why",
-      "link": "https://lwn.net/Articles/1088279/",
-      "summary": "\nArticle URL: https://lwn.net/Articles/1088279/\nComments URL: https://news.ycombinator.com/item?id=49473868\nPoints: 36\n# Comments: 16\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-28 03:02:42",
-      "timestamp": 1787886162
-    },
-    {
-      "id": "e7d15018f89a",
-      "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
-      "link": "https://www.qbitai.com/2026/08/480083.html",
-      "summary": "8月27日，网易有道正式发布OpenPods有道AI耳机。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-28 02:48:37",
-      "timestamp": 1787885317
-    },
-    {
-      "id": "796592733c04",
-      "title": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
-      "link": "https://github.com/IndexFlowing/IndexFlow-core",
-      "summary": "\nArticle URL: https://github.com/IndexFlowing/IndexFlow-core\nComments URL: https://news.ycombinator.com/item?id=49473767\nPoints: 17\n# Comments: 6\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-28 02:46:39",
-      "timestamp": 1787885199
-    },
-    {
-      "id": "5abfa18fbe79",
-      "title": "Stripe said to abandon $50B pursuit of PayPal",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
-      "summary": "\nhttps://archive.ph/qdE54\n\nComments URL: https://news.ycombinator.com/item?id=49473483\nPoints: 132\n# Comments: 151\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-28 01:57:26",
-      "timestamp": 1787882246
-    },
-    {
       "id": "52777b61b207",
       "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
       "link": "https://sspai.com/post/113909",
@@ -209,160 +165,6 @@
       "lang": "zh",
       "published": "2026-08-28 08:29:37",
       "timestamp": 1787876977
-    },
-    {
-      "id": "3100a9eba965",
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "link": "https://www.terminal-bench-science.ai/announcement",
-      "summary": "\nArticle URL: https://www.terminal-bench-science.ai/announcement\nComments URL: https://news.ycombinator.com/item?id=49472820\nPoints: 75\n# Comments: 23\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-08-28 00:06:51",
-      "timestamp": 1787875611
-    },
-    {
-      "id": "2e88aff43dd8",
-      "title": "Select * from Internet.blogposts",
-      "link": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
-      "summary": "\nArticle URL: https://pfrazee.leaflet.pub/3mu3p2smmis22\nComments URL: https://news.ycombinator.com/item?id=49472161\nPoints: 82\n# Comments: 38\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 22:34:32",
-      "timestamp": 1787870072
-    },
-    {
-      "id": "03f212b4908d",
-      "title": "Doctors are finally learning to manage antidepressant withdrawal",
-      "link": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
-      "summary": "\nhttps://web.archive.org/web/20260826205502/https://www.newsc...https://archive.ph/zahjc\n\nComments URL: https://news.ycombinator.com/item?id=49472090\nPoints: 103\n# Comments: 96\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 22:26:04",
-      "timestamp": 1787869564
-    },
-    {
-      "id": "cc8604ea474d",
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "link": "https://github.com/elyosh/OpenTIE/",
-      "summary": "\nArticle URL: https://github.com/elyosh/OpenTIE/\nComments URL: https://news.ycombinator.com/item?id=49471965\nPoints: 152\n# Comments: 37\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 22:10:47",
-      "timestamp": 1787868647
-    },
-    {
-      "id": "2acf13272f85",
-      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-      "link": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "summary": "\nArticle URL: https://github.com/calmrocks/ai-engineer-notebooks\nComments URL: https://news.ycombinator.com/item?id=49471714\nPoints: 99\n# Comments: 11\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-08-27 21:46:39",
-      "timestamp": 1787867199
-    },
-    {
-      "id": "182f05063ac9",
-      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-      "link": "https://github.com/experientiallabs/experiential",
-      "summary": "\nHi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place.It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameter",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 21:18:35",
-      "timestamp": 1787865515
-    },
-    {
-      "id": "5b48763afc05",
-      "title": "Previewing the Model Hardware Standard",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "summary": "\nArticle URL: https://www.anthropic.com/news/model-hardware-standard-research-preview\nComments URL: https://news.ycombinator.com/item?id=49468834\nPoints: 111\n# Comments: 42\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 18:04:50",
-      "timestamp": 1787853890
-    },
-    {
-      "id": "f47c095cad4b",
-      "title": "Gemini-3.5-Transcribe",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "summary": "\nArticle URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/\nComments URL: https://news.ycombinator.com/item?id=49468818\nPoints: 263\n# Comments: 84\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 18:03:42",
-      "timestamp": 1787853822
-    },
-    {
-      "id": "d963a801ff58",
-      "title": "Show HN: Voronoi Go",
-      "link": "https://voronoigo.com/",
-      "summary": "\nI posted once before but wanted to share again because a lot has changed. There's now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The combination of these things helps a bit in finding people to play against.\n\nComments URL: https://news.yco",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 18:03:37",
-      "timestamp": 1787853817
-    },
-    {
-      "id": "b8da1287dfb1",
-      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
-      "summary": "\nArticle URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290\nComments URL: https://news.ycombinator.com/item?id=49468642\nPoints: 229\n# Comments: 179\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 17:53:40",
-      "timestamp": 1787853220
-    },
-    {
-      "id": "9ad12c6b088c",
-      "title": "M5Stack Launches PaperMono",
-      "link": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
-      "summary": "\nArticle URL: https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects\nComments URL: https://news.ycombinator.com/item?id=49468593\nPoints: 131\n# Comments: 49\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 17:50:57",
-      "timestamp": 1787853057
-    },
-    {
-      "id": "8cd68fa14dc0",
-      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "summary": "\nArticle URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/\nComments URL: https://news.ycombinator.com/item?id=49468083\nPoints: 719\n# Comments: 216\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 17:17:57",
-      "timestamp": 1787851077
-    },
-    {
-      "id": "dd917515e060",
-      "title": "Gemini Omni 1.1 Flash",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "summary": "\nArticle URL: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/\nComments URL: https://news.ycombinator.com/item?id=49467922\nPoints: 239\n# Comments: 174\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 17:06:32",
-      "timestamp": 1787850392
-    },
-    {
-      "id": "aac4d7e68bdc",
-      "title": "Small Models Have Arrived",
-      "link": "https://calv.info/small-models-have-arrived",
-      "summary": "\nArticle URL: https://calv.info/small-models-have-arrived\nComments URL: https://news.ycombinator.com/item?id=49466917\nPoints: 614\n# Comments: 282\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-27 15:56:58",
-      "timestamp": 1787846218
     },
     {
       "id": "facb64bc41cc",
@@ -440,28 +242,6 @@
       "lang": "en",
       "published": "2026-08-26 09:00:00",
       "timestamp": 1787734800
-    },
-    {
-      "id": "d303c52e8986",
-      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
-      "link": "https://sspai.com/post/68227",
-      "summary": "学生党到底有哪些专享福利？看这一篇就对了。查看全文",
-      "source": "少数派",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-08-26 16:25:44",
-      "timestamp": 1787732744
-    },
-    {
-      "id": "ab13a39d7063",
-      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
-      "link": "https://sspai.com/prime/story/zhuanglesha-260826",
-      "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-08-26 15:59:03",
-      "timestamp": 1787731143
     },
     {
       "id": "e02dc5233fee",
