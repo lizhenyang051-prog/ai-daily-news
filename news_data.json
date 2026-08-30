@@ -1,6 +1,270 @@
 {
-  "updated_at": "2026-08-29 05:18:55",
+  "updated_at": "2026-08-30 03:12:45",
   "articles": [
+    {
+      "id": "db21e2d927a2",
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "link": "https://freecore.org/",
+      "summary": "\nArticle URL: https://freecore.org/\nComments URL: https://news.ycombinator.com/item?id=49494856\nPoints: 36\n# Comments: 17\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-30 01:31:32",
+      "timestamp": 1788053492
+    },
+    {
+      "id": "a70d31574aa0",
+      "title": "Bug Blindness",
+      "link": "https://danluu.com/bug-blind/",
+      "summary": "\nArticle URL: https://danluu.com/bug-blind/\nComments URL: https://news.ycombinator.com/item?id=49494520\nPoints: 84\n# Comments: 29\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-30 00:21:40",
+      "timestamp": 1788049300
+    },
+    {
+      "id": "deda20ae3210",
+      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "link": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "summary": "\nArticle URL: https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms\nComments URL: https://news.ycombinator.com/item?id=49494231\nPoints: 122\n# Comments: 106\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 23:26:44",
+      "timestamp": 1788046004
+    },
+    {
+      "id": "f5715ddf6064",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "summary": "\nArticle URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/\nComments URL: https://news.ycombinator.com/item?id=49494182\nPoints: 143\n# Comments: 52\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 23:17:17",
+      "timestamp": 1788045437
+    },
+    {
+      "id": "1722644e0f45",
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "link": "https://defrag98.com",
+      "summary": "\nArticle URL: https://defrag98.com\nComments URL: https://news.ycombinator.com/item?id=49494036\nPoints: 99\n# Comments: 53\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 22:51:17",
+      "timestamp": 1788043877
+    },
+    {
+      "id": "59e3772e1f9e",
+      "title": "Hy4 preview",
+      "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "summary": "\nArticle URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\nComments URL: https://news.ycombinator.com/item?id=49492632\nPoints: 212\n# Comments: 130\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 19:33:23",
+      "timestamp": 1788032003
+    },
+    {
+      "id": "3432079b895b",
+      "title": "Domain-Driven Agents",
+      "link": "https://coldtake.dev/blog/domain-driven-agents",
+      "summary": "\nArticle URL: https://coldtake.dev/blog/domain-driven-agents\nComments URL: https://news.ycombinator.com/item?id=49492584\nPoints: 62\n# Comments: 9\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-08-29 19:28:28",
+      "timestamp": 1788031708
+    },
+    {
+      "id": "924547463dbf",
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "summary": "\nArticle URL: https://dl.acm.org/doi/10.1145/3830438.3830958\nComments URL: https://news.ycombinator.com/item?id=49492368\nPoints: 56\n# Comments: 17\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 19:01:09",
+      "timestamp": 1788030069
+    },
+    {
+      "id": "17cee01a6c20",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "summary": "\nArticle URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits\nComments URL: https://news.ycombinator.com/item?id=49492219\nPoints: 332\n# Comments: 55\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 18:44:37",
+      "timestamp": 1788029077
+    },
+    {
+      "id": "01b684b022ae",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "link": "https://tucker.wales/writing/bias-towards-action/",
+      "summary": "\nArticle URL: https://tucker.wales/writing/bias-towards-action/\nComments URL: https://news.ycombinator.com/item?id=49491714\nPoints: 123\n# Comments: 50\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 17:39:18",
+      "timestamp": 1788025158
+    },
+    {
+      "id": "b1591cde2a15",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "summary": "\nArticle URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity\nComments URL: https://news.ycombinator.com/item?id=49491568\nPoints: 272\n# Comments: 65\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 17:19:47",
+      "timestamp": 1788023987
+    },
+    {
+      "id": "a407df9f9a45",
+      "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+      "link": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+      "summary": "\nArticle URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest\nComments URL: https://news.ycombinator.com/item?id=49491175\nPoints: 35\n# Comments: 5\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 16:24:21",
+      "timestamp": 1788020661
+    },
+    {
+      "id": "e949d64794b2",
+      "title": "Nancy Grace Roman Space Telescope",
+      "link": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "summary": "\nhttps://nextspaceflight.com/launches/details/6983/https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac...https://en.wikipedia.org/wiki/Nancy_Grace_Roman\n\nComments URL: https://news.ycombinator.com/item?id=49490870\nPoints: 138\n# Comments: 67\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 15:48:02",
+      "timestamp": 1788018482
+    },
+    {
+      "id": "300d2a37f5cf",
+      "title": "Quantifying Colour",
+      "link": "https://ekunazanu.foo/lab/quantifying-colour/",
+      "summary": "\nArticle URL: https://ekunazanu.foo/lab/quantifying-colour/\nComments URL: https://news.ycombinator.com/item?id=49490832\nPoints: 74\n# Comments: 7\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 15:43:53",
+      "timestamp": 1788018233
+    },
+    {
+      "id": "6432f8233feb",
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "link": "https://uecker.codeberg.page/2026-08-29.html",
+      "summary": "\nArticle URL: https://uecker.codeberg.page/2026-08-29.html\nComments URL: https://news.ycombinator.com/item?id=49490138\nPoints: 69\n# Comments: 45\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 14:20:33",
+      "timestamp": 1788013233
+    },
+    {
+      "id": "20ca4c6907e0",
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "link": "https://www.qbitai.com/2026/08/481372.html",
+      "summary": "推理软件栈的微小差异，就能改变输出token",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-29 13:11:08",
+      "timestamp": 1788009068
+    },
+    {
+      "id": "8d5395e2bb77",
+      "title": "去年归国的徐梦迪，成了清华姚班班主任",
+      "link": "https://www.qbitai.com/2026/08/481318.html",
+      "summary": "本科读车辆工程，如今教AI第一班",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-29 13:01:34",
+      "timestamp": 1788008494
+    },
+    {
+      "id": "f17e6823e2fc",
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "link": "https://www.qbitai.com/2026/08/481223.html",
+      "summary": "AI「自进化」，越来越近了",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-29 12:50:31",
+      "timestamp": 1788007831
+    },
+    {
+      "id": "3cdb25df3c76",
+      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+      "link": "https://www.qbitai.com/2026/08/481075.html",
+      "summary": "3秒可处理200份PDF",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-29 12:26:49",
+      "timestamp": 1788006409
+    },
+    {
+      "id": "f23f094d835c",
+      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+      "link": "https://www.qbitai.com/2026/08/480940.html",
+      "summary": "Coding正在变成Al世界的数字执行力",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-08-29 12:11:37",
+      "timestamp": 1788005497
+    },
+    {
+      "id": "1e531e592d5b",
+      "title": "OpenClaw：红过，爱过，散了",
+      "link": "https://www.qbitai.com/2026/08/480855.html",
+      "summary": "龙虾退潮，Harness上位",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-08-29 12:00:51",
+      "timestamp": 1788004851
+    },
+    {
+      "id": "6df379593a5b",
+      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+      "link": "https://www.qbitai.com/2026/08/480787.html",
+      "summary": "从剧本到成片",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-08-29 11:35:57",
+      "timestamp": 1788003357
+    },
+    {
+      "id": "c8c9aa5716f7",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "summary": "\nArticle URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing\nComments URL: https://news.ycombinator.com/item?id=49487341\nPoints: 247\n# Comments: 94\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 06:06:51",
+      "timestamp": 1787983611
+    },
+    {
+      "id": "368f6455fcba",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "link": "https://github.com/stemdeckapp/stemdeck",
+      "summary": "\nArticle URL: https://github.com/stemdeckapp/stemdeck\nComments URL: https://news.ycombinator.com/item?id=49486081\nPoints: 209\n# Comments: 58\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-29 01:24:13",
+      "timestamp": 1787966653
+    },
     {
       "id": "d17100d19834",
       "title": "2026 烟灶选购指南",
@@ -13,6 +277,28 @@
       "timestamp": 1787966406
     },
     {
+      "id": "ee15c0d17bcf",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "summary": "\nArticle URL: https://pwning.systems/posts/llm-memory-program-analysis/\nComments URL: https://news.ycombinator.com/item?id=49485416\nPoints: 279\n# Comments: 75\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-28 23:27:45",
+      "timestamp": 1787959665
+    },
+    {
+      "id": "3fe316681170",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "link": "https://github.com/Lakr233/vphone-cli",
+      "summary": "\nArticle URL: https://github.com/Lakr233/vphone-cli\nComments URL: https://news.ycombinator.com/item?id=49485267\nPoints: 385\n# Comments: 103\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-28 23:02:21",
+      "timestamp": 1787958141
+    },
+    {
       "id": "5524be2f6dd1",
       "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
       "link": "https://www.qbitai.com/2026/08/480700.html",
@@ -22,6 +308,17 @@
       "lang": "zh",
       "published": "2026-08-28 15:36:12",
       "timestamp": 1787931372
+    },
+    {
+      "id": "ee33360e14ed",
+      "title": "Creating the Aetheryte Radio",
+      "link": "https://haz.ee/posts/aetheryte-radio.html",
+      "summary": "\nArticle URL: https://haz.ee/posts/aetheryte-radio.html\nComments URL: https://news.ycombinator.com/item?id=49479546\nPoints: 71\n# Comments: 14\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-08-28 14:59:15",
+      "timestamp": 1787929155
     },
     {
       "id": "99453329c68a",
@@ -57,17 +354,6 @@
       "timestamp": 1787910272
     },
     {
-      "id": "63a7e2ccce5e",
-      "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
-      "link": "https://www.qbitai.com/2026/08/480591.html",
-      "summary": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-28 07:20:14",
-      "timestamp": 1787901614
-    },
-    {
       "id": "9972e1cc72b8",
       "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
       "link": "https://sspai.com/post/68623",
@@ -77,61 +363,6 @@
       "lang": "zh",
       "published": "2026-08-28 15:04:57",
       "timestamp": 1787900697
-    },
-    {
-      "id": "5e9c679d3e9f",
-      "title": "首款癌症疫苗，一针300万？？？",
-      "link": "https://www.qbitai.com/2026/08/480557.html",
-      "summary": "别让顶级治疗方法称为富人专属",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-08-28 06:22:59",
-      "timestamp": 1787898179
-    },
-    {
-      "id": "8f99305c44c5",
-      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
-      "link": "https://www.qbitai.com/2026/08/480482.html",
-      "summary": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-28 06:22:20",
-      "timestamp": 1787898140
-    },
-    {
-      "id": "b2733724dd62",
-      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-      "link": "https://www.qbitai.com/2026/08/480487.html",
-      "summary": "Claude觉醒超体",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-28 06:13:59",
-      "timestamp": 1787897639
-    },
-    {
-      "id": "6aa640c5efc7",
-      "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
-      "link": "https://www.qbitai.com/2026/08/480227.html",
-      "summary": "国产算力跑通视频生成规模化应用",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-08-28 04:09:39",
-      "timestamp": 1787890179
-    },
-    {
-      "id": "239b1863e048",
-      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
-      "link": "https://www.qbitai.com/2026/08/480223.html",
-      "summary": "国产异构助力前沿智能进入普惠时代",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-28 04:06:16",
-      "timestamp": 1787889976
     },
     {
       "id": "eecf7fc8b843",
