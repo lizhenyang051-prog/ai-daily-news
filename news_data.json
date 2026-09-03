@@ -1,6 +1,369 @@
 {
-  "updated_at": "2026-09-02 02:30:43",
+  "updated_at": "2026-09-03 02:38:25",
   "articles": [
+    {
+      "id": "f3e5de422298",
+      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "link": "https://www.qbitai.com/2026/09/483462.html",
+      "summary": "4激光雷达+双M100上车",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-03 01:27:05",
+      "timestamp": 1788398825
+    },
+    {
+      "id": "bebb92d4a46a",
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "link": "https://www.qbitai.com/2026/09/483351.html",
+      "summary": "遥操，可能真的危险了",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-03 00:51:16",
+      "timestamp": 1788396676
+    },
+    {
+      "id": "c30344095ed3",
+      "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
+      "link": "https://sspai.com/post/114113",
+      "summary": "World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-03 08:31:14",
+      "timestamp": 1788395474
+    },
+    {
+      "id": "28ec86073063",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "summary": "\nArticle URL: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident\nComments URL: https://news.ycombinator.com/item?id=49543841\nPoints: 94\n# Comments: 75\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-02 23:08:47",
+      "timestamp": 1788390527
+    },
+    {
+      "id": "8da333dca636",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "link": "https://ronanrx.com/",
+      "summary": "\nHi HN,I’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.The path to RonanRx is fairly unconventional. During the pand",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 22:36:04",
+      "timestamp": 1788388564
+    },
+    {
+      "id": "e06f82192ed3",
+      "title": "Reasons robotics is hard",
+      "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "summary": "\nArticle URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 41\n# Comments: 12\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 22:02:30",
+      "timestamp": 1788386550
+    },
+    {
+      "id": "505def395c4a",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+      "summary": "\nArticle URL: https://www.bbc.com/news/articles/c86xpv8l9y9o\nComments URL: https://news.ycombinator.com/item?id=49543007\nPoints: 101\n# Comments: 65\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 21:46:33",
+      "timestamp": 1788385593
+    },
+    {
+      "id": "8dd27fc314d8",
+      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "link": "https://nango.dev/careers",
+      "summary": "\nArticle URL: https://nango.dev/careers\nComments URL: https://news.ycombinator.com/item?id=49542486\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 21:00:04",
+      "timestamp": 1788382804
+    },
+    {
+      "id": "0f1ec78389f7",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "summary": "\nArticle URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf\nComments URL: https://news.ycombinator.com/item?id=49541754\nPoints: 40\n# Comments: 23\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 20:08:22",
+      "timestamp": 1788379702
+    },
+    {
+      "id": "4bfcd3b94c7a",
+      "title": "I wanna live an NPC life",
+      "link": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "summary": "\nArticle URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/\nComments URL: https://news.ycombinator.com/item?id=49541519\nPoints: 192\n# Comments: 180\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 19:52:53",
+      "timestamp": 1788378773
+    },
+    {
+      "id": "876d9b6aaf0d",
+      "title": "Fable 5.1 World Modeling",
+      "link": "https://github.com/PhiloLabs/fable51-worlds",
+      "summary": "\nArticle URL: https://github.com/PhiloLabs/fable51-worlds\nComments URL: https://news.ycombinator.com/item?id=49541458\nPoints: 147\n# Comments: 53\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 19:49:01",
+      "timestamp": 1788378541
+    },
+    {
+      "id": "55c025f9f9cc",
+      "title": "Muse Spark 1.3",
+      "link": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "\nhttps://research.meta.ai/blog/introducing-muse-spark-1-3\n\nComments URL: https://news.ycombinator.com/item?id=49541256\nPoints: 410\n# Comments: 273\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-02 19:35:04",
+      "timestamp": 1788377704
+    },
+    {
+      "id": "1d6ff63c68b4",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "summary": "\nArticle URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7\nComments URL: https://news.ycombinator.com/item?id=49540565\nPoints: 84\n# Comments: 51\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 18:42:41",
+      "timestamp": 1788374561
+    },
+    {
+      "id": "e12636370d3a",
+      "title": "Embedded Rust RTOS vs. C RTOS",
+      "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "summary": "\nArticle URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/\nComments URL: https://news.ycombinator.com/item?id=49540415\nPoints: 57\n# Comments: 30\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 18:32:24",
+      "timestamp": 1788373944
+    },
+    {
+      "id": "cba07771c13e",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "summary": "\nhttps://deepmind.google/models/model-cards/gemini-3-8-flash/\n\nComments URL: https://news.ycombinator.com/item?id=49537553\nPoints: 843\n# Comments: 490\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 15:12:40",
+      "timestamp": 1788361960
+    },
+    {
+      "id": "5e3c26c129eb",
+      "title": "Google avoids a breakup of its ad tech business",
+      "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "summary": "\nhttps://archive.ph/rlAbYhttps://www.reuters.com/legal/litigation/google-defeats-us-b...\n\nComments URL: https://news.ycombinator.com/item?id=49537131\nPoints: 276\n# Comments: 190\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-02 14:46:16",
+      "timestamp": 1788360376
+    },
+    {
+      "id": "3a287e008e47",
+      "title": "Exit the Cave",
+      "link": "https://turtlespace.blog/p/exit-the-cave",
+      "summary": "\nArticle URL: https://turtlespace.blog/p/exit-the-cave\nComments URL: https://news.ycombinator.com/item?id=49536606\nPoints: 212\n# Comments: 78\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 14:16:45",
+      "timestamp": 1788358605
+    },
+    {
+      "id": "97c918983d93",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "link": "https://github.com/mlc-ai/web-llm",
+      "summary": "\nArticle URL: https://github.com/mlc-ai/web-llm\nComments URL: https://news.ycombinator.com/item?id=49536411\nPoints: 92\n# Comments: 17\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 14:02:35",
+      "timestamp": 1788357755
+    },
+    {
+      "id": "6f848504caff",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 14:00:00",
+      "timestamp": 1788357600
+    },
+    {
+      "id": "210018ac4c77",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "summary": "\nArticle URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\nComments URL: https://news.ycombinator.com/item?id=49536375\nPoints: 318\n# Comments: 146\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 13:59:59",
+      "timestamp": 1788357599
+    },
+    {
+      "id": "801d8ff95660",
+      "title": "Poisson Disk Sampling",
+      "link": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "summary": "\nArticle URL: https://stripeacross.com/posts/poisson-disk-sampling/\nComments URL: https://news.ycombinator.com/item?id=49536177\nPoints: 130\n# Comments: 19\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 13:47:49",
+      "timestamp": 1788356869
+    },
+    {
+      "id": "4a82b78d6872",
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "link": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "summary": "\nArticle URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle\nComments URL: https://news.ycombinator.com/item?id=49536079\nPoints: 255\n# Comments: 84\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 13:40:29",
+      "timestamp": 1788356429
+    },
+    {
+      "id": "cf78b0afadf8",
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "link": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "summary": "\nArticle URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/\nComments URL: https://news.ycombinator.com/item?id=49535548\nPoints: 214\n# Comments: 98\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 12:59:09",
+      "timestamp": 1788353949
+    },
+    {
+      "id": "088dbaee7800",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "summary": "\nArticle URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training\nComments URL: https://news.ycombinator.com/item?id=49535284\nPoints: 378\n# Comments: 166\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-02 12:30:39",
+      "timestamp": 1788352239
+    },
+    {
+      "id": "a9261f983d24",
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "link": "https://sspai.com/post/114084",
+      "summary": "上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-02 17:40:56",
+      "timestamp": 1788342056
+    },
+    {
+      "id": "b680d0987507",
+      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+      "link": "https://www.qbitai.com/2026/09/483274.html",
+      "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-09-02 09:22:16",
+      "timestamp": 1788340936
+    },
+    {
+      "id": "c09cda987760",
+      "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
+      "link": "https://sspai.com/post/80562",
+      "summary": "Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文",
+      "source": "少数派",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-02 15:22:27",
+      "timestamp": 1788333747
+    },
+    {
+      "id": "8aefdbcd094a",
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "link": "https://www.qbitai.com/2026/09/483104.html",
+      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-09-02 06:20:17",
+      "timestamp": 1788330017
+    },
+    {
+      "id": "00b0f449e6f1",
+      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+      "link": "https://www.qbitai.com/2026/09/483101.html",
+      "summary": "",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-02 06:10:26",
+      "timestamp": 1788329426
+    },
+    {
+      "id": "290936d62d6f",
+      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+      "link": "https://www.qbitai.com/2026/09/483097.html",
+      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-02 06:06:50",
+      "timestamp": 1788329210
+    },
+    {
+      "id": "571a142ebdd6",
+      "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+      "link": "https://sspai.com/post/113581",
+      "summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-02 11:00:00",
+      "timestamp": 1788318000
+    },
+    {
+      "id": "978b2b585664",
+      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "link": "https://www.qbitai.com/2026/09/482967.html",
+      "summary": "AI客服日扛1.5万通电话",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-02 02:48:06",
+      "timestamp": 1788317286
+    },
+    {
+      "id": "427929446709",
+      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+      "link": "https://www.qbitai.com/2026/09/482652.html",
+      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-02 02:18:12",
+      "timestamp": 1788315492
+    },
     {
       "id": "06a0a7ac00fa",
       "title": "香港首个真实开放场景服务机器人落地兰桂坊",
@@ -24,248 +387,6 @@
       "timestamp": 1788313464
     },
     {
-      "id": "beba3fe01cb7",
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "link": "https://www.qbitai.com/2026/09/482586.html",
-      "summary": "一张图补全3D世界，还能给机器人造训练场",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-02 01:07:13",
-      "timestamp": 1788311233
-    },
-    {
-      "id": "3e7231b1f9e9",
-      "title": "The efficient frontier of LLM inference",
-      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "summary": "\nArticle URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=49529898\nPoints: 47\n# Comments: 7\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 23:48:05",
-      "timestamp": 1788306485
-    },
-    {
-      "id": "1718ebed91ed",
-      "title": "Improving our alignment and security efforts",
-      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "summary": "\nArticle URL: https://www.anthropic.com/news/improving-alignment-security-efforts\nComments URL: https://news.ycombinator.com/item?id=49529567\nPoints: 16\n# Comments: 7\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 23:12:45",
-      "timestamp": 1788304365
-    },
-    {
-      "id": "e2e4599eb0ff",
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "link": "https://lws.io/blog/my-local-model-setup/",
-      "summary": "\nArticle URL: https://lws.io/blog/my-local-model-setup/\nComments URL: https://news.ycombinator.com/item?id=49529132\nPoints: 74\n# Comments: 30\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 22:30:52",
-      "timestamp": 1788301852
-    },
-    {
-      "id": "b632b796277d",
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "link": "https://masteranza.github.io/weedout/",
-      "summary": "\nI'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 22:06:57",
-      "timestamp": 1788300417
-    },
-    {
-      "id": "a6b381c10301",
-      "title": "Fluorescent lamps (don't) have ears",
-      "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
-      "summary": "\nArticle URL: https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears\nComments URL: https://news.ycombinator.com/item?id=49528366\nPoints: 28\n# Comments: 8\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 21:19:10",
-      "timestamp": 1788297550
-    },
-    {
-      "id": "756693d9f7dd",
-      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "link": "https://hnmatchmaker.com/",
-      "summary": "\nHi!Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\".So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on sal",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 20:53:35",
-      "timestamp": 1788296015
-    },
-    {
-      "id": "24906eb3095b",
-      "title": "Hang on to Your Firefox",
-      "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-      "summary": "\nArticle URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox\nComments URL: https://news.ycombinator.com/item?id=49527748\nPoints: 591\n# Comments: 314\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 20:30:51",
-      "timestamp": 1788294651
-    },
-    {
-      "id": "a188e73542fb",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra/",
-      "summary": "\nArticle URL: https://openai.com/index/path-to-astra/\nComments URL: https://news.ycombinator.com/item?id=49527595\nPoints: 97\n# Comments: 41\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-01 20:20:41",
-      "timestamp": 1788294041
-    },
-    {
-      "id": "12bba2a05563",
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "summary": "\nArticle URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/\nComments URL: https://news.ycombinator.com/item?id=49527396\nPoints: 252\n# Comments: 118\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 20:07:57",
-      "timestamp": 1788293277
-    },
-    {
-      "id": "f5875fc27ede",
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "summary": "\nArticle URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\nComments URL: https://news.ycombinator.com/item?id=49527232\nPoints: 90\n# Comments: 44\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 19:55:47",
-      "timestamp": 1788292547
-    },
-    {
-      "id": "f7160ecaa7aa",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "link": "https://danluu.com/zitron/",
-      "summary": "\nArticle URL: https://danluu.com/zitron/\nComments URL: https://news.ycombinator.com/item?id=49526069\nPoints: 446\n# Comments: 521\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 18:35:15",
-      "timestamp": 1788287715
-    },
-    {
-      "id": "40d8dc8776b9",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "summary": "\nWhat's new in Claude Fable 5.1\n – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\n\nComments URL: https://news.ycombinator.com/item?id=49525378\nPoints: 962\n# Comments: 894\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 17:53:53",
-      "timestamp": 1788285233
-    },
-    {
-      "id": "e1adaace3d04",
-      "title": "The creator of Jujutsu has joined ERSC",
-      "link": "https://ersc.io/blog/martin-joins-ersc",
-      "summary": "\nArticle URL: https://ersc.io/blog/martin-joins-ersc\nComments URL: https://news.ycombinator.com/item?id=49525297\nPoints: 188\n# Comments: 149\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 17:46:21",
-      "timestamp": 1788284781
-    },
-    {
-      "id": "c50cc9ea9faa",
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "link": "https://www.worldlabs.ai/blog/atlas",
-      "summary": "\nArticle URL: https://www.worldlabs.ai/blog/atlas\nComments URL: https://news.ycombinator.com/item?id=49525160\nPoints: 155\n# Comments: 40\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 17:36:02",
-      "timestamp": 1788284162
-    },
-    {
-      "id": "a563f2f77fcb",
-      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "link": "https://www.norirobotics.com/",
-      "summary": "\nHey HN, I’m Antonio from Nori Robotics (https://norirobotics.com). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 17:35:10",
-      "timestamp": 1788284110
-    },
-    {
-      "id": "37b8393cd0cb",
-      "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-      "link": "https://news.ycombinator.com/item?id=49524704",
-      "summary": "\n\nComments URL: https://news.ycombinator.com/item?id=49524704\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 17:00:14",
-      "timestamp": 1788282014
-    },
-    {
-      "id": "50b3ca61478f",
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "link": "https://github.com/carloslfu/slotstream",
-      "summary": "\nI built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift.It ships with auto-mode, which makes a go",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 16:42:46",
-      "timestamp": 1788280966
-    },
-    {
-      "id": "3c2847d61093",
-      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-      "link": "https://moviescenemap.com/",
-      "summary": "\nArticle URL: https://moviescenemap.com/\nComments URL: https://news.ycombinator.com/item?id=49524320\nPoints: 155\n# Comments: 28\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 16:34:45",
-      "timestamp": 1788280485
-    },
-    {
-      "id": "d15b3cf4e95a",
-      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-      "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-      "summary": "\nArticle URL: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566\nComments URL: https://news.ycombinator.com/item?id=49523754\nPoints: 473\n# Comments: 200\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 15:55:53",
-      "timestamp": 1788278153
-    },
-    {
-      "id": "ea03fee60e3b",
-      "title": "Ambient CSS v3 – Blender meets CSS",
-      "link": "https://ambientcss.vercel.app/",
-      "summary": "\nArticle URL: https://ambientcss.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49523387\nPoints: 199\n# Comments: 68\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-01 15:35:11",
-      "timestamp": 1788276911
-    },
-    {
-      "id": "d20540186da2",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "link": "https://www.qbitai.com/2026/09/482512.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-01 12:02:39",
-      "timestamp": 1788264159
-    },
-    {
       "id": "83bda1f8385b",
       "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
       "link": "https://sspai.com/post/114078",
@@ -275,39 +396,6 @@
       "lang": "zh",
       "published": "2026-09-01 17:00:00",
       "timestamp": 1788253200
-    },
-    {
-      "id": "12b899e03ce0",
-      "title": "GitHub最热架构图Agent，开发者故事看哭了",
-      "link": "https://www.qbitai.com/2026/09/482469.html",
-      "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-01 08:26:54",
-      "timestamp": 1788251214
-    },
-    {
-      "id": "2c8099bde971",
-      "title": "急急急用电！马斯克开造燃气轮机叶片",
-      "link": "https://www.qbitai.com/2026/09/482451.html",
-      "summary": "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-01 08:24:12",
-      "timestamp": 1788251052
-    },
-    {
-      "id": "bb630ef2ff28",
-      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-      "link": "https://www.qbitai.com/2026/09/482406.html",
-      "summary": "主打一个明升暗降，理直气壮",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-01 08:15:40",
-      "timestamp": 1788250540
     },
     {
       "id": "bef15f4f8439",
@@ -330,28 +418,6 @@
       "lang": "zh",
       "published": "2026-09-01 15:00:00",
       "timestamp": 1788246000
-    },
-    {
-      "id": "90a7288b821e",
-      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-      "link": "https://www.qbitai.com/2026/09/482337.html",
-      "summary": "参数冻结，能力暴涨",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-01 05:12:30",
-      "timestamp": 1788239550
-    },
-    {
-      "id": "90658ec76959",
-      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-      "link": "https://www.qbitai.com/2026/09/482300.html",
-      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-01 04:12:49",
-      "timestamp": 1788235969
     },
     {
       "id": "769502ab8f29",
@@ -385,61 +451,6 @@
       "lang": "en",
       "published": "2026-08-31 18:00:00",
       "timestamp": 1788199200
-    },
-    {
-      "id": "2139255764a3",
-      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-      "link": "https://www.qbitai.com/2026/08/481928.html",
-      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-31 13:20:29",
-      "timestamp": 1788182429
-    },
-    {
-      "id": "7ad957cce83d",
-      "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
-      "link": "https://sspai.com/post/114043",
-      "summary": "在多人联机游戏里， 你都跟同伴一起创造过怎样的回忆？查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-31 18:48:43",
-      "timestamp": 1788173323
-    },
-    {
-      "id": "d9337fae83d3",
-      "title": "派评 | 近期值得关注的 App",
-      "link": "https://sspai.com/post/114041",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-31 18:05:00",
-      "timestamp": 1788170700
-    },
-    {
-      "id": "ff7b287dc807",
-      "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
-      "link": "https://sspai.com/prime/story/home-made-beverages-4",
-      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）：常用固体物料推荐从这篇开始正式进入配方介绍及制作阶段，这里会有很多配料之前没提到过，会单独讲一下。尽力帮助大家在家也能做出好喝的夏日 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-31 17:09:27",
-      "timestamp": 1788167367
-    },
-    {
-      "id": "e0566f4cb7a3",
-      "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
-      "link": "https://sspai.com/post/114027",
-      "summary": "查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-08-31 14:57:03",
-      "timestamp": 1788159423
     },
     {
       "id": "8b93a8682507",
@@ -528,17 +539,6 @@
       "lang": "en",
       "published": "2026-08-20 15:42:39",
       "timestamp": 1787240559
-    },
-    {
-      "id": "694ec24596bc",
-      "title": "Unlocking hidden revenue streams with market models",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-20 09:47:22",
-      "timestamp": 1787219242
     }
   ]
 }
