@@ -1,27 +1,291 @@
 {
-  "updated_at": "2026-09-04 02:34:48",
+  "updated_at": "2026-09-05 02:36:06",
   "articles": [
     {
-      "id": "94b4666c0901",
-      "title": "Project Xanadu: Even More Hindsight",
-      "link": "https://gwern.net/xanadu",
-      "summary": "\nArticle URL: https://gwern.net/xanadu\nComments URL: https://news.ycombinator.com/item?id=49559522\nPoints: 4\n# Comments: 0\n",
+      "id": "61fecbfa77e3",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "summary": "\nArticle URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\nComments URL: https://news.ycombinator.com/item?id=49571632\nPoints: 51\n# Comments: 16\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-04 01:45:23",
-      "timestamp": 1788486323
+      "published": "2026-09-05 00:04:14",
+      "timestamp": 1788566654
     },
     {
-      "id": "b208387e5867",
-      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
-      "link": "https://www.qbitai.com/2026/09/483598.html",
-      "summary": "吃下90%市场",
-      "source": "量子位",
+      "id": "eb8f084e3671",
+      "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
+      "link": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
+      "summary": "\nArticle URL: https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/\nComments URL: https://news.ycombinator.com/item?id=49571627\nPoints: 19\n# Comments: 6\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-05 00:03:08",
+      "timestamp": 1788566588
+    },
+    {
+      "id": "d08580b55f7b",
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "link": "https://moadim.io/",
+      "summary": "\nWhy can't we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp/ui/http- unlimited routines/cronsSo I built one, moadim.io is a local Rust daemon you install in the target machine, g",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-04 23:50:29",
+      "timestamp": 1788565829
+    },
+    {
+      "id": "d1ccd78732fd",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "summary": "\nArticle URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\nComments URL: https://news.ycombinator.com/item?id=49571465\nPoints: 41\n# Comments: 13\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 23:38:50",
+      "timestamp": 1788565130
+    },
+    {
+      "id": "197859870d5e",
+      "title": "Connecting every app to every other app",
+      "link": "https://blog.val.town/connectors",
+      "summary": "\nArticle URL: https://blog.val.town/connectors\nComments URL: https://news.ycombinator.com/item?id=49571263\nPoints: 11\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 23:09:59",
+      "timestamp": 1788563399
+    },
+    {
+      "id": "73fa684a92d4",
+      "title": "Can guitar frets perform multiplication?",
+      "link": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "summary": "\nArticle URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html\nComments URL: https://news.ycombinator.com/item?id=49571047\nPoints: 32\n# Comments: 8\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 22:40:30",
+      "timestamp": 1788561630
+    },
+    {
+      "id": "5a2845927d6f",
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "summary": "\nArticle URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\nComments URL: https://news.ycombinator.com/item?id=49570772\nPoints: 204\n# Comments: 139\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 22:03:16",
+      "timestamp": 1788559396
+    },
+    {
+      "id": "69756b3ff0e0",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "summary": "\nArticle URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046\nComments URL: https://news.ycombinator.com/item?id=49570669\nPoints: 255\n# Comments: 144\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 21:52:01",
+      "timestamp": 1788558721
+    },
+    {
+      "id": "1220227938c4",
+      "title": "Icons as a Service",
+      "link": "https://nravic.com/blog/images/",
+      "summary": "\nArticle URL: https://nravic.com/blog/images/\nComments URL: https://news.ycombinator.com/item?id=49570597\nPoints: 22\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 21:44:59",
+      "timestamp": 1788558299
+    },
+    {
+      "id": "b21694178d95",
+      "title": "GPT-6 Astra on OpenRouter",
+      "link": "https://openrouter.ai/openai/gpt-6-astra",
+      "summary": "\nArticle URL: https://openrouter.ai/openai/gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=49570545\nPoints: 128\n# Comments: 68\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-04 21:39:19",
+      "timestamp": 1788557959
+    },
+    {
+      "id": "d879e543538c",
+      "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+      "link": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+      "summary": "\nArticle URL: https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/\nComments URL: https://news.ycombinator.com/item?id=49570328\nPoints: 24\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 21:16:16",
+      "timestamp": 1788556576
+    },
+    {
+      "id": "0000ed839d78",
+      "title": "Statichost.eu – European static site hosting",
+      "link": "https://www.statichost.eu/",
+      "summary": "\nArticle URL: https://www.statichost.eu/\nComments URL: https://news.ycombinator.com/item?id=49569896\nPoints: 177\n# Comments: 55\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 20:34:49",
+      "timestamp": 1788554089
+    },
+    {
+      "id": "dca42f45490f",
+      "title": "How to Create a Tor Exit Node (2015)",
+      "link": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+      "summary": "\nArticle URL: https://madpsy.uk/how-to-create-a-tor-exit-node/\nComments URL: https://news.ycombinator.com/item?id=49569702\nPoints: 43\n# Comments: 18\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 20:16:22",
+      "timestamp": 1788552982
+    },
+    {
+      "id": "c87e7e9a2aef",
+      "title": "An open DNS recursive service for free security and high privacy",
+      "link": "https://quad9.net/",
+      "summary": "\nArticle URL: https://quad9.net/\nComments URL: https://news.ycombinator.com/item?id=49569663\nPoints: 64\n# Comments: 14\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 20:13:08",
+      "timestamp": 1788552788
+    },
+    {
+      "id": "554ae5a2c6d3",
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "summary": "\nArticle URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/\nComments URL: https://news.ycombinator.com/item?id=49569366\nPoints: 172\n# Comments: 111\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 19:48:29",
+      "timestamp": 1788551309
+    },
+    {
+      "id": "fec9c55eb2a5",
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "summary": "\nArticle URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/\nComments URL: https://news.ycombinator.com/item?id=49568828\nPoints: 75\n# Comments: 22\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 19:06:39",
+      "timestamp": 1788548799
+    },
+    {
+      "id": "27dadc7201d5",
+      "title": "Fermat's Last Theorem in Lean 4",
+      "link": "https://github.com/anthropics/fermats-last-theorem",
+      "summary": "\nArticle URL: https://github.com/anthropics/fermats-last-theorem\nComments URL: https://news.ycombinator.com/item?id=49568697\nPoints: 69\n# Comments: 15\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 18:57:32",
+      "timestamp": 1788548252
+    },
+    {
+      "id": "9d8df5409176",
+      "title": "Shutting down our public encrypted DNS",
+      "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "summary": "\nArticle URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\nComments URL: https://news.ycombinator.com/item?id=49568579\nPoints: 256\n# Comments: 103\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 18:50:28",
+      "timestamp": 1788547828
+    },
+    {
+      "id": "4cc440af96b4",
+      "title": "Formalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "summary": "\nhttps://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...\n\nComments URL: https://news.ycombinator.com/item?id=49568506\nPoints: 505\n# Comments: 322\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 18:42:56",
+      "timestamp": 1788547376
+    },
+    {
+      "id": "a1846490b8b3",
+      "title": "Architecting memory and storage in the AI era",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 18:39:19",
+      "timestamp": 1788547159
+    },
+    {
+      "id": "bca05881914c",
+      "title": "The Rust React Compiler is now native in Vite",
+      "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "summary": "\nArticle URL: https://blog.master.dev/react-now-rusted-all-the-way-out/\nComments URL: https://news.ycombinator.com/item?id=49567873\nPoints: 116\n# Comments: 22\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 17:49:09",
+      "timestamp": 1788544149
+    },
+    {
+      "id": "b5681cbd8174",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "link": "https://sspai.com/post/114175",
+      "summary": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文",
+      "source": "少数派",
       "category": "tool",
       "lang": "zh",
-      "published": "2026-09-04 01:40:42",
-      "timestamp": 1788486042
+      "published": "2026-09-04 17:32:48",
+      "timestamp": 1788514368
+    },
+    {
+      "id": "26d9c1bc3236",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-04 09:25:19",
+      "timestamp": 1788513919
+    },
+    {
+      "id": "207b24846f31",
+      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+      "link": "https://sspai.com/post/114110",
+      "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-04 15:11:46",
+      "timestamp": 1788505906
+    },
+    {
+      "id": "9d26ad38333c",
+      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
+      "link": "https://sspai.com/post/114117",
+      "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文",
+      "source": "少数派",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-09-04 15:01:57",
+      "timestamp": 1788505317
+    },
+    {
+      "id": "aafa8167f884",
+      "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
+      "link": "https://sspai.com/post/113990",
+      "summary": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-04 11:25:29",
+      "timestamp": 1788492329
     },
     {
       "id": "ccdb2503d1b7",
@@ -35,259 +299,6 @@
       "timestamp": 1788482869
     },
     {
-      "id": "2e5cb98feadf",
-      "title": "GLP-1s are being linked to fewer serious infections, including TB",
-      "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-      "summary": "\nhttps://web.archive.org/web/20260903235256/https://gizmodo.c...\n\nComments URL: https://news.ycombinator.com/item?id=49558086\nPoints: 61\n# Comments: 39\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 22:37:31",
-      "timestamp": 1788475051
-    },
-    {
-      "id": "bc669bbcce66",
-      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-      "link": "https://www.qbitai.com/2026/09/483948.html",
-      "summary": "改进GPT Image 2的噪点问题",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 21:57:08",
-      "timestamp": 1788472628
-    },
-    {
-      "id": "2ac1ac49a751",
-      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-      "link": "https://www.qbitai.com/2026/09/483898.html",
-      "summary": "全球最强C",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 21:50:07",
-      "timestamp": 1788472207
-    },
-    {
-      "id": "fba43d06b040",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "summary": "\nArticle URL: https://armature.tech/blog/which-tools-coding-agents-install\nComments URL: https://news.ycombinator.com/item?id=49557206\nPoints: 110\n# Comments: 35\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 21:20:34",
-      "timestamp": 1788470434
-    },
-    {
-      "id": "f812303731e8",
-      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-      "link": "https://tasklet.ai/careers/customer-success-engineer",
-      "summary": "\nArticle URL: https://tasklet.ai/careers/customer-success-engineer\nComments URL: https://news.ycombinator.com/item?id=49556922\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 21:01:10",
-      "timestamp": 1788469270
-    },
-    {
-      "id": "d90057cf3200",
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "link": "https://arcprize.org/blog/astra",
-      "summary": "\nArticle URL: https://arcprize.org/blog/astra\nComments URL: https://news.ycombinator.com/item?id=49555691\nPoints: 169\n# Comments: 99\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-03 19:45:00",
-      "timestamp": 1788464700
-    },
-    {
-      "id": "f4d2051fc0bf",
-      "title": "The asteroid currently hitting front end web development",
-      "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-      "summary": "\nArticle URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/\nComments URL: https://news.ycombinator.com/item?id=49555233\nPoints: 81\n# Comments: 91\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 19:17:24",
-      "timestamp": 1788463044
-    },
-    {
-      "id": "5bee955d39e0",
-      "title": "GPT-6 Astra",
-      "link": "https://openai.com/index/gpt-6-astra/",
-      "summary": "\nSystem Card: https://deploymentsafety.openai.com/gpt-6-astraRelated ongoing threads:OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https://news.ycombinator.com/item?id=49556147\n\nComments ",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-03 18:41:05",
-      "timestamp": 1788460865
-    },
-    {
-      "id": "ae9e1208bbe0",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "link": "https://inference-docs.cerebras.ai/models/overview",
-      "summary": "\nArticle URL: https://inference-docs.cerebras.ai/models/overview\nComments URL: https://news.ycombinator.com/item?id=49554520\nPoints: 460\n# Comments: 135\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 18:32:13",
-      "timestamp": 1788460333
-    },
-    {
-      "id": "e2f5073785b3",
-      "title": "How concerned should we be about Astra's recurrent architecture?",
-      "link": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
-      "summary": "\nArticle URL: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent\nComments URL: https://news.ycombinator.com/item?id=49553321\nPoints: 94\n# Comments: 52\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 17:10:06",
-      "timestamp": 1788455406
-    },
-    {
-      "id": "ab2494facf5c",
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "summary": "\nArticle URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california\nComments URL: https://news.ycombinator.com/item?id=49552572\nPoints: 169\n# Comments: 55\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 16:21:33",
-      "timestamp": 1788452493
-    },
-    {
-      "id": "5cf123a017c8",
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "link": "https://ifm.ai/blog/k2/",
-      "summary": "\nArticle URL: https://ifm.ai/blog/k2/\nComments URL: https://news.ycombinator.com/item?id=49551760\nPoints: 261\n# Comments: 84\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 15:36:43",
-      "timestamp": 1788449803
-    },
-    {
-      "id": "64ec258a9fa3",
-      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-      "link": "https://news.ycombinator.com/item?id=49551096",
-      "summary": "\nhttps://status.openai.comhttps://status.claude.comhttps://status.x.aiChatGPT outage – Resolved - https://news.ycombinator.com/item?id=49550614 (315 comments)Claude outage – Resolved - https://news.ycombinator.com/item?id=49549676 (146 comments)Grok outage - https://news.ycombinator.com/item?id=4955",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 15:07:01",
-      "timestamp": 1788448021
-    },
-    {
-      "id": "e69316b73517",
-      "title": ".name Termination",
-      "link": "https://neil.fraser.name/news/2026/09/03/",
-      "summary": "\nArticle URL: https://neil.fraser.name/news/2026/09/03/\nComments URL: https://news.ycombinator.com/item?id=49550772\nPoints: 1399\n# Comments: 382\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 14:54:39",
-      "timestamp": 1788447279
-    },
-    {
-      "id": "0c762a270189",
-      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-      "link": "https://anyhumanever.com/",
-      "summary": "\nArticle URL: https://anyhumanever.com/\nComments URL: https://news.ycombinator.com/item?id=49550698\nPoints: 478\n# Comments: 244\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 14:51:10",
-      "timestamp": 1788447070
-    },
-    {
-      "id": "3e54754ca2dd",
-      "title": "Show HN: I made a word building game supporting anagrams and one handed use",
-      "link": "https://news.ycombinator.com/item?id=49550479",
-      "summary": "\nHi everyone,Wanted to share a game I built. It's called Unscramble! and I believe it's the simplest word building game.Rules: You get a few letters on screen. You need to make one word with all the letters. Tap a letter to select. Tap again to deselect. Faster you go, better you score.If you enter ",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 14:37:21",
-      "timestamp": 1788446241
-    },
-    {
-      "id": "dc7487e256a4",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "summary": "\nThese are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.I spent the last few weeks analy",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 14:28:18",
-      "timestamp": 1788445698
-    },
-    {
-      "id": "76b1d8329bca",
-      "title": "“没有Token的CS学生，应立即退学”",
-      "link": "https://www.qbitai.com/2026/09/483839.html",
-      "summary": "禁止古法编程、Token自费",
-      "source": "量子位",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-09-03 11:32:08",
-      "timestamp": 1788435128
-    },
-    {
-      "id": "0b2c030ab7dc",
-      "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
-      "link": "https://www.qbitai.com/2026/09/483786.html",
-      "summary": "眼镜、耳机、麦克风都来了",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-03 11:25:29",
-      "timestamp": 1788434729
-    },
-    {
-      "id": "910aabd2da3f",
-      "title": "Ask HN: Who is using MCP in production?",
-      "link": "https://news.ycombinator.com/item?id=49548600",
-      "summary": "\nI’ve been following MCP since it first came out.\nIt got a lot of attention early on, but I haven’t come across many people using it in production.\nI may simply have missed them.If you’re using MCP in production, what are you using it for?\nWhat advantages have you found over a normal API or direct t",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 11:21:18",
-      "timestamp": 1788434478
-    },
-    {
-      "id": "57192c0819c3",
-      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-      "link": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-      "summary": "\nArticle URL: https://twitter.com/GergelyOrosz/status/2095453567955968398\nComments URL: https://news.ycombinator.com/item?id=49548452\nPoints: 283\n# Comments: 195\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-03 11:01:04",
-      "timestamp": 1788433264
-    },
-    {
-      "id": "d6debc539896",
-      "title": "Audacity 4.0",
-      "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-      "summary": "\nArticle URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0\nComments URL: https://news.ycombinator.com/item?id=49548395\nPoints: 1054\n# Comments: 235\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 10:53:08",
-      "timestamp": 1788432788
-    },
-    {
-      "id": "8367ea3ced4b",
-      "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
-      "link": "https://www.qbitai.com/2026/09/483189.html",
-      "summary": "单图直出场景，顶会最佳论文落地",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-09-03 10:18:36",
-      "timestamp": 1788430716
-    },
-    {
       "id": "b79b5e0c507c",
       "title": "新玩意 251｜少数派的编辑们最近买了啥？",
       "link": "https://sspai.com/post/114154",
@@ -297,17 +308,6 @@
       "lang": "zh",
       "published": "2026-09-03 18:18:06",
       "timestamp": 1788430686
-    },
-    {
-      "id": "ab4e702c3532",
-      "title": "陈大年复出，入局大模型",
-      "link": "https://www.qbitai.com/2026/09/483600.html",
-      "summary": "首秀逼近DeepSeek万亿旗舰",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 10:13:24",
-      "timestamp": 1788430404
     },
     {
       "id": "381766d2f01c",
@@ -330,50 +330,6 @@
       "lang": "zh",
       "published": "2026-09-03 11:32:28",
       "timestamp": 1788406348
-    },
-    {
-      "id": "7baccbcab53e",
-      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-      "link": "https://www.qbitai.com/2026/09/483565.html",
-      "summary": "从工厂一路干到家庭",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 03:16:43",
-      "timestamp": 1788405403
-    },
-    {
-      "id": "56248e64862f",
-      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-      "link": "https://www.qbitai.com/2026/09/483552.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 01:31:45",
-      "timestamp": 1788399105
-    },
-    {
-      "id": "f3e5de422298",
-      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-      "link": "https://www.qbitai.com/2026/09/483462.html",
-      "summary": "4激光雷达+双M100上车",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 01:27:05",
-      "timestamp": 1788398825
-    },
-    {
-      "id": "ff9dbd15e323",
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "summary": "\nArticle URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007\nComments URL: https://news.ycombinator.com/item?id=49544762\nPoints: 204\n# Comments: 56\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-03 01:11:22",
-      "timestamp": 1788397882
     },
     {
       "id": "c30344095ed3",
@@ -407,50 +363,6 @@
       "lang": "zh",
       "published": "2026-09-02 17:40:56",
       "timestamp": 1788342056
-    },
-    {
-      "id": "c09cda987760",
-      "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
-      "link": "https://sspai.com/post/80562",
-      "summary": "Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文",
-      "source": "少数派",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-02 15:22:27",
-      "timestamp": 1788333747
-    },
-    {
-      "id": "571a142ebdd6",
-      "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
-      "link": "https://sspai.com/post/113581",
-      "summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-02 11:00:00",
-      "timestamp": 1788318000
-    },
-    {
-      "id": "83bda1f8385b",
-      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
-      "link": "https://sspai.com/post/114078",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-01 17:00:00",
-      "timestamp": 1788253200
-    },
-    {
-      "id": "bef15f4f8439",
-      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "link": "https://sspai.com/post/114071",
-      "summary": "北京时间9月10日凌晨，Apple一年一度的秋季特别活动即将拉开帷幕，我们会在Keynote讲演环节中见到新一年度的iPhone、AppleWatch等多个新品。除了备受期待的iPhone18Pro系 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-01 15:18:43",
-      "timestamp": 1788247123
     },
     {
       "id": "b8cb257226fc",
@@ -528,28 +440,6 @@
       "lang": "en",
       "published": "2026-08-24 14:20:19",
       "timestamp": 1787581219
-    },
-    {
-      "id": "7a56cb3db2bf",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-24 09:00:00",
-      "timestamp": 1787562000
-    },
-    {
-      "id": "e74c797b71c0",
-      "title": "Debates over AI consciousness are a trap",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ",
-      "source": "MIT Tech Review",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-08-20 15:42:39",
-      "timestamp": 1787240559
     }
   ]
 }
