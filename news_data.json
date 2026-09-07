@@ -1,137 +1,269 @@
 {
-  "updated_at": "2026-09-06 02:32:41",
+  "updated_at": "2026-09-07 02:30:14",
   "articles": [
     {
-      "id": "158e18d2d5ac",
-      "title": "Gateside by TSA Precheck",
-      "link": "https://www.tsa.gov/precheck/gateside-tsa-precheck",
-      "summary": "\nArticle URL: https://www.tsa.gov/precheck/gateside-tsa-precheck\nComments URL: https://news.ycombinator.com/item?id=49582410\nPoints: 7\n# Comments: 2\n",
+      "id": "1d9532befcd9",
+      "title": "Ponytail: Lazy Senior Engineer Skill",
+      "link": "https://ponytail.dev/",
+      "summary": "\nArticle URL: https://ponytail.dev/\nComments URL: https://news.ycombinator.com/item?id=49592706\nPoints: 21\n# Comments: 12\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-06 01:12:43",
-      "timestamp": 1788657163
+      "published": "2026-09-07 01:18:17",
+      "timestamp": 1788743897
     },
     {
-      "id": "e53e0ad33aa3",
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "link": "https://cloudinabottle.org/blog/launch-post",
-      "summary": "\nArticle URL: https://cloudinabottle.org/blog/launch-post\nComments URL: https://news.ycombinator.com/item?id=49582000\nPoints: 140\n# Comments: 44\n",
+      "id": "b7568627519c",
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "link": "https://github.com/Staatsgeheim/MathKernel",
+      "summary": "\nArticle URL: https://github.com/Staatsgeheim/MathKernel\nComments URL: https://news.ycombinator.com/item?id=49592366\nPoints: 5\n# Comments: 0\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-06 00:03:29",
-      "timestamp": 1788653009
+      "published": "2026-09-07 00:21:01",
+      "timestamp": 1788740461
     },
     {
-      "id": "2fc85acf0f66",
-      "title": "Chrome again exempts Google from user site data settings",
-      "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "summary": "\nArticle URL: https://lapcatsoftware.com/articles/2026/9/1.html\nComments URL: https://news.ycombinator.com/item?id=49581870\nPoints: 74\n# Comments: 1\n",
+      "id": "99f54ec9ba97",
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+      "link": "https://sspai.com/post/114250",
+      "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
+      "source": "少数派",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-07 08:20:41",
+      "timestamp": 1788740441
+    },
+    {
+      "id": "74f513b606f3",
+      "title": "Hard-Chat – A serverless, RAM-only P2P terminal chat",
+      "link": "https://github.com/mrhardlint/Hard-Chat",
+      "summary": "\nArticle URL: https://github.com/mrhardlint/Hard-Chat\nComments URL: https://news.ycombinator.com/item?id=49592210\nPoints: 9\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 23:59:43",
+      "timestamp": 1788739183
+    },
+    {
+      "id": "ede7c25443fd",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "link": "https://austinhenley.com/blog/python1024.html",
+      "summary": "\nArticle URL: https://austinhenley.com/blog/python1024.html\nComments URL: https://news.ycombinator.com/item?id=49591876\nPoints: 100\n# Comments: 36\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 23:14:08",
+      "timestamp": 1788736448
+    },
+    {
+      "id": "4c2082145d8f",
+      "title": "Is mathematics about to enter the conservatory?",
+      "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+      "summary": "\nArticle URL: https://mbmccoy.dev/posts/mathematical-conservatory/\nComments URL: https://news.ycombinator.com/item?id=49591793\nPoints: 24\n# Comments: 34\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 23:02:11",
+      "timestamp": 1788735731
+    },
+    {
+      "id": "2e1a299ee37b",
+      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+      "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+      "summary": "\nhttps://xcancel.com/Liquid_BTC/status/2096696272447218108\n\nComments URL: https://news.ycombinator.com/item?id=49591672\nPoints: 69\n# Comments: 42\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 22:43:25",
+      "timestamp": 1788734605
+    },
+    {
+      "id": "981692acc5fd",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "link": "https://github.com/marsbos/mador",
+      "summary": "\nArticle URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 69\n# Comments: 22\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 20:45:13",
+      "timestamp": 1788727513
+    },
+    {
+      "id": "01b703c0b94c",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "summary": "\nArticle URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/\nComments URL: https://news.ycombinator.com/item?id=49590611\nPoints: 149\n# Comments: 91\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 20:32:38",
+      "timestamp": 1788726758
+    },
+    {
+      "id": "f7b669144a6a",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "link": "https://arxiv.org/abs/2505.12540",
+      "summary": "\nArticle URL: https://arxiv.org/abs/2505.12540\nComments URL: https://news.ycombinator.com/item?id=49590595\nPoints: 46\n# Comments: 11\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 20:31:20",
+      "timestamp": 1788726680
+    },
+    {
+      "id": "9463bfdb2999",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "summary": "\nArticle URL: https://grapheneos.social/@GrapheneOS/117225539756835649\nComments URL: https://news.ycombinator.com/item?id=49590512\nPoints: 204\n# Comments: 135\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 20:24:00",
+      "timestamp": 1788726240
+    },
+    {
+      "id": "96a468400038",
+      "title": "D2 Is Non-Profit",
+      "link": "https://d2lang.com/blog/d2-non-profit/",
+      "summary": "\nArticle URL: https://d2lang.com/blog/d2-non-profit/\nComments URL: https://news.ycombinator.com/item?id=49589768\nPoints: 31\n# Comments: 11\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 19:11:05",
+      "timestamp": 1788721865
+    },
+    {
+      "id": "e5a84c953a25",
+      "title": "Nitter and XCancel resume service after legal advice",
+      "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "summary": "\nhttps://github.com/zedeus/nitterhttps://xcancel.com/cdclegalhttps://nitter.net/https://xcancel.com/\n\nComments URL: https://news.ycombinator.com/item?id=49588988\nPoints: 482\n# Comments: 251\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 17:49:47",
+      "timestamp": 1788716987
+    },
+    {
+      "id": "21d92b7877d4",
+      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+      "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+      "summary": "\nArticle URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\nComments URL: https://news.ycombinator.com/item?id=49588466\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 17:00:28",
+      "timestamp": 1788714028
+    },
+    {
+      "id": "fa052281790c",
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind/",
+      "summary": "\nArticle URL: https://openai.com/index/an-alien-mind/\nComments URL: https://news.ycombinator.com/item?id=49588080\nPoints: 336\n# Comments: 289\n",
       "source": "Hacker News",
       "category": "product",
       "lang": "en",
-      "published": "2026-09-05 23:39:47",
-      "timestamp": 1788651587
+      "published": "2026-09-06 16:27:05",
+      "timestamp": 1788712025
     },
     {
-      "id": "c629dcc38c27",
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "link": "https://github.com/okf-memory/okf-agent-memory",
-      "summary": "\nArticle URL: https://github.com/okf-memory/okf-agent-memory\nComments URL: https://news.ycombinator.com/item?id=49581240\nPoints: 38\n# Comments: 14\n",
+      "id": "b6d93df4b969",
+      "title": "Research carried out using NetBSD",
+      "link": "https://www.netbsd.org/gallery/research.html",
+      "summary": "\nArticle URL: https://www.netbsd.org/gallery/research.html\nComments URL: https://news.ycombinator.com/item?id=49587903\nPoints: 78\n# Comments: 18\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 16:10:05",
+      "timestamp": 1788711005
+    },
+    {
+      "id": "78ccd2ca75e5",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "summary": "\nArticle URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and\nComments URL: https://news.ycombinator.com/item?id=49587636\nPoints: 109\n# Comments: 9\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-06 15:44:24",
+      "timestamp": 1788709464
+    },
+    {
+      "id": "cdd2663f1385",
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "\nArticle URL: https://openai.com/index/research-acceleration-view-inside-openai\nComments URL: https://news.ycombinator.com/item?id=49587217\nPoints: 121\n# Comments: 77\n",
       "source": "Hacker News",
       "category": "product",
       "lang": "en",
-      "published": "2026-09-05 22:15:52",
-      "timestamp": 1788646552
+      "published": "2026-09-06 15:08:44",
+      "timestamp": 1788707324
     },
     {
-      "id": "4cae74665641",
-      "title": "The revolt of the reader",
-      "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "summary": "\nArticle URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/\nComments URL: https://news.ycombinator.com/item?id=49580939\nPoints: 132\n# Comments: 42\n",
+      "id": "d50c6b9ce3f9",
+      "title": "A/I shuts down",
+      "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "summary": "\nArticle URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/\nComments URL: https://news.ycombinator.com/item?id=49586898\nPoints: 530\n# Comments: 416\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-05 21:37:49",
-      "timestamp": 1788644269
+      "published": "2026-09-06 14:34:34",
+      "timestamp": 1788705274
     },
     {
-      "id": "d0dfa1a38f0b",
-      "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
-      "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-      "summary": "\nArticle URL: https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf\nComments URL: https://news.ycombinator.com/item?id=49580778\nPoints: 101\n# Comments: 82\n",
+      "id": "723b28d3fbe8",
+      "title": "Asahi Linux on M3",
+      "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "summary": "\nhttps://www.phoronix.com/news/Asahi-Linux-Official-M3\n\nComments URL: https://news.ycombinator.com/item?id=49586698\nPoints: 361\n# Comments: 206\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-05 21:17:00",
-      "timestamp": 1788643020
+      "published": "2026-09-06 14:08:59",
+      "timestamp": 1788703739
     },
     {
-      "id": "48e5eb207ca5",
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "summary": "\nArticle URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket\nComments URL: https://news.ycombinator.com/item?id=49580369\nPoints: 383\n# Comments: 200\n",
+      "id": "1d6696590a26",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "\nArticle URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\nComments URL: https://news.ycombinator.com/item?id=49585644\nPoints: 535\n# Comments: 347\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-05 20:31:38",
-      "timestamp": 1788640298
+      "published": "2026-09-06 11:56:43",
+      "timestamp": 1788695803
     },
     {
-      "id": "dbc8d6787950",
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "summary": "\nArticle URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/\nComments URL: https://news.ycombinator.com/item?id=49580329\nPoints: 61\n# Comments: 24\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 20:25:59",
-      "timestamp": 1788639959
+      "id": "95dc2883fca6",
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "link": "https://www.qbitai.com/2026/09/484897.html",
+      "summary": "让机器人学会利用更长的多模态Context",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-06 11:44:21",
+      "timestamp": 1788695061
     },
     {
-      "id": "874a419aeffa",
-      "title": "Isar Aerospace launch into orbit [video]",
-      "link": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-      "summary": "\nArticle URL: https://www.youtube.com/watch?v=Ss1DUqLjecc\nComments URL: https://news.ycombinator.com/item?id=49580325\nPoints: 89\n# Comments: 18\n",
-      "source": "Hacker News",
+      "id": "da2b258eaa74",
+      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
+      "link": "https://sspai.com/post/114076",
+      "summary": "对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 20:25:30",
-      "timestamp": 1788639930
+      "lang": "zh",
+      "published": "2026-09-06 15:00:00",
+      "timestamp": 1788678000
     },
     {
-      "id": "7af4d6de00af",
-      "title": "LLMs as a Cognitive Virus",
-      "link": "https://arxiv.org/abs/2609.03344",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2609.03344\nComments URL: https://news.ycombinator.com/item?id=49580164\nPoints: 185\n# Comments: 153\n",
-      "source": "Hacker News",
+      "id": "5ce40b89ba41",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "link": "https://www.qbitai.com/2026/09/484890.html",
+      "summary": "",
+      "source": "量子位",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 20:02:35",
-      "timestamp": 1788638555
-    },
-    {
-      "id": "b2d7a8883d16",
-      "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
-      "link": "https://isaraerospace.com/mission-updates-overview",
-      "summary": "\nArticle URL: https://isaraerospace.com/mission-updates-overview\nComments URL: https://news.ycombinator.com/item?id=49579956\nPoints: 21\n# Comments: 1\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 19:41:27",
-      "timestamp": 1788637287
-    },
-    {
-      "id": "c8a1c279f896",
-      "title": "Learn Programming with OCaml",
-      "link": "https://usr.lmf.cnrs.fr/lpo/",
-      "summary": "\nArticle URL: https://usr.lmf.cnrs.fr/lpo/\nComments URL: https://news.ycombinator.com/item?id=49578280\nPoints: 183\n# Comments: 74\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 16:45:02",
-      "timestamp": 1788626702
+      "lang": "zh",
+      "published": "2026-09-06 04:40:15",
+      "timestamp": 1788669615
     },
     {
       "id": "73e21aa7b6c8",
@@ -154,50 +286,6 @@
       "lang": "zh",
       "published": "2026-09-05 14:46:15",
       "timestamp": 1788619575
-    },
-    {
-      "id": "e2d31f6e07f0",
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "summary": "\nArticle URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\nComments URL: https://news.ycombinator.com/item?id=49576386\nPoints: 288\n# Comments: 87\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 13:36:38",
-      "timestamp": 1788615398
-    },
-    {
-      "id": "b97f9498bcbe",
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "summary": "\nArticle URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/\nComments URL: https://news.ycombinator.com/item?id=49576343\nPoints: 137\n# Comments: 19\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 13:31:05",
-      "timestamp": 1788615065
-    },
-    {
-      "id": "b0b3a196f95c",
-      "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-      "link": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-      "summary": "\nArticle URL: https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/\nComments URL: https://news.ycombinator.com/item?id=49575859\nPoints: 83\n# Comments: 12\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 12:23:51",
-      "timestamp": 1788611031
-    },
-    {
-      "id": "ae1fa20a2e02",
-      "title": "Terpstra Keyboard",
-      "link": "http://terpstrakeyboard.com/",
-      "summary": "\nArticle URL: http://terpstrakeyboard.com/\nComments URL: https://news.ycombinator.com/item?id=49575150\nPoints: 116\n# Comments: 54\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 10:33:01",
-      "timestamp": 1788604381
     },
     {
       "id": "2ef0dcb8a549",
@@ -242,50 +330,6 @@
       "lang": "zh",
       "published": "2026-09-05 01:17:56",
       "timestamp": 1788571076
-    },
-    {
-      "id": "4c01facc6829",
-      "title": "Nitter has more working instances than before the takedowns",
-      "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "summary": "\nArticle URL: https://codeberg.org/mv12star/shitter/wiki/Instances\nComments URL: https://news.ycombinator.com/item?id=49571634\nPoints: 637\n# Comments: 311\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-05 00:04:16",
-      "timestamp": 1788566656
-    },
-    {
-      "id": "69756b3ff0e0",
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "summary": "\nArticle URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046\nComments URL: https://news.ycombinator.com/item?id=49570669\nPoints: 749\n# Comments: 446\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-04 21:52:01",
-      "timestamp": 1788558721
-    },
-    {
-      "id": "0000ed839d78",
-      "title": "Statichost.eu – European static site hosting",
-      "link": "https://www.statichost.eu/",
-      "summary": "\nArticle URL: https://www.statichost.eu/\nComments URL: https://news.ycombinator.com/item?id=49569896\nPoints: 447\n# Comments: 203\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-04 20:34:49",
-      "timestamp": 1788554089
-    },
-    {
-      "id": "554ae5a2c6d3",
-      "title": "Can AI design circuit boards yet?",
-      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "summary": "\nArticle URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/\nComments URL: https://news.ycombinator.com/item?id=49569366\nPoints: 384\n# Comments: 209\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-04 19:48:29",
-      "timestamp": 1788551309
     },
     {
       "id": "a1846490b8b3",
@@ -365,17 +409,6 @@
       "timestamp": 1788505906
     },
     {
-      "id": "0b6cd340ceb7",
-      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-      "link": "https://www.qbitai.com/2026/09/484203.html",
-      "summary": "5000支队伍同台做题，写尽行业四年变化",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-04 07:09:43",
-      "timestamp": 1788505783
-    },
-    {
       "id": "9d26ad38333c",
       "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
       "link": "https://sspai.com/post/114117",
@@ -387,17 +420,6 @@
       "timestamp": 1788505317
     },
     {
-      "id": "88c0176bda33",
-      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
-      "link": "https://www.qbitai.com/2026/09/484163.html",
-      "summary": "智能不只是模式识别，更是对世界的建模",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-04 06:54:12",
-      "timestamp": 1788504852
-    },
-    {
       "id": "aafa8167f884",
       "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
       "link": "https://sspai.com/post/113990",
@@ -407,17 +429,6 @@
       "lang": "zh",
       "published": "2026-09-04 11:25:29",
       "timestamp": 1788492329
-    },
-    {
-      "id": "ccdb2503d1b7",
-      "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
-      "link": "https://sspai.com/post/114164",
-      "summary": "Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文",
-      "source": "少数派",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-04 08:47:49",
-      "timestamp": 1788482869
     },
     {
       "id": "b79b5e0c507c",
@@ -451,17 +462,6 @@
       "lang": "zh",
       "published": "2026-09-03 11:32:28",
       "timestamp": 1788406348
-    },
-    {
-      "id": "c30344095ed3",
-      "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-      "link": "https://sspai.com/post/114113",
-      "summary": "World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 08:31:14",
-      "timestamp": 1788395474
     },
     {
       "id": "6f848504caff",
