@@ -1,27 +1,126 @@
 {
-  "updated_at": "2026-09-07 02:30:14",
+  "updated_at": "2026-09-08 02:43:33",
   "articles": [
     {
-      "id": "1d9532befcd9",
-      "title": "Ponytail: Lazy Senior Engineer Skill",
-      "link": "https://ponytail.dev/",
-      "summary": "\nArticle URL: https://ponytail.dev/\nComments URL: https://news.ycombinator.com/item?id=49592706\nPoints: 21\n# Comments: 12\n",
-      "source": "Hacker News",
+      "id": "54e50f295044",
+      "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
+      "link": "https://sspai.com/post/114307",
+      "summary": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-09-07 01:18:17",
-      "timestamp": 1788743897
+      "lang": "zh",
+      "published": "2026-09-08 08:07:33",
+      "timestamp": 1788826053
     },
     {
-      "id": "b7568627519c",
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "link": "https://github.com/Staatsgeheim/MathKernel",
-      "summary": "\nArticle URL: https://github.com/Staatsgeheim/MathKernel\nComments URL: https://news.ycombinator.com/item?id=49592366\nPoints: 5\n# Comments: 0\n",
-      "source": "Hacker News",
+      "id": "23a5f421c6a6",
+      "title": "派评｜近期值得关注的 App",
+      "link": "https://sspai.com/post/114288",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-09-07 00:21:01",
-      "timestamp": 1788740461
+      "lang": "zh",
+      "published": "2026-09-07 18:08:44",
+      "timestamp": 1788775724
+    },
+    {
+      "id": "469447234580",
+      "title": "3秒变身！会合体的机器人，卖到全球50国",
+      "link": "https://www.qbitai.com/2026/09/485525.html",
+      "summary": "谁说现在机器人都长得差不多的！",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-07 09:34:06",
+      "timestamp": 1788773646
+    },
+    {
+      "id": "80e4817c872a",
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "link": "https://www.qbitai.com/2026/09/485431.html",
+      "summary": "OpenAI研究院人均带3个AI实习生",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-07 09:04:06",
+      "timestamp": 1788771846
+    },
+    {
+      "id": "b3fe0d72bf29",
+      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+      "link": "https://www.qbitai.com/2026/09/485154.html",
+      "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-07 08:51:30",
+      "timestamp": 1788771090
+    },
+    {
+      "id": "a0db7a96f606",
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "link": "https://www.qbitai.com/2026/09/485108.html",
+      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "source": "量子位",
+      "category": "knowledge",
+      "lang": "zh",
+      "published": "2026-09-07 08:36:30",
+      "timestamp": 1788770190
+    },
+    {
+      "id": "6be8460b2a78",
+      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+      "link": "https://sspai.com/post/113877",
+      "summary": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文",
+      "source": "少数派",
+      "category": "knowledge",
+      "lang": "zh",
+      "published": "2026-09-07 15:00:00",
+      "timestamp": 1788764400
+    },
+    {
+      "id": "25968f563e26",
+      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "link": "https://www.qbitai.com/2026/09/485064.html",
+      "summary": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
+      "source": "量子位",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-09-07 06:53:26",
+      "timestamp": 1788764006
+    },
+    {
+      "id": "8a9b01a60b44",
+      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "link": "https://www.qbitai.com/2026/09/485056.html",
+      "summary": "",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-07 06:03:34",
+      "timestamp": 1788761014
+    },
+    {
+      "id": "970af6000ff0",
+      "title": "业内首个！“千问办公”推出“多人工作台”",
+      "link": "https://www.qbitai.com/2026/09/485046.html",
+      "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-07 05:04:44",
+      "timestamp": 1788757484
+    },
+    {
+      "id": "e96cd12aee26",
+      "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+      "link": "https://sspai.com/post/114103",
+      "summary": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-07 11:10:02",
+      "timestamp": 1788750602
     },
     {
       "id": "99f54ec9ba97",
@@ -33,204 +132,6 @@
       "lang": "zh",
       "published": "2026-09-07 08:20:41",
       "timestamp": 1788740441
-    },
-    {
-      "id": "74f513b606f3",
-      "title": "Hard-Chat – A serverless, RAM-only P2P terminal chat",
-      "link": "https://github.com/mrhardlint/Hard-Chat",
-      "summary": "\nArticle URL: https://github.com/mrhardlint/Hard-Chat\nComments URL: https://news.ycombinator.com/item?id=49592210\nPoints: 9\n# Comments: 1\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 23:59:43",
-      "timestamp": 1788739183
-    },
-    {
-      "id": "ede7c25443fd",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "link": "https://austinhenley.com/blog/python1024.html",
-      "summary": "\nArticle URL: https://austinhenley.com/blog/python1024.html\nComments URL: https://news.ycombinator.com/item?id=49591876\nPoints: 100\n# Comments: 36\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 23:14:08",
-      "timestamp": 1788736448
-    },
-    {
-      "id": "4c2082145d8f",
-      "title": "Is mathematics about to enter the conservatory?",
-      "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-      "summary": "\nArticle URL: https://mbmccoy.dev/posts/mathematical-conservatory/\nComments URL: https://news.ycombinator.com/item?id=49591793\nPoints: 24\n# Comments: 34\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 23:02:11",
-      "timestamp": 1788735731
-    },
-    {
-      "id": "2e1a299ee37b",
-      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-      "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-      "summary": "\nhttps://xcancel.com/Liquid_BTC/status/2096696272447218108\n\nComments URL: https://news.ycombinator.com/item?id=49591672\nPoints: 69\n# Comments: 42\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 22:43:25",
-      "timestamp": 1788734605
-    },
-    {
-      "id": "981692acc5fd",
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "link": "https://github.com/marsbos/mador",
-      "summary": "\nArticle URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 69\n# Comments: 22\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 20:45:13",
-      "timestamp": 1788727513
-    },
-    {
-      "id": "01b703c0b94c",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "summary": "\nArticle URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/\nComments URL: https://news.ycombinator.com/item?id=49590611\nPoints: 149\n# Comments: 91\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 20:32:38",
-      "timestamp": 1788726758
-    },
-    {
-      "id": "f7b669144a6a",
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "link": "https://arxiv.org/abs/2505.12540",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2505.12540\nComments URL: https://news.ycombinator.com/item?id=49590595\nPoints: 46\n# Comments: 11\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 20:31:20",
-      "timestamp": 1788726680
-    },
-    {
-      "id": "9463bfdb2999",
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "summary": "\nArticle URL: https://grapheneos.social/@GrapheneOS/117225539756835649\nComments URL: https://news.ycombinator.com/item?id=49590512\nPoints: 204\n# Comments: 135\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 20:24:00",
-      "timestamp": 1788726240
-    },
-    {
-      "id": "96a468400038",
-      "title": "D2 Is Non-Profit",
-      "link": "https://d2lang.com/blog/d2-non-profit/",
-      "summary": "\nArticle URL: https://d2lang.com/blog/d2-non-profit/\nComments URL: https://news.ycombinator.com/item?id=49589768\nPoints: 31\n# Comments: 11\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 19:11:05",
-      "timestamp": 1788721865
-    },
-    {
-      "id": "e5a84c953a25",
-      "title": "Nitter and XCancel resume service after legal advice",
-      "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "summary": "\nhttps://github.com/zedeus/nitterhttps://xcancel.com/cdclegalhttps://nitter.net/https://xcancel.com/\n\nComments URL: https://news.ycombinator.com/item?id=49588988\nPoints: 482\n# Comments: 251\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 17:49:47",
-      "timestamp": 1788716987
-    },
-    {
-      "id": "21d92b7877d4",
-      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-      "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-      "summary": "\nArticle URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\nComments URL: https://news.ycombinator.com/item?id=49588466\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 17:00:28",
-      "timestamp": 1788714028
-    },
-    {
-      "id": "fa052281790c",
-      "title": "An Alien Mind",
-      "link": "https://openai.com/index/an-alien-mind/",
-      "summary": "\nArticle URL: https://openai.com/index/an-alien-mind/\nComments URL: https://news.ycombinator.com/item?id=49588080\nPoints: 336\n# Comments: 289\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-06 16:27:05",
-      "timestamp": 1788712025
-    },
-    {
-      "id": "b6d93df4b969",
-      "title": "Research carried out using NetBSD",
-      "link": "https://www.netbsd.org/gallery/research.html",
-      "summary": "\nArticle URL: https://www.netbsd.org/gallery/research.html\nComments URL: https://news.ycombinator.com/item?id=49587903\nPoints: 78\n# Comments: 18\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 16:10:05",
-      "timestamp": 1788711005
-    },
-    {
-      "id": "78ccd2ca75e5",
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "summary": "\nArticle URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and\nComments URL: https://news.ycombinator.com/item?id=49587636\nPoints: 109\n# Comments: 9\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 15:44:24",
-      "timestamp": 1788709464
-    },
-    {
-      "id": "cdd2663f1385",
-      "title": "Research acceleration: The view inside OpenAI",
-      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "summary": "\nArticle URL: https://openai.com/index/research-acceleration-view-inside-openai\nComments URL: https://news.ycombinator.com/item?id=49587217\nPoints: 121\n# Comments: 77\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-06 15:08:44",
-      "timestamp": 1788707324
-    },
-    {
-      "id": "d50c6b9ce3f9",
-      "title": "A/I shuts down",
-      "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "summary": "\nArticle URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/\nComments URL: https://news.ycombinator.com/item?id=49586898\nPoints: 530\n# Comments: 416\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 14:34:34",
-      "timestamp": 1788705274
-    },
-    {
-      "id": "723b28d3fbe8",
-      "title": "Asahi Linux on M3",
-      "link": "https://asahilinux.org/2026/09/m2-episode-1/",
-      "summary": "\nhttps://www.phoronix.com/news/Asahi-Linux-Official-M3\n\nComments URL: https://news.ycombinator.com/item?id=49586698\nPoints: 361\n# Comments: 206\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 14:08:59",
-      "timestamp": 1788703739
-    },
-    {
-      "id": "1d6696590a26",
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "summary": "\nArticle URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\nComments URL: https://news.ycombinator.com/item?id=49585644\nPoints: 535\n# Comments: 347\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-06 11:56:43",
-      "timestamp": 1788695803
     },
     {
       "id": "95dc2883fca6",
@@ -266,28 +167,6 @@
       "timestamp": 1788669615
     },
     {
-      "id": "73e21aa7b6c8",
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "link": "https://www.qbitai.com/2026/09/484726.html",
-      "summary": "手握两篇顶会论文",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-05 15:07:08",
-      "timestamp": 1788620828
-    },
-    {
-      "id": "4145f3897770",
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "link": "https://www.qbitai.com/2026/09/484683.html",
-      "summary": "当AI开始“预演”一场暴雨",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-05 14:46:15",
-      "timestamp": 1788619575
-    },
-    {
       "id": "2ef0dcb8a549",
       "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
       "link": "https://sspai.com/post/114040",
@@ -297,39 +176,6 @@
       "lang": "zh",
       "published": "2026-09-05 16:00:01",
       "timestamp": 1788595201
-    },
-    {
-      "id": "c9408151f334",
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "link": "https://www.qbitai.com/2026/09/484649.html",
-      "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-05 04:24:25",
-      "timestamp": 1788582265
-    },
-    {
-      "id": "14cbc1742b99",
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "link": "https://www.qbitai.com/2026/09/484611.html",
-      "summary": "如此“反骨”的方法，具体又是怎么实现的？",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-09-05 04:18:54",
-      "timestamp": 1788581934
-    },
-    {
-      "id": "bc43d11e7d1b",
-      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-      "link": "https://www.qbitai.com/2026/09/484551.html",
-      "summary": "最后靠Harness救回来",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-05 01:17:56",
-      "timestamp": 1788571076
     },
     {
       "id": "a1846490b8b3",
@@ -365,39 +211,6 @@
       "timestamp": 1788513919
     },
     {
-      "id": "8025b31500d8",
-      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "link": "https://www.qbitai.com/2026/09/484547.html",
-      "summary": "国产卡跑出高品质 AI Token 生产级性能",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-04 09:23:24",
-      "timestamp": 1788513804
-    },
-    {
-      "id": "e61c7931b9bc",
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "link": "https://www.qbitai.com/2026/09/484437.html",
-      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-04 09:19:29",
-      "timestamp": 1788513569
-    },
-    {
-      "id": "79fead1f3e97",
-      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-      "link": "https://www.qbitai.com/2026/09/484293.html",
-      "summary": "不训练模型、不调参数",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-04 08:57:14",
-      "timestamp": 1788512234
-    },
-    {
       "id": "207b24846f31",
       "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
       "link": "https://sspai.com/post/114110",
@@ -418,50 +231,6 @@
       "lang": "zh",
       "published": "2026-09-04 15:01:57",
       "timestamp": 1788505317
-    },
-    {
-      "id": "aafa8167f884",
-      "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
-      "link": "https://sspai.com/post/113990",
-      "summary": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-04 11:25:29",
-      "timestamp": 1788492329
-    },
-    {
-      "id": "b79b5e0c507c",
-      "title": "新玩意 251｜少数派的编辑们最近买了啥？",
-      "link": "https://sspai.com/post/114154",
-      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 18:18:06",
-      "timestamp": 1788430686
-    },
-    {
-      "id": "381766d2f01c",
-      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
-      "link": "https://sspai.com/post/113998",
-      "summary": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 15:00:00",
-      "timestamp": 1788418800
-    },
-    {
-      "id": "04a17ea19565",
-      "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
-      "link": "https://sspai.com/post/113159",
-      "summary": "聊聊 Hi-Fi 这件事。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-03 11:32:28",
-      "timestamp": 1788406348
     },
     {
       "id": "6f848504caff",
