@@ -1,6 +1,336 @@
 {
-  "updated_at": "2026-09-08 02:43:33",
+  "updated_at": "2026-09-09 02:43:13",
   "articles": [
+    {
+      "id": "53052d308934",
+      "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+      "link": "https://www.reuters.com/world/middle-east/iran-says-it-captured-us-submarine-drone-strait-hormuz-2026-09-08/",
+      "summary": "\nArticle URL: https://www.reuters.com/world/middle-east/iran-says-it-captured-us-submarine-drone-strait-hormuz-2026-09-08/\nComments URL: https://news.ycombinator.com/item?id=49619949\nPoints: 13\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-09 02:12:05",
+      "timestamp": 1788919925
+    },
+    {
+      "id": "9ff2aa7e7eb0",
+      "title": "Harvard study predicts most suicide attempts a week in advance",
+      "link": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+      "summary": "\nArticle URL: https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance\nComments URL: https://news.ycombinator.com/item?id=49619906\nPoints: 35\n# Comments: 8\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-09 02:07:13",
+      "timestamp": 1788919633
+    },
+    {
+      "id": "9031075df10d",
+      "title": "AI Responsibility – OpenAI and Anthropic",
+      "link": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+      "summary": "\nArticle URL: https://twitter.com/hilbertspaess/status/2097476196791709843\nComments URL: https://news.ycombinator.com/item?id=49619639\nPoints: 11\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-09 01:32:49",
+      "timestamp": 1788917569
+    },
+    {
+      "id": "c0a9acf446c2",
+      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+      "link": "https://gpu-lexer.vercel.app/",
+      "summary": "\nArticle URL: https://gpu-lexer.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49619464\nPoints: 13\n# Comments: 2\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-09 01:14:50",
+      "timestamp": 1788916490
+    },
+    {
+      "id": "408beb098d91",
+      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+      "link": "https://sspai.com/post/114352",
+      "summary": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-09 08:00:00",
+      "timestamp": 1788912000
+    },
+    {
+      "id": "bed72522b30f",
+      "title": "A Topological Picture Book, Rendered",
+      "link": "https://e-infinity.space/picture-book/",
+      "summary": "\nArticle URL: https://e-infinity.space/picture-book/\nComments URL: https://news.ycombinator.com/item?id=49618050\nPoints: 59\n# Comments: 7\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 22:28:14",
+      "timestamp": 1788906494
+    },
+    {
+      "id": "266f4f2773be",
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "summary": "\nArticle URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\nComments URL: https://news.ycombinator.com/item?id=49617581\nPoints: 103\n# Comments: 51\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 21:47:38",
+      "timestamp": 1788904058
+    },
+    {
+      "id": "e60f209c96c6",
+      "title": "How to build a printer",
+      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "summary": "\nArticle URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\nComments URL: https://news.ycombinator.com/item?id=49617255\nPoints: 157\n# Comments: 37\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 21:22:11",
+      "timestamp": 1788902531
+    },
+    {
+      "id": "11ca24a7767b",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "summary": "\nArticle URL: https://mathstodon.xyz/@tao/117237320796901560\nComments URL: https://news.ycombinator.com/item?id=49616968\nPoints: 171\n# Comments: 112\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 21:00:52",
+      "timestamp": 1788901252
+    },
+    {
+      "id": "7d0b145c2a17",
+      "title": "Mercury 2.5",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "summary": "\nArticle URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5\nComments URL: https://news.ycombinator.com/item?id=49616354\nPoints: 127\n# Comments: 16\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 20:14:52",
+      "timestamp": 1788898492
+    },
+    {
+      "id": "a36bb9246baf",
+      "title": "Animation in Bevy: The Big Picture",
+      "link": "https://glocq.com/en/blog/20260827/",
+      "summary": "\nArticle URL: https://glocq.com/en/blog/20260827/\nComments URL: https://news.ycombinator.com/item?id=49616272\nPoints: 47\n# Comments: 4\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 20:08:44",
+      "timestamp": 1788898124
+    },
+    {
+      "id": "535ded75f5f1",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "link": "https://github.com/argonautlabsai/deltafin",
+      "summary": "\nArticle URL: https://github.com/argonautlabsai/deltafin\nComments URL: https://news.ycombinator.com/item?id=49616257\nPoints: 215\n# Comments: 114\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 20:07:55",
+      "timestamp": 1788898075
+    },
+    {
+      "id": "1fdcdda4a66e",
+      "title": "Muse – Meta’s personal AI agent",
+      "link": "https://ai.meta.com/muse/",
+      "summary": "\nArticle URL: https://ai.meta.com/muse/\nComments URL: https://news.ycombinator.com/item?id=49615537\nPoints: 341\n# Comments: 344\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-08 19:25:00",
+      "timestamp": 1788895500
+    },
+    {
+      "id": "20a461fbf649",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://openai.com/index/navier-stokes-solution/",
+      "summary": "\nArticle URL: https://openai.com/index/navier-stokes-solution/\nComments URL: https://news.ycombinator.com/item?id=49613262\nPoints: 1142\n# Comments: 983\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-08 17:13:21",
+      "timestamp": 1788887601
+    },
+    {
+      "id": "e73b4220b5af",
+      "title": "Show HN: LLM Attention Visualization",
+      "link": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "summary": "\nArticle URL: https://ishamf.dev/p/llm-attention-visualizer/\nComments URL: https://news.ycombinator.com/item?id=49613068\nPoints: 132\n# Comments: 22\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 16:59:41",
+      "timestamp": 1788886781
+    },
+    {
+      "id": "e8eeba61273a",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "summary": "\nhttps://deepmind.google/blog/alphagenome-atlas-a-predictive-...https://deepmind.google.com/science/alphagenome/atlas\n\nComments URL: https://news.ycombinator.com/item?id=49611251\nPoints: 500\n# Comments: 115\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-08 14:55:45",
+      "timestamp": 1788879345
+    },
+    {
+      "id": "dd2728cdd1e5",
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "summary": "\nArticle URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/\nComments URL: https://news.ycombinator.com/item?id=49611128\nPoints: 218\n# Comments: 109\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 14:49:19",
+      "timestamp": 1788878959
+    },
+    {
+      "id": "5578323e2bde",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "summary": "\nArticle URL: https://github.com/ayghri/i-have-adhd\nComments URL: https://news.ycombinator.com/item?id=49610631\nPoints: 327\n# Comments: 256\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-08 14:13:26",
+      "timestamp": 1788876806
+    },
+    {
+      "id": "460b00635817",
+      "title": "DaVinci Resolve 21.1",
+      "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "summary": "\nArticle URL: https://www.blackmagicdesign.com/media/release/20260908-03\nComments URL: https://news.ycombinator.com/item?id=49610181\nPoints: 361\n# Comments: 157\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 13:36:53",
+      "timestamp": 1788874613
+    },
+    {
+      "id": "c866cd49cd3b",
+      "title": "Show HN: Copperhead – Cursor for circuit boards",
+      "link": "https://copperhead.sh/",
+      "summary": "\nArticle URL: https://copperhead.sh/\nComments URL: https://news.ycombinator.com/item?id=49610059\nPoints: 210\n# Comments: 82\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 13:26:45",
+      "timestamp": 1788874005
+    },
+    {
+      "id": "ee5a14ee6038",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&",
+      "source": "MIT Tech Review",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-08 10:34:00",
+      "timestamp": 1788863640
+    },
+    {
+      "id": "61f49f32b2f7",
+      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+      "link": "https://sspai.com/prime/story/sidecar-optimizations",
+      "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-08 18:14:30",
+      "timestamp": 1788862470
+    },
+    {
+      "id": "fe47740c5da9",
+      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+      "link": "https://sspai.com/post/114327",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-09-08 17:00:00",
+      "timestamp": 1788858000
+    },
+    {
+      "id": "53cb9e8f247d",
+      "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
+      "link": "https://sspai.com/post/114312",
+      "summary": "Where's everyone going? Bingo?查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-08 15:00:00",
+      "timestamp": 1788850800
+    },
+    {
+      "id": "026932a839e1",
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "link": "https://www.qbitai.com/2026/09/485854.html",
+      "summary": "Blender也不用学了",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-08 06:05:30",
+      "timestamp": 1788847530
+    },
+    {
+      "id": "9613184d8271",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "summary": "\nArticle URL: https://cims.nyu.edu/~tristanb/statement.pdf\nComments URL: https://news.ycombinator.com/item?id=49605915\nPoints: 1320\n# Comments: 566\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-08 05:42:28",
+      "timestamp": 1788846148
+    },
+    {
+      "id": "5874b72744b3",
+      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+      "link": "https://www.qbitai.com/2026/09/485794.html",
+      "summary": "百万奖金、大厂直通、VC跟投",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-08 05:05:03",
+      "timestamp": 1788843903
+    },
+    {
+      "id": "74718b6b56d6",
+      "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+      "link": "https://sspai.com/post/113299",
+      "summary": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-08 11:06:21",
+      "timestamp": 1788836781
+    },
+    {
+      "id": "427b563994d0",
+      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+      "link": "https://www.qbitai.com/2026/09/485630.html",
+      "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-08 02:42:24",
+      "timestamp": 1788835344
+    },
+    {
+      "id": "479df41161eb",
+      "title": "王云鹤创业后交出首个模型",
+      "link": "https://www.qbitai.com/2026/09/485555.html",
+      "summary": "把多模型执行经验用到了模型训练",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-09-08 02:14:47",
+      "timestamp": 1788833687
+    },
     {
       "id": "54e50f295044",
       "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
@@ -90,28 +420,6 @@
       "timestamp": 1788764006
     },
     {
-      "id": "8a9b01a60b44",
-      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
-      "link": "https://www.qbitai.com/2026/09/485056.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-07 06:03:34",
-      "timestamp": 1788761014
-    },
-    {
-      "id": "970af6000ff0",
-      "title": "业内首个！“千问办公”推出“多人工作台”",
-      "link": "https://www.qbitai.com/2026/09/485046.html",
-      "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-07 05:04:44",
-      "timestamp": 1788757484
-    },
-    {
       "id": "e96cd12aee26",
       "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
       "link": "https://sspai.com/post/114103",
@@ -121,28 +429,6 @@
       "lang": "zh",
       "published": "2026-09-07 11:10:02",
       "timestamp": 1788750602
-    },
-    {
-      "id": "99f54ec9ba97",
-      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
-      "link": "https://sspai.com/post/114250",
-      "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
-      "source": "少数派",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-07 08:20:41",
-      "timestamp": 1788740441
-    },
-    {
-      "id": "95dc2883fca6",
-      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-      "link": "https://www.qbitai.com/2026/09/484897.html",
-      "summary": "让机器人学会利用更长的多模态Context",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-06 11:44:21",
-      "timestamp": 1788695061
     },
     {
       "id": "da2b258eaa74",
@@ -156,28 +442,6 @@
       "timestamp": 1788678000
     },
     {
-      "id": "5ce40b89ba41",
-      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-      "link": "https://www.qbitai.com/2026/09/484890.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-06 04:40:15",
-      "timestamp": 1788669615
-    },
-    {
-      "id": "2ef0dcb8a549",
-      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
-      "link": "https://sspai.com/post/114040",
-      "summary": "它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-05 16:00:01",
-      "timestamp": 1788595201
-    },
-    {
       "id": "a1846490b8b3",
       "title": "Architecting memory and storage in the AI era",
       "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
@@ -189,17 +453,6 @@
       "timestamp": 1788547159
     },
     {
-      "id": "b5681cbd8174",
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "link": "https://sspai.com/post/114175",
-      "summary": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-04 17:32:48",
-      "timestamp": 1788514368
-    },
-    {
       "id": "26d9c1bc3236",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
@@ -209,28 +462,6 @@
       "lang": "en",
       "published": "2026-09-04 09:25:19",
       "timestamp": 1788513919
-    },
-    {
-      "id": "207b24846f31",
-      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
-      "link": "https://sspai.com/post/114110",
-      "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-04 15:11:46",
-      "timestamp": 1788505906
-    },
-    {
-      "id": "9d26ad38333c",
-      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
-      "link": "https://sspai.com/post/114117",
-      "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文",
-      "source": "少数派",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-09-04 15:01:57",
-      "timestamp": 1788505317
     },
     {
       "id": "6f848504caff",
@@ -308,17 +539,6 @@
       "lang": "en",
       "published": "2026-08-25 09:00:00",
       "timestamp": 1787648400
-    },
-    {
-      "id": "52a1f41e2bcc",
-      "title": "How to encourage smarter AI use in the classroom",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-08-24 14:20:19",
-      "timestamp": 1787581219
     }
   ]
 }
