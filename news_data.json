@@ -1,97 +1,284 @@
 {
-  "updated_at": "2026-09-12 02:47:43",
+  "updated_at": "2026-09-13 02:46:17",
   "articles": [
     {
-      "id": "1c240b9c08b0",
-      "title": "How Poor People Buy Cars",
-      "link": "https://abio.substack.com/p/how-poor-people-buy-cars",
-      "summary": "\nArticle URL: https://abio.substack.com/p/how-poor-people-buy-cars\nComments URL: https://news.ycombinator.com/item?id=49667762\nPoints: 28\n# Comments: 11\n",
+      "id": "fd545bcb746c",
+      "title": "Align AI and Mathematics–To Something Else",
+      "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "summary": "\nArticle URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/\nComments URL: https://news.ycombinator.com/item?id=49678783\nPoints: 16\n# Comments: 2\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-12 01:37:06",
-      "timestamp": 1789177026
+      "published": "2026-09-13 00:47:48",
+      "timestamp": 1789260468
     },
     {
-      "id": "1f46cd23f3ac",
-      "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-      "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
-      "summary": "\nArticle URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies\nComments URL: https://news.ycombinator.com/item?id=49667375\nPoints: 43\n# Comments: 9\n",
+      "id": "0b4c62076b61",
+      "title": "Everyone should slow down AI development except for me",
+      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "summary": "\nArticle URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\nComments URL: https://news.ycombinator.com/item?id=49678683\nPoints: 152\n# Comments: 60\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-12 00:40:32",
-      "timestamp": 1789173632
+      "published": "2026-09-13 00:30:44",
+      "timestamp": 1789259444
     },
     {
-      "id": "ad05de17269b",
-      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-      "link": "https://github.com/zachsaw/graphify-csharp",
-      "summary": "\nArticle URL: https://github.com/zachsaw/graphify-csharp\nComments URL: https://news.ycombinator.com/item?id=49667188\nPoints: 9\n# Comments: 6\n",
+      "id": "b1d774459579",
+      "title": "Recurrent Looped Transformer",
+      "link": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+      "summary": "\nArticle URL: https://yifanzhang-pro.github.io/recurrent-looped-tranformer/\nComments URL: https://news.ycombinator.com/item?id=49678548\nPoints: 14\n# Comments: 5\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-13 00:05:22",
+      "timestamp": 1789257922
+    },
+    {
+      "id": "0a4dadf54fbd",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "link": "https://agentsdock.net/",
+      "summary": "\nArticle URL: https://agentsdock.net/\nComments URL: https://news.ycombinator.com/item?id=49678435\nPoints: 15\n# Comments: 5\n",
       "source": "Hacker News",
       "category": "product",
       "lang": "en",
-      "published": "2026-09-12 00:16:10",
-      "timestamp": 1789172170
+      "published": "2026-09-12 23:45:58",
+      "timestamp": 1789256758
     },
     {
-      "id": "9c45e440c4ee",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "link": "https://www.rubyhack.ai/",
-      "summary": "\nArticle URL: https://www.rubyhack.ai/\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 375\n# Comments: 220\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-11 23:17:42",
-      "timestamp": 1789168662
-    },
-    {
-      "id": "7fc41c1320ac",
-      "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-      "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-      "summary": "\nArticle URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf\nComments URL: https://news.ycombinator.com/item?id=49666155\nPoints: 19\n# Comments: 8\n",
+      "id": "daea9c75ef8e",
+      "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record",
+      "link": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
+      "summary": "\nArticle URL: https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278\nComments URL: https://news.ycombinator.com/item?id=49678432\nPoints: 24\n# Comments: 22\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-11 22:16:15",
-      "timestamp": 1789164975
+      "published": "2026-09-12 23:44:44",
+      "timestamp": 1789256684
     },
     {
-      "id": "51d1d8d30978",
-      "title": "Project Blinkenlights",
-      "link": "https://blinkenlights.de/en/",
-      "summary": "\nArticle URL: https://blinkenlights.de/en/\nComments URL: https://news.ycombinator.com/item?id=49666146\nPoints: 53\n# Comments: 23\n",
+      "id": "4beae60d82d1",
+      "title": "Don't be the out of touch Kung Fu master – John Carmack",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "summary": "\nArticle URL: https://twitter.com/ID_AA_Carmack/status/2098443262214230095\nComments URL: https://news.ycombinator.com/item?id=49677577\nPoints: 19\n# Comments: 6\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-11 22:15:00",
-      "timestamp": 1789164900
+      "published": "2026-09-12 21:51:43",
+      "timestamp": 1789249903
     },
     {
-      "id": "cff1d119dd64",
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "link": "https://github.com/mirza-rizvi/ResolveHQ",
-      "summary": "\nArticle URL: https://github.com/mirza-rizvi/ResolveHQ\nComments URL: https://news.ycombinator.com/item?id=49665864\nPoints: 31\n# Comments: 12\n",
+      "id": "ef8d7510251c",
+      "title": "P(doom)",
+      "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+      "summary": "\nArticle URL: https://lucumr.pocoo.org/2026/9/12/pdoom/\nComments URL: https://news.ycombinator.com/item?id=49677450\nPoints: 10\n# Comments: 0\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-11 21:48:00",
-      "timestamp": 1789163280
+      "published": "2026-09-12 21:35:38",
+      "timestamp": 1789248938
     },
     {
-      "id": "6ef75d6d6f21",
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "summary": "\nArticle URL: https://www.dwarkesh.com/p/john-beren-charlie\nComments URL: https://news.ycombinator.com/item?id=49665711\nPoints: 38\n# Comments: 24\n",
+      "id": "427b98b70e74",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "link": "https://withspecific.com/benchmarks/real-swe",
+      "summary": "\nArticle URL: https://withspecific.com/benchmarks/real-swe\nComments URL: https://news.ycombinator.com/item?id=49676820\nPoints: 134\n# Comments: 69\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-11 21:35:29",
-      "timestamp": 1789162529
+      "published": "2026-09-12 20:25:48",
+      "timestamp": 1789244748
     },
     {
-      "id": "5b56b58ac040",
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "id": "715e05e3990a",
+      "title": "LG Says We're Fake News [video]",
+      "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "summary": "\nArticle URL: https://www.youtube.com/watch?v=ToP9xfLDSME\nComments URL: https://news.ycombinator.com/item?id=49676324\nPoints: 180\n# Comments: 85\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 19:35:36",
+      "timestamp": 1789241736
+    },
+    {
+      "id": "027fd1125e51",
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "link": "https://hachyderm.io/@simontatham/117201594980991062",
+      "summary": "\nArticle URL: https://hachyderm.io/@simontatham/117201594980991062\nComments URL: https://news.ycombinator.com/item?id=49675902\nPoints: 206\n# Comments: 63\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 18:58:57",
+      "timestamp": 1789239537
+    },
+    {
+      "id": "bd30d88b20c0",
+      "title": "Will There Be a 7G?",
+      "link": "https://arxiv.org/abs/2609.01877",
+      "summary": "\nArticle URL: https://arxiv.org/abs/2609.01877\nComments URL: https://news.ycombinator.com/item?id=49674498\nPoints: 84\n# Comments: 144\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 17:05:31",
+      "timestamp": 1789232731
+    },
+    {
+      "id": "4dde36408988",
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "\nArticle URL: https://high5apps.github.io/josm-plugin-website-wizard/\nComments URL: https://news.ycombinator.com/item?id=49674050\nPoints: 350\n# Comments: 81\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 16:25:08",
+      "timestamp": 1789230308
+    },
+    {
+      "id": "a8b59c77b004",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "summary": "\nArticle URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html\nComments URL: https://news.ycombinator.com/item?id=49673580\nPoints: 93\n# Comments: 26\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 15:49:52",
+      "timestamp": 1789228192
+    },
+    {
+      "id": "4a93e7202b31",
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "\nhttps://archive.ph/kt50V\n\nComments URL: https://news.ycombinator.com/item?id=49673098\nPoints: 408\n# Comments: 274\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 15:08:27",
+      "timestamp": 1789225707
+    },
+    {
+      "id": "030be74762a7",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "link": "https://lalitm.com/post/buildprof/",
+      "summary": "\nArticle URL: https://lalitm.com/post/buildprof/\nComments URL: https://news.ycombinator.com/item?id=49672842\nPoints: 99\n# Comments: 20\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 14:45:28",
+      "timestamp": 1789224328
+    },
+    {
+      "id": "9b9a143dc2ba",
+      "title": "We must pace the frontier",
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "summary": "\nArticle URL: https://darioamodei.com/post/we-must-pace-the-frontier\nComments URL: https://news.ycombinator.com/item?id=49672510\nPoints: 562\n# Comments: 789\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 14:10:49",
+      "timestamp": 1789222249
+    },
+    {
+      "id": "af3180108b86",
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "link": "https://transformer-circuits.pub/2021/framework/index.html",
+      "summary": "\nArticle URL: https://transformer-circuits.pub/2021/framework/index.html\nComments URL: https://news.ycombinator.com/item?id=49672365\nPoints: 86\n# Comments: 17\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 13:56:58",
+      "timestamp": 1789221418
+    },
+    {
+      "id": "4ae4bcc852f5",
+      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+      "link": "https://www.qbitai.com/2026/09/487860.html",
+      "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-12 11:38:16",
+      "timestamp": 1789213096
+    },
+    {
+      "id": "675b9087c5b3",
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "summary": "\nArticle URL: https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/\nComments URL: https://news.ycombinator.com/item?id=49671237\nPoints: 57\n# Comments: 34\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-12 11:27:55",
+      "timestamp": 1789212475
+    },
+    {
+      "id": "80a011d00628",
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "link": "https://www.qbitai.com/2026/09/487796.html",
+      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-12 08:49:02",
+      "timestamp": 1789202942
+    },
+    {
+      "id": "9a03153678b9",
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "link": "https://www.qbitai.com/2026/09/487752.html",
+      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-12 08:15:31",
+      "timestamp": 1789200931
+    },
+    {
+      "id": "a6095ae0c34d",
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "link": "https://www.qbitai.com/2026/09/487701.html",
+      "summary": "FrontierMath Tier 4，饱和了",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-12 07:33:54",
+      "timestamp": 1789198434
+    },
+    {
+      "id": "1960f48a55ba",
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "link": "https://sspai.com/post/114461",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-09-12 15:00:00",
+      "timestamp": 1789196400
+    },
+    {
+      "id": "8d7feb513957",
+      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "link": "https://www.qbitai.com/2026/09/487653.html",
+      "summary": "25位菲尔兹奖得主联名吹哨",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-12 04:53:58",
+      "timestamp": 1789188838
+    },
+    {
+      "id": "0ac1e0433668",
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "summary": "\nhttps://mullvad.net/en/blog/another-way-to-leak-traffic-on-a...\n\nComments URL: https://news.ycombinator.com/item?id=49665502\nPoints: 176\n# Comments: 44\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-11 21:16:48",
+      "timestamp": 1789161408
+    },
+    {
+      "id": "dbd2f2e584c9",
+      "title": "Roundtables: Could AI really kill us all?",
       "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
       "source": "MIT Tech Review",
@@ -99,61 +286,6 @@
       "lang": "en",
       "published": "2026-09-11 20:05:06",
       "timestamp": 1789157106
-    },
-    {
-      "id": "93f9e47af145",
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "summary": "\nArticle URL: https://github.com/GrapheneOS/Messaging/releases/tag/13\nComments URL: https://news.ycombinator.com/item?id=49663373\nPoints: 207\n# Comments: 130\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 18:50:36",
-      "timestamp": 1789152636
-    },
-    {
-      "id": "cb0f3ec41398",
-      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-      "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-      "summary": "\nhttps://www.cia.gov/stories/story/cia-releases-presidents-da...\n\nComments URL: https://news.ycombinator.com/item?id=49663054\nPoints: 118\n# Comments: 56\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 18:30:07",
-      "timestamp": 1789151407
-    },
-    {
-      "id": "384b5c96fdfb",
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "\nArticle URL: https://dayzlegame.com/blog/google-ads-bot-farm/\nComments URL: https://news.ycombinator.com/item?id=49662990\nPoints: 319\n# Comments: 174\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-11 18:24:55",
-      "timestamp": 1789151095
-    },
-    {
-      "id": "c4114762d3df",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "link": "https://github.com/kennethwolters/litelm",
-      "summary": "\nArticle URL: https://github.com/kennethwolters/litelm\nComments URL: https://news.ycombinator.com/item?id=49662767\nPoints: 98\n# Comments: 38\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 18:10:20",
-      "timestamp": 1789150220
-    },
-    {
-      "id": "caae03f17e8e",
-      "title": "The EPA is planning to scrap public review rules for data center pollution",
-      "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "summary": "\nArticle URL: https://capitalbnews.org/data-centers-permit-rules-epa/\nComments URL: https://news.ycombinator.com/item?id=49662672\nPoints: 369\n# Comments: 252\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 18:05:21",
-      "timestamp": 1789149921
     },
     {
       "id": "8d8b038e474e",
@@ -167,70 +299,15 @@
       "timestamp": 1789149756
     },
     {
-      "id": "be548a4adee5",
-      "title": "A misalignment of AI in mathematics",
-      "link": "https://mathandai.org/",
-      "summary": "\nhttps://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/...\n\nComments URL: https://news.ycombinator.com/item?id=49662371\nPoints: 672\n# Comments: 709\n",
+      "id": "04403588912b",
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "summary": "\nhttps://web.archive.org/web/20260911105205/https://www.wired...https://archive.ph/1xTJ3\n\nComments URL: https://news.ycombinator.com/item?id=49658672\nPoints: 108\n# Comments: 110\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-11 17:45:12",
-      "timestamp": 1789148712
-    },
-    {
-      "id": "9735056d1843",
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "link": "https://snap.berkeley.edu/",
-      "summary": "\nArticle URL: https://snap.berkeley.edu/\nComments URL: https://news.ycombinator.com/item?id=49662214\nPoints: 115\n# Comments: 61\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 17:36:11",
-      "timestamp": 1789148171
-    },
-    {
-      "id": "cbaa27b5cee5",
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "summary": "\nArticle URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\nComments URL: https://news.ycombinator.com/item?id=49662020\nPoints: 109\n# Comments: 77\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 17:25:23",
-      "timestamp": 1789147523
-    },
-    {
-      "id": "41b7f2f307db",
-      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-      "link": "https://www.getzep.com/careers/",
-      "summary": "\nArticle URL: https://www.getzep.com/careers/\nComments URL: https://news.ycombinator.com/item?id=49661645\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 17:00:17",
-      "timestamp": 1789146017
-    },
-    {
-      "id": "894ef57c94e6",
-      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-      "link": "https://github.com/godot-pty/gpty",
-      "summary": "\nI wanted to share my side-project: gPTY. Started off as an idea to combine Godot and Rust in a project (two stacks I wanted to use more to learn more). The base inspiration was tmux - simply allow spawning multiple PTYs and then let the user grid/tile them how they see fit.But since we have the God",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 16:03:05",
-      "timestamp": 1789142585
-    },
-    {
-      "id": "883625118172",
-      "title": "Rune is now open source",
-      "link": "https://rune.build/blog/rune-is-now-open-source",
-      "summary": "\nArticle URL: https://rune.build/blog/rune-is-now-open-source\nComments URL: https://news.ycombinator.com/item?id=49660149\nPoints: 148\n# Comments: 55\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 15:31:47",
-      "timestamp": 1789140707
+      "published": "2026-09-11 14:07:08",
+      "timestamp": 1789135628
     },
     {
       "id": "ce7e2efd1632",
@@ -253,17 +330,6 @@
       "lang": "zh",
       "published": "2026-09-11 13:59:09",
       "timestamp": 1789135149
-    },
-    {
-      "id": "bfe6ea4b480c",
-      "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "link": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "summary": "\nArticle URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/\nComments URL: https://news.ycombinator.com/item?id=49656471\nPoints: 148\n# Comments: 76\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-11 11:15:13",
-      "timestamp": 1789125313
     },
     {
       "id": "2881fde4a972",
@@ -310,17 +376,6 @@
       "timestamp": 1789109420
     },
     {
-      "id": "4519dd082fbb",
-      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-      "link": "https://www.qbitai.com/2026/09/487273.html",
-      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-11 06:19:03",
-      "timestamp": 1789107543
-    },
-    {
       "id": "ce178df29875",
       "title": "新 iPhone 配件精选：多种组合一次配齐",
       "link": "https://sspai.com/post/114414",
@@ -330,50 +385,6 @@
       "lang": "zh",
       "published": "2026-09-11 12:00:00",
       "timestamp": 1789099200
-    },
-    {
-      "id": "6f81884906ea",
-      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
-      "link": "https://www.qbitai.com/2026/09/487176.html",
-      "summary": "今年12月，北京，MEET2027智能未来大会！",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-11 03:57:32",
-      "timestamp": 1789099052
-    },
-    {
-      "id": "142df07a2368",
-      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-      "link": "https://www.qbitai.com/2026/09/487163.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-11 02:50:47",
-      "timestamp": 1789095047
-    },
-    {
-      "id": "b4c3681e91b9",
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-      "link": "https://www.qbitai.com/2026/09/487092.html",
-      "summary": "爆料直指霍奇猜想",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-11 01:46:55",
-      "timestamp": 1789091215
-    },
-    {
-      "id": "f68762b5f7e8",
-      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
-      "link": "https://www.qbitai.com/2026/09/487055.html",
-      "summary": "15秒视频，50秒出片",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-11 00:55:01",
-      "timestamp": 1789088101
     },
     {
       "id": "f0583ec9c15c",
@@ -396,17 +407,6 @@
       "lang": "en",
       "published": "2026-09-10 11:00:00",
       "timestamp": 1789038000
-    },
-    {
-      "id": "e1675bd134dd",
-      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-      "link": "https://www.qbitai.com/2026/09/486934.html",
-      "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-10 10:17:46",
-      "timestamp": 1789035466
     },
     {
       "id": "aea4ad979ba9",
@@ -451,17 +451,6 @@
       "lang": "zh",
       "published": "2026-09-10 05:21:18",
       "timestamp": 1788988878
-    },
-    {
-      "id": "f30f5d54888d",
-      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-      "link": "https://sspai.com/post/114366",
-      "summary": "为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-09 17:30:00",
-      "timestamp": 1788946200
     },
     {
       "id": "ac2cfa7ecfcf",
