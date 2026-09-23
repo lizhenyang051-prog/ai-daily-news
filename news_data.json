@@ -1,27 +1,82 @@
 {
-  "updated_at": "2026-09-22 02:58:24",
+  "updated_at": "2026-09-23 02:58:41",
   "articles": [
     {
-      "id": "1634fe05197d",
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
-      "summary": "\nArticle URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/\nComments URL: https://news.ycombinator.com/item?id=49795718\nPoints: 52\n# Comments: 17\n",
-      "source": "Hacker News",
+      "id": "49503d682504",
+      "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
+      "link": "https://sspai.com/post/114889",
+      "summary": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-09-22 01:24:49",
-      "timestamp": 1790040289
+      "lang": "zh",
+      "published": "2026-09-23 07:30:05",
+      "timestamp": 1790119805
     },
     {
-      "id": "2396c67d8610",
-      "title": "Claude Status – Elevated errors for multiple models",
-      "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "summary": "\nArticle URL: https://status.claude.com/incidents/7g1qpkyz5gxh\nComments URL: https://news.ycombinator.com/item?id=49795579\nPoints: 71\n# Comments: 54\n",
-      "source": "Hacker News",
+      "id": "ac47c1f7dcfe",
+      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+      "link": "https://sspai.com/post/114878",
+      "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-22 22:00:00",
+      "timestamp": 1790085600
+    },
+    {
+      "id": "bf25ab613fe7",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people",
+      "source": "MIT Tech Review",
       "category": "tool",
       "lang": "en",
-      "published": "2026-09-22 01:05:19",
-      "timestamp": 1790039119
+      "published": "2026-09-22 13:42:05",
+      "timestamp": 1790084525
+    },
+    {
+      "id": "cbe15bd7a10e",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose",
+      "source": "MIT Tech Review",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-22 11:04:51",
+      "timestamp": 1790075091
+    },
+    {
+      "id": "6e4704edd0eb",
+      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+      "link": "https://sspai.com/post/114551",
+      "summary": "黄金时代「时尚与科技结合」的浪漫。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-22 16:11:03",
+      "timestamp": 1790064663
+    },
+    {
+      "id": "cac3e2d548dd",
+      "title": "Coast：用十年经验，给记账这件事一个「终点」",
+      "link": "https://sspai.com/post/114479",
+      "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-09-22 14:39:39",
+      "timestamp": 1790059179
+    },
+    {
+      "id": "8485f6233f92",
+      "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
+      "link": "https://sspai.com/post/114823",
+      "summary": "如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-22 10:44:06",
+      "timestamp": 1790045046
     },
     {
       "id": "c83ac2884032",
@@ -33,204 +88,6 @@
       "lang": "zh",
       "published": "2026-09-22 08:09:01",
       "timestamp": 1790035741
-    },
-    {
-      "id": "2bcd3a7b773b",
-      "title": "Socrates vs. the Written Word (2011)",
-      "link": "https://wondermark.com/socrates-vs-writing/",
-      "summary": "\nArticle URL: https://wondermark.com/socrates-vs-writing/\nComments URL: https://news.ycombinator.com/item?id=49795122\nPoints: 10\n# Comments: 1\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-22 00:06:55",
-      "timestamp": 1790035615
-    },
-    {
-      "id": "da0d88c48e8f",
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "summary": "\nArticle URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\nComments URL: https://news.ycombinator.com/item?id=49794736\nPoints: 40\n# Comments: 8\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 23:16:51",
-      "timestamp": 1790032611
-    },
-    {
-      "id": "7998ca391c76",
-      "title": "Spymarks, Not Watermarks",
-      "link": "https://brand.io/article/spymarks/",
-      "summary": "\nArticle URL: https://brand.io/article/spymarks/\nComments URL: https://news.ycombinator.com/item?id=49794615\nPoints: 165\n# Comments: 37\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 23:03:49",
-      "timestamp": 1790031829
-    },
-    {
-      "id": "347cb1e89797",
-      "title": "I don't want to read what you didn't write",
-      "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "\nArticle URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/\nComments URL: https://news.ycombinator.com/item?id=49794330\nPoints: 336\n# Comments: 119\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 22:30:41",
-      "timestamp": 1790029841
-    },
-    {
-      "id": "4b03a36ccf08",
-      "title": "Xiaomi MiMo v2.6",
-      "link": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "\nArticle URL: https://mimo.xiaomi.com/mimo-v2-6\nComments URL: https://news.ycombinator.com/item?id=49792730\nPoints: 596\n# Comments: 302\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 20:12:12",
-      "timestamp": 1790021532
-    },
-    {
-      "id": "89879708e6f1",
-      "title": "Transformers Explained Visually",
-      "link": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "\nArticle URL: https://poloclub.github.io/transformer-explainer/\nComments URL: https://news.ycombinator.com/item?id=49792342\nPoints: 226\n# Comments: 38\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 19:43:49",
-      "timestamp": 1790019829
-    },
-    {
-      "id": "23d576e55769",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "link": "https://linear.app/now/ci-bottleneck-reworked",
-      "summary": "\nArticle URL: https://linear.app/now/ci-bottleneck-reworked\nComments URL: https://news.ycombinator.com/item?id=49792067\nPoints: 155\n# Comments: 164\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 19:23:33",
-      "timestamp": 1790018613
-    },
-    {
-      "id": "bc03dfe4f813",
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "summary": "\nArticle URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49791997\nPoints: 97\n# Comments: 45\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 19:17:42",
-      "timestamp": 1790018262
-    },
-    {
-      "id": "20dbdebc3aa0",
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "\nArticle URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead\nComments URL: https://news.ycombinator.com/item?id=49791939\nPoints: 322\n# Comments: 258\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 19:14:12",
-      "timestamp": 1790018052
-    },
-    {
-      "id": "9db5ecbcb0d8",
-      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "link": "https://robocurve.org/roboharm/",
-      "summary": "\nArticle URL: https://robocurve.org/roboharm/\nComments URL: https://news.ycombinator.com/item?id=49791720\nPoints: 37\n# Comments: 21\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 18:58:26",
-      "timestamp": 1790017106
-    },
-    {
-      "id": "ae6cd40fdf33",
-      "title": "Frontier AI on Your Own Hardware",
-      "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "summary": "\nArticle URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/\nComments URL: https://news.ycombinator.com/item?id=49791647\nPoints: 110\n# Comments: 57\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 18:53:01",
-      "timestamp": 1790016781
-    },
-    {
-      "id": "5ed8f027e4bd",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "summary": "\nArticle URL: https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/\nComments URL: https://news.ycombinator.com/item?id=49791509\nPoints: 210\n# Comments: 118\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 18:41:59",
-      "timestamp": 1790016119
-    },
-    {
-      "id": "f7e19397ad75",
-      "title": "Why does mathmain need an encrypted loader?",
-      "link": "https://safedep.io/mathmain-encrypted-loader/",
-      "summary": "\nArticle URL: https://safedep.io/mathmain-encrypted-loader/\nComments URL: https://news.ycombinator.com/item?id=49791378\nPoints: 113\n# Comments: 33\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 18:33:44",
-      "timestamp": 1790015624
-    },
-    {
-      "id": "af2c1862254e",
-      "title": "Apple Copland D11E4 Booting in the Browser",
-      "link": "https://www.pagetable.com/300",
-      "summary": "\nArticle URL: https://www.pagetable.com/300\nComments URL: https://news.ycombinator.com/item?id=49791125\nPoints: 104\n# Comments: 32\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 18:15:32",
-      "timestamp": 1790014532
-    },
-    {
-      "id": "bf7a311ec7f6",
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-      "summary": "\nArticle URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac\nComments URL: https://news.ycombinator.com/item?id=49790409\nPoints: 251\n# Comments: 169\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-21 17:30:21",
-      "timestamp": 1790011821
-    },
-    {
-      "id": "35a422bd756b",
-      "title": "HERMES radio enables voice and data communication over vast distances",
-      "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "summary": "\nhttps://hermes.radio/https://www.rhizomatica.org/\n\nComments URL: https://news.ycombinator.com/item?id=49789228\nPoints: 104\n# Comments: 43\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 16:14:16",
-      "timestamp": 1790007256
-    },
-    {
-      "id": "187c6d4cb1f4",
-      "title": "How do traffic signals work? (2019)",
-      "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "summary": "\nArticle URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work\nComments URL: https://news.ycombinator.com/item?id=49789081\nPoints: 64\n# Comments: 48\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 16:06:44",
-      "timestamp": 1790006804
-    },
-    {
-      "id": "3a87a48db55b",
-      "title": "Grok 4.7",
-      "link": "https://x.ai/news/grok-4-7",
-      "summary": "\nArticle URL: https://x.ai/news/grok-4-7\nComments URL: https://news.ycombinator.com/item?id=49788838\nPoints: 513\n# Comments: 429\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 15:50:15",
-      "timestamp": 1790005815
     },
     {
       "id": "d2396ff7b4f1",
@@ -310,61 +167,6 @@
       "timestamp": 1789981358
     },
     {
-      "id": "f80dfbca763d",
-      "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
-      "link": "https://www.qbitai.com/2026/09/493268.html",
-      "summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-21 08:25:44",
-      "timestamp": 1789979144
-    },
-    {
-      "id": "1cd9d8afc19c",
-      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-      "link": "https://www.qbitai.com/2026/09/493241.html",
-      "summary": "97%尝试危险行为",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-21 08:21:55",
-      "timestamp": 1789978915
-    },
-    {
-      "id": "8e672629d9a7",
-      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-      "link": "https://www.qbitai.com/2026/09/493235.html",
-      "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-21 07:52:46",
-      "timestamp": 1789977166
-    },
-    {
-      "id": "e9ce03b03e40",
-      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "link": "https://www.qbitai.com/2026/09/493231.html",
-      "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-21 07:31:26",
-      "timestamp": 1789975886
-    },
-    {
-      "id": "8f04250f6193",
-      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "link": "https://www.qbitai.com/2026/09/493218.html",
-      "summary": "在物理世界真正干活的具身智能体",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-21 06:22:37",
-      "timestamp": 1789971757
-    },
-    {
       "id": "4b7e69604e66",
       "title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……",
       "link": "https://sspai.com/post/114734",
@@ -374,116 +176,6 @@
       "lang": "zh",
       "published": "2026-09-21 13:26:32",
       "timestamp": 1789968392
-    },
-    {
-      "id": "3a47190e914c",
-      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-      "link": "https://www.qbitai.com/2026/09/493179.html",
-      "summary": "激活参数仅27B",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-21 03:46:43",
-      "timestamp": 1789962403
-    },
-    {
-      "id": "3e47cf5ea6b8",
-      "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
-      "link": "https://sspai.com/post/114519",
-      "summary": "当代码与设计的生产成本趋近于零，我们可以这样跳出工具的依赖，构建属于自己的优势和认知壁垒。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-21 11:38:08",
-      "timestamp": 1789961888
-    },
-    {
-      "id": "49eb8fac311a",
-      "title": "中国Neocloud市场第一！商汤大装置全面领跑",
-      "link": "https://www.qbitai.com/2026/09/493175.html",
-      "summary": "沙利文报告",
-      "source": "量子位",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-09-21 03:32:03",
-      "timestamp": 1789961523
-    },
-    {
-      "id": "c738c374d534",
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "link": "https://www.qbitai.com/2026/09/493114.html",
-      "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-21 02:28:46",
-      "timestamp": 1789957726
-    },
-    {
-      "id": "ec1c78e0a939",
-      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-      "link": "https://www.qbitai.com/2026/09/493109.html",
-      "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-21 02:17:33",
-      "timestamp": 1789957053
-    },
-    {
-      "id": "1c1bf29a574f",
-      "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
-      "link": "https://www.qbitai.com/2026/09/493091.html",
-      "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-21 01:48:50",
-      "timestamp": 1789955330
-    },
-    {
-      "id": "ec06c077152b",
-      "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
-      "link": "https://sspai.com/post/114788",
-      "summary": "微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃12306 称第三方购票可能更慢或失败特朗普提议为人工智能改名谷歌在 Android 17 中加入 Pixel 独占的 APIiPhone 18 Pro Max 支持固件限制电量以便发运苹果硬件工程副总裁表示不建议贴膜看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-      "source": "少数派",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-21 06:26:04",
-      "timestamp": 1789943164
-    },
-    {
-      "id": "9f89df8df8e5",
-      "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
-      "link": "https://sspai.com/post/114495",
-      "summary": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-20 15:00:00",
-      "timestamp": 1789887600
-    },
-    {
-      "id": "50771190e6a0",
-      "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
-      "link": "https://sspai.com/post/114717",
-      "summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...查看全文",
-      "source": "少数派",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-09-20 11:01:47",
-      "timestamp": 1789873307
-    },
-    {
-      "id": "16d108c6f0e6",
-      "title": "你的脸红是什么红：了解玫瑰痤疮",
-      "link": "https://sspai.com/post/114641",
-      "summary": "脸红发烫却没有小鹿乱撞，可能真不是什么好事……查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-19 15:00:00",
-      "timestamp": 1789801200
     },
     {
       "id": "dd1031cb8972",
@@ -528,28 +220,6 @@
       "lang": "en",
       "published": "2026-09-15 10:00:00",
       "timestamp": 1789466400
-    },
-    {
-      "id": "0e0ee58eabce",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the ",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-14 17:54:22",
-      "timestamp": 1789408462
-    },
-    {
-      "id": "ce67a59bacb1",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep ",
-      "source": "MIT Tech Review",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-09-14 16:00:00",
-      "timestamp": 1789401600
     }
   ]
 }
