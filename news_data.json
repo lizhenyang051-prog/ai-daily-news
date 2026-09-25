@@ -1,6 +1,314 @@
 {
-  "updated_at": "2026-09-24 02:49:03",
+  "updated_at": "2026-09-25 03:05:34",
   "articles": [
+    {
+      "id": "83e6e0e1d17d",
+      "title": "Jev and System One Models: Calibration Beats Accuracy",
+      "link": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
+      "summary": "\nArticle URL: https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions\nComments URL: https://news.ycombinator.com/item?id=49839510\nPoints: 7\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-25 02:24:21",
+      "timestamp": 1790303061
+    },
+    {
+      "id": "cac99a9cde40",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "link": "https://koi.rest",
+      "summary": "\nHi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.This last part, along with everything else this past year, has caused me a great deal of stress.While our balcony zen garden project is yet to be completed, I had an idea to",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 21:33:03",
+      "timestamp": 1790285583
+    },
+    {
+      "id": "5c03eac1ba18",
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+      "summary": "\nArticle URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/\nComments URL: https://news.ycombinator.com/item?id=49836590\nPoints: 59\n# Comments: 24\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 20:53:39",
+      "timestamp": 1790283219
+    },
+    {
+      "id": "abbfb303a1c1",
+      "title": "California is chasing wealth that has feet",
+      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "summary": "\nArticle URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that\nComments URL: https://news.ycombinator.com/item?id=49836419\nPoints: 154\n# Comments: 436\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 20:34:32",
+      "timestamp": 1790282072
+    },
+    {
+      "id": "82fa8e3be146",
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "summary": "\nArticle URL: https://blog.arusekk.pl/posts/srht-account-takeover/\nComments URL: https://news.ycombinator.com/item?id=49835996\nPoints: 80\n# Comments: 12\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 19:54:21",
+      "timestamp": 1790279661
+    },
+    {
+      "id": "7dc9cdf0b44c",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "summary": "\nArticle URL: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical\nComments URL: https://news.ycombinator.com/item?id=49835531\nPoints: 87\n# Comments: 14\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 19:14:27",
+      "timestamp": 1790277267
+    },
+    {
+      "id": "aa05fac24fdd",
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "link": "https://www.usestable.com/careers/product-engineer",
+      "summary": "\nArticle URL: https://www.usestable.com/careers/product-engineer\nComments URL: https://news.ycombinator.com/item?id=49834893\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 18:29:18",
+      "timestamp": 1790274558
+    },
+    {
+      "id": "8a77763581a2",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "link": "https://github.com/devdotfast/whiteboard",
+      "summary": "\nHello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https://whiteboard.dev.fast/), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https://github.com/devdotfast/whiteboard.We were missing the feeling of a “w",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-24 17:21:36",
+      "timestamp": 1790270496
+    },
+    {
+      "id": "c8b8c4177df9",
+      "title": "Why is the liver so weirdly regenerative?",
+      "link": "https://dynomight.substack.com/p/liver",
+      "summary": "\nArticle URL: https://dynomight.substack.com/p/liver\nComments URL: https://news.ycombinator.com/item?id=49832938\nPoints: 283\n# Comments: 162\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 16:23:00",
+      "timestamp": 1790266980
+    },
+    {
+      "id": "bc8d0ad49a42",
+      "title": "F-Droid 2.0",
+      "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "summary": "\nArticle URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html\nComments URL: https://news.ycombinator.com/item?id=49831968\nPoints: 979\n# Comments: 267\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 15:26:12",
+      "timestamp": 1790263572
+    },
+    {
+      "id": "36c1d7d90e70",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "summary": "\nArticle URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r\nComments URL: https://news.ycombinator.com/item?id=49831690\nPoints: 85\n# Comments: 146\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 15:09:38",
+      "timestamp": 1790262578
+    },
+    {
+      "id": "ed5b919a205b",
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "link": "https://eprint.iacr.org/2026/2131.pdf",
+      "summary": "\nhttps://arstechnica.com/security/2026/09/theres-a-new-way-to...\n\nComments URL: https://news.ycombinator.com/item?id=49831098\nPoints: 52\n# Comments: 9\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 14:26:32",
+      "timestamp": 1790259992
+    },
+    {
+      "id": "74474f18ba44",
+      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "link": "https://www.qbitai.com/2026/09/496961.html",
+      "summary": "懂出海，能记忆，自进化",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-24 14:20:14",
+      "timestamp": 1790259614
+    },
+    {
+      "id": "80d4747245f2",
+      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+      "link": "https://www.qbitai.com/2026/09/496925.html",
+      "summary": "1.5台6000D跑赢1台B300！",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-24 14:17:48",
+      "timestamp": 1790259468
+    },
+    {
+      "id": "9c83a4bbcdf0",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "summary": "\nhttps://www.nytimes.com/2026/09/24/technology/google-suncatc... (https://archive.ph/BGFnP)\n\nComments URL: https://news.ycombinator.com/item?id=49830606\nPoints: 128\n# Comments: 231\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-24 13:53:29",
+      "timestamp": 1790258009
+    },
+    {
+      "id": "9e7614b5e197",
+      "title": "时隔十年，AI大牛署名新论文",
+      "link": "https://www.qbitai.com/2026/09/496834.html",
+      "summary": "让自动驾驶“走一步想十步”",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-24 12:58:55",
+      "timestamp": 1790254735
+    },
+    {
+      "id": "d748382ba206",
+      "title": "Two-tier encryption in the UK",
+      "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "summary": "\nArticle URL: https://macanorak.com/two-tier-encryption-in-the-uk/\nComments URL: https://news.ycombinator.com/item?id=49828731\nPoints: 392\n# Comments: 378\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 10:39:19",
+      "timestamp": 1790246359
+    },
+    {
+      "id": "fdde3d3eceb9",
+      "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+      "link": "https://sspai.com/post/114954",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-24 17:30:00",
+      "timestamp": 1790242200
+    },
+    {
+      "id": "ae8e2e6218b9",
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+      "link": "https://sspai.com/prime/story/home-made-beverages-5",
+      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-24 16:20:39",
+      "timestamp": 1790238039
+    },
+    {
+      "id": "33192e589725",
+      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+      "link": "https://www.qbitai.com/2026/09/496816.html",
+      "summary": "人类演示一次，机器人即可实现跨场景任务复用",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-24 08:20:12",
+      "timestamp": 1790238012
+    },
+    {
+      "id": "5333b8d8c589",
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "link": "https://cms-sfx-demo.apeleg.com/",
+      "summary": "\nAir-gapped file encryption packed into a single, self-decrypting HTML page. Repo: https://github.com/ApelegHQ/ts-cms-ep-sfxI was inspired by self-extracting archives. I wanted to share files with basically no dependencies. The goal was:  1. Something that didn't require any installation (assuming a",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-24 07:22:17",
+      "timestamp": 1790234537
+    },
+    {
+      "id": "b92142069e14",
+      "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+      "link": "https://sspai.com/post/113823",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-24 15:06:19",
+      "timestamp": 1790233579
+    },
+    {
+      "id": "2512e7c012b2",
+      "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+      "link": "https://www.qbitai.com/2026/09/496779.html",
+      "summary": "Stripe Managed Payments (SMP) 现已全面上线",
+      "source": "量子位",
+      "category": "knowledge",
+      "lang": "zh",
+      "published": "2026-09-24 05:46:10",
+      "timestamp": 1790228770
+    },
+    {
+      "id": "ba1c38107ad3",
+      "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+      "link": "https://www.qbitai.com/2026/09/496778.html",
+      "summary": "专治人机动作对不齐",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-24 05:45:20",
+      "timestamp": 1790228720
+    },
+    {
+      "id": "c3a0b8277457",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "link": "https://transluce.org/agent-activity",
+      "summary": "\nArticle URL: https://transluce.org/agent-activity\nComments URL: https://news.ycombinator.com/item?id=49826565\nPoints: 248\n# Comments: 247\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-09-24 05:21:10",
+      "timestamp": 1790227270
+    },
+    {
+      "id": "3e53daba0998",
+      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+      "link": "https://www.qbitai.com/2026/09/496767.html",
+      "summary": "开源一座具身智能的新“塔台”",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-09-24 05:19:55",
+      "timestamp": 1790227195
+    },
+    {
+      "id": "01543e67f5d4",
+      "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+      "link": "https://sspai.com/post/114395",
+      "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-24 12:15:24",
+      "timestamp": 1790223324
+    },
+    {
+      "id": "fd6aa67595e9",
+      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+      "link": "https://www.qbitai.com/2026/09/496658.html",
+      "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-09-24 02:51:18",
+      "timestamp": 1790218278
+    },
     {
       "id": "1d2b05fd00ed",
       "title": "成立九年，中科类脑把积累装进Token工厂",
@@ -24,37 +332,48 @@
       "timestamp": 1790209177
     },
     {
-      "id": "a9444db97f40",
-      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-      "link": "https://www.qbitai.com/2026/09/496609.html",
-      "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-23 10:35:16",
-      "timestamp": 1790159716
+      "id": "a34e87367e2c",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "link": "https://bastardica.mitpit.com",
+      "summary": "\nA joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.\n\nComments URL: https://news.ycombinator.com/item?id=49823738\nPoints: 509\n# Comments: 71\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-23 22:53:28",
+      "timestamp": 1790204008
     },
     {
-      "id": "891ae12a7207",
-      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-      "link": "https://www.qbitai.com/2026/09/496578.html",
-      "summary": "商汤大装置异构混推创新实践与技术演进",
-      "source": "量子位",
+      "id": "0fc80194034a",
+      "title": "Toyota is taking the Corolla electric",
+      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "summary": "\nArticle URL: https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/\nComments URL: https://news.ycombinator.com/item?id=49823568\nPoints: 241\n# Comments: 399\n",
+      "source": "Hacker News",
       "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-23 09:56:53",
-      "timestamp": 1790157413
+      "lang": "en",
+      "published": "2026-09-23 22:37:28",
+      "timestamp": 1790203048
     },
     {
-      "id": "c438e40f2331",
-      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
-      "link": "https://www.qbitai.com/2026/09/496493.html",
-      "summary": "企业AI服务迎来平台化交付时代",
-      "source": "量子位",
+      "id": "faa1ee73fbd5",
+      "title": "The Bayeux Tapestry: Woven by the Victors",
+      "link": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+      "summary": "\nArticle URL: https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors\nComments URL: https://news.ycombinator.com/item?id=49823113\nPoints: 12\n# Comments: 0\n",
+      "source": "Hacker News",
       "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-23 09:50:26",
-      "timestamp": 1790157026
+      "lang": "en",
+      "published": "2026-09-23 21:54:35",
+      "timestamp": 1790200475
+    },
+    {
+      "id": "b6a171959446",
+      "title": "Geothermal heat map of US hot springs",
+      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+      "summary": "\nArticle URL: https://www.soakingsprings.com/hot-springs/geothermal-map\nComments URL: https://news.ycombinator.com/item?id=49821835\nPoints: 91\n# Comments: 36\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-09-23 20:12:10",
+      "timestamp": 1790194330
     },
     {
       "id": "f22910c4bb36",
@@ -79,28 +398,6 @@
       "timestamp": 1790154000
     },
     {
-      "id": "ac896b39ab14",
-      "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
-      "link": "https://www.qbitai.com/2026/09/496481.html",
-      "summary": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-09-23 08:54:04",
-      "timestamp": 1790153644
-    },
-    {
-      "id": "9fe30a96b876",
-      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
-      "link": "https://www.qbitai.com/2026/09/496471.html",
-      "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-23 08:45:22",
-      "timestamp": 1790153122
-    },
-    {
       "id": "07f02c694cae",
       "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
       "link": "https://sspai.com/post/114901",
@@ -112,39 +409,6 @@
       "timestamp": 1790148657
     },
     {
-      "id": "12b3c5299082",
-      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
-      "link": "https://www.qbitai.com/2026/09/496393.html",
-      "summary": "每秒能产生5000+个沙盒",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-23 07:29:50",
-      "timestamp": 1790148590
-    },
-    {
-      "id": "4deb1462d461",
-      "title": "Qwen一号位定了！刘大一恒接棒",
-      "link": "https://www.qbitai.com/2026/09/496384.html",
-      "summary": "与稚晖君同届天才少年",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-23 07:27:49",
-      "timestamp": 1790148469
-    },
-    {
-      "id": "7605a72b1535",
-      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
-      "link": "https://www.qbitai.com/2026/09/496352.html",
-      "summary": "对复杂现实进行推演与决策",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-23 06:38:07",
-      "timestamp": 1790145487
-    },
-    {
       "id": "5f3984a83252",
       "title": "Here Wallpaper：把喜欢的地图做成壁纸",
       "link": "https://sspai.com/post/114211",
@@ -154,17 +418,6 @@
       "lang": "zh",
       "published": "2026-09-23 10:19:17",
       "timestamp": 1790129957
-    },
-    {
-      "id": "49503d682504",
-      "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
-      "link": "https://sspai.com/post/114889",
-      "summary": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-23 07:30:05",
-      "timestamp": 1790119805
     },
     {
       "id": "ac47c1f7dcfe",
@@ -209,39 +462,6 @@
       "lang": "zh",
       "published": "2026-09-22 16:11:03",
       "timestamp": 1790064663
-    },
-    {
-      "id": "cac3e2d548dd",
-      "title": "Coast：用十年经验，给记账这件事一个「终点」",
-      "link": "https://sspai.com/post/114479",
-      "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。查看全文",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-09-22 14:39:39",
-      "timestamp": 1790059179
-    },
-    {
-      "id": "8485f6233f92",
-      "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
-      "link": "https://sspai.com/post/114823",
-      "summary": "如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-22 10:44:06",
-      "timestamp": 1790045046
-    },
-    {
-      "id": "c83ac2884032",
-      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
-      "link": "https://sspai.com/post/114840",
-      "summary": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-22 08:09:01",
-      "timestamp": 1790035741
     },
     {
       "id": "e4061da01d8c",
