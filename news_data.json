@@ -1,225 +1,291 @@
 {
-  "updated_at": "2026-10-02 03:43:43",
+  "updated_at": "2026-10-03 03:28:50",
   "articles": [
     {
-      "id": "4f8982ed724d",
-      "title": "How Singapore's government-run dating service works",
-      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "summary": "\nArticle URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 10\n# Comments: 2\n",
+      "id": "73e9ddd217e0",
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "summary": "\nArticle URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 21\n# Comments: 9\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-02 01:56:52",
-      "timestamp": 1790906212
+      "published": "2026-10-03 01:09:01",
+      "timestamp": 1790989741
     },
     {
-      "id": "551ee13a53b6",
-      "title": "Butterflies use optical illusions to dodge predators",
-      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-      "summary": "\nArticle URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\nComments URL: https://news.ycombinator.com/item?id=49928152\nPoints: 19\n# Comments: 3\n",
+      "id": "b64e5d558f9b",
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "link": "https://www.newgrounds.com/",
+      "summary": "\nArticle URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 53\n# Comments: 5\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-01 23:15:24",
-      "timestamp": 1790896524
+      "published": "2026-10-03 00:55:25",
+      "timestamp": 1790988925
     },
     {
-      "id": "b7b698326689",
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "link": "https://lwn.net/Articles/1097401/",
-      "summary": "\nArticle URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 153\n# Comments: 81\n",
+      "id": "359557ba1878",
+      "title": "Where Is the Planet",
+      "link": "http://whereistheplanet.com",
+      "summary": "\nArticle URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 12\n# Comments: 0\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-01 23:10:44",
-      "timestamp": 1790896244
+      "published": "2026-10-03 00:26:19",
+      "timestamp": 1790987179
     },
     {
-      "id": "40ff64ae8572",
-      "title": "2026 International Utility Locate Rodeo",
-      "link": "https://locaterodeo.net/",
-      "summary": "\nArticle URL: https://locaterodeo.net/\nComments URL: https://news.ycombinator.com/item?id=49927844\nPoints: 19\n# Comments: 3\n",
+      "id": "94d0bf53ed67",
+      "title": "Things that apparently cause cancer",
+      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "summary": "\nArticle URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 110\n# Comments: 44\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-01 22:33:23",
-      "timestamp": 1790894003
+      "published": "2026-10-03 00:23:11",
+      "timestamp": 1790986991
     },
     {
-      "id": "7dee6d98ad45",
-      "title": "Frog and Toad and the Increasingly Capable Machines",
-      "link": "https://www.frogandtoad.ai/",
-      "summary": "\nArticle URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 49\n# Comments: 6\n",
+      "id": "241c2225dda6",
+      "title": "Every SaaS business will become a harness around a model",
+      "link": "https://blog.sshh.io/p/the-harness-is-the-company",
+      "summary": "\nArticle URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 113\n# Comments: 83\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-01 22:23:38",
-      "timestamp": 1790893418
+      "published": "2026-10-02 21:06:56",
+      "timestamp": 1790975216
     },
     {
-      "id": "33cd1e6485b4",
-      "title": "Aweb – Communication for AI Agents",
-      "link": "https://aweb.ai",
-      "summary": "\nArticle URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 27\n# Comments: 17\n",
+      "id": "53ce9d642e17",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "link": "https://github.com/anteloc/ldraw-nova",
+      "summary": "\nHi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together i",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 20:00:15",
+      "timestamp": 1790971215
+    },
+    {
+      "id": "61f05ba9b688",
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "summary": "\nArticle URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 141\n# Comments: 83\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 19:37:01",
+      "timestamp": 1790969821
+    },
+    {
+      "id": "b5851e246521",
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "summary": "\nArticle URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 150\n# Comments: 69\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 19:26:54",
+      "timestamp": 1790969214
+    },
+    {
+      "id": "3702aac7d6c0",
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "summary": "\nArticle URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 343\n# Comments: 224\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 19:06:56",
+      "timestamp": 1790968016
+    },
+    {
+      "id": "60dc7db942d3",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "summary": "\nArticle URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 173\n# Comments: 43\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 18:01:16",
+      "timestamp": 1790964076
+    },
+    {
+      "id": "dfabf00f43e6",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 15:49:04",
+      "timestamp": 1790956144
+    },
+    {
+      "id": "1a53f9c357c1",
+      "title": "One month coding with GLM 5.3 Flash",
+      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "summary": "\nArticle URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 128\n# Comments: 99\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 15:29:15",
+      "timestamp": 1790954955
+    },
+    {
+      "id": "7cb88bc517bc",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "summary": "\nArticle URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 139\n# Comments: 62\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 14:22:12",
+      "timestamp": 1790950932
+    },
+    {
+      "id": "712e043289cc",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "summary": "\nhttps://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 191\n# Comments: 92\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 14:11:24",
+      "timestamp": 1790950284
+    },
+    {
+      "id": "a3c6a2180116",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "summary": "\nArticle URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 253\n# Comments: 142\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 13:18:32",
+      "timestamp": 1790947112
+    },
+    {
+      "id": "a18f97a3a31c",
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "link": "https://bigthink.com/books/a-fabulous-debt/",
+      "summary": "\nArticle URL: https://bigthink.com/books/a-fabulous-debt/\nComments URL: https://news.ycombinator.com/item?id=49933230\nPoints: 84\n# Comments: 24\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 13:17:47",
+      "timestamp": 1790947067
+    },
+    {
+      "id": "b0ce355a237f",
+      "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+      "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+      "summary": "\nArticle URL: https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216\nComments URL: https://news.ycombinator.com/item?id=49932911\nPoints: 52\n# Comments: 12\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 12:46:50",
+      "timestamp": 1790945210
+    },
+    {
+      "id": "3e7bdfe78374",
+      "title": "Blogging with Gleam, Org-Mode and Pandoc",
+      "link": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+      "summary": "\nArticle URL: https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/\nComments URL: https://news.ycombinator.com/item?id=49932340\nPoints: 63\n# Comments: 13\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 11:34:28",
+      "timestamp": 1790940868
+    },
+    {
+      "id": "16e0b61f1dcf",
+      "title": "Our Project Suncatcher prototype satellite is in orbit",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "summary": "\nArticle URL: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/\nComments URL: https://news.ycombinator.com/item?id=49932191\nPoints: 50\n# Comments: 52\n",
       "source": "Hacker News",
       "category": "product",
       "lang": "en",
-      "published": "2026-10-01 22:02:31",
-      "timestamp": 1790892151
+      "published": "2026-10-02 11:13:02",
+      "timestamp": 1790939582
     },
     {
-      "id": "05950f1d173c",
-      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-      "link": "https://www.cssbed.com",
-      "summary": "\nArticle URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 71\n# Comments: 17\n",
+      "id": "f64c605e26d1",
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "summary": "\nArticle URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\nComments URL: https://news.ycombinator.com/item?id=49932147\nPoints: 218\n# Comments: 50\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-01 21:21:32",
-      "timestamp": 1790889692
+      "published": "2026-10-02 11:07:17",
+      "timestamp": 1790939237
     },
     {
-      "id": "66d00694e61e",
-      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-      "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
-      "summary": "\nArticle URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 91\n# Comments: 16\n",
+      "id": "3f6f797a638a",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "link": "https://sspai.com/post/115211",
+      "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-02 17:30:00",
+      "timestamp": 1790933400
+    },
+    {
+      "id": "5923464415f4",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-02 08:00:00",
+      "timestamp": 1790928000
+    },
+    {
+      "id": "1f71aed71b18",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "link": "https://www.qbitai.com/2026/10/500098.html",
+      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-02 07:34:15",
+      "timestamp": 1790926455
+    },
+    {
+      "id": "11210fc9ff53",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "link": "https://www.qbitai.com/2026/10/499991.html",
+      "summary": "44年前被亲自列入问题清单",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-02 07:27:03",
+      "timestamp": 1790926023
+    },
+    {
+      "id": "27e9547643c0",
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "link": "https://www.qbitai.com/2026/10/499958.html",
+      "summary": "换区也没用",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-02 06:46:32",
+      "timestamp": 1790923592
+    },
+    {
+      "id": "3839e3716a82",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "summary": "\nArticle URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q\nComments URL: https://news.ycombinator.com/item?id=49929391\nPoints: 193\n# Comments: 52\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-01 20:48:37",
-      "timestamp": 1790887717
-    },
-    {
-      "id": "94ddde805ef3",
-      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "link": "https://github.com/Vibra-Ingenn/Janus",
-      "summary": "\nArticle URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 57\n# Comments: 8\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 20:36:47",
-      "timestamp": 1790887007
-    },
-    {
-      "id": "a925cee51f22",
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "summary": "\nArticle URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 146\n# Comments: 141\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 20:23:27",
-      "timestamp": 1790886207
-    },
-    {
-      "id": "6d1c6d6b0f39",
-      "title": "SvelteKit 3",
-      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "summary": "\nArticle URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 147\n# Comments: 58\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 20:14:23",
-      "timestamp": 1790885663
-    },
-    {
-      "id": "2825c1d992e6",
-      "title": "ArXiv's Updated Rate Limit Policy",
-      "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-      "summary": "\nArticle URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 83\n# Comments: 35\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 20:12:15",
-      "timestamp": 1790885535
-    },
-    {
-      "id": "c2e3b8f418b4",
-      "title": "Pi 1.0",
-      "link": "https://earendil.com/posts/pi-1-0/",
-      "summary": "\nRelated: Pi Durable - https://news.ycombinator.com/item?id=49925969\n\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 856\n# Comments: 292\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 19:33:05",
-      "timestamp": 1790883185
-    },
-    {
-      "id": "b75b6f709fbc",
-      "title": "Pi Durable",
-      "link": "https://earendil.com/posts/pi-durable/",
-      "summary": "\nRelated: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments)\n\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 262\n# Comments: 31\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 19:24:08",
-      "timestamp": 1790882648
-    },
-    {
-      "id": "4aae59e4ef74",
-      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
-      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-      "summary": "\nArticle URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\nComments URL: https://news.ycombinator.com/item?id=49925742\nPoints: 87\n# Comments: 5\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 19:03:42",
-      "timestamp": 1790881422
-    },
-    {
-      "id": "3754b5dbb82b",
-      "title": "Bez: Generating a browser engine from specs and tests",
-      "link": "https://tangled.org/burrito.space/bez",
-      "summary": "\nArticle URL: https://tangled.org/burrito.space/bez\nComments URL: https://news.ycombinator.com/item?id=49925036\nPoints: 93\n# Comments: 42\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 18:08:03",
-      "timestamp": 1790878083
-    },
-    {
-      "id": "828cf33459c9",
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "link": "https://stoppels.ch/goalposts/",
-      "summary": "\nArticle URL: https://stoppels.ch/goalposts/\nComments URL: https://news.ycombinator.com/item?id=49924618\nPoints: 108\n# Comments: 114\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 17:32:43",
-      "timestamp": 1790875963
-    },
-    {
-      "id": "aa0543978e15",
-      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "link": "https://blog.gitbutler.com/git-3-sha-256",
-      "summary": "\nArticle URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 250\n# Comments: 257\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 16:57:03",
-      "timestamp": 1790873823
-    },
-    {
-      "id": "638a40baaa2b",
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "link": "https://blog.cloudflare.com/clef-decision-models/",
-      "summary": "\nArticle URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 453\n# Comments: 166\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 16:18:57",
-      "timestamp": 1790871537
-    },
-    {
-      "id": "39faed37bfc1",
-      "title": "RIP, vector database",
-      "link": "https://turbopuffer.com/blog/rip-vector-database",
-      "summary": "\nArticle URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 287\n# Comments: 78\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-01 16:01:56",
-      "timestamp": 1790870516
+      "published": "2026-10-02 02:51:27",
+      "timestamp": 1790909487
     },
     {
       "id": "5a28d85d8548",
@@ -310,17 +376,6 @@
       "timestamp": 1790755117
     },
     {
-      "id": "087f40773d46",
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-      "link": "https://www.qbitai.com/2026/09/499493.html",
-      "summary": "让GPT把机器人技能当工具调用",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-30 07:54:54",
-      "timestamp": 1790754894
-    },
-    {
       "id": "ea69474dae0a",
       "title": "经典任务管理软件的现代重构：新版 2Do 详解",
       "link": "https://sspai.com/post/115166",
@@ -332,17 +387,6 @@
       "timestamp": 1790751600
     },
     {
-      "id": "81fa319ee4b9",
-      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-      "link": "https://www.qbitai.com/2026/09/499308.html",
-      "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-30 05:18:05",
-      "timestamp": 1790745485
-    },
-    {
       "id": "304762825ccd",
       "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
       "link": "https://sspai.com/post/114945",
@@ -352,17 +396,6 @@
       "lang": "zh",
       "published": "2026-09-30 11:02:18",
       "timestamp": 1790737338
-    },
-    {
-      "id": "32d485c4d2f0",
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-      "link": "https://www.qbitai.com/2026/09/499263.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-09-30 02:53:17",
-      "timestamp": 1790736797
     },
     {
       "id": "4665dd2ca136",
@@ -453,17 +486,6 @@
       "timestamp": 1790588702
     },
     {
-      "id": "05fe19b48f0b",
-      "title": "基于 Termux 的 Android 手机开发服务器实操",
-      "link": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
-      "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-09-28 17:33:03",
-      "timestamp": 1790587983
-    },
-    {
       "id": "252e00850d78",
       "title": "Who’s liable when AI agents go rogue?",
       "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
@@ -506,28 +528,6 @@
       "lang": "en",
       "published": "2026-09-22 11:04:51",
       "timestamp": 1790075091
-    },
-    {
-      "id": "e4061da01d8c",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technolo",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 12:00:00",
-      "timestamp": 1789992000
-    },
-    {
-      "id": "907cb437404f",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-21 12:00:00",
-      "timestamp": 1789992000
     }
   ]
 }
