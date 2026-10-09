@@ -1,27 +1,390 @@
 {
-  "updated_at": "2026-10-08 04:08:27",
+  "updated_at": "2026-10-09 04:13:47",
   "articles": [
     {
-      "id": "b028c23e8db1",
-      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-      "link": "https://www.qbitai.com/2026/10/501915.html",
-      "summary": "",
-      "source": "量子位",
+      "id": "d13c8eb253a6",
+      "title": "Keyboard differences between Windows and Macs",
+      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "summary": "\nArticle URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/\nComments URL: https://news.ycombinator.com/item?id=50015515\nPoints: 17\n# Comments: 8\n",
+      "source": "Hacker News",
       "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-08 02:15:37",
-      "timestamp": 1791425737
+      "lang": "en",
+      "published": "2026-10-09 03:08:05",
+      "timestamp": 1791515285
     },
     {
-      "id": "d5b6c7750ed1",
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "link": "https://www.qbitai.com/2026/10/501913.html",
-      "summary": "",
+      "id": "09d4a828a4e3",
+      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+      "link": "https://www.qbitai.com/2026/10/502114.html",
+      "summary": "江淮再度跌停",
       "source": "量子位",
       "category": "tool",
       "lang": "zh",
-      "published": "2026-10-08 02:04:36",
-      "timestamp": 1791425076
+      "published": "2026-10-09 02:51:10",
+      "timestamp": 1791514270
+    },
+    {
+      "id": "c0414fc60984",
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "link": "https://www.qbitai.com/2026/10/502106.html",
+      "summary": "多Agent协同还能自我进化",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-09 02:37:22",
+      "timestamp": 1791513442
+    },
+    {
+      "id": "2e0306c014cb",
+      "title": "What should we tell our students?",
+      "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "summary": "\nArticle URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/\nComments URL: https://news.ycombinator.com/item?id=50015236\nPoints: 53\n# Comments: 50\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-09 02:27:45",
+      "timestamp": 1791512865
+    },
+    {
+      "id": "6c3444dd61f2",
+      "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+      "link": "https://sspai.com/post/114869",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-09 10:08:37",
+      "timestamp": 1791511717
+    },
+    {
+      "id": "04e9eb9528f8",
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "link": "https://www.qbitai.com/2026/10/502096.html",
+      "summary": "让AI反复试错的“练兵场”来了",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-09 02:03:48",
+      "timestamp": 1791511428
+    },
+    {
+      "id": "1c8b92c298c1",
+      "title": "Reducing undefined behavior in the C language",
+      "link": "https://lwn.net/Articles/1095811/",
+      "summary": "\nArticle URL: https://lwn.net/Articles/1095811/\nComments URL: https://news.ycombinator.com/item?id=50015074\nPoints: 36\n# Comments: 17\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-09 02:02:53",
+      "timestamp": 1791511373
+    },
+    {
+      "id": "675bea3c550d",
+      "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+      "link": "https://sspai.com/post/115532",
+      "summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-09 08:51:10",
+      "timestamp": 1791507070
+    },
+    {
+      "id": "43a29438aa4b",
+      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+      "link": "https://www.qbitai.com/2026/10/502089.html",
+      "summary": "彻底撕破脸了",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-09 00:35:57",
+      "timestamp": 1791506157
+    },
+    {
+      "id": "4653cbfb50f2",
+      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+      "link": "https://www.qbitai.com/2026/10/502083.html",
+      "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-09 00:16:56",
+      "timestamp": 1791505016
+    },
+    {
+      "id": "0b9e9c0161c0",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-09 00:08:24",
+      "timestamp": 1791504504
+    },
+    {
+      "id": "dcab7ffefccf",
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "link": "https://github.com/edrisranjbar/lifeos",
+      "summary": "\nArticle URL: https://github.com/edrisranjbar/lifeos\nComments URL: https://news.ycombinator.com/item?id=50014150\nPoints: 25\n# Comments: 4\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-09 00:02:19",
+      "timestamp": 1791504139
+    },
+    {
+      "id": "3f2aee8f1104",
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "link": "https://svg-spark.vercel.app/",
+      "summary": "\nArticle URL: https://svg-spark.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50013931\nPoints: 34\n# Comments: 6\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 23:32:49",
+      "timestamp": 1791502369
+    },
+    {
+      "id": "a5c1230ccb3f",
+      "title": "Bevy 0.20",
+      "link": "https://bevy.org/news/bevy-0-20/",
+      "summary": "\nArticle URL: https://bevy.org/news/bevy-0-20/\nComments URL: https://news.ycombinator.com/item?id=50013610\nPoints: 85\n# Comments: 14\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 22:57:50",
+      "timestamp": 1791500270
+    },
+    {
+      "id": "7743b0c3a439",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "summary": "\nArticle URL: https://biohub.org/news/virtual-biology-initiative-expansion/\nComments URL: https://news.ycombinator.com/item?id=50011999\nPoints: 90\n# Comments: 12\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 20:46:25",
+      "timestamp": 1791492385
+    },
+    {
+      "id": "0ec1601e3a29",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "summary": "\nArticle URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full\nComments URL: https://news.ycombinator.com/item?id=50011928\nPoints: 209\n# Comments: 138\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 20:42:16",
+      "timestamp": 1791492136
+    },
+    {
+      "id": "b42d5381cf12",
+      "title": "The value of not getting to the point (2015)",
+      "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "summary": "\nArticle URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/\nComments URL: https://news.ycombinator.com/item?id=50010470\nPoints: 137\n# Comments: 43\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 19:04:56",
+      "timestamp": 1791486296
+    },
+    {
+      "id": "5d8b03002a0f",
+      "title": "Theranos.world",
+      "link": "https://www.theranos.world/",
+      "summary": "\nArticle URL: https://www.theranos.world/\nComments URL: https://news.ycombinator.com/item?id=50009295\nPoints: 337\n# Comments: 125\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 17:51:49",
+      "timestamp": 1791481909
+    },
+    {
+      "id": "a48f16b14327",
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "summary": "\nArticle URL: https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/\nComments URL: https://news.ycombinator.com/item?id=50009066\nPoints: 25\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 17:39:26",
+      "timestamp": 1791481166
+    },
+    {
+      "id": "b6d4f174110e",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "link": "https://cactuscompute.com/blog/whistle",
+      "summary": "\nArticle URL: https://cactuscompute.com/blog/whistle\nComments URL: https://news.ycombinator.com/item?id=50008427\nPoints: 610\n# Comments: 135\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 16:59:39",
+      "timestamp": 1791478779
+    },
+    {
+      "id": "fa199f65a578",
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "link": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "summary": "\nArticle URL: http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html\nComments URL: https://news.ycombinator.com/item?id=50008047\nPoints: 125\n# Comments: 24\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 16:37:24",
+      "timestamp": 1791477444
+    },
+    {
+      "id": "cd2a3c91e2dc",
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "link": "https://opper.ai/jevman-benchmark/",
+      "summary": "\nOpenai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.So we let jev 1.13, kev, clef, clef flash, G",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-08 16:34:13",
+      "timestamp": 1791477253
+    },
+    {
+      "id": "e209567cb255",
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "link": "https://openrouter.ai/stepfun/step-5-preview",
+      "summary": "\nArticle URL: https://openrouter.ai/stepfun/step-5-preview\nComments URL: https://news.ycombinator.com/item?id=50007764\nPoints: 115\n# Comments: 26\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 16:20:20",
+      "timestamp": 1791476420
+    },
+    {
+      "id": "ed9ac3903039",
+      "title": "Orkut.com",
+      "link": "https://orkut.com/",
+      "summary": "\nArticle URL: https://orkut.com/\nComments URL: https://news.ycombinator.com/item?id=50006012\nPoints: 158\n# Comments: 119\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 14:09:53",
+      "timestamp": 1791468593
+    },
+    {
+      "id": "40084b3bd660",
+      "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+      "link": "https://www.qbitai.com/2026/10/502049.html",
+      "summary": "Vidu Q4预览版，了解一下~",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-08 13:28:23",
+      "timestamp": 1791466103
+    },
+    {
+      "id": "68f0b64949d7",
+      "title": "Beauty in DVD Menus",
+      "link": "https://vale.rocks/posts/dvd-menus",
+      "summary": "\nArticle URL: https://vale.rocks/posts/dvd-menus\nComments URL: https://news.ycombinator.com/item?id=50005527\nPoints: 276\n# Comments: 153\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 13:22:01",
+      "timestamp": 1791465721
+    },
+    {
+      "id": "ca1aef9d9d8a",
+      "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+      "link": "https://www.qbitai.com/2026/10/502035.html",
+      "summary": "打造便利店“人机协作”运营新模式",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-08 12:43:31",
+      "timestamp": 1791463411
+    },
+    {
+      "id": "69d77863381f",
+      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+      "link": "https://www.qbitai.com/2026/10/502020.html",
+      "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-08 10:23:53",
+      "timestamp": 1791455033
+    },
+    {
+      "id": "d5239e8c89d6",
+      "title": "Yes, and",
+      "link": "https://htmx.org/essays/yes-and/",
+      "summary": "\nArticle URL: https://htmx.org/essays/yes-and/\nComments URL: https://news.ycombinator.com/item?id=50003796\nPoints: 247\n# Comments: 80\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 09:48:18",
+      "timestamp": 1791452898
+    },
+    {
+      "id": "78a5e7226476",
+      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+      "link": "https://www.qbitai.com/2026/10/501995.html",
+      "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-08 09:28:44",
+      "timestamp": 1791451724
+    },
+    {
+      "id": "73f5d23e9567",
+      "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+      "link": "https://sspai.com/post/115282",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-08 17:28:11",
+      "timestamp": 1791451691
+    },
+    {
+      "id": "2c778ea740f7",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-08 09:00:00",
+      "timestamp": 1791450000
+    },
+    {
+      "id": "d4b840292d48",
+      "title": "Building a safer path to autonomous industrial AI",
+      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ",
+      "source": "MIT Tech Review",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-08 08:17:32",
+      "timestamp": 1791447452
+    },
+    {
+      "id": "0aa8a84a1bb8",
+      "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
+      "link": "https://sspai.com/post/113843",
+      "summary": "最近我写了不少关于独立开发的思考，想着要汇总一下，就把Mole从开源CLI做到Mac付费软件这一路聊一聊：我当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。去年国庆我在三 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-08 16:10:51",
+      "timestamp": 1791447051
+    },
+    {
+      "id": "b178f80caa98",
+      "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
+      "link": "https://sspai.com/post/115209",
+      "summary": "断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-10-08 14:42:14",
+      "timestamp": 1791441734
     },
     {
       "id": "ae9c2ab342a4",
@@ -35,26 +398,15 @@
       "timestamp": 1791424079
     },
     {
-      "id": "18ef3da4238b",
-      "title": "GPT-6今起免费用！拒答变少，话变多了",
-      "link": "https://www.qbitai.com/2026/10/501834.html",
-      "summary": "ChatGPT聊天框长出界面",
-      "source": "量子位",
+      "id": "39982277c6c5",
+      "title": "US man given prison sentence for bot-farming music streams",
+      "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+      "summary": "\nhttps://www.justice.gov/usao-sdny/pr/north-carolina-man-sent...\n\nComments URL: https://news.ycombinator.com/item?id=50000985\nPoints: 138\n# Comments: 218\n",
+      "source": "Hacker News",
       "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-08 01:07:19",
-      "timestamp": 1791421639
-    },
-    {
-      "id": "6ed8802764cf",
-      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-      "link": "https://www.qbitai.com/2026/10/501832.html",
-      "summary": "小模型新守门员",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-08 01:04:00",
-      "timestamp": 1791421440
+      "lang": "en",
+      "published": "2026-10-08 01:33:17",
+      "timestamp": 1791423197
     },
     {
       "id": "746cc5ad2585",
@@ -68,268 +420,15 @@
       "timestamp": 1791418617
     },
     {
-      "id": "7024b375074f",
-      "title": "Margaret Hamilton has died",
-      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "summary": "\nArticle URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\nComments URL: https://news.ycombinator.com/item?id=49998895\nPoints: 979\n# Comments: 110\n",
+      "id": "9fbe22094ed7",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "summary": "\nArticle URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/\nComments URL: https://news.ycombinator.com/item?id=50000488\nPoints: 490\n# Comments: 411\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-07 21:16:18",
-      "timestamp": 1791407778
-    },
-    {
-      "id": "7984cff4813d",
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-      "summary": "\nArticle URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/\nComments URL: https://news.ycombinator.com/item?id=49998066\nPoints: 87\n# Comments: 34\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 20:01:37",
-      "timestamp": 1791403297
-    },
-    {
-      "id": "4a6ac4547b15",
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "summary": "\nArticle URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/\nComments URL: https://news.ycombinator.com/item?id=49997161\nPoints: 305\n# Comments: 293\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 18:49:40",
-      "timestamp": 1791398980
-    },
-    {
-      "id": "c304de805392",
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-      "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-      "summary": "\nArticle URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/\nComments URL: https://news.ycombinator.com/item?id=49997073\nPoints: 117\n# Comments: 59\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 18:43:18",
-      "timestamp": 1791398598
-    },
-    {
-      "id": "dd3e0f4bfad8",
-      "title": "Claude Haiku 5.5",
-      "link": "https://www.anthropic.com/claude-haiku-5-5",
-      "summary": "\nArticle URL: https://www.anthropic.com/claude-haiku-5-5\nComments URL: https://news.ycombinator.com/item?id=49996437\nPoints: 739\n# Comments: 373\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 18:01:32",
-      "timestamp": 1791396092
-    },
-    {
-      "id": "577f7249cd8b",
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone/",
-      "summary": "\nArticle URL: https://openai.com/index/gpt-6-for-everyone/\nComments URL: https://news.ycombinator.com/item?id=49996425\nPoints: 541\n# Comments: 281\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-07 18:00:58",
-      "timestamp": 1791396058
-    },
-    {
-      "id": "238caef62640",
-      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-      "link": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
-      "summary": "\nArticle URL: https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html\nComments URL: https://news.ycombinator.com/item?id=49996406\nPoints: 40\n# Comments: 3\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 17:59:34",
-      "timestamp": 1791395974
-    },
-    {
-      "id": "e307c854843a",
-      "title": "Docker Agent",
-      "link": "https://github.com/docker/docker-agent",
-      "summary": "\nArticle URL: https://github.com/docker/docker-agent\nComments URL: https://news.ycombinator.com/item?id=49996259\nPoints: 198\n# Comments: 88\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-07 17:48:38",
-      "timestamp": 1791395318
-    },
-    {
-      "id": "111974eedd34",
-      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-      "link": "https://bigwords.page/",
-      "summary": "\nArticle URL: https://bigwords.page/\nComments URL: https://news.ycombinator.com/item?id=49994443\nPoints: 404\n# Comments: 118\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 15:44:21",
-      "timestamp": 1791387861
-    },
-    {
-      "id": "072fa273f489",
-      "title": "Navier–Stokes Lost in Translation",
-      "link": "https://arxiv.org/abs/2610.08144",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2610.08144\nComments URL: https://news.ycombinator.com/item?id=49994145\nPoints: 270\n# Comments: 168\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 15:24:38",
-      "timestamp": 1791386678
-    },
-    {
-      "id": "436819770a9d",
-      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
-      "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-      "summary": "\nArticle URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees\nComments URL: https://news.ycombinator.com/item?id=49993914\nPoints: 505\n# Comments: 362\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 15:09:59",
-      "timestamp": 1791385799
-    },
-    {
-      "id": "c2f65f2335b1",
-      "title": "Why were Victorian elites so effective?",
-      "link": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
-      "summary": "\nArticle URL: https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/\nComments URL: https://news.ycombinator.com/item?id=49993908\nPoints: 109\n# Comments: 180\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 15:09:33",
-      "timestamp": 1791385773
-    },
-    {
-      "id": "54e58031e4d9",
-      "title": "Animated ASCII Art for Web Pages",
-      "link": "https://ascii.rest/",
-      "summary": "\nArticle URL: https://ascii.rest/\nComments URL: https://news.ycombinator.com/item?id=49993857\nPoints: 312\n# Comments: 59\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 15:05:37",
-      "timestamp": 1791385537
-    },
-    {
-      "id": "caff1e917cfa",
-      "title": "SynthID Detector",
-      "link": "https://synthid.com/",
-      "summary": "\nhttps://blog.google/innovation-and-ai/models-and-research/go...\n\nComments URL: https://news.ycombinator.com/item?id=49993188\nPoints: 99\n# Comments: 89\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-07 14:16:44",
-      "timestamp": 1791382604
-    },
-    {
-      "id": "17c88d82c0d5",
-      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-      "link": "https://www.qbitai.com/2026/10/501825.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-07 14:10:33",
-      "timestamp": 1791382233
-    },
-    {
-      "id": "904efd79b790",
-      "title": "Anti-patterns in software blogging",
-      "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-      "summary": "\nArticle URL: https://refactoringenglish.com/blog/anti-patterns-software-blogging/\nComments URL: https://news.ycombinator.com/item?id=49992257\nPoints: 223\n# Comments: 125\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 13:08:26",
-      "timestamp": 1791378506
-    },
-    {
-      "id": "8369c46733db",
-      "title": "House with 15m underground tunnels for sale for 300k",
-      "link": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
-      "summary": "\nArticle URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/\nComments URL: https://news.ycombinator.com/item?id=49992125\nPoints: 177\n# Comments: 166\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 12:57:10",
-      "timestamp": 1791377830
-    },
-    {
-      "id": "e418fe7dbf45",
-      "title": "Google Playground: Create and play custom games",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "summary": "\nhttps://labs.google/playground\n\nComments URL: https://news.ycombinator.com/item?id=49991823\nPoints: 127\n# Comments: 207\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-07 12:28:36",
-      "timestamp": 1791376116
-    },
-    {
-      "id": "f872af5844ef",
-      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-      "link": "https://www.qbitai.com/2026/10/501803.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-07 11:34:47",
-      "timestamp": 1791372887
-    },
-    {
-      "id": "604fb700b664",
-      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
-      "link": "https://github.com/snuri00/psp-web-recomp",
-      "summary": "\nArticle URL: https://github.com/snuri00/psp-web-recomp\nComments URL: https://news.ycombinator.com/item?id=49991243\nPoints: 172\n# Comments: 94\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 11:27:27",
-      "timestamp": 1791372447
-    },
-    {
-      "id": "0fb41d32b9e6",
-      "title": "Shipping JPEG XL in Chrome",
-      "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-      "summary": "\nArticle URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome\nComments URL: https://news.ycombinator.com/item?id=49991227\nPoints: 509\n# Comments: 344\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 11:25:02",
-      "timestamp": 1791372302
-    },
-    {
-      "id": "d5ae05efdc82",
-      "title": "晕…这年头还有说人话的AI不",
-      "link": "https://www.qbitai.com/2026/10/501796.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-07 08:41:13",
-      "timestamp": 1791362473
-    },
-    {
-      "id": "db2ca06f2918",
-      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-      "link": "https://www.qbitai.com/2026/10/501791.html",
-      "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-07 06:39:36",
-      "timestamp": 1791355176
-    },
-    {
-      "id": "737b61a42e98",
-      "title": "The art of defusing a second world war bomb",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-      "summary": "\nArticle URL: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb\nComments URL: https://news.ycombinator.com/item?id=49987858\nPoints: 119\n# Comments: 94\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-07 03:43:14",
-      "timestamp": 1791344594
+      "published": "2026-10-08 00:14:48",
+      "timestamp": 1791418488
     },
     {
       "id": "470ea6517735",
@@ -341,28 +440,6 @@
       "lang": "zh",
       "published": "2026-10-07 11:00:00",
       "timestamp": 1791342000
-    },
-    {
-      "id": "d28a78494636",
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "link": "https://www.qbitai.com/2026/10/501749.html",
-      "summary": "三位菲尔兹奖得主：不代表认可",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-07 01:05:13",
-      "timestamp": 1791335113
-    },
-    {
-      "id": "3efacf523afa",
-      "title": "刚刚，诺贝尔物理奖一人独揽！",
-      "link": "https://www.qbitai.com/2026/10/501746.html",
-      "summary": "南极洲甚至有一座高地以他名字命名",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-06 10:44:58",
-      "timestamp": 1791283498
     },
     {
       "id": "01b6e73dbe0d",
@@ -431,28 +508,6 @@
       "timestamp": 1791169164
     },
     {
-      "id": "27aa479f7f0a",
-      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-      "link": "https://sspai.com/post/115308",
-      "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-04 15:58:39",
-      "timestamp": 1791100719
-    },
-    {
-      "id": "4e9f04323a00",
-      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
-      "link": "https://sspai.com/post/114922",
-      "summary": "不知道以后 CMF 的设计还会不会像现在一样出彩。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-03 15:00:00",
-      "timestamp": 1791010800
-    },
-    {
       "id": "dfabf00f43e6",
       "title": "Redefining enterprise intelligence with autonomous AI",
       "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
@@ -462,17 +517,6 @@
       "lang": "en",
       "published": "2026-10-02 15:49:04",
       "timestamp": 1790956144
-    },
-    {
-      "id": "3f6f797a638a",
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "link": "https://sspai.com/post/115211",
-      "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-02 17:30:00",
-      "timestamp": 1790933400
     },
     {
       "id": "5923464415f4",
@@ -486,17 +530,6 @@
       "timestamp": 1790928000
     },
     {
-      "id": "2360e17cae1f",
-      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
-      "link": "https://sspai.com/post/115070",
-      "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-30 22:32:58",
-      "timestamp": 1790778778
-    },
-    {
       "id": "613b90376e24",
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
       "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
@@ -506,50 +539,6 @@
       "lang": "en",
       "published": "2026-09-30 10:40:30",
       "timestamp": 1790764830
-    },
-    {
-      "id": "ea69474dae0a",
-      "title": "经典任务管理软件的现代重构：新版 2Do 详解",
-      "link": "https://sspai.com/post/115166",
-      "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-09-30 15:00:00",
-      "timestamp": 1790751600
-    },
-    {
-      "id": "4665dd2ca136",
-      "title": "Making AI an asset, not an expense",
-      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-29 10:43:45",
-      "timestamp": 1790678625
-    },
-    {
-      "id": "da9ed91c90b0",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-28 22:17:07",
-      "timestamp": 1790633827
-    },
-    {
-      "id": "9558cb1e4ba8",
-      "title": "When can we say AI made a scientific discovery?",
-      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-09-28 17:03:16",
-      "timestamp": 1790614996
     }
   ]
 }
