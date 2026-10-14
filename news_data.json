@@ -1,6 +1,149 @@
 {
-  "updated_at": "2026-10-13 05:07:20",
+  "updated_at": "2026-10-14 03:13:55",
   "articles": [
+    {
+      "id": "3351e2c10831",
+      "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
+      "link": "https://sspai.com/post/92653",
+      "summary": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 10:00:04",
+      "timestamp": 1791943204
+    },
+    {
+      "id": "51af3dffb64c",
+      "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
+      "link": "https://sspai.com/post/116138",
+      "summary": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 08:40:39",
+      "timestamp": 1791938439
+    },
+    {
+      "id": "2a03791651df",
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "link": "https://www.qbitai.com/2026/10/503107.html",
+      "summary": "让VLA从“演示可用”逼近“产线可用”",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-13 11:05:39",
+      "timestamp": 1791889539
+    },
+    {
+      "id": "1ddfacf5fdd1",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-13 10:00:00",
+      "timestamp": 1791885600
+    },
+    {
+      "id": "49fa8ab9c4bc",
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "link": "https://www.qbitai.com/2026/10/503093.html",
+      "summary": "Winverse AI",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-13 09:33:37",
+      "timestamp": 1791884017
+    },
+    {
+      "id": "77b129fc66d1",
+      "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+      "link": "https://sspai.com/post/116068",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-10-13 17:00:00",
+      "timestamp": 1791882000
+    },
+    {
+      "id": "09efb776a103",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-13 09:00:00",
+      "timestamp": 1791882000
+    },
+    {
+      "id": "89635de54d2c",
+      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+      "link": "https://www.qbitai.com/2026/10/502992.html",
+      "summary": "宝马保时捷缺席",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-13 07:20:23",
+      "timestamp": 1791876023
+    },
+    {
+      "id": "2f668868ad19",
+      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+      "link": "https://www.qbitai.com/2026/10/502954.html",
+      "summary": "让材料感知压力，造出超薄高密度电子皮肤",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-13 07:19:21",
+      "timestamp": 1791875961
+    },
+    {
+      "id": "5b11a2607fd3",
+      "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+      "link": "https://sspai.com/post/115400",
+      "summary": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文",
+      "source": "少数派",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-10-13 15:00:00",
+      "timestamp": 1791874800
+    },
+    {
+      "id": "d9067fc66286",
+      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+      "link": "https://www.qbitai.com/2026/10/502920.html",
+      "summary": "拉马克进化的幽灵",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-13 06:19:10",
+      "timestamp": 1791872350
+    },
+    {
+      "id": "0cc7c49a4b38",
+      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+      "link": "https://www.qbitai.com/2026/10/502907.html",
+      "summary": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-13 06:00:20",
+      "timestamp": 1791871220
+    },
+    {
+      "id": "e2a05610b417",
+      "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
+      "link": "https://www.qbitai.com/2026/10/502849.html",
+      "summary": "丢一句话进去，事儿就办完了",
+      "source": "量子位",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-10-13 04:04:22",
+      "timestamp": 1791864262
+    },
     {
       "id": "9801a4f5888f",
       "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
@@ -22,6 +165,17 @@
       "lang": "zh",
       "published": "2026-10-13 11:09:17",
       "timestamp": 1791860957
+    },
+    {
+      "id": "d09fde4326d2",
+      "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+      "link": "https://www.qbitai.com/2026/10/502770.html",
+      "summary": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-13 02:01:56",
+      "timestamp": 1791856916
     },
     {
       "id": "149734010394",
@@ -57,17 +211,6 @@
       "timestamp": 1791788400
     },
     {
-      "id": "014217ec8397",
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "link": "https://www.qbitai.com/2026/10/502654.html",
-      "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-12 05:48:36",
-      "timestamp": 1791784116
-    },
-    {
       "id": "f406eea27985",
       "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
       "link": "https://sspai.com/post/114821",
@@ -77,149 +220,6 @@
       "lang": "zh",
       "published": "2026-10-12 11:20:18",
       "timestamp": 1791775218
-    },
-    {
-      "id": "634a5bd85c69",
-      "title": "智谱新模型，490 tokens/s！",
-      "link": "https://www.qbitai.com/2026/10/502649.html",
-      "summary": "GLM「速度仙人」来了？",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-12 02:37:04",
-      "timestamp": 1791772624
-    },
-    {
-      "id": "20a4a861eb80",
-      "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
-      "link": "https://sspai.com/post/115845",
-      "summary": "工信部等就进一步加强汽车产品创新设计管理征求意见三季度全球 PC 出货量骤降法国判决 Cloudflare 无须通过 DNS 屏蔽盗版Anthropic 宣布切断内部评估环境的互联网访问权限AI 助力老游戏移植到浏览器3C 证书大面积暂停，电动自行车销售接近停滞看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-      "source": "少数派",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-10-12 06:34:54",
-      "timestamp": 1791758094
-    },
-    {
-      "id": "38828f943c41",
-      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-      "link": "https://www.qbitai.com/2026/10/502644.html",
-      "summary": "一套生成论文初稿的多智能体工作流",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-11 09:04:31",
-      "timestamp": 1791709471
-    },
-    {
-      "id": "eb85fef92b89",
-      "title": "何恺明团队发布多模态Harness框架",
-      "link": "https://www.qbitai.com/2026/10/502628.html",
-      "summary": "多模态模型的视觉原生Harness，来了！",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-11 08:59:06",
-      "timestamp": 1791709146
-    },
-    {
-      "id": "32883a6efd04",
-      "title": "陶哲轩：数学2.0时代已至！",
-      "link": "https://www.qbitai.com/2026/10/502594.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-11 07:52:16",
-      "timestamp": 1791705136
-    },
-    {
-      "id": "356c5eea09be",
-      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
-      "link": "https://sspai.com/post/115568",
-      "summary": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-11 15:00:49",
-      "timestamp": 1791702049
-    },
-    {
-      "id": "85ec7831f71e",
-      "title": "王的猜想，刚刚扩展到四维",
-      "link": "https://www.qbitai.com/2026/10/502584.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-11 05:23:47",
-      "timestamp": 1791696227
-    },
-    {
-      "id": "3210ff851b16",
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "link": "https://www.qbitai.com/2026/10/502585.html",
-      "summary": "马斯克连横A社，硅谷VC开始囤GPU",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-11 05:22:38",
-      "timestamp": 1791696158
-    },
-    {
-      "id": "611c9d912f57",
-      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "link": "https://www.qbitai.com/2026/10/502550.html",
-      "summary": "初代4o的API快照进入停用倒计时",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-11 05:18:04",
-      "timestamp": 1791695884
-    },
-    {
-      "id": "9af12555ef73",
-      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-      "link": "https://www.qbitai.com/2026/10/502544.html",
-      "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-11 03:27:08",
-      "timestamp": 1791689228
-    },
-    {
-      "id": "174b3f62e6de",
-      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-      "link": "https://www.qbitai.com/2026/10/502541.html",
-      "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-10-10 10:30:36",
-      "timestamp": 1791628236
-    },
-    {
-      "id": "afabe1cc544e",
-      "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
-      "link": "https://sspai.com/post/115237",
-      "summary": "把决定使用时长的时机，放到每次打开应用之前。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-10 10:19:52",
-      "timestamp": 1791598792
-    },
-    {
-      "id": "69a0e80fedb3",
-      "title": "本周看什么 | 最近值得一看的 11 部作品",
-      "link": "https://sspai.com/post/115566",
-      "summary": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-09 18:04:09",
-      "timestamp": 1791540249
     },
     {
       "id": "96f570626b75",
@@ -308,28 +308,6 @@
       "lang": "en",
       "published": "2026-10-05 04:00:00",
       "timestamp": 1791172800
-    },
-    {
-      "id": "dfabf00f43e6",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-02 15:49:04",
-      "timestamp": 1790956144
-    },
-    {
-      "id": "5923464415f4",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-02 08:00:00",
-      "timestamp": 1790928000
     }
   ]
 }
