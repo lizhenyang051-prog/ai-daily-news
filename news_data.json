@@ -1,6 +1,391 @@
 {
-  "updated_at": "2026-10-14 03:13:55",
+  "updated_at": "2026-10-15 02:52:31",
   "articles": [
+    {
+      "id": "f8c44e5945d2",
+      "title": "The Double Headed Stack Allocator",
+      "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "summary": "\nArticle URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\nComments URL: https://news.ycombinator.com/item?id=50098274\nPoints: 9\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-15 02:06:36",
+      "timestamp": 1792029996
+    },
+    {
+      "id": "c654bc086c1c",
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "link": "https://www.qbitai.com/2026/10/503303.html",
+      "summary": "给企业Agent打了个样",
+      "source": "量子位",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-10-15 01:56:20",
+      "timestamp": 1792029380
+    },
+    {
+      "id": "0281e7455b25",
+      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+      "link": "https://sspai.com/post/116193",
+      "summary": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-15 08:31:01",
+      "timestamp": 1792024261
+    },
+    {
+      "id": "a85f24cebb47",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "summary": "\nArticle URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b\nComments URL: https://news.ycombinator.com/item?id=50097369\nPoints: 85\n# Comments: 20\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-14 23:59:37",
+      "timestamp": 1792022377
+    },
+    {
+      "id": "a25608baf7ca",
+      "title": "Tiny Little Office",
+      "link": "https://tinylittleoffice.com/",
+      "summary": "\nArticle URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 175\n# Comments: 24\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 22:10:08",
+      "timestamp": 1792015808
+    },
+    {
+      "id": "aa5639e610f7",
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "link": "https://typesafe.ai/blog/jev-1-14",
+      "summary": "\nArticle URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 205\n# Comments: 66\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 21:11:03",
+      "timestamp": 1792012263
+    },
+    {
+      "id": "c5e68c9b1b56",
+      "title": "OpenCode 2.0",
+      "link": "https://anoma.ly/notes/opencode-2-0/",
+      "summary": "\nArticle URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 345\n# Comments: 139\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 20:48:24",
+      "timestamp": 1792010904
+    },
+    {
+      "id": "795b089e3df9",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "summary": "\nArticle URL: https://sunshowers.io/posts/anthropic-mononoke/\nComments URL: https://news.ycombinator.com/item?id=50094694\nPoints: 270\n# Comments: 114\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 20:30:54",
+      "timestamp": 1792009854
+    },
+    {
+      "id": "d4cc537b8f6b",
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "link": "https://blog.cloudflare.com/yandex-outage/",
+      "summary": "\nArticle URL: https://blog.cloudflare.com/yandex-outage/\nComments URL: https://news.ycombinator.com/item?id=50094673\nPoints: 224\n# Comments: 72\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 20:29:13",
+      "timestamp": 1792009753
+    },
+    {
+      "id": "70f4fd840527",
+      "title": "Fancy Curl Sites",
+      "link": "https://nytpu.com/gemlog/2026-03-18",
+      "summary": "\nArticle URL: https://nytpu.com/gemlog/2026-03-18\nComments URL: https://news.ycombinator.com/item?id=50093612\nPoints: 89\n# Comments: 17\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 19:29:12",
+      "timestamp": 1792006152
+    },
+    {
+      "id": "aec1526708da",
+      "title": "Things to know when you get cancer",
+      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "summary": "\nArticle URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\nComments URL: https://news.ycombinator.com/item?id=50093568\nPoints: 856\n# Comments: 215\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 19:26:30",
+      "timestamp": 1792005990
+    },
+    {
+      "id": "232ef49fc774",
+      "title": "Suicide rates highest ever among middle-aged men",
+      "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "summary": "\nArticle URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/\nComments URL: https://news.ycombinator.com/item?id=50093180\nPoints: 290\n# Comments: 377\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 19:03:58",
+      "timestamp": 1792004638
+    },
+    {
+      "id": "9a84355fdc33",
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "summary": "\nArticle URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/\nComments URL: https://news.ycombinator.com/item?id=50092730\nPoints: 299\n# Comments: 206\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 18:37:21",
+      "timestamp": 1792003041
+    },
+    {
+      "id": "90af31b7c569",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "summary": "\nArticle URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/\nComments URL: https://news.ycombinator.com/item?id=50092664\nPoints: 313\n# Comments: 227\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 18:32:52",
+      "timestamp": 1792002772
+    },
+    {
+      "id": "6afd428099fa",
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "link": "https://petal.live/",
+      "summary": "\nHi HN!I’m Jason Thomas, one of the founders of CoScreen.As some of you may know, Datadog sunset the CoScreen service on July 31st.Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us:",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 18:23:14",
+      "timestamp": 1792002194
+    },
+    {
+      "id": "e26068b2e09f",
+      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "link": "https://oxide.computer/blog/voxel-labs",
+      "summary": "\nArticle URL: https://oxide.computer/blog/voxel-labs\nComments URL: https://news.ycombinator.com/item?id=50092423\nPoints: 78\n# Comments: 7\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 18:21:14",
+      "timestamp": 1792002074
+    },
+    {
+      "id": "6d8556f38179",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "\nArticle URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\nComments URL: https://news.ycombinator.com/item?id=50091788\nPoints: 843\n# Comments: 455\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-14 17:45:23",
+      "timestamp": 1791999923
+    },
+    {
+      "id": "a700aa8002ef",
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "link": "https://clova.email/",
+      "summary": "\nInfinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix.Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons.",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 17:00:59",
+      "timestamp": 1791997259
+    },
+    {
+      "id": "2d7a71942ae7",
+      "title": "Has AI tells",
+      "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "\nArticle URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1\nComments URL: https://news.ycombinator.com/item?id=50090799\nPoints: 88\n# Comments: 78\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 16:52:42",
+      "timestamp": 1791996762
+    },
+    {
+      "id": "a294cf53b655",
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "link": "https://go.dev/blog/http-connection-reuse",
+      "summary": "\nArticle URL: https://go.dev/blog/http-connection-reuse\nComments URL: https://news.ycombinator.com/item?id=50090369\nPoints: 210\n# Comments: 30\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 16:29:33",
+      "timestamp": 1791995373
+    },
+    {
+      "id": "76f33b9e580c",
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "summary": "\nArticle URL: https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/\nComments URL: https://news.ycombinator.com/item?id=50090349\nPoints: 405\n# Comments: 101\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-14 16:28:51",
+      "timestamp": 1791995331
+    },
+    {
+      "id": "d506ff349fc2",
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "summary": "\nArticle URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years\nComments URL: https://news.ycombinator.com/item?id=50089921\nPoints: 252\n# Comments: 271\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-14 16:09:00",
+      "timestamp": 1791994140
+    },
+    {
+      "id": "5bd64f31bbf8",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "link": "https://www.qbitai.com/2026/10/503294.html",
+      "summary": "“具身进实景，劳动最光荣”",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 10:41:47",
+      "timestamp": 1791974507
+    },
+    {
+      "id": "2f3ecd3960c3",
+      "title": "认知心理学背后的播客剪辑技巧",
+      "link": "https://sspai.com/post/114861",
+      "summary": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 17:33:49",
+      "timestamp": 1791970429
+    },
+    {
+      "id": "f07bef814fca",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "link": "https://www.qbitai.com/2026/10/503244.html",
+      "summary": "这妥妥是个物理版Agent啊！",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 08:01:18",
+      "timestamp": 1791964878
+    },
+    {
+      "id": "5a31c8e8e8a8",
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "link": "https://www.qbitai.com/2026/10/503231.html",
+      "summary": "汽车竞争正在回归汽车本身",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 07:12:02",
+      "timestamp": 1791961922
+    },
+    {
+      "id": "22b220f5297f",
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "link": "https://www.qbitai.com/2026/10/503211.html",
+      "summary": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 07:03:44",
+      "timestamp": 1791961424
+    },
+    {
+      "id": "3984c5708e9c",
+      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+      "link": "https://sspai.com/post/115426",
+      "summary": "这些新技术将如何让我们的照片和视频更好？查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 15:00:00",
+      "timestamp": 1791961200
+    },
+    {
+      "id": "362c7a21de59",
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+      "link": "https://www.qbitai.com/2026/10/503201.html",
+      "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 06:45:38",
+      "timestamp": 1791960338
+    },
+    {
+      "id": "4debfd5f6367",
+      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+      "link": "https://www.qbitai.com/2026/10/503198.html",
+      "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 06:24:00",
+      "timestamp": 1791959040
+    },
+    {
+      "id": "678a0cae6c61",
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "link": "https://www.qbitai.com/2026/10/503172.html",
+      "summary": "给Ego补上缺失的交互信息",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 04:51:32",
+      "timestamp": 1791953492
+    },
+    {
+      "id": "a1e29fcbe3c2",
+      "title": "家中、这里、那里——Sonos Play 体验",
+      "link": "https://sspai.com/post/115382",
+      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 12:10:30",
+      "timestamp": 1791951030
+    },
+    {
+      "id": "b499a6b444d8",
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "link": "https://www.qbitai.com/2026/10/503173.html",
+      "summary": "从“懂空间”到“能干活”",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-10-14 04:09:29",
+      "timestamp": 1791950969
+    },
+    {
+      "id": "00ff7257fd5c",
+      "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
+      "link": "https://sspai.com/post/116109",
+      "summary": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-14 11:57:01",
+      "timestamp": 1791950221
+    },
+    {
+      "id": "324aabe9d8eb",
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "link": "https://www.qbitai.com/2026/10/503165.html",
+      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-14 03:32:48",
+      "timestamp": 1791948768
+    },
     {
       "id": "3351e2c10831",
       "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
@@ -24,17 +409,6 @@
       "timestamp": 1791938439
     },
     {
-      "id": "2a03791651df",
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "link": "https://www.qbitai.com/2026/10/503107.html",
-      "summary": "让VLA从“演示可用”逼近“产线可用”",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-13 11:05:39",
-      "timestamp": 1791889539
-    },
-    {
       "id": "1ddfacf5fdd1",
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
@@ -44,17 +418,6 @@
       "lang": "en",
       "published": "2026-10-13 10:00:00",
       "timestamp": 1791885600
-    },
-    {
-      "id": "49fa8ab9c4bc",
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "link": "https://www.qbitai.com/2026/10/503093.html",
-      "summary": "Winverse AI",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-13 09:33:37",
-      "timestamp": 1791884017
     },
     {
       "id": "77b129fc66d1",
@@ -79,28 +442,6 @@
       "timestamp": 1791882000
     },
     {
-      "id": "89635de54d2c",
-      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-      "link": "https://www.qbitai.com/2026/10/502992.html",
-      "summary": "宝马保时捷缺席",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-13 07:20:23",
-      "timestamp": 1791876023
-    },
-    {
-      "id": "2f668868ad19",
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "link": "https://www.qbitai.com/2026/10/502954.html",
-      "summary": "让材料感知压力，造出超薄高密度电子皮肤",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-13 07:19:21",
-      "timestamp": 1791875961
-    },
-    {
       "id": "5b11a2607fd3",
       "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
       "link": "https://sspai.com/post/115400",
@@ -112,39 +453,6 @@
       "timestamp": 1791874800
     },
     {
-      "id": "d9067fc66286",
-      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-      "link": "https://www.qbitai.com/2026/10/502920.html",
-      "summary": "拉马克进化的幽灵",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-13 06:19:10",
-      "timestamp": 1791872350
-    },
-    {
-      "id": "0cc7c49a4b38",
-      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-      "link": "https://www.qbitai.com/2026/10/502907.html",
-      "summary": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-13 06:00:20",
-      "timestamp": 1791871220
-    },
-    {
-      "id": "e2a05610b417",
-      "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
-      "link": "https://www.qbitai.com/2026/10/502849.html",
-      "summary": "丢一句话进去，事儿就办完了",
-      "source": "量子位",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-10-13 04:04:22",
-      "timestamp": 1791864262
-    },
-    {
       "id": "9801a4f5888f",
       "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
       "link": "https://sspai.com/post/116028",
@@ -154,72 +462,6 @@
       "lang": "zh",
       "published": "2026-10-13 11:30:05",
       "timestamp": 1791862205
-    },
-    {
-      "id": "fbe643b6a895",
-      "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
-      "link": "https://sspai.com/post/114561",
-      "summary": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-13 11:09:17",
-      "timestamp": 1791860957
-    },
-    {
-      "id": "d09fde4326d2",
-      "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
-      "link": "https://www.qbitai.com/2026/10/502770.html",
-      "summary": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-13 02:01:56",
-      "timestamp": 1791856916
-    },
-    {
-      "id": "149734010394",
-      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
-      "link": "https://sspai.com/post/116033",
-      "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-13 08:01:49",
-      "timestamp": 1791849709
-    },
-    {
-      "id": "b479d74625f1",
-      "title": "派评 | 近期值得关注的 App",
-      "link": "https://sspai.com/post/115934",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-12 17:30:00",
-      "timestamp": 1791797400
-    },
-    {
-      "id": "585dbcba3a1d",
-      "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
-      "link": "https://sspai.com/post/115242",
-      "summary": "iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-12 15:00:00",
-      "timestamp": 1791788400
-    },
-    {
-      "id": "f406eea27985",
-      "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
-      "link": "https://sspai.com/post/114821",
-      "summary": "来看看一种消失已久的笔记本。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-12 11:20:18",
-      "timestamp": 1791775218
     },
     {
       "id": "96f570626b75",
