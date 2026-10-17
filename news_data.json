@@ -1,71 +1,60 @@
 {
-  "updated_at": "2026-10-16 02:50:21",
+  "updated_at": "2026-10-17 02:41:26",
   "articles": [
     {
-      "id": "78b8b1cccb00",
-      "title": "Woman arrested after blocking delivery robot in Center City Philadelphia",
-      "link": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/",
-      "summary": "\nArticle URL: https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/\nComments URL: https://news.ycombinator.com/item?id=50112963\nPoints: 22\n# Comments: 11\n",
-      "source": "Hacker News",
+      "id": "ade5d1d4bfee",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
+      "source": "MIT Tech Review",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-16 02:04:26",
-      "timestamp": 1792116266
+      "published": "2026-10-16 18:00:00",
+      "timestamp": 1792173600
     },
     {
-      "id": "48bf6480e460",
-      "title": "Comparing Chromium Development at Google and Igalia",
-      "link": "https://lwn.net/Articles/1094721/",
-      "summary": "\nArticle URL: https://lwn.net/Articles/1094721/\nComments URL: https://news.ycombinator.com/item?id=50112887\nPoints: 5\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-16 01:56:37",
-      "timestamp": 1792115797
-    },
-    {
-      "id": "6663f4e41a9d",
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "link": "https://github.com/Saffsanity/sill",
-      "summary": "\nArticle URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 9\n# Comments: 2\n",
-      "source": "Hacker News",
+      "id": "d28543a88e65",
+      "title": "本周看什么 | 最近值得一看的 13 部作品",
+      "link": "https://sspai.com/post/116423",
+      "summary": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-10-16 01:43:17",
-      "timestamp": 1792114997
+      "lang": "zh",
+      "published": "2026-10-16 18:21:07",
+      "timestamp": 1792146067
     },
     {
-      "id": "dc5ba7b15bf2",
-      "title": "Tesla Roadster",
-      "link": "https://www.tesla.com/roadster",
-      "summary": "\nArticle URL: https://www.tesla.com/roadster\nComments URL: https://news.ycombinator.com/item?id=50112657\nPoints: 203\n# Comments: 207\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-16 01:32:45",
-      "timestamp": 1792114365
+      "id": "b99e92ffab32",
+      "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+      "link": "https://sspai.com/post/114836",
+      "summary": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。查看全文",
+      "source": "少数派",
+      "category": "knowledge",
+      "lang": "zh",
+      "published": "2026-10-16 14:24:47",
+      "timestamp": 1792131887
     },
     {
-      "id": "68dd5ff0c26b",
-      "title": "Thank You, Deno",
-      "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-      "summary": "\nArticle URL: https://www.vlt.io/blog/competition-keeps-javascript-moving\nComments URL: https://news.ycombinator.com/item?id=50112331\nPoints: 7\n# Comments: 0\n",
-      "source": "Hacker News",
+      "id": "45df65ea15c6",
+      "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
+      "link": "https://sspai.com/post/115679",
+      "summary": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-10-16 00:52:40",
-      "timestamp": 1792111960
+      "lang": "zh",
+      "published": "2026-10-16 12:41:05",
+      "timestamp": 1792125665
     },
     {
-      "id": "597826306fd5",
-      "title": "RPKI now protects 70% of internet routes",
-      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "summary": "\nArticle URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes\nComments URL: https://news.ycombinator.com/item?id=50112330\nPoints: 48\n# Comments: 16\n",
-      "source": "Hacker News",
+      "id": "d3f32343afc8",
+      "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+      "link": "https://sspai.com/post/115688",
+      "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-10-16 00:52:35",
-      "timestamp": 1792111955
+      "lang": "zh",
+      "published": "2026-10-16 10:18:38",
+      "timestamp": 1792117118
     },
     {
       "id": "be59c71d48eb",
@@ -77,160 +66,6 @@
       "lang": "zh",
       "published": "2026-10-16 08:23:12",
       "timestamp": 1792110192
-    },
-    {
-      "id": "e6eb288c7dbe",
-      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "summary": "\nArticle URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\nComments URL: https://news.ycombinator.com/item?id=50111852\nPoints: 58\n# Comments: 13\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-15 23:37:42",
-      "timestamp": 1792107462
-    },
-    {
-      "id": "7967f132ea08",
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "link": "https://github.com/johnrash/bebox",
-      "summary": "\nArticle URL: https://github.com/johnrash/bebox\nComments URL: https://news.ycombinator.com/item?id=50111742\nPoints: 30\n# Comments: 9\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 23:22:53",
-      "timestamp": 1792106573
-    },
-    {
-      "id": "bfc17424d8ad",
-      "title": "What I Self-Host",
-      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "summary": "\nArticle URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\nComments URL: https://news.ycombinator.com/item?id=50109715\nPoints: 295\n# Comments: 190\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 20:23:25",
-      "timestamp": 1792095805
-    },
-    {
-      "id": "e46693dca28d",
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-      "summary": "\nArticle URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\nComments URL: https://news.ycombinator.com/item?id=50109375\nPoints: 176\n# Comments: 136\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 19:55:49",
-      "timestamp": 1792094149
-    },
-    {
-      "id": "ea4c3d20b2f2",
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "summary": "\nArticle URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\nComments URL: https://news.ycombinator.com/item?id=50108872\nPoints: 253\n# Comments: 117\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 19:21:38",
-      "timestamp": 1792092098
-    },
-    {
-      "id": "180fe1a5bdf9",
-      "title": "E Ink Kaleido 4",
-      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-      "summary": "\nhttps://web.archive.org/web/20261015180401/https://www.eink....\n\nComments URL: https://news.ycombinator.com/item?id=50108229\nPoints: 139\n# Comments: 80\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 18:38:16",
-      "timestamp": 1792089496
-    },
-    {
-      "id": "a479563ee68d",
-      "title": "Muse Spark Open",
-      "link": "https://research.meta.ai/blog/muse-spark-open",
-      "summary": "\nhttps://dev.meta.ai/resources/blog/build-with-muse-spark-ope...https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42Bhttps://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...\n\nComments URL: https://news.ycombinator.com/item?id=50107379\nPoints: 647\n# Comments: 361\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-15 17:47:39",
-      "timestamp": 1792086459
-    },
-    {
-      "id": "91441482255f",
-      "title": "Jev meets the Trolley Problem",
-      "link": "https://zachlandes.com/trolley-problem/",
-      "summary": "\nArticle URL: https://zachlandes.com/trolley-problem/\nComments URL: https://news.ycombinator.com/item?id=50106023\nPoints: 325\n# Comments: 152\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 16:24:52",
-      "timestamp": 1792081492
-    },
-    {
-      "id": "147a4b4c213d",
-      "title": "Krea 3 – An image model built for editing at scale",
-      "link": "https://www.krea.ai/krea-3",
-      "summary": "\nArticle URL: https://www.krea.ai/krea-3\nComments URL: https://news.ycombinator.com/item?id=50105648\nPoints: 259\n# Comments: 83\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 16:04:05",
-      "timestamp": 1792080245
-    },
-    {
-      "id": "62c5482710c9",
-      "title": "Neural networks are clean",
-      "link": "https://already-clean.goodfire.com/",
-      "summary": "\nhttps://twitter.com/nickcammarata/status/2110757819427574056\n\nComments URL: https://news.ycombinator.com/item?id=50105647\nPoints: 525\n# Comments: 202\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 16:04:01",
-      "timestamp": 1792080241
-    },
-    {
-      "id": "d66367309649",
-      "title": "Celebrating 70 Years of Fortran",
-      "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-      "summary": "\nArticle URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\nComments URL: https://news.ycombinator.com/item?id=50104726\nPoints: 224\n# Comments: 98\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 15:03:17",
-      "timestamp": 1792076597
-    },
-    {
-      "id": "f8ced8148af7",
-      "title": "Using AI to reverse engineer hardware",
-      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "summary": "\nArticle URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/\nComments URL: https://news.ycombinator.com/item?id=50104299\nPoints: 125\n# Comments: 112\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 14:35:15",
-      "timestamp": 1792074915
-    },
-    {
-      "id": "610464165a6b",
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "link": "https://github.com/fyzugx/DEsk",
-      "summary": "\nArticle URL: https://github.com/fyzugx/DEsk\nComments URL: https://news.ycombinator.com/item?id=50103338\nPoints: 522\n# Comments: 206\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 13:23:44",
-      "timestamp": 1792070624
-    },
-    {
-      "id": "50e02ff3cccf",
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "link": "https://libreboot.org/news/libreboot2610.html",
-      "summary": "\nArticle URL: https://libreboot.org/news/libreboot2610.html\nComments URL: https://news.ycombinator.com/item?id=50102923\nPoints: 256\n# Comments: 158\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-15 12:52:16",
-      "timestamp": 1792068736
     },
     {
       "id": "13df5b419a0f",
@@ -398,50 +233,6 @@
       "timestamp": 1792024261
     },
     {
-      "id": "2f3ecd3960c3",
-      "title": "认知心理学背后的播客剪辑技巧",
-      "link": "https://sspai.com/post/114861",
-      "summary": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-14 17:33:49",
-      "timestamp": 1791970429
-    },
-    {
-      "id": "3984c5708e9c",
-      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "link": "https://sspai.com/post/115426",
-      "summary": "这些新技术将如何让我们的照片和视频更好？查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-14 15:00:00",
-      "timestamp": 1791961200
-    },
-    {
-      "id": "a1e29fcbe3c2",
-      "title": "家中、这里、那里——Sonos Play 体验",
-      "link": "https://sspai.com/post/115382",
-      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-14 12:10:30",
-      "timestamp": 1791951030
-    },
-    {
-      "id": "00ff7257fd5c",
-      "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
-      "link": "https://sspai.com/post/116109",
-      "summary": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-14 11:57:01",
-      "timestamp": 1791950221
-    },
-    {
       "id": "1ddfacf5fdd1",
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
@@ -473,17 +264,6 @@
       "lang": "en",
       "published": "2026-10-09 09:00:00",
       "timestamp": 1791536400
-    },
-    {
-      "id": "0b9e9c0161c0",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-09 00:08:24",
-      "timestamp": 1791504504
     },
     {
       "id": "2c778ea740f7",
