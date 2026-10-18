@@ -1,6 +1,237 @@
 {
-  "updated_at": "2026-10-17 02:41:26",
+  "updated_at": "2026-10-18 02:42:49",
   "articles": [
+    {
+      "id": "b94a59ee6dfe",
+      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+      "link": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+      "summary": "\nArticle URL: https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day\nComments URL: https://news.ycombinator.com/item?id=50136881\nPoints: 249\n# Comments: 119\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-18 01:18:50",
+      "timestamp": 1792286330
+    },
+    {
+      "id": "00472ef7cc09",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "summary": "\nArticle URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends\nComments URL: https://news.ycombinator.com/item?id=5013653",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-18 00:14:22",
+      "timestamp": 1792282462
+    },
+    {
+      "id": "ef8d93ddec5d",
+      "title": "JDK 28",
+      "link": "https://openjdk.org/projects/jdk/28/",
+      "summary": "\nArticle URL: https://openjdk.org/projects/jdk/28/\nComments URL: https://news.ycombinator.com/item?id=50135379\nPoints: 67\n# Comments: 29\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 21:37:07",
+      "timestamp": 1792273027
+    },
+    {
+      "id": "df38e2f2c07a",
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+      "summary": "\nArticle URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/\nComments URL: https://news.ycombinator.com/item?id=50134617\nPoints: 95\n# Comments: 94\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 20:07:33",
+      "timestamp": 1792267653
+    },
+    {
+      "id": "4b4da81c9c84",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "link": "https://github.com/openai/codex/issues/25921",
+      "summary": "\nArticle URL: https://github.com/openai/codex/issues/25921\nComments URL: https://news.ycombinator.com/item?id=50133231\nPoints: 78\n# Comments: 31\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-17 17:45:08",
+      "timestamp": 1792259108
+    },
+    {
+      "id": "605a611ec99e",
+      "title": "I Became a Citizen of Japan",
+      "link": "https://www.derekwessman.com/blog-1/natural",
+      "summary": "\nArticle URL: https://www.derekwessman.com/blog-1/natural\nComments URL: https://news.ycombinator.com/item?id=50133150\nPoints: 150\n# Comments: 74\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 17:36:17",
+      "timestamp": 1792258577
+    },
+    {
+      "id": "b44695e8b61a",
+      "title": "Gold is now the top U.S. export",
+      "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "summary": "\nArticle URL: https://www.numismaticnews.net/gold-now-top-u-s-export\nComments URL: https://news.ycombinator.com/item?id=50132870\nPoints: 249\n# Comments: 127\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 17:06:07",
+      "timestamp": 1792256767
+    },
+    {
+      "id": "f3c02469b2c4",
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "link": "https://www.artie.com/careers",
+      "summary": "\nArticle URL: https://www.artie.com/careers\nComments URL: https://news.ycombinator.com/item?id=50132839\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 17:02:50",
+      "timestamp": 1792256570
+    },
+    {
+      "id": "4452a50d74e0",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "link": "https://pele.run/",
+      "summary": "\nArticle URL: https://pele.run/\nComments URL: https://news.ycombinator.com/item?id=50132193\nPoints: 255\n# Comments: 26\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 15:55:09",
+      "timestamp": 1792252509
+    },
+    {
+      "id": "8ba7adccae30",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "summary": "\nArticle URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\nComments URL: https://news.ycombinator.com/item?id=50131256\nPoints: 494\n# Comments: 312\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 14:01:01",
+      "timestamp": 1792245661
+    },
+    {
+      "id": "269aa3518646",
+      "title": "Making chicken transparent using Dorito dust",
+      "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "summary": "\nArticle URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using\nComments URL: https://news.ycombinator.com/item?id=50131213\nPoints: 261\n# Comments: 67\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 13:55:28",
+      "timestamp": 1792245328
+    },
+    {
+      "id": "3ec3c725a159",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "link": "https://github.com/mikroverk/esp32sim",
+      "summary": "\nHi HN,I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser.The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator.The goal is to make ESP32 software easier to experiment with, test and simulate without always needing ",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 13:51:08",
+      "timestamp": 1792245068
+    },
+    {
+      "id": "525af5efc0c1",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "link": "https://celphase.github.io/duck-pond/",
+      "summary": "\nArticle URL: https://celphase.github.io/duck-pond/\nComments URL: https://news.ycombinator.com/item?id=50131006\nPoints: 90\n# Comments: 24\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 13:28:46",
+      "timestamp": 1792243726
+    },
+    {
+      "id": "82a10008786b",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "\nhttps://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\n\nComments URL: https://news.ycombinator.com/item?id=50129045\nPoints: 717\n# Comments: 594\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 08:21:25",
+      "timestamp": 1792225285
+    },
+    {
+      "id": "e2f3a068d71b",
+      "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
+      "link": "https://sspai.com/post/104231",
+      "summary": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-17 14:58:04",
+      "timestamp": 1792220284
+    },
+    {
+      "id": "90831114e0e7",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "link": "https://llmspeed.dev/",
+      "summary": "\nArticle URL: https://llmspeed.dev/\nComments URL: https://news.ycombinator.com/item?id=50127979\nPoints: 256\n# Comments: 77\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 04:36:53",
+      "timestamp": 1792211813
+    },
+    {
+      "id": "791c4ce864fa",
+      "title": "Source code of the Estonian online voting system",
+      "link": "https://github.com/valimised/ivxv",
+      "summary": "\nArticle URL: https://github.com/valimised/ivxv\nComments URL: https://news.ycombinator.com/item?id=50127586\nPoints: 174\n# Comments: 141\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 03:18:39",
+      "timestamp": 1792207119
+    },
+    {
+      "id": "d7ce3667c252",
+      "title": "A skeptic's first contact with Kubernetes (2024)",
+      "link": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+      "summary": "\nArticle URL: https://blog.davidv.dev/posts/first-contact-with-k8s/\nComments URL: https://news.ycombinator.com/item?id=50127572\nPoints: 89\n# Comments: 51\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-17 03:16:25",
+      "timestamp": 1792206985
+    },
+    {
+      "id": "6b753c0edf69",
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "summary": "\nArticle URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/\nComments URL: https://news.ycombinator.com/item?id=50126312\nPoints: 212\n# Comments: 55\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-16 23:47:31",
+      "timestamp": 1792194451
+    },
+    {
+      "id": "00a849825170",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "link": "https://www.nature.com/articles/d41586-026-03266-x",
+      "summary": "\nhttps://archive.ph/zIPG4\n\nComments URL: https://news.ycombinator.com/item?id=50126253\nPoints: 339\n# Comments: 74\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-16 23:38:27",
+      "timestamp": 1792193907
+    },
+    {
+      "id": "ea8a096928d6",
+      "title": "You could have invented transformers from memory",
+      "link": "https://alexwang.ai/posts/associative-memory/",
+      "summary": "\nhttps://twitter.com/heyyalexwang/status/2111158818730397932\n\nComments URL: https://news.ycombinator.com/item?id=50122878\nPoints: 507\n# Comments: 118\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-16 19:01:17",
+      "timestamp": 1792177277
+    },
     {
       "id": "ade5d1d4bfee",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -11,6 +242,17 @@
       "lang": "en",
       "published": "2026-10-16 18:00:00",
       "timestamp": 1792173600
+    },
+    {
+      "id": "f1d4be5be1ac",
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "link": "https://www.qbitai.com/2026/10/503880.html",
+      "summary": "从搭载物理建模能力的世界模型切入",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-16 12:54:54",
+      "timestamp": 1792155294
     },
     {
       "id": "d28543a88e65",
@@ -24,6 +266,61 @@
       "timestamp": 1792146067
     },
     {
+      "id": "ea488581507f",
+      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+      "link": "https://www.qbitai.com/2026/10/503865.html",
+      "summary": "VLA解决“能干”，世界模型解决“想清楚再干”",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-16 08:12:01",
+      "timestamp": 1792138321
+    },
+    {
+      "id": "514c2c586bed",
+      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+      "link": "https://www.qbitai.com/2026/10/503861.html",
+      "summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-16 08:07:33",
+      "timestamp": 1792138053
+    },
+    {
+      "id": "62880f274703",
+      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+      "link": "https://www.qbitai.com/2026/10/503843.html",
+      "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-16 08:00:31",
+      "timestamp": 1792137631
+    },
+    {
+      "id": "049562055a0e",
+      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+      "link": "https://www.qbitai.com/2026/10/503829.html",
+      "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-16 07:16:11",
+      "timestamp": 1792134971
+    },
+    {
+      "id": "881ca274dafb",
+      "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+      "link": "https://www.qbitai.com/2026/10/503815.html",
+      "summary": "经验没有压缩算法",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-10-16 07:01:31",
+      "timestamp": 1792134091
+    },
+    {
       "id": "b99e92ffab32",
       "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
       "link": "https://sspai.com/post/114836",
@@ -33,6 +330,39 @@
       "lang": "zh",
       "published": "2026-10-16 14:24:47",
       "timestamp": 1792131887
+    },
+    {
+      "id": "72884ebf1a23",
+      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+      "link": "https://www.qbitai.com/2026/10/503779.html",
+      "summary": "10月15日，百度官方公众号发文公布百度世界2026五大亮点",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-16 06:07:41",
+      "timestamp": 1792130861
+    },
+    {
+      "id": "e580a9444b2b",
+      "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+      "link": "https://www.qbitai.com/2026/10/503756.html",
+      "summary": "背后是一套通用物理运动平台",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-16 05:47:01",
+      "timestamp": 1792129621
+    },
+    {
+      "id": "0b79308d1072",
+      "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+      "link": "https://www.qbitai.com/2026/10/503701.html",
+      "summary": "谷歌就是季节性气候模型公司",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-16 05:04:59",
+      "timestamp": 1792127099
     },
     {
       "id": "45df65ea15c6",
@@ -68,28 +398,6 @@
       "timestamp": 1792110192
     },
     {
-      "id": "13df5b419a0f",
-      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-      "link": "https://www.qbitai.com/2026/10/503645.html",
-      "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-15 10:07:08",
-      "timestamp": 1792058828
-    },
-    {
-      "id": "7016c2566410",
-      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-      "link": "https://www.qbitai.com/2026/10/503640.html",
-      "summary": "Siri AI这次不包括在内",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-15 09:43:29",
-      "timestamp": 1792057409
-    },
-    {
       "id": "f76bd1d064ba",
       "title": "新玩意 253｜少数派的编辑们最近买了啥？",
       "link": "https://sspai.com/post/116246",
@@ -99,28 +407,6 @@
       "lang": "zh",
       "published": "2026-10-15 17:10:14",
       "timestamp": 1792055414
-    },
-    {
-      "id": "bd6efc4749f4",
-      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-      "link": "https://www.qbitai.com/2026/10/503614.html",
-      "summary": "Agent究竟该如何深入业务毛细血管？",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-15 08:48:31",
-      "timestamp": 1792054111
-    },
-    {
-      "id": "314a37836ae4",
-      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-      "link": "https://www.qbitai.com/2026/10/503611.html",
-      "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-15 08:16:19",
-      "timestamp": 1792052179
     },
     {
       "id": "ff9050a48a4c",
@@ -134,61 +420,6 @@
       "timestamp": 1792051752
     },
     {
-      "id": "3e40cdbb9480",
-      "title": "这个双十一，百灵新模型干起活来不烧心",
-      "link": "https://www.qbitai.com/2026/10/503532.html",
-      "summary": "大模型好不好用，百灵拿成品说话",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-15 07:35:24",
-      "timestamp": 1792049724
-    },
-    {
-      "id": "71c10c579cd4",
-      "title": "AI时代，商学院这样培养未来商业领袖",
-      "link": "https://www.qbitai.com/2026/10/503504.html",
-      "summary": "未来十年共创1000个AI课题",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-15 07:22:34",
-      "timestamp": 1792048954
-    },
-    {
-      "id": "7792299730be",
-      "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
-      "link": "https://www.qbitai.com/2026/10/503501.html",
-      "summary": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-15 06:59:37",
-      "timestamp": 1792047577
-    },
-    {
-      "id": "e70529be2ac9",
-      "title": "苹果AI国内上线，阿里百度浮出水面",
-      "link": "https://www.qbitai.com/2026/10/503497.html",
-      "summary": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-15 06:52:45",
-      "timestamp": 1792047165
-    },
-    {
-      "id": "b0722996272b",
-      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
-      "link": "https://www.qbitai.com/2026/10/503446.html",
-      "summary": "",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-15 06:35:46",
-      "timestamp": 1792046146
-    },
-    {
       "id": "f0981cfc260f",
       "title": "学得会的快捷指令，零基础入门苹果效率魔法",
       "link": "https://sspai.com/post/116182",
@@ -200,17 +431,6 @@
       "timestamp": 1792045800
     },
     {
-      "id": "cc79009d85a8",
-      "title": "刚刚，苹果正式迈入5万亿美元时代",
-      "link": "https://www.qbitai.com/2026/10/503434.html",
-      "summary": "曝国行12月上线",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-15 05:36:16",
-      "timestamp": 1792042576
-    },
-    {
       "id": "4976889fa019",
       "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
       "link": "https://sspai.com/post/115238",
@@ -220,17 +440,6 @@
       "lang": "zh",
       "published": "2026-10-15 11:00:00",
       "timestamp": 1792033200
-    },
-    {
-      "id": "0281e7455b25",
-      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
-      "link": "https://sspai.com/post/116193",
-      "summary": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-15 08:31:01",
-      "timestamp": 1792024261
     },
     {
       "id": "1ddfacf5fdd1",
