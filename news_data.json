@@ -1,49 +1,93 @@
 {
-  "updated_at": "2026-10-19 02:56:25",
+  "updated_at": "2026-10-20 03:06:00",
   "articles": [
     {
-      "id": "85b68ecb1d88",
-      "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
-      "link": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
-      "summary": "\nArticle URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/\nComments URL: https://news.ycombinator.com/item?id=50147455\nPoints: 14\n# Comments: 5\n",
-      "source": "Hacker News",
+      "id": "d95d20f1f5ee",
+      "title": "派早报：MiniMax 发布 M3.1 Flash 模型等",
+      "link": "https://sspai.com/post/116758",
+      "summary": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。查看全文",
+      "source": "少数派",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-10-19 01:55:03",
-      "timestamp": 1792374903
+      "lang": "zh",
+      "published": "2026-10-20 08:39:33",
+      "timestamp": 1792456773
     },
     {
-      "id": "df2551d5e8f0",
-      "title": "Starcraft: Ashfall",
-      "link": "https://starcraft-shooter-2026.pages.dev/",
-      "summary": "\nArticle URL: https://starcraft-shooter-2026.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50147233\nPoints: 9\n# Comments: 2\n",
-      "source": "Hacker News",
-      "category": "tool",
+      "id": "92ca10232801",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c",
+      "source": "MIT Tech Review",
+      "category": "product",
       "lang": "en",
-      "published": "2026-10-19 01:18:02",
-      "timestamp": 1792372682
+      "published": "2026-10-19 18:22:47",
+      "timestamp": 1792434167
     },
     {
-      "id": "0556e6187a8d",
-      "title": "William Gibson and the trademarking of cyberspace",
-      "link": "https://colo.to/cyberspace.html",
-      "summary": "\nArticle URL: https://colo.to/cyberspace.html\nComments URL: https://news.ycombinator.com/item?id=50146625\nPoints: 82\n# Comments: 5\n",
-      "source": "Hacker News",
+      "id": "2caaafc83dcc",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio",
+      "source": "MIT Tech Review",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-18 23:37:57",
-      "timestamp": 1792366677
+      "published": "2026-10-19 17:45:55",
+      "timestamp": 1792431955
     },
     {
-      "id": "1a06e3b65c0f",
-      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-      "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-      "summary": "\nArticle URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base\nComments URL: https://news.ycombinator.com/item?id=50146624\nPoints: 8\n# Comments: 0\n",
-      "source": "Hacker News",
+      "id": "56ea7eb28896",
+      "title": "派评 | 近期值得关注的 App",
+      "link": "https://sspai.com/post/116705",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-19 17:39:45",
+      "timestamp": 1792402785
+    },
+    {
+      "id": "f957c9c6525a",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
+      "source": "MIT Tech Review",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-18 23:37:54",
-      "timestamp": 1792366674
+      "published": "2026-10-19 09:08:05",
+      "timestamp": 1792400885
+    },
+    {
+      "id": "4d18d97b8678",
+      "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
+      "link": "https://sspai.com/post/116585",
+      "summary": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文",
+      "source": "少数派",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-10-19 16:35:40",
+      "timestamp": 1792398940
+    },
+    {
+      "id": "cae06d21f36b",
+      "title": "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
+      "link": "https://sspai.com/post/116699",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-19 16:00:19",
+      "timestamp": 1792396819
+    },
+    {
+      "id": "d6cdbb127d81",
+      "title": "开源掌机的文化线索",
+      "link": "https://sspai.com/post/115125",
+      "summary": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文",
+      "source": "少数派",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-19 10:49:51",
+      "timestamp": 1792378191
     },
     {
       "id": "b40d516056cc",
@@ -57,158 +101,15 @@
       "timestamp": 1792365204
     },
     {
-      "id": "330bed582e48",
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "link": "https://github.com/finereli/whatsapp-mcp",
-      "summary": "\nI wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.Important feature - it conne",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 21:36:10",
-      "timestamp": 1792359370
-    },
-    {
-      "id": "30dbc2785f06",
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "summary": "\nArticle URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\nComments URL: https://news.ycombinator.com/item?id=50145507\nPoints: 48\n# Comments: 37\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 21:09:12",
-      "timestamp": 1792357752
-    },
-    {
-      "id": "673a16b4049e",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "link": "https://arxiv.org/abs/2610.18861",
-      "summary": "\nhttps://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5\n\nComments URL: https://news.ycombinator.com/item?id=50145337\nPoints: 240\n# Comments: 14",
-      "source": "Hacker News",
+      "id": "4200bc6292f7",
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "link": "https://www.qbitai.com/2026/10/504136.html",
+      "summary": "让人人都能自由创造并体验可交互世界",
+      "source": "量子位",
       "category": "product",
-      "lang": "en",
-      "published": "2026-10-18 20:48:14",
-      "timestamp": 1792356494
-    },
-    {
-      "id": "aed2cb2e772f",
-      "title": "Personal software factories are a waste of time",
-      "link": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
-      "summary": "\nArticle URL: https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/\nComments URL: https://news.ycombinator.com/item?id=50144175\nPoints: 58\n# Comments: 59\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 19:02:11",
-      "timestamp": 1792350131
-    },
-    {
-      "id": "a08d634923a7",
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "link": "https://www.getlazarus.org/dynamic/",
-      "summary": "\nArticle URL: https://www.getlazarus.org/dynamic/\nComments URL: https://news.ycombinator.com/item?id=50144066\nPoints: 116\n# Comments: 24\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 18:48:04",
-      "timestamp": 1792349284
-    },
-    {
-      "id": "0caa09c0bc7f",
-      "title": "PalmOS Lemmings",
-      "link": "https://github.com/ardiri/palmos-lemmings",
-      "summary": "\nArticle URL: https://github.com/ardiri/palmos-lemmings\nComments URL: https://news.ycombinator.com/item?id=50143536\nPoints: 99\n# Comments: 23\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 17:56:59",
-      "timestamp": 1792346219
-    },
-    {
-      "id": "4788b6bc7415",
-      "title": "What the heck is /pkg?",
-      "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-      "summary": "\nArticle URL: https://anderegg.ca/2026/10/18/what-the-heck-is-pkg\nComments URL: https://news.ycombinator.com/item?id=50143154\nPoints: 22\n# Comments: 9\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 17:21:23",
-      "timestamp": 1792344083
-    },
-    {
-      "id": "5c1fa3277909",
-      "title": "Namecheap just seized and disabled all my domains",
-      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "summary": "\nArticle URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\nComments URL: https://news.ycombinator.com/item?id=50142866\nPoints: 454\n# Comments: 215\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 16:56:56",
-      "timestamp": 1792342616
-    },
-    {
-      "id": "ae30bd577aa5",
-      "title": "Someone behind the software",
-      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "summary": "\nArticle URL: https://karrisaarinen.com/posts/someone-behind-the-software/\nComments URL: https://news.ycombinator.com/item?id=50142573\nPoints: 333\n# Comments: 139\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 16:32:00",
-      "timestamp": 1792341120
-    },
-    {
-      "id": "b87e49781289",
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-      "summary": "\nArticle URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html\nComments URL: https://news.ycombinator.com/item?id=50142449\nPoints: 91\n# Comments: 33\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 16:20:27",
-      "timestamp": 1792340427
-    },
-    {
-      "id": "2891d2a0f27f",
-      "title": "Java sealed classes and exhaustive pattern matching",
-      "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-      "summary": "\nArticle URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/\nComments URL: https://news.ycombinator.com/item?id=50141579\nPoints: 143\n# Comments: 106\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 14:47:37",
-      "timestamp": 1792334857
-    },
-    {
-      "id": "5113db30fc21",
-      "title": "RepRapMicron",
-      "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "summary": "\nArticle URL: https://github.com/VikOlliver/RepRapMicron/wiki\nComments URL: https://news.ycombinator.com/item?id=50141076\nPoints: 336\n# Comments: 55\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 13:48:48",
-      "timestamp": 1792331328
-    },
-    {
-      "id": "c53e208ef38a",
-      "title": "A new way to think about borrow checking (in reverse)",
-      "link": "https://verdagon.dev/blog/reverse-borrow-checking",
-      "summary": "\nArticle URL: https://verdagon.dev/blog/reverse-borrow-checking\nComments URL: https://news.ycombinator.com/item?id=50140383\nPoints: 26\n# Comments: 4\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 12:11:13",
-      "timestamp": 1792325473
-    },
-    {
-      "id": "c89a3de4946d",
-      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-      "link": "https://github.com/0x23/MicroManipulatorStepper",
-      "summary": "\nArticle URL: https://github.com/0x23/MicroManipulatorStepper\nComments URL: https://news.ycombinator.com/item?id=50140001\nPoints: 177\n# Comments: 13\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 11:16:22",
-      "timestamp": 1792322182
+      "lang": "zh",
+      "published": "2026-10-18 11:49:49",
+      "timestamp": 1792324189
     },
     {
       "id": "4d71196eece8",
@@ -220,28 +121,6 @@
       "lang": "zh",
       "published": "2026-10-18 15:01:02",
       "timestamp": 1792306862
-    },
-    {
-      "id": "09b9b31b64a4",
-      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-      "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-      "summary": "\nArticle URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky\nComments URL: https://news.ycombinator.com/item?id=50136979\nPoints: 143\n# Comments: 86\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-18 01:38:08",
-      "timestamp": 1792287488
-    },
-    {
-      "id": "34b61c4c7a43",
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-      "summary": "\nArticle URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc\nComments URL: https://news.ycombinator.com/item?id=50136150\nPoints: 201\n# Comments: 195\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-17 23:26:35",
-      "timestamp": 1792279595
     },
     {
       "id": "40c812cd4006",
@@ -321,6 +200,17 @@
       "timestamp": 1792173600
     },
     {
+      "id": "1b0dc2f9abf2",
+      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+      "link": "https://www.qbitai.com/2026/10/504116.html",
+      "summary": "买AIPC就选联想YOGA。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-16 13:48:10",
+      "timestamp": 1792158490
+    },
+    {
       "id": "f1d4be5be1ac",
       "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
       "link": "https://www.qbitai.com/2026/10/503880.html",
@@ -365,28 +255,6 @@
       "timestamp": 1792138053
     },
     {
-      "id": "62880f274703",
-      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-      "link": "https://www.qbitai.com/2026/10/503843.html",
-      "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-16 08:00:31",
-      "timestamp": 1792137631
-    },
-    {
-      "id": "049562055a0e",
-      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
-      "link": "https://www.qbitai.com/2026/10/503829.html",
-      "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-16 07:16:11",
-      "timestamp": 1792134971
-    },
-    {
       "id": "b99e92ffab32",
       "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
       "link": "https://sspai.com/post/114836",
@@ -396,61 +264,6 @@
       "lang": "zh",
       "published": "2026-10-16 14:24:47",
       "timestamp": 1792131887
-    },
-    {
-      "id": "45df65ea15c6",
-      "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
-      "link": "https://sspai.com/post/115679",
-      "summary": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-16 12:41:05",
-      "timestamp": 1792125665
-    },
-    {
-      "id": "d3f32343afc8",
-      "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
-      "link": "https://sspai.com/post/115688",
-      "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-16 10:18:38",
-      "timestamp": 1792117118
-    },
-    {
-      "id": "be59c71d48eb",
-      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-      "link": "https://sspai.com/post/116355",
-      "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-16 08:23:12",
-      "timestamp": 1792110192
-    },
-    {
-      "id": "f76bd1d064ba",
-      "title": "新玩意 253｜少数派的编辑们最近买了啥？",
-      "link": "https://sspai.com/post/116246",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-15 17:10:14",
-      "timestamp": 1792055414
-    },
-    {
-      "id": "ff9050a48a4c",
-      "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
-      "link": "https://sspai.com/post/116181",
-      "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...查看全文",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-10-15 16:09:12",
-      "timestamp": 1792051752
     },
     {
       "id": "1ddfacf5fdd1",
@@ -517,39 +330,6 @@
       "lang": "en",
       "published": "2026-10-05 15:47:52",
       "timestamp": 1791215272
-    },
-    {
-      "id": "555f0c813ffb",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
-      "source": "MIT Tech Review",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-05 13:29:32",
-      "timestamp": 1791206972
-    },
-    {
-      "id": "c93c07b3a7ef",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-05 08:00:00",
-      "timestamp": 1791187200
-    },
-    {
-      "id": "e558454f62c9",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo",
-      "source": "MIT Tech Review",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-05 04:00:00",
-      "timestamp": 1791172800
     }
   ]
 }
