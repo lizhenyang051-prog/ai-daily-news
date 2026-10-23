@@ -1,27 +1,346 @@
 {
-  "updated_at": "2026-10-22 02:59:20",
+  "updated_at": "2026-10-23 03:03:07",
   "articles": [
     {
-      "id": "d040484f59a3",
-      "title": "LLM Agents Play Pokemon Showdown",
-      "link": "https://olivergrabner.com/research/pokemon/",
-      "summary": "\nArticle URL: https://olivergrabner.com/research/pokemon/\nComments URL: https://news.ycombinator.com/item?id=50190334\nPoints: 7\n# Comments: 1\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-22 02:13:48",
-      "timestamp": 1792635228
-    },
-    {
-      "id": "515ea827122d",
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "summary": "\nArticle URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552\nComments URL: https://news.ycombinator.com/item?id=50190168\nPoints: 3\n# Comments: 1\n",
+      "id": "2d181c0e26c3",
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "summary": "\nArticle URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 41\n# Comments: 43\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-22 01:52:03",
-      "timestamp": 1792633923
+      "published": "2026-10-23 00:52:01",
+      "timestamp": 1792716721
+    },
+    {
+      "id": "118837814dc8",
+      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+      "link": "https://sspai.com/post/117104",
+      "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-23 08:20:32",
+      "timestamp": 1792714832
+    },
+    {
+      "id": "c9cd45a8e404",
+      "title": "Mapping the Northern Sky",
+      "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+      "summary": "\nArticle URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/\nComments URL: https://news.ycombinator.com/item?id=50202766\nPoints: 18\n# Comments: 5\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 23:56:39",
+      "timestamp": 1792713399
+    },
+    {
+      "id": "a2f701577ec7",
+      "title": "Jank – The native Clojure dialect with seamless C++ interop",
+      "link": "https://jank-lang.org/",
+      "summary": "\nArticle URL: https://jank-lang.org/\nComments URL: https://news.ycombinator.com/item?id=50202762\nPoints: 19\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 23:56:36",
+      "timestamp": 1792713396
+    },
+    {
+      "id": "70beda877930",
+      "title": "Docker is weird",
+      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "summary": "\nArticle URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 168\n# Comments: 73\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 23:45:56",
+      "timestamp": 1792712756
+    },
+    {
+      "id": "f487bbda6c66",
+      "title": "AI compute is the new oil–and needs a new market",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "summary": "\nArticle URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market\nComments URL: https://news.ycombinator.com/item?id=50202671\nPoints: 26\n# Comments: 16\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 23:45:16",
+      "timestamp": 1792712716
+    },
+    {
+      "id": "58fc68f69c46",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "summary": "\nArticle URL: https://www.anthropic.com/research/formal-verification\nComments URL: https://news.ycombinator.com/item?id=50202217\nPoints: 153\n# Comments: 71\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 22:54:43",
+      "timestamp": 1792709683
+    },
+    {
+      "id": "262cf18674e9",
+      "title": "Railpass",
+      "link": "https://train.samismith.com/",
+      "summary": "\nArticle URL: https://train.samismith.com/\nComments URL: https://news.ycombinator.com/item?id=50201414\nPoints: 56\n# Comments: 17\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 21:38:32",
+      "timestamp": 1792705112
+    },
+    {
+      "id": "4e3628850ce3",
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 21:17:29",
+      "timestamp": 1792703849
+    },
+    {
+      "id": "3405569cf1aa",
+      "title": "The Foundations of Scalable AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment a",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 18:48:04",
+      "timestamp": 1792694884
+    },
+    {
+      "id": "1dca9fc5983e",
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "summary": "\nArticle URL: https://github.com/maxilevi/project-hedra/tree/pre-ai\nComments URL: https://news.ycombinator.com/item?id=50199389\nPoints: 143\n# Comments: 29\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 18:44:36",
+      "timestamp": 1792694676
+    },
+    {
+      "id": "7000b088e60b",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "link": "https://arxiv.org/abs/2610.27251",
+      "summary": "\nArticle URL: https://arxiv.org/abs/2610.27251\nComments URL: https://news.ycombinator.com/item?id=50199230\nPoints: 116\n# Comments: 71\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 18:28:16",
+      "timestamp": 1792693696
+    },
+    {
+      "id": "5e91f8c8cfe9",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "summary": "\nArticle URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 316\n# Comments: 163\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-22 17:44:06",
+      "timestamp": 1792691046
+    },
+    {
+      "id": "5722642ec20f",
+      "title": "A farewell to Arc browser",
+      "link": "https://arc.net/",
+      "summary": "\nArticle URL: https://arc.net/\nComments URL: https://news.ycombinator.com/item?id=50197601\nPoints: 236\n# Comments: 211\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 16:27:47",
+      "timestamp": 1792686467
+    },
+    {
+      "id": "744f81ad886c",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "link": "https://www.taler.net/en/news/2026-13.html",
+      "summary": "\nArticle URL: https://www.taler.net/en/news/2026-13.html\nComments URL: https://news.ycombinator.com/item?id=50197404\nPoints: 231\n# Comments: 85\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 16:14:31",
+      "timestamp": 1792685671
+    },
+    {
+      "id": "a1dec3d29fa2",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "summary": "\nArticle URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans\nComments URL: https://news.ycombinator.com/item?id=50197313\nPoints: 256\n# Comments: 320\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 16:08:00",
+      "timestamp": 1792685280
+    },
+    {
+      "id": "836ffbac81ad",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "summary": "\nhttps://hackios-web.vercel.app/en\n\nComments URL: https://news.ycombinator.com/item?id=50196718\nPoints: 341\n# Comments: 129\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 15:26:22",
+      "timestamp": 1792682782
+    },
+    {
+      "id": "e7efe0057974",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "summary": "\nArticle URL: https://quad9.net/news/blog/au-revoir-france/\nComments URL: https://news.ycombinator.com/item?id=50195959\nPoints: 1025\n# Comments: 369\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 14:32:38",
+      "timestamp": 1792679558
+    },
+    {
+      "id": "52375318712f",
+      "title": "What’s getting pwned right now",
+      "link": "https://pwn.watch/",
+      "summary": "\nArticle URL: https://pwn.watch/\nComments URL: https://news.ycombinator.com/item?id=50195543\nPoints: 350\n# Comments: 161\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 14:08:12",
+      "timestamp": 1792678092
+    },
+    {
+      "id": "2eba9b1037c8",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "\nArticle URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\nComments URL: https://news.ycombinator.com/item?id=50195110\nPoints: 950\n# Comments: 637\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 13:33:39",
+      "timestamp": 1792676019
+    },
+    {
+      "id": "aada83fb576e",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "summary": "\nArticle URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html\nComments URL: https://news.ycombinator.com/item?id=50194833\nPoints: 534\n# Comments: 550\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 13:11:00",
+      "timestamp": 1792674660
+    },
+    {
+      "id": "8c40a79e1268",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "summary": "\nArticle URL: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/\nComments URL: https://news.ycombinator.com/item?id=50194009\nPoints: 225\n# Comments: 214\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 11:42:03",
+      "timestamp": 1792669323
+    },
+    {
+      "id": "b0e2affabbfb",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "link": "https://news.ycombinator.com/item?id=50193416",
+      "summary": "\nI posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.I am truly sorry. I take full responsibility for my actions.It was not ",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 10:11:44",
+      "timestamp": 1792663904
+    },
+    {
+      "id": "2a5a9200462e",
+      "title": "Making the case for context-aware AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 10:00:00",
+      "timestamp": 1792663200
+    },
+    {
+      "id": "531eb3293a88",
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+      "link": "https://sspai.com/post/115437",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-10-22 17:10:03",
+      "timestamp": 1792660203
+    },
+    {
+      "id": "381aa14564b1",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-22 08:41:18",
+      "timestamp": 1792658478
+    },
+    {
+      "id": "eb19a0159d3e",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "link": "https://www.qbitai.com/2026/10/504841.html",
+      "summary": "FSD一年增长70万付费用户",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-22 07:14:48",
+      "timestamp": 1792653288
+    },
+    {
+      "id": "8f4d95c88b8f",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "link": "https://www.qbitai.com/2026/10/504832.html",
+      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-22 07:11:14",
+      "timestamp": 1792653074
+    },
+    {
+      "id": "7bb09d179bdb",
+      "title": "谁在给OpenAI供应具身数据？",
+      "link": "https://www.qbitai.com/2026/10/504800.html",
+      "summary": "挤进全球Physical AI核心供应链",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-22 07:05:59",
+      "timestamp": 1792652759
+    },
+    {
+      "id": "2631cebc346f",
+      "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
+      "link": "https://sspai.com/post/116923",
+      "summary": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-22 15:00:00",
+      "timestamp": 1792652400
+    },
+    {
+      "id": "d5fa250842b5",
+      "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
+      "link": "https://sspai.com/post/115090",
+      "summary": "药物不能解决所有问题，这是是我学到的重要一课。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-22 11:36:57",
+      "timestamp": 1792640217
     },
     {
       "id": "8ed8865306fe",
@@ -35,202 +354,26 @@
       "timestamp": 1792628945
     },
     {
-      "id": "aca1a796028b",
-      "title": "When Do We Become the Person We Ought to Be?",
-      "link": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
-      "summary": "\nArticle URL: https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought\nComments URL: https://news.ycombinator.com/item?id=50189278\nPoints: 17\n# Comments: 15\n",
-      "source": "Hacker News",
+      "id": "755aa680f56e",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "link": "https://www.qbitai.com/2026/10/504734.html",
+      "summary": "医疗AI质变时刻",
+      "source": "量子位",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 23:57:41",
-      "timestamp": 1792627061
+      "lang": "zh",
+      "published": "2026-10-21 11:30:59",
+      "timestamp": 1792582259
     },
     {
-      "id": "0bf35cc03f01",
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "\nArticle URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 234\n# Comments: 63\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 23:51:37",
-      "timestamp": 1792626697
-    },
-    {
-      "id": "1ab328517826",
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "summary": "\nArticle URL: https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update\nComments URL: https://news.ycombinator.com/item?id=50189150\nPoints: 123\n# Comments: 103\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 23:38:32",
-      "timestamp": 1792625912
-    },
-    {
-      "id": "aeef2363aec3",
-      "title": "Κ = 0.003 for integer multiplication crossed",
-      "link": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
-      "summary": "\nArticle URL: https://github.com/CrocSwap/integer-mult-bounds/pull/4441\nComments URL: https://news.ycombinator.com/item?id=50189023\nPoints: 29\n# Comments: 18\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 23:22:21",
-      "timestamp": 1792624941
-    },
-    {
-      "id": "e7e652cac39c",
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "link": "https://eliastaylor.com/noexploit/",
-      "summary": "\nArticle URL: https://eliastaylor.com/noexploit/\nComments URL: https://news.ycombinator.com/item?id=50188948\nPoints: 187\n# Comments: 88\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 23:13:27",
-      "timestamp": 1792624407
-    },
-    {
-      "id": "5c5ed050170e",
-      "title": "Security Disclosure",
-      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "\nArticle URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 328\n# Comments: 171\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 21:58:03",
-      "timestamp": 1792619883
-    },
-    {
-      "id": "c2d8a4effe7d",
-      "title": "Claude Duet",
-      "link": "https://claude.com/product/claude-duet",
-      "summary": "\nArticle URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 322\n# Comments: 280\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 19:14:01",
-      "timestamp": 1792610041
-    },
-    {
-      "id": "6311483e633c",
-      "title": "Rust Style Guide",
-      "link": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "\nArticle URL: https://google.github.io/styleguide/rustguide.html\nComments URL: https://news.ycombinator.com/item?id=50186010\nPoints: 220\n# Comments: 121\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-21 19:11:57",
-      "timestamp": 1792609917
-    },
-    {
-      "id": "3c17ddab28d7",
-      "title": "GitLab Critical Patch Release",
-      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "\nArticle URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\nComments URL: https://news.ycombinator.com/item?id=50185869\nPoints: 257\n# Comments: 64\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 19:01:12",
-      "timestamp": 1792609272
-    },
-    {
-      "id": "54783426fe0d",
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "\nhttps://nmdoj.gov/press-release/the-new-mexico-department-of...\n\nComments URL: https://news.ycombinator.com/item?id=50184820\nPoints: 396\n# Comments: 253\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-21 17:45:13",
-      "timestamp": 1792604713
-    },
-    {
-      "id": "0721fc0cb69a",
-      "title": "EA is shutting down BioWare",
-      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "summary": "\nArticle URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware\nComments URL: https://news.ycombinator.com/item?id=50184586\nPoints: 545\n# Comments: 328\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 17:29:33",
-      "timestamp": 1792603773
-    },
-    {
-      "id": "4d2bbaf28076",
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-      "summary": "\nArticle URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs\nComments URL: https://news.ycombinator.com/item?id=50183512\nPoints: 104\n# Comments: 43\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 16:20:37",
-      "timestamp": 1792599637
-    },
-    {
-      "id": "eef5ad5a2fae",
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "summary": "\nRelated ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873(links to more at https://news.ycombinator.com/item?id=50184935)\n\nComments URL: https://news.ycombinator.com/item?id=50182987\nPoints: 688\n# Comments: 338\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 15:48:56",
-      "timestamp": 1792597736
-    },
-    {
-      "id": "487e2b83d6d6",
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "summary": "\nArticle URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488\nComments URL: https://news.ycombinator.com/item?id=50182526\nPoints: 172\n# Comments: 85\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 15:20:04",
-      "timestamp": 1792596004
-    },
-    {
-      "id": "e38901325378",
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "summary": "\nhttps://patchtheplanet.org/\n\nComments URL: https://news.ycombinator.com/item?id=50181175\nPoints: 237\n# Comments: 162\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-21 14:03:43",
-      "timestamp": 1792591423
-    },
-    {
-      "id": "c7fa466a26fa",
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "summary": "\nArticle URL: https://duckdb.org/2026/10/21/announcing-duckdb-200\nComments URL: https://news.ycombinator.com/item?id=50181136\nPoints: 372\n# Comments: 48\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 14:01:22",
-      "timestamp": 1792591282
-    },
-    {
-      "id": "bcc72de31914",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "\nArticle URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/\nComments URL: https://news.ycombinator.com/item?id=50181114\nPoints: 445\n# Comments: 149\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 14:00:26",
-      "timestamp": 1792591226
-    },
-    {
-      "id": "f1b7844f208f",
-      "title": "PHP 8.2.35",
-      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "summary": "\nRelated ongoing thread: Today's PHP security release, and how we're strengthening security - https://news.ycombinator.com/item?id=50182987\n\nComments URL: https://news.ycombinator.com/item?id=50180873\nPoints: 977\n# Comments: 536\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-21 13:45:33",
-      "timestamp": 1792590333
+      "id": "e2c037f5c890",
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "link": "https://www.qbitai.com/2026/10/504730.html",
+      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "source": "量子位",
+      "category": "vertical",
+      "lang": "zh",
+      "published": "2026-10-21 09:45:22",
+      "timestamp": 1792575922
     },
     {
       "id": "73f3ac3d4c4b",
@@ -244,6 +387,17 @@
       "timestamp": 1792573200
     },
     {
+      "id": "1cb20b0f1468",
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+      "link": "https://www.qbitai.com/2026/10/504653.html",
+      "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-21 07:15:05",
+      "timestamp": 1792566905
+    },
+    {
       "id": "80c2f1f5927d",
       "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
       "link": "https://sspai.com/post/116445",
@@ -253,6 +407,28 @@
       "lang": "zh",
       "published": "2026-10-21 15:00:00",
       "timestamp": 1792566000
+    },
+    {
+      "id": "67b098b54162",
+      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+      "link": "https://www.qbitai.com/2026/10/504638.html",
+      "summary": "百万台搭载打底，智驾普及与安全并重",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-21 06:40:46",
+      "timestamp": 1792564846
+    },
+    {
+      "id": "2de71f409777",
+      "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+      "link": "https://www.qbitai.com/2026/10/504618.html",
+      "summary": "电池开发，分工远比想象复杂",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-21 04:35:56",
+      "timestamp": 1792557356
     },
     {
       "id": "0463fd4ecd8d",
@@ -288,17 +464,6 @@
       "timestamp": 1792544675
     },
     {
-      "id": "16a543539878",
-      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
-      "link": "https://sspai.com/post/116887",
-      "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-21 08:07:07",
-      "timestamp": 1792541227
-    },
-    {
       "id": "e683c6824277",
       "title": "The new economics of enterprise AI",
       "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
@@ -308,28 +473,6 @@
       "lang": "en",
       "published": "2026-10-20 15:20:25",
       "timestamp": 1792509625
-    },
-    {
-      "id": "b7fe9d596eb1",
-      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "link": "https://www.qbitai.com/2026/10/504517.html",
-      "summary": "兔皮底下，竟然是MiniMax！",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-20 13:29:54",
-      "timestamp": 1792502994
-    },
-    {
-      "id": "004739f88060",
-      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-      "link": "https://www.qbitai.com/2026/10/504456.html",
-      "summary": "把记忆原生焊进Transformer",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-20 12:50:34",
-      "timestamp": 1792500634
     },
     {
       "id": "3ed92c812508",
@@ -354,17 +497,6 @@
       "timestamp": 1792490514
     },
     {
-      "id": "8c411536dfdd",
-      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-      "link": "https://www.qbitai.com/2026/10/504452.html",
-      "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
-      "source": "量子位",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-10-20 09:57:35",
-      "timestamp": 1792490255
-    },
-    {
       "id": "b314b16a4a10",
       "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
       "link": "https://sspai.com/post/115475",
@@ -376,17 +508,6 @@
       "timestamp": 1792488600
     },
     {
-      "id": "1cf84b2d6c7a",
-      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
-      "link": "https://www.qbitai.com/2026/10/504435.html",
-      "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-20 09:13:14",
-      "timestamp": 1792487594
-    },
-    {
       "id": "6734fdefcc49",
       "title": "A visit to Samsung’s massive new semiconductor hub",
       "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
@@ -396,72 +517,6 @@
       "lang": "en",
       "published": "2026-10-20 09:00:00",
       "timestamp": 1792486800
-    },
-    {
-      "id": "ceeabd4a3056",
-      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
-      "link": "https://www.qbitai.com/2026/10/504421.html",
-      "summary": "最新发布TokenFleet调度框架",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-10-20 08:01:25",
-      "timestamp": 1792483285
-    },
-    {
-      "id": "6418d6870e63",
-      "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
-      "link": "https://sspai.com/post/116661",
-      "summary": "原厂屏幕之外最省心的搭档。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-20 15:07:54",
-      "timestamp": 1792480074
-    },
-    {
-      "id": "f99352072899",
-      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
-      "link": "https://www.qbitai.com/2026/10/504415.html",
-      "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-20 04:59:04",
-      "timestamp": 1792472344
-    },
-    {
-      "id": "bf6e95478802",
-      "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
-      "link": "https://www.qbitai.com/2026/10/504395.html",
-      "summary": "宁德时代电池上车",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-20 04:18:29",
-      "timestamp": 1792469909
-    },
-    {
-      "id": "0944c3828e02",
-      "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
-      "link": "https://www.qbitai.com/2026/10/504372.html",
-      "summary": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-20 04:08:15",
-      "timestamp": 1792469295
-    },
-    {
-      "id": "9858a2223818",
-      "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
-      "link": "https://sspai.com/post/116430",
-      "summary": "简单干净、支持双拼纠错的 iOS 输入法。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-20 10:34:39",
-      "timestamp": 1792463679
     },
     {
       "id": "92ca10232801",
@@ -486,17 +541,6 @@
       "timestamp": 1792431955
     },
     {
-      "id": "56ea7eb28896",
-      "title": "派评 | 近期值得关注的 App",
-      "link": "https://sspai.com/post/116705",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-19 17:39:45",
-      "timestamp": 1792402785
-    },
-    {
       "id": "f957c9c6525a",
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
       "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
@@ -506,50 +550,6 @@
       "lang": "en",
       "published": "2026-10-19 09:08:05",
       "timestamp": 1792400885
-    },
-    {
-      "id": "ade5d1d4bfee",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-16 18:00:00",
-      "timestamp": 1792173600
-    },
-    {
-      "id": "1ddfacf5fdd1",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-13 10:00:00",
-      "timestamp": 1791885600
-    },
-    {
-      "id": "09efb776a103",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-13 09:00:00",
-      "timestamp": 1791882000
-    },
-    {
-      "id": "96f570626b75",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-09 09:00:00",
-      "timestamp": 1791536400
     }
   ]
 }
