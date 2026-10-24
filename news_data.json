@@ -1,16 +1,258 @@
 {
-  "updated_at": "2026-10-23 03:03:07",
+  "updated_at": "2026-10-24 02:59:30",
   "articles": [
     {
-      "id": "2d181c0e26c3",
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "summary": "\nArticle URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 41\n# Comments: 43\n",
+      "id": "62be998f5cda",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "summary": "\nArticle URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm\nComments URL: https://news.ycombinator.com/item?id=50217683\nPoints: 20\n# Comments: 2\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-10-23 00:52:01",
-      "timestamp": 1792716721
+      "published": "2026-10-24 01:53:10",
+      "timestamp": 1792806790
+    },
+    {
+      "id": "2cf738fcf13a",
+      "title": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
+      "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+      "summary": "\nArticle URL: https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html\nComments URL: https://news.ycombinator.com/item?id=50217587\nPoints: 35\n# Comments: 44\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-24 01:35:49",
+      "timestamp": 1792805749
+    },
+    {
+      "id": "d3504e4f3edd",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "summary": "\nArticle URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8\nComment",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 23:30:17",
+      "timestamp": 1792798217
+    },
+    {
+      "id": "77551cf73fc4",
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
+      "summary": "\nArticle URL: https://cve.0xosprey.com/\nComments URL: https://news.ycombinator.com/item?id=50215530\nPoints: 115\n# Comments: 47\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 21:21:47",
+      "timestamp": 1792790507
+    },
+    {
+      "id": "46fd617d869e",
+      "title": "No Source Code? No Problem",
+      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
+      "summary": "\nArticle URL: https://queue.acm.org/doi/10.1145/945131.945155\nComments URL: https://news.ycombinator.com/item?id=50214994\nPoints: 37\n# Comments: 31\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 20:38:06",
+      "timestamp": 1792787886
+    },
+    {
+      "id": "970cc678df78",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "summary": "\nArticle URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/\nComments URL: https://news.ycombinator.com/item?id=50214983\nPoints: 36\n# Comments: 7\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 20:37:12",
+      "timestamp": 1792787832
+    },
+    {
+      "id": "231250882473",
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "summary": "\nArticle URL: https://openai.com/index/securing-our-frontier-model-training-environment/\nComments URL: https://news.ycombinator.com/item?id=50214416\nPoints: 79\n# Comments: 95\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-23 19:50:56",
+      "timestamp": 1792785056
+    },
+    {
+      "id": "95af8acafe8a",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "link": "https://corgi.computer/",
+      "summary": "\nHey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had:I show you what the agents are up to, along with a running feed of their acti",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-23 19:46:38",
+      "timestamp": 1792784798
+    },
+    {
+      "id": "0d068abc11cc",
+      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+      "link": "https://rune.build/blog/rune-1-3-release",
+      "summary": "\nArticle URL: https://rune.build/blog/rune-1-3-release\nComments URL: https://news.ycombinator.com/item?id=50214325\nPoints: 40\n# Comments: 9\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 19:42:01",
+      "timestamp": 1792784521
+    },
+    {
+      "id": "457a541ecb52",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "summary": "\nArticle URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\nComments URL: https://news.ycombinator.com/item?id=50214218\nPoints: 296\n# Comments: 158\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-23 19:34:15",
+      "timestamp": 1792784055
+    },
+    {
+      "id": "355d11f90dc2",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "link": "https://block.xyz/dessa",
+      "summary": "\nArticle URL: https://block.xyz/dessa\nComments URL: https://news.ycombinator.com/item?id=50213925\nPoints: 262\n# Comments: 107\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 19:09:54",
+      "timestamp": 1792782594
+    },
+    {
+      "id": "ad5e50fe226c",
+      "title": "DNS: A Replacement for Finger",
+      "link": "https://altchan.org/sh/42",
+      "summary": "\nArticle URL: https://altchan.org/sh/42\nComments URL: https://news.ycombinator.com/item?id=50213791\nPoints: 28\n# Comments: 21\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 19:00:04",
+      "timestamp": 1792782004
+    },
+    {
+      "id": "eb9228d92ba1",
+      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+      "link": "https://twitter.com/robbietilton/status/2111936458923851923",
+      "summary": "\nArticle URL: https://twitter.com/robbietilton/status/2111936458923851923\nComments URL: https://news.ycombinator.com/item?id=50212668\nPoints: 68\n# Comments: 27\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 17:40:22",
+      "timestamp": 1792777222
+    },
+    {
+      "id": "0f11adf06546",
+      "title": "Air Purifiers as White Noise Machines",
+      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "summary": "\nArticle URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines\nComments URL: https://news.ycombinator.com/item?id=50212507\nPoints: 74\n# Comments: 96\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 17:28:36",
+      "timestamp": 1792776516
+    },
+    {
+      "id": "173e834c6007",
+      "title": "Animations for System Builders",
+      "link": "https://brooker.co.za/blog/2026/10/23/animations.html",
+      "summary": "\nArticle URL: https://brooker.co.za/blog/2026/10/23/animations.html\nComments URL: https://news.ycombinator.com/item?id=50212124\nPoints: 42\n# Comments: 3\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 17:02:24",
+      "timestamp": 1792774944
+    },
+    {
+      "id": "21e1a7ab9b0e",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "summary": "\nhttps://www.kimi.com/code/docs/en/kimi-code/models.htmlhttps://artificialanalysis.ai/models/kimi-k3-1-prohttps://www.modelcompare.ai/blog/china-open-source-ai\n\nComments URL: https://news.ycombinator.com/item?id=50212065\nPoints: 749\n# Comments: 467\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 16:59:08",
+      "timestamp": 1792774748
+    },
+    {
+      "id": "046463f60170",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "summary": "\nArticle URL: https://blog.calif.io/p/iphone\nComments URL: https://news.ycombinator.com/item?id=50211474\nPoints: 766\n# Comments: 517\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 16:21:50",
+      "timestamp": 1792772510
+    },
+    {
+      "id": "ddd5eee6b9af",
+      "title": "Reforming English Spelling",
+      "link": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+      "summary": "\nArticle URL: https://blog.oup.com/2026/10/reforming-english-spelling/\nComments URL: https://news.ycombinator.com/item?id=50211084\nPoints: 28\n# Comments: 87\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 15:56:06",
+      "timestamp": 1792770966
+    },
+    {
+      "id": "89ffeb408378",
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
+      "summary": "\nhttps://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...\n\nComments URL: https://news.ycombinator.com/item?id=50207910\nPoints: 615\n# Comments: 202\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-23 12:28:47",
+      "timestamp": 1792758527
+    },
+    {
+      "id": "9599831e7bc4",
+      "title": "本周看什么 | 最近值得一看的 12 部作品",
+      "link": "https://sspai.com/post/117169",
+      "summary": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-23 18:09:01",
+      "timestamp": 1792750141
+    },
+    {
+      "id": "bf4431db55e7",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "link": "https://www.qbitai.com/2026/10/504901.html",
+      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-23 07:35:51",
+      "timestamp": 1792740951
+    },
+    {
+      "id": "67bed31e6a62",
+      "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+      "link": "https://sspai.com/post/116398",
+      "summary": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-23 15:00:00",
+      "timestamp": 1792738800
+    },
+    {
+      "id": "7bec45c852c5",
+      "title": "破与立：设计视角下的 iPhone Duo",
+      "link": "https://sspai.com/post/116979",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-10-23 11:07:19",
+      "timestamp": 1792724839
     },
     {
       "id": "118837814dc8",
@@ -22,72 +264,6 @@
       "lang": "zh",
       "published": "2026-10-23 08:20:32",
       "timestamp": 1792714832
-    },
-    {
-      "id": "c9cd45a8e404",
-      "title": "Mapping the Northern Sky",
-      "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
-      "summary": "\nArticle URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/\nComments URL: https://news.ycombinator.com/item?id=50202766\nPoints: 18\n# Comments: 5\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 23:56:39",
-      "timestamp": 1792713399
-    },
-    {
-      "id": "a2f701577ec7",
-      "title": "Jank – The native Clojure dialect with seamless C++ interop",
-      "link": "https://jank-lang.org/",
-      "summary": "\nArticle URL: https://jank-lang.org/\nComments URL: https://news.ycombinator.com/item?id=50202762\nPoints: 19\n# Comments: 1\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 23:56:36",
-      "timestamp": 1792713396
-    },
-    {
-      "id": "70beda877930",
-      "title": "Docker is weird",
-      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "summary": "\nArticle URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 168\n# Comments: 73\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 23:45:56",
-      "timestamp": 1792712756
-    },
-    {
-      "id": "f487bbda6c66",
-      "title": "AI compute is the new oil–and needs a new market",
-      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "summary": "\nArticle URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market\nComments URL: https://news.ycombinator.com/item?id=50202671\nPoints: 26\n# Comments: 16\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 23:45:16",
-      "timestamp": 1792712716
-    },
-    {
-      "id": "58fc68f69c46",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "link": "https://www.anthropic.com/research/formal-verification",
-      "summary": "\nArticle URL: https://www.anthropic.com/research/formal-verification\nComments URL: https://news.ycombinator.com/item?id=50202217\nPoints: 153\n# Comments: 71\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 22:54:43",
-      "timestamp": 1792709683
-    },
-    {
-      "id": "262cf18674e9",
-      "title": "Railpass",
-      "link": "https://train.samismith.com/",
-      "summary": "\nArticle URL: https://train.samismith.com/\nComments URL: https://news.ycombinator.com/item?id=50201414\nPoints: 56\n# Comments: 17\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 21:38:32",
-      "timestamp": 1792705112
     },
     {
       "id": "4e3628850ce3",
@@ -112,149 +288,6 @@
       "timestamp": 1792694884
     },
     {
-      "id": "1dca9fc5983e",
-      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-      "summary": "\nArticle URL: https://github.com/maxilevi/project-hedra/tree/pre-ai\nComments URL: https://news.ycombinator.com/item?id=50199389\nPoints: 143\n# Comments: 29\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 18:44:36",
-      "timestamp": 1792694676
-    },
-    {
-      "id": "7000b088e60b",
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "link": "https://arxiv.org/abs/2610.27251",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2610.27251\nComments URL: https://news.ycombinator.com/item?id=50199230\nPoints: 116\n# Comments: 71\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 18:28:16",
-      "timestamp": 1792693696
-    },
-    {
-      "id": "5e91f8c8cfe9",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "link": "https://github.com/NVIDIA/OpenShell",
-      "summary": "\nArticle URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 316\n# Comments: 163\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-10-22 17:44:06",
-      "timestamp": 1792691046
-    },
-    {
-      "id": "5722642ec20f",
-      "title": "A farewell to Arc browser",
-      "link": "https://arc.net/",
-      "summary": "\nArticle URL: https://arc.net/\nComments URL: https://news.ycombinator.com/item?id=50197601\nPoints: 236\n# Comments: 211\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 16:27:47",
-      "timestamp": 1792686467
-    },
-    {
-      "id": "744f81ad886c",
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "link": "https://www.taler.net/en/news/2026-13.html",
-      "summary": "\nArticle URL: https://www.taler.net/en/news/2026-13.html\nComments URL: https://news.ycombinator.com/item?id=50197404\nPoints: 231\n# Comments: 85\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 16:14:31",
-      "timestamp": 1792685671
-    },
-    {
-      "id": "a1dec3d29fa2",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "summary": "\nArticle URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans\nComments URL: https://news.ycombinator.com/item?id=50197313\nPoints: 256\n# Comments: 320\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 16:08:00",
-      "timestamp": 1792685280
-    },
-    {
-      "id": "836ffbac81ad",
-      "title": "Run full iOS 16.5 firmware on Android Devices",
-      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "summary": "\nhttps://hackios-web.vercel.app/en\n\nComments URL: https://news.ycombinator.com/item?id=50196718\nPoints: 341\n# Comments: 129\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 15:26:22",
-      "timestamp": 1792682782
-    },
-    {
-      "id": "e7efe0057974",
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "link": "https://quad9.net/news/blog/au-revoir-france/",
-      "summary": "\nArticle URL: https://quad9.net/news/blog/au-revoir-france/\nComments URL: https://news.ycombinator.com/item?id=50195959\nPoints: 1025\n# Comments: 369\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 14:32:38",
-      "timestamp": 1792679558
-    },
-    {
-      "id": "52375318712f",
-      "title": "What’s getting pwned right now",
-      "link": "https://pwn.watch/",
-      "summary": "\nArticle URL: https://pwn.watch/\nComments URL: https://news.ycombinator.com/item?id=50195543\nPoints: 350\n# Comments: 161\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 14:08:12",
-      "timestamp": 1792678092
-    },
-    {
-      "id": "2eba9b1037c8",
-      "title": "eMudhra to exit global SSL/TLS certificate business",
-      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "summary": "\nArticle URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\nComments URL: https://news.ycombinator.com/item?id=50195110\nPoints: 950\n# Comments: 637\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 13:33:39",
-      "timestamp": 1792676019
-    },
-    {
-      "id": "aada83fb576e",
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "summary": "\nArticle URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html\nComments URL: https://news.ycombinator.com/item?id=50194833\nPoints: 534\n# Comments: 550\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 13:11:00",
-      "timestamp": 1792674660
-    },
-    {
-      "id": "8c40a79e1268",
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-      "summary": "\nArticle URL: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/\nComments URL: https://news.ycombinator.com/item?id=50194009\nPoints: 225\n# Comments: 214\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 11:42:03",
-      "timestamp": 1792669323
-    },
-    {
-      "id": "b0e2affabbfb",
-      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-      "link": "https://news.ycombinator.com/item?id=50193416",
-      "summary": "\nI posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.I am truly sorry. I take full responsibility for my actions.It was not ",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-22 10:11:44",
-      "timestamp": 1792663904
-    },
-    {
       "id": "2a5a9200462e",
       "title": "Making the case for context-aware AI",
       "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -275,6 +308,17 @@
       "lang": "zh",
       "published": "2026-10-22 17:10:03",
       "timestamp": 1792660203
+    },
+    {
+      "id": "1a784e74ced2",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "link": "https://www.qbitai.com/2026/10/504879.html",
+      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-22 09:07:05",
+      "timestamp": 1792660025
     },
     {
       "id": "381aa14564b1",
@@ -431,39 +475,6 @@
       "timestamp": 1792557356
     },
     {
-      "id": "0463fd4ecd8d",
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-      "link": "https://www.qbitai.com/2026/10/504608.html",
-      "summary": "先看真实问题解决力",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-21 02:37:39",
-      "timestamp": 1792550259
-    },
-    {
-      "id": "6efa4d629f72",
-      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
-      "link": "https://sspai.com/post/115107",
-      "summary": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-21 10:23:21",
-      "timestamp": 1792549401
-    },
-    {
-      "id": "91ab8132a805",
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-      "link": "https://www.qbitai.com/2026/10/504551.html",
-      "summary": "电池、电驱、超充一把梭，冬天多跑30公里",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-21 01:04:35",
-      "timestamp": 1792544675
-    },
-    {
       "id": "e683c6824277",
       "title": "The new economics of enterprise AI",
       "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
@@ -484,28 +495,6 @@
       "lang": "en",
       "published": "2026-10-20 12:00:00",
       "timestamp": 1792497600
-    },
-    {
-      "id": "9e8d2eb3fa80",
-      "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
-      "link": "https://sspai.com/prime/story/inside-release-notes-261020",
-      "summary": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-20 18:01:54",
-      "timestamp": 1792490514
-    },
-    {
-      "id": "b314b16a4a10",
-      "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
-      "link": "https://sspai.com/post/115475",
-      "summary": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-20 17:30:00",
-      "timestamp": 1792488600
     },
     {
       "id": "6734fdefcc49",
