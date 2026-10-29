@@ -1,6 +1,303 @@
 {
-  "updated_at": "2026-10-28 03:41:09",
+  "updated_at": "2026-10-29 04:00:42",
   "articles": [
+    {
+      "id": "b5653d4de69d",
+      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "summary": "\nArticle URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\nComments URL: https://news.ycombinator.com/item?id=50284255\nPoints: 7\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-29 03:33:42",
+      "timestamp": 1793244822
+    },
+    {
+      "id": "9d24e145e021",
+      "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
+      "link": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+      "summary": "\nArticle URL: https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing\nComments URL: https://news.ycombinator.com/item?id=50284089\nPoints: 50\n# Comments: 7\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-29 03:01:57",
+      "timestamp": 1793242917
+    },
+    {
+      "id": "baa14b15aaee",
+      "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+      "link": "https://sspai.com/post/116686",
+      "summary": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-29 11:00:00",
+      "timestamp": 1793242800
+    },
+    {
+      "id": "e1fc3c22f452",
+      "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
+      "link": "https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/",
+      "summary": "\nArticle URL: https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/\nComments URL: https://news.ycombinator.com/item?id=50283488\nPoints: 20\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-29 01:40:52",
+      "timestamp": 1793238052
+    },
+    {
+      "id": "c05743161f53",
+      "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+      "link": "https://sspai.com/post/117750",
+      "summary": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-29 08:26:49",
+      "timestamp": 1793233609
+    },
+    {
+      "id": "a32610816021",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "link": "https://divagr.com/blog/qwenputer",
+      "summary": "\nArticle URL: https://divagr.com/blog/qwenputer\nComments URL: https://news.ycombinator.com/item?id=50282838\nPoints: 185\n# Comments: 41\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-29 00:25:45",
+      "timestamp": 1793233545
+    },
+    {
+      "id": "985087e2d9c6",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "summary": "\nArticle URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\nComments URL: https://news.ycombinator.com/item?id=50282544\nPoints: 109\n# Comments: 44\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 23:45:46",
+      "timestamp": 1793231146
+    },
+    {
+      "id": "d05f63607435",
+      "title": "The first wired XR glasses powered by Android XR",
+      "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "summary": "\nArticle URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/\nComments URL: https://news.ycombinator.com/item?id=50282538\nPoints: 48\n# Comments: 45\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-28 23:45:19",
+      "timestamp": 1793231119
+    },
+    {
+      "id": "6cf3d1bf76d0",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "summary": "\nArticle URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1\nComments URL: https://news.ycombinator.com/item?id=50282454\nPoints: 178\n# Comments: 178\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 23:35:02",
+      "timestamp": 1793230502
+    },
+    {
+      "id": "1a2432d87310",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "summary": "\nArticle URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/\nComments URL: https://news.ycombinator.com/item?id=50281044\nPoints: 143\n# Comments: 94\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 21:19:30",
+      "timestamp": 1793222370
+    },
+    {
+      "id": "e79a1ca7dbe2",
+      "title": "A Health Update",
+      "link": "https://furbo.org/2026/10/28/a-health-update/",
+      "summary": "\nArticle URL: https://furbo.org/2026/10/28/a-health-update/\nComments URL: https://news.ycombinator.com/item?id=50280974\nPoints: 141\n# Comments: 18\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 21:13:21",
+      "timestamp": 1793222001
+    },
+    {
+      "id": "525d246e6de1",
+      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+      "link": "https://nango.dev/careers",
+      "summary": "\nArticle URL: https://nango.dev/careers\nComments URL: https://news.ycombinator.com/item?id=50280824\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 21:00:06",
+      "timestamp": 1793221206
+    },
+    {
+      "id": "27e43803faec",
+      "title": "The case of the 9 bit AES key",
+      "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "summary": "\nArticle URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key\nComments URL: https://news.ycombinator.com/item?id=50280722\nPoints: 96\n# Comments: 45\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 20:51:44",
+      "timestamp": 1793220704
+    },
+    {
+      "id": "845b444355d3",
+      "title": "Leak website releases data on DHS employees",
+      "link": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+      "summary": "\nArticle URL: https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/\nComments URL: https://news.ycombinator.com/item?id=50280662\nPoints: 106\n# Comments: 21\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 20:46:52",
+      "timestamp": 1793220412
+    },
+    {
+      "id": "7fbb76851893",
+      "title": "Creating AI value with enterprise context",
+      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 20:32:02",
+      "timestamp": 1793219522
+    },
+    {
+      "id": "35f8f2185353",
+      "title": "Scaling Hierarchical Networks",
+      "link": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+      "summary": "\nArticle URL: https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1\nComments URL: https://news.ycombinator.com/item?id=50278253\nPoints: 45\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 18:07:41",
+      "timestamp": 1793210861
+    },
+    {
+      "id": "b3822cc0c713",
+      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "summary": "\nArticle URL: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/\nComments URL: https://news.ycombinator.com/item?id=50277755\nPoints: 53\n# Comments: 5\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 17:45:24",
+      "timestamp": 1793209524
+    },
+    {
+      "id": "d5ddb88cffe2",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "summary": "\nArticle URL: https://nullpt.rs/fingerprinting-bioweapons\nComments URL: https://news.ycombinator.com/item?id=50276998\nPoints: 933\n# Comments: 198\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 17:13:29",
+      "timestamp": 1793207609
+    },
+    {
+      "id": "1adad41c0b6b",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "summary": "\nhttps://www.apple.com/newsroom/2026/10/apple-unveils-groundb...\n\nComments URL: https://news.ycombinator.com/item?id=50276940\nPoints: 522\n# Comments: 902\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 17:10:37",
+      "timestamp": 1793207437
+    },
+    {
+      "id": "965d8737b4a8",
+      "title": "Gemini 4 Carbon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "summary": "\nArticle URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\nComments URL: https://news.ycombinator.com/item?id=50276792\nPoints: 839\n# Comments: 700\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 17:01:23",
+      "timestamp": 1793206883
+    },
+    {
+      "id": "ac0d8592e79c",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "link": "https://surgehq.ai/blog/dayjob-tax",
+      "summary": "\nArticle URL: https://surgehq.ai/blog/dayjob-tax\nComments URL: https://news.ycombinator.com/item?id=50275626\nPoints: 215\n# Comments: 139\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-10-28 15:46:30",
+      "timestamp": 1793202390
+    },
+    {
+      "id": "234e0ab4cc6f",
+      "title": "CNC Stone Carving",
+      "link": "https://carmelitegothic.com/cnc-stone-carving/",
+      "summary": "\nArticle URL: https://carmelitegothic.com/cnc-stone-carving/\nComments URL: https://news.ycombinator.com/item?id=50274409\nPoints: 426\n# Comments: 122\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 14:38:22",
+      "timestamp": 1793198302
+    },
+    {
+      "id": "0c83213aaf99",
+      "title": "AlpineBSD",
+      "link": "https://wiki.alpinebsd.org",
+      "summary": "\nArticle URL: https://wiki.alpinebsd.org\nComments URL: https://news.ycombinator.com/item?id=50274251\nPoints: 186\n# Comments: 175\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 14:30:26",
+      "timestamp": 1793197826
+    },
+    {
+      "id": "144fa02036ba",
+      "title": "Pairing industrial AI autonomy and human control",
+      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "summary": "",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-10-28 12:00:00",
+      "timestamp": 1793188800
+    },
+    {
+      "id": "06d4e8c9761d",
+      "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+      "link": "https://sspai.com/post/117725",
+      "summary": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-28 17:37:22",
+      "timestamp": 1793180242
+    },
+    {
+      "id": "2078618d6b3c",
+      "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
+      "link": "https://sspai.com/post/116990",
+      "summary": "只扔不买是没有用的，穿衣服时不多费心神才是目的。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-28 15:00:00",
+      "timestamp": 1793170800
+    },
+    {
+      "id": "63d13ed90e66",
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "link": "https://www.qbitai.com/2026/10/505928.html",
+      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-28 04:04:48",
+      "timestamp": 1793160288
+    },
     {
       "id": "6249d36e83a0",
       "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
@@ -11,17 +308,6 @@
       "lang": "zh",
       "published": "2026-10-28 10:22:57",
       "timestamp": 1793154177
-    },
-    {
-      "id": "10ae9d11f7cb",
-      "title": "Git for US Legislation",
-      "link": "https://lexifina.com/blog/git-for-the-us-code",
-      "summary": "\nArticle URL: https://lexifina.com/blog/git-for-the-us-code\nComments URL: https://news.ycombinator.com/item?id=50268380\nPoints: 63\n# Comments: 31\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-28 01:47:50",
-      "timestamp": 1793152070
     },
     {
       "id": "ecc38b0573c4",
@@ -35,213 +321,15 @@
       "timestamp": 1793147845
     },
     {
-      "id": "e8addd692c78",
-      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-      "link": "https://github.com/maharmstone/moxnox",
-      "summary": "\nArticle URL: https://github.com/maharmstone/moxnox\nComments URL: https://news.ycombinator.com/item?id=50267569\nPoints: 24\n# Comments: 3\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 23:53:41",
-      "timestamp": 1793145221
-    },
-    {
-      "id": "16df800aafba",
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-      "summary": "\nArticle URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners\nComments URL: https://news.ycombinator.com/item?id=50266780\nPoints: 76\n# Comments: 72\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 22:31:15",
-      "timestamp": 1793140275
-    },
-    {
-      "id": "53b29a7bf45c",
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "summary": "\nArticle URL: https://www.anthropic.com/news/expanding-partnership-gsa\nComments URL: https://news.ycombinator.com/item?id=50266701\nPoints: 31\n# Comments: 19\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 22:23:37",
-      "timestamp": 1793139817
-    },
-    {
-      "id": "9556a8225276",
-      "title": "Early progress on accelerating drug development with Claude",
-      "link": "https://www.anthropic.com/research/early-progress-drug-development",
-      "summary": "\nArticle URL: https://www.anthropic.com/research/early-progress-drug-development\nComments URL: https://news.ycombinator.com/item?id=50265609\nPoints: 158\n# Comments: 145\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 20:50:42",
-      "timestamp": 1793134242
-    },
-    {
-      "id": "68b9e23dc975",
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "summary": "\nArticle URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/\nComments URL: https://news.ycombinator.com/item?id=50265594\nPoints: 117\n# Comments: 50\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 20:48:49",
-      "timestamp": 1793134129
-    },
-    {
-      "id": "40d7d99461a3",
-      "title": "Hex Raises $100M",
-      "link": "https://hex.tech/blog/hex-new-era/",
-      "summary": "\nArticle URL: https://hex.tech/blog/hex-new-era/\nComments URL: https://news.ycombinator.com/item?id=50265413\nPoints: 61\n# Comments: 38\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 20:36:38",
-      "timestamp": 1793133398
-    },
-    {
-      "id": "45b0341e1ecc",
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "summary": "\nArticle URL: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/\nComments URL: https://news.ycombinator.com/item?id=50265393\nPoints: 46\n# Comments: 10\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 20:35:09",
-      "timestamp": 1793133309
-    },
-    {
-      "id": "9ab8d9373f2f",
-      "title": "Four Months of Zig",
-      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
-      "summary": "\nArticle URL: https://gracefulliberty.com/articles/four-months-of-zig/\nComments URL: https://news.ycombinator.com/item?id=50265128\nPoints: 86\n# Comments: 53\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 20:13:27",
-      "timestamp": 1793132007
-    },
-    {
-      "id": "f87755f104bb",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "link": "https://tailscale.com/ssh-investigation-update",
-      "summary": "\nArticle URL: https://tailscale.com/ssh-investigation-update\nComments URL: https://news.ycombinator.com/item?id=50264857\nPoints: 221\n# Comments: 116\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 19:55:21",
-      "timestamp": 1793130921
-    },
-    {
-      "id": "8a6be3836418",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "link": "https://www.brangus.io/survival-llm",
-      "summary": "\nArticle URL: https://www.brangus.io/survival-llm\nComments URL: https://news.ycombinator.com/item?id=50264853\nPoints: 219\n# Comments: 113\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 19:55:06",
-      "timestamp": 1793130906
-    },
-    {
-      "id": "76943055e472",
-      "title": "Three TLS Bugs in GoAhead",
-      "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-      "summary": "\nArticle URL: https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead\nComments URL: https://news.ycombinator.com/item?id=50263701\nPoints: 62\n# Comments: 15\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 18:33:48",
-      "timestamp": 1793126028
-    },
-    {
-      "id": "64932fd478aa",
-      "title": "Radio-tagged Monarch butterflies",
-      "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
-      "summary": "\nhttps://celltracktech.com/pages/blumorphohttps://monarchresearch.org/news-and-events/monarch-research...https://monarchwatch.org/radiotag/https://swmonarchs.org/ProjectMonarch.phphttps://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for...\n\nComments URL: https://news.ycombinator.com/item?id=5026",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 17:48:15",
-      "timestamp": 1793123295
-    },
-    {
-      "id": "2fe33970ccda",
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "link": "https://www.liquid.ai/blog/lfm3",
-      "summary": "\nArticle URL: https://www.liquid.ai/blog/lfm3\nComments URL: https://news.ycombinator.com/item?id=50262229\nPoints: 127\n# Comments: 51\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 17:04:50",
-      "timestamp": 1793120690
-    },
-    {
-      "id": "8751316564ec",
-      "title": "Ghostty 1.4",
-      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "summary": "\nArticle URL: https://ghostty.org/docs/install/release-notes/1-4-0\nComments URL: https://news.ycombinator.com/item?id=50261998\nPoints: 829\n# Comments: 254\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 16:51:22",
-      "timestamp": 1793119882
-    },
-    {
-      "id": "ef3b2e7d1863",
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "link": "https://cfsg.axiommath.ai/",
-      "summary": "\nArticle URL: https://cfsg.axiommath.ai/\nComments URL: https://news.ycombinator.com/item?id=50261647\nPoints: 181\n# Comments: 47\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 16:29:02",
-      "timestamp": 1793118542
-    },
-    {
-      "id": "9f9e723c9055",
-      "title": "New 14‑inch MacBook Pro with M6",
-      "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "\nArticle URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\nComments URL: https://news.ycombinator.com/item?id=50261352\nPoints: 300\n# Comments: 384\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 16:08:32",
-      "timestamp": 1793117312
-    },
-    {
-      "id": "2346f5dd2caa",
-      "title": "Genie 4",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "summary": "\nArticle URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\nComments URL: https://news.ycombinator.com/item?id=50261319\nPoints: 781\n# Comments: 474\n",
-      "source": "Hacker News",
+      "id": "9586f3ce50cd",
+      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+      "link": "https://www.qbitai.com/2026/10/505865.html",
+      "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+      "source": "量子位",
       "category": "product",
-      "lang": "en",
-      "published": "2026-10-27 16:06:01",
-      "timestamp": 1793117161
-    },
-    {
-      "id": "104a25bf152a",
-      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "summary": "\nArticle URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\nComments URL: https://news.ycombinator.com/item?id=50259604\nPoints: 836\n# Comments: 300\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 14:06:42",
-      "timestamp": 1793110002
-    },
-    {
-      "id": "3cf506700a1e",
-      "title": "New iMac with M6",
-      "link": "https://www.apple.com/imac/",
-      "summary": "\nArticle URL: https://www.apple.com/imac/\nComments URL: https://news.ycombinator.com/item?id=50258538\nPoints: 318\n# Comments: 392\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-27 13:02:02",
-      "timestamp": 1793106122
+      "lang": "zh",
+      "published": "2026-10-27 12:57:51",
+      "timestamp": 1793105871
     },
     {
       "id": "0b3d312c82fc",
@@ -255,6 +343,28 @@
       "timestamp": 1793099958
     },
     {
+      "id": "1e8df8d0ab11",
+      "title": "印奇把4D雷达也端到端了",
+      "link": "https://www.qbitai.com/2026/10/505852.html",
+      "summary": "毫米波雷达，AI算力10TOPS",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-27 10:40:12",
+      "timestamp": 1793097612
+    },
+    {
+      "id": "66cfcf00c19e",
+      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+      "link": "https://www.qbitai.com/2026/10/505830.html",
+      "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-27 09:54:51",
+      "timestamp": 1793094891
+    },
+    {
       "id": "822a0cc096fa",
       "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
       "link": "https://sspai.com/post/117633",
@@ -264,6 +374,72 @@
       "lang": "zh",
       "published": "2026-10-27 17:02:00",
       "timestamp": 1793091720
+    },
+    {
+      "id": "258dc1e4f58e",
+      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+      "link": "https://www.qbitai.com/2026/10/505799.html",
+      "summary": "无人在环进店实测啃下长尾场景",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-27 08:46:12",
+      "timestamp": 1793090772
+    },
+    {
+      "id": "b8ab7f9b9ad1",
+      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+      "link": "https://www.qbitai.com/2026/10/505773.html",
+      "summary": "OCR 3.0时代，来了",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-27 08:35:33",
+      "timestamp": 1793090133
+    },
+    {
+      "id": "9aad70957cb3",
+      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+      "link": "https://www.qbitai.com/2026/10/505719.html",
+      "summary": "同一天，OpenAI还甩出3项AI科学新发现",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-10-27 08:27:46",
+      "timestamp": 1793089666
+    },
+    {
+      "id": "0840ab535258",
+      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+      "link": "https://www.qbitai.com/2026/10/505694.html",
+      "summary": "还是专业的模型做专业的事情",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-27 08:18:59",
+      "timestamp": 1793089139
+    },
+    {
+      "id": "e0e025ce0b49",
+      "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
+      "link": "https://www.qbitai.com/2026/10/505687.html",
+      "summary": "破解绿电直连项目落地僵局",
+      "source": "量子位",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-10-27 07:44:41",
+      "timestamp": 1793087081
+    },
+    {
+      "id": "13f1160876a9",
+      "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
+      "link": "https://www.qbitai.com/2026/10/505635.html",
+      "summary": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-10-27 07:41:02",
+      "timestamp": 1793086862
     },
     {
       "id": "37c28ecdc82c",
@@ -277,17 +453,6 @@
       "timestamp": 1793086077
     },
     {
-      "id": "de5c3c2d0d35",
-      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-      "link": "https://www.qbitai.com/2026/10/505580.html",
-      "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-27 03:23:55",
-      "timestamp": 1793071435
-    },
-    {
       "id": "c0e01efeb349",
       "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
       "link": "https://sspai.com/post/115855",
@@ -297,17 +462,6 @@
       "lang": "zh",
       "published": "2026-10-27 11:02:18",
       "timestamp": 1793070138
-    },
-    {
-      "id": "1aba0aadee81",
-      "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-      "link": "https://sspai.com/post/117600",
-      "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-27 08:27:58",
-      "timestamp": 1793060878
     },
     {
       "id": "d4c280b6bd44",
@@ -321,61 +475,6 @@
       "timestamp": 1793009866
     },
     {
-      "id": "ad9ea2341275",
-      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-      "link": "https://www.qbitai.com/2026/10/505539.html",
-      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-26 09:46:13",
-      "timestamp": 1793007973
-    },
-    {
-      "id": "9c431c1c5555",
-      "title": "OpenAI开始断网训练最强模型：“安全起见”",
-      "link": "https://www.qbitai.com/2026/10/505529.html",
-      "summary": "模型开始利用GPU缓存聊天？",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-10-26 09:37:57",
-      "timestamp": 1793007477
-    },
-    {
-      "id": "d4da95734bf1",
-      "title": "A社联创演讲：AI奇点已来",
-      "link": "https://www.qbitai.com/2026/10/505521.html",
-      "summary": "所谓奇点，或许是AI跃过人类的那个点。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-26 09:35:14",
-      "timestamp": 1793007314
-    },
-    {
-      "id": "7d61440a2311",
-      "title": "NeoLab第一个商业模式：转售GPU",
-      "link": "https://www.qbitai.com/2026/10/505478.html",
-      "summary": "从冲刺AGI到转售GPU。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-26 09:31:47",
-      "timestamp": 1793007107
-    },
-    {
-      "id": "b95c8649f033",
-      "title": "中国近50%的新云生意，竟被这家公司包揽！",
-      "link": "https://www.qbitai.com/2026/10/505454.html",
-      "summary": "有点意外，但也不意外",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-26 09:02:44",
-      "timestamp": 1793005364
-    },
-    {
       "id": "62c61224c2c3",
       "title": "The focus on AI safety disasters ignores everyday harms",
       "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
@@ -385,61 +484,6 @@
       "lang": "en",
       "published": "2026-10-26 09:01:00",
       "timestamp": 1793005260
-    },
-    {
-      "id": "16962cfa879a",
-      "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
-      "link": "https://www.qbitai.com/2026/10/505443.html",
-      "summary": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-26 08:38:49",
-      "timestamp": 1793003929
-    },
-    {
-      "id": "cf1f7e2127e3",
-      "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
-      "link": "https://www.qbitai.com/2026/10/505436.html",
-      "summary": "10月21日，2026世界智能网联汽车大会在北京召开",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-26 08:04:10",
-      "timestamp": 1793001850
-    },
-    {
-      "id": "0167f1da62e9",
-      "title": "秋冬换季护肤买什么，双 11 选购推荐",
-      "link": "https://sspai.com/post/117414",
-      "summary": "双 11 到来之际的秋冬护肤选购与搭配建议。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-10-26 15:00:00",
-      "timestamp": 1792998000
-    },
-    {
-      "id": "d4ccb381f642",
-      "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
-      "link": "https://sspai.com/post/115074",
-      "summary": "一起来看看 3D XPoint 这夸张的性能表现吧。查看全文",
-      "source": "少数派",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-10-26 11:26:35",
-      "timestamp": 1792985195
-    },
-    {
-      "id": "3a0d3efdd8ee",
-      "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
-      "link": "https://sspai.com/post/117180",
-      "summary": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...查看全文",
-      "source": "少数派",
-      "category": "vertical",
-      "lang": "zh",
-      "published": "2026-10-26 11:00:13",
-      "timestamp": 1792983613
     },
     {
       "id": "4e3628850ce3",
@@ -495,28 +539,6 @@
       "lang": "en",
       "published": "2026-10-20 15:20:25",
       "timestamp": 1792509625
-    },
-    {
-      "id": "3ed92c812508",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-20 12:00:00",
-      "timestamp": 1792497600
-    },
-    {
-      "id": "6734fdefcc49",
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-20 09:00:00",
-      "timestamp": 1792486800
     }
   ]
 }
