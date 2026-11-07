@@ -1,38 +1,313 @@
 {
-  "updated_at": "2026-11-06 04:48:02",
+  "updated_at": "2026-11-07 04:16:36",
   "articles": [
     {
-      "id": "ae88f97ce142",
-      "title": "Silicon Valley's Bad Night",
-      "link": "https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/",
-      "summary": "\nArticle URL: https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/\nComments URL: https://news.ycombinator.com/item?id=50387952\nPoints: 13\n# Comments: 5\n",
+      "id": "adc9e4f21fee",
+      "title": "Lighting the Skies",
+      "link": "https://computer.rip/2026-10-25-searchlights.html",
+      "summary": "\nArticle URL: https://computer.rip/2026-10-25-searchlights.html\nComments URL: https://news.ycombinator.com/item?id=50401414\nPoints: 5\n# Comments: 0\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-06 03:54:28",
-      "timestamp": 1793937268
+      "published": "2026-11-07 03:40:34",
+      "timestamp": 1794022834
     },
     {
-      "id": "683d726b209c",
-      "title": "Pwn.college",
-      "link": "https://pwn.college/",
-      "summary": "\nArticle URL: https://pwn.college/\nComments URL: https://news.ycombinator.com/item?id=50387796\nPoints: 17\n# Comments: 1\n",
+      "id": "3e6d5b353763",
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "summary": "\nArticle URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective\nComments URL: https://news.ycombinator.com/item?id=50401029\nPoints: 14\n# Comments: 1\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-06 03:27:14",
-      "timestamp": 1793935634
+      "published": "2026-11-07 02:20:06",
+      "timestamp": 1794018006
     },
     {
-      "id": "c4d3e5a07f8b",
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "link": "https://github.com/dsx-ai-factory/nvke",
-      "summary": "\nArticle URL: https://github.com/dsx-ai-factory/nvke\nComments URL: https://news.ycombinator.com/item?id=50387738\nPoints: 23\n# Comments: 7\n",
+      "id": "810be9b87f48",
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "link": "https://josef.cn/blog/unitree",
+      "summary": "\nArticle URL: https://josef.cn/blog/unitree\nComments URL: https://news.ycombinator.com/item?id=50400597\nPoints: 60\n# Comments: 35\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-06 03:16:26",
-      "timestamp": 1793934986
+      "published": "2026-11-07 01:05:16",
+      "timestamp": 1794013516
+    },
+    {
+      "id": "b1dce1cd667c",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "summary": "\nArticle URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/\nComments URL: https://news.ycombinator.com/item?id=50399991\nPoints: 58\n# Comments: 20\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 23:37:19",
+      "timestamp": 1794008239
+    },
+    {
+      "id": "abf5d9cb0dad",
+      "title": "Libghostty 1.0",
+      "link": "https://mitchellh.com/writing/libghostty-1-0",
+      "summary": "\nArticle URL: https://mitchellh.com/writing/libghostty-1-0\nComments URL: https://news.ycombinator.com/item?id=50399933\nPoints: 350\n# Comments: 58\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 23:30:52",
+      "timestamp": 1794007852
+    },
+    {
+      "id": "93ba80806e2d",
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "summary": "\nArticle URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/\nComments URL: https://news.ycombinator.com/item?id=50399657\nPoints: 149\n# Comments: 66\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 23:00:46",
+      "timestamp": 1794006046
+    },
+    {
+      "id": "1dec890592c8",
+      "title": "AI is dramatically accelerating AI research",
+      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "summary": "\nArticle URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\nComments URL: https://news.ycombinator.com/item?id=50397994\nPoints: 234\n# Comments: 175\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 20:27:23",
+      "timestamp": 1793996843
+    },
+    {
+      "id": "49d910bffa0f",
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "summary": "\nArticle URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\nComments URL: https://news.ycombinator.com/item?id=50397711\nPoints: 54\n# Comments: 8\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-06 20:09:14",
+      "timestamp": 1793995754
+    },
+    {
+      "id": "09bdb1931169",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "summary": "\nArticle URL: https://hightouch.com/blog/llm-judges-identity-resolution\nComments URL: https://news.ycombinator.com/item?id=50397429\nPoints: 378\n# Comments: 86\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 19:48:51",
+      "timestamp": 1793994531
+    },
+    {
+      "id": "ff5dccd679cd",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "link": "https://pwn.ai/blog/firecracker-escape",
+      "summary": "\nArticle URL: https://pwn.ai/blog/firecracker-escape\nComments URL: https://news.ycombinator.com/item?id=50397219\nPoints: 194\n# Comments: 90\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 19:33:38",
+      "timestamp": 1793993618
+    },
+    {
+      "id": "713c80d47111",
+      "title": "GitHub's new Git storage architecture",
+      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "summary": "\nArticle URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\nComments URL: https://news.ycombinator.com/item?id=50397099\nPoints: 88\n# Comments: 16\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 19:24:21",
+      "timestamp": 1793993061
+    },
+    {
+      "id": "e81efd8b57fd",
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "summary": "\nArticle URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\nComments URL: https://news.ycombinator.com/item?id=50397017\nPoints: 104\n# Comments: 51\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 19:19:27",
+      "timestamp": 1793992767
+    },
+    {
+      "id": "12e3381b5efc",
+      "title": "Replit rebuilt its sandbox engine with microVMs",
+      "link": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+      "summary": "\nArticle URL: https://frontier.replit.com/sandbox-engine-microvms-part-1/\nComments URL: https://news.ycombinator.com/item?id=50396834\nPoints: 76\n# Comments: 25\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 19:06:10",
+      "timestamp": 1793991970
+    },
+    {
+      "id": "573bad333f66",
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "link": "https://arxiv.org/abs/2610.21375",
+      "summary": "\nArticle URL: https://arxiv.org/abs/2610.21375\nComments URL: https://news.ycombinator.com/item?id=50395919\nPoints: 95\n# Comments: 9\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 18:03:33",
+      "timestamp": 1793988213
+    },
+    {
+      "id": "bb9b11981918",
+      "title": "Devvm.dev: One VM for every project",
+      "link": "https://devvm.dev/",
+      "summary": "\nArticle URL: https://devvm.dev/\nComments URL: https://news.ycombinator.com/item?id=50395450\nPoints: 131\n# Comments: 54\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 17:30:22",
+      "timestamp": 1793986222
+    },
+    {
+      "id": "9a8fcd4c576f",
+      "title": "Notes on San Marino",
+      "link": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "summary": "\nArticle URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino/\nComments URL: https://news.ycombinator.com/item?id=50395183\nPoints: 21\n# Comments: 2\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 17:12:05",
+      "timestamp": 1793985125
+    },
+    {
+      "id": "d6573026e43e",
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "link": "https://up.codes/careers?utm_source=HN",
+      "summary": "\nArticle URL: https://up.codes/careers?utm_source=HN\nComments URL: https://news.ycombinator.com/item?id=50395043\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 17:03:33",
+      "timestamp": 1793984613
+    },
+    {
+      "id": "15ea19930d70",
+      "title": "First steps in bare-metal programming using UEFI",
+      "link": "https://kevinboone.me/efitest_index.html",
+      "summary": "\nArticle URL: https://kevinboone.me/efitest_index.html\nComments URL: https://news.ycombinator.com/item?id=50394855\nPoints: 200\n# Comments: 36\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-06 16:50:29",
+      "timestamp": 1793983829
+    },
+    {
+      "id": "efb96f34e26f",
+      "title": "Gemini Omni 1.2 Flash",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "summary": "\nArticle URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\nComments URL: https://news.ycombinator.com/item?id=50392118\nPoints: 306\n# Comments: 220\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 13:35:27",
+      "timestamp": 1793972127
+    },
+    {
+      "id": "d2365e5bd033",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-06 10:00:00",
+      "timestamp": 1793959200
+    },
+    {
+      "id": "ac20fe9ce273",
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "link": "https://sspai.com/post/118623",
+      "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 17:30:15",
+      "timestamp": 1793957415
+    },
+    {
+      "id": "7e5dc945d4a6",
+      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+      "link": "https://www.qbitai.com/2026/11/508155.html",
+      "summary": "Q3营收实现数倍增长",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 07:00:29",
+      "timestamp": 1793948429
+    },
+    {
+      "id": "77c748b5dd02",
+      "title": "iPhone 变强了，但我没有",
+      "link": "https://sspai.com/post/118250",
+      "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 14:56:41",
+      "timestamp": 1793948201
+    },
+    {
+      "id": "1da08c654870",
+      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+      "link": "https://www.qbitai.com/2026/11/508118.html",
+      "summary": "挑战商业视频的高难度场景",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 06:54:17",
+      "timestamp": 1793948057
+    },
+    {
+      "id": "79000350cc48",
+      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+      "link": "https://www.qbitai.com/2026/11/508143.html",
+      "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-11-06 06:43:14",
+      "timestamp": 1793947394
+    },
+    {
+      "id": "d5d28f08b146",
+      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+      "link": "https://www.qbitai.com/2026/11/508107.html",
+      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 05:01:47",
+      "timestamp": 1793941307
+    },
+    {
+      "id": "3ef4586dbede",
+      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+      "link": "https://www.qbitai.com/2026/11/507988.html",
+      "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 03:36:34",
+      "timestamp": 1793936194
+    },
+    {
+      "id": "03cf406a653b",
+      "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+      "link": "https://www.qbitai.com/2026/11/507972.html",
+      "summary": "Seedance 2.5 单秒低至0.15元",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 03:20:05",
+      "timestamp": 1793935205
     },
     {
       "id": "34c2371b56d8",
@@ -46,191 +321,15 @@
       "timestamp": 1793934413
     },
     {
-      "id": "1293f88dd66e",
-      "title": "Closed AI models dominate the price-performance frontier",
-      "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-      "summary": "\nArticle URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/\nComments URL: https://news.ycombinator.com/item?id=50387546\nPoints: 21\n# Comments: 7\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 02:49:56",
-      "timestamp": 1793933396
-    },
-    {
-      "id": "a6cf40798e8c",
-      "title": "Tesla and SpaceX lose over $420B in combined market cap in the two days",
-      "link": "https://techlaws.pages.dev/tesla-and-spacex-lose-over-420b-in-combined-market-cap-in-the-two-days/",
-      "summary": "\nArticle URL: https://techlaws.pages.dev/tesla-and-spacex-lose-over-420b-in-combined-market-cap-in-the-two-days/\nComments URL: https://news.ycombinator.com/item?id=50387406\nPoints: 59\n# Comments: 24\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 02:30:25",
-      "timestamp": 1793932225
-    },
-    {
-      "id": "0a08d4d42142",
-      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-      "link": "https://github.com/matthewmrichter/mooftcp",
-      "summary": "\nArticle URL: https://github.com/matthewmrichter/mooftcp\nComments URL: https://news.ycombinator.com/item?id=50386789\nPoints: 22\n# Comments: 14\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 00:54:15",
-      "timestamp": 1793926455
-    },
-    {
-      "id": "571269082620",
-      "title": "Inkling 2 Small",
-      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "summary": "\nArticle URL: https://thinkingmachines.ai/news/inkling-2-small/\nComments URL: https://news.ycombinator.com/item?id=50386338\nPoints: 118\n# Comments: 50\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 00:00:24",
-      "timestamp": 1793923224
-    },
-    {
-      "id": "184bcae8da41",
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "summary": "\nArticle URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\nComments URL: https://news.ycombinator.com/item?id=50385870\nPoints: 183\n# Comments: 90\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 23:09:57",
-      "timestamp": 1793920197
-    },
-    {
-      "id": "7de94960fdea",
-      "title": "Claude Code sends your email address to websites",
-      "link": "https://github.com/anthropics/claude-code/issues/107757",
-      "summary": "\nArticle URL: https://github.com/anthropics/claude-code/issues/107757\nComments URL: https://news.ycombinator.com/item?id=50385272\nPoints: 716\n# Comments: 246\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 22:17:15",
-      "timestamp": 1793917035
-    },
-    {
-      "id": "4e945f4d643e",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "summary": "\nArticle URL: https://www.cve.org/CVERecord?id=CVE-2026-83844\nComments URL: https://news.ycombinator.com/item?id=50384233\nPoints: 387\n# Comments: 145\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 20:43:42",
-      "timestamp": 1793911422
-    },
-    {
-      "id": "fe01d5aec29f",
-      "title": "Search for everyone",
-      "link": "https://kagi.com/changelog#11820",
-      "summary": "\nArticle URL: https://kagi.com/changelog#11820\nComments URL: https://news.ycombinator.com/item?id=50383740\nPoints: 600\n# Comments: 306\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 20:03:34",
-      "timestamp": 1793909014
-    },
-    {
-      "id": "40f407395b52",
-      "title": "Goodbye from Salon",
-      "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "summary": "\nArticle URL: https://www.salon.com/2026/11/05/goodbye-from-salon/\nComments URL: https://news.ycombinator.com/item?id=50383739\nPoints: 502\n# Comments: 179\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 20:03:29",
-      "timestamp": 1793909009
-    },
-    {
-      "id": "fab6d46913d7",
-      "title": "Pangram Image 1.0",
-      "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "summary": "\nArticle URL: https://www.pangram.com/blog/introducing-pangram-image-1-0\nComments URL: https://news.ycombinator.com/item?id=50383294\nPoints: 78\n# Comments: 34\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 19:27:52",
-      "timestamp": 1793906872
-    },
-    {
-      "id": "8f79f168536c",
-      "title": "The Hackintosh Reborn",
-      "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "summary": "\nArticle URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/\nComments URL: https://news.ycombinator.com/item?id=50383057\nPoints: 251\n# Comments: 120\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 19:08:22",
-      "timestamp": 1793905702
-    },
-    {
-      "id": "df7183a5e867",
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "link": "https://github.com/rivet-dev/rivet",
-      "summary": "\nHey HN, this is Nathan and Nicholas from Rivet (https://rivet.dev) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.Actors provide a long-lived process",
-      "source": "Hacker News",
+      "id": "1e2580f5b783",
+      "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+      "link": "https://www.qbitai.com/2026/11/507967.html",
+      "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
+      "source": "量子位",
       "category": "product",
-      "lang": "en",
-      "published": "2026-11-05 17:17:42",
-      "timestamp": 1793899062
-    },
-    {
-      "id": "30d9206c997b",
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
-      "summary": "\nArticle URL: https://www.ycombinator.com/companies/bild-ai/jobs\nComments URL: https://news.ycombinator.com/item?id=50381512\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 17:01:23",
-      "timestamp": 1793898083
-    },
-    {
-      "id": "f601dae9a9c1",
-      "title": "Window Sweaters",
-      "link": "https://github.com/saragordic/window-sweaters",
-      "summary": "\nArticle URL: https://github.com/saragordic/window-sweaters\nComments URL: https://news.ycombinator.com/item?id=50381383\nPoints: 274\n# Comments: 88\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 16:50:14",
-      "timestamp": 1793897414
-    },
-    {
-      "id": "4699dfa74175",
-      "title": "My psychophysics as a bilateral cochlear implant user",
-      "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-      "summary": "\nArticle URL: https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf\nComments URL: https://news.ycombinator.com/item?id=50381033\nPoints: 171\n# Comments: 75\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 16:21:12",
-      "timestamp": 1793895672
-    },
-    {
-      "id": "3b9ae651a4a3",
-      "title": "The Stacks Project, Formalized in Lean",
-      "link": "https://axiommath.ai/research/the-stacks-project-formalized/",
-      "summary": "\nArticle URL: https://axiommath.ai/research/the-stacks-project-formalized/\nComments URL: https://news.ycombinator.com/item?id=50380979\nPoints: 78\n# Comments: 21\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 16:16:59",
-      "timestamp": 1793895419
-    },
-    {
-      "id": "13b58a1e2b08",
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "link": "https://motorolanews.com/motorola-signature-27-2/",
-      "summary": "\nArticle URL: https://motorolanews.com/motorola-signature-27-2/\nComments URL: https://news.ycombinator.com/item?id=50380810\nPoints: 422\n# Comments: 315\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-05 16:01:34",
-      "timestamp": 1793894494
+      "lang": "zh",
+      "published": "2026-11-06 02:00:11",
+      "timestamp": 1793930411
     },
     {
       "id": "2331e68dbe7f",
@@ -244,6 +343,28 @@
       "timestamp": 1793887251
     },
     {
+      "id": "d410f94713f4",
+      "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+      "link": "https://www.qbitai.com/2026/11/507919.html",
+      "summary": "基础规划免费！",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-05 13:17:00",
+      "timestamp": 1793884620
+    },
+    {
+      "id": "b624cecc062f",
+      "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+      "link": "https://www.qbitai.com/2026/11/507834.html",
+      "summary": "走向“智能体化世界模型”。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-05 09:37:40",
+      "timestamp": 1793871460
+    },
+    {
       "id": "cfce795f1fae",
       "title": "新玩意 255｜少数派的编辑们最近买了啥？",
       "link": "https://sspai.com/post/118541",
@@ -253,6 +374,17 @@
       "lang": "zh",
       "published": "2026-11-05 17:11:28",
       "timestamp": 1793869888
+    },
+    {
+      "id": "84ab8f8c00cb",
+      "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
+      "link": "https://www.qbitai.com/2026/11/507823.html",
+      "summary": "拼多多把农创赛搬出了PPT。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-05 09:00:18",
+      "timestamp": 1793869218
     },
     {
       "id": "f43b8dfc4249",
@@ -266,50 +398,6 @@
       "timestamp": 1793863011
     },
     {
-      "id": "8481ae80cc9c",
-      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-      "link": "https://www.qbitai.com/2026/11/507787.html",
-      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-05 07:15:13",
-      "timestamp": 1793862913
-    },
-    {
-      "id": "7630bdfa8031",
-      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-      "link": "https://www.qbitai.com/2026/11/507782.html",
-      "summary": "spaCy作者长文炮轰",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-05 07:10:56",
-      "timestamp": 1793862656
-    },
-    {
-      "id": "291e9737ee3f",
-      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-      "link": "https://www.qbitai.com/2026/11/507767.html",
-      "summary": "像雇人一样雇机器人",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-05 05:25:37",
-      "timestamp": 1793856337
-    },
-    {
-      "id": "63faa8d3bf70",
-      "title": "",
-      "link": "https://www.qbitai.com/2026/11/507757.html",
-      "summary": "尹希官宣离开OpenAI",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-05 03:58:41",
-      "timestamp": 1793851121
-    },
-    {
       "id": "e083780b5ee0",
       "title": "Apple 官网排版细节鉴赏",
       "link": "https://sspai.com/post/115399",
@@ -319,61 +407,6 @@
       "lang": "zh",
       "published": "2026-11-05 10:57:22",
       "timestamp": 1793847442
-    },
-    {
-      "id": "d50b7b959b18",
-      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-      "link": "https://www.qbitai.com/2026/11/507696.html",
-      "summary": "Data + AI 技术实践巡展 · 上海站",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-05 02:01:51",
-      "timestamp": 1793844111
-    },
-    {
-      "id": "e52ce5ce3a03",
-      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-      "link": "https://www.qbitai.com/2026/11/507707.html",
-      "summary": "最快6秒出图",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-05 01:59:37",
-      "timestamp": 1793843977
-    },
-    {
-      "id": "ee8a2519ac5f",
-      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-      "link": "https://www.qbitai.com/2026/11/507697.html",
-      "summary": "被轰成筛子了…",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-05 01:54:44",
-      "timestamp": 1793843684
-    },
-    {
-      "id": "16832b8be35f",
-      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
-      "link": "https://www.qbitai.com/2026/11/507688.html",
-      "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-05 01:42:43",
-      "timestamp": 1793842963
-    },
-    {
-      "id": "ab7b5782da90",
-      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-      "link": "https://www.qbitai.com/2026/11/507675.html",
-      "summary": "薪资+期权不限！实习生也能训核心模型",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-05 00:41:34",
-      "timestamp": 1793839294
     },
     {
       "id": "b73daf5969c0",
@@ -398,17 +431,6 @@
       "timestamp": 1793818255
     },
     {
-      "id": "27e21ee9280a",
-      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
-      "link": "https://www.qbitai.com/2026/11/507647.html",
-      "summary": "连路人都有自己的想法",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-04 16:13:23",
-      "timestamp": 1793808803
-    },
-    {
       "id": "086eac1d1176",
       "title": "Securing the agentic enterprise with data lineage",
       "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -429,17 +451,6 @@
       "lang": "zh",
       "published": "2026-11-04 20:25:55",
       "timestamp": 1793795155
-    },
-    {
-      "id": "412bbb72fcf2",
-      "title": "国行 Apple 智能上手：这些功能已经准备好",
-      "link": "https://sspai.com/post/118404",
-      "summary": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-04 10:41:10",
-      "timestamp": 1793760070
     },
     {
       "id": "694e0c8cb010",
@@ -517,17 +528,6 @@
       "lang": "en",
       "published": "2026-10-28 20:32:02",
       "timestamp": 1793219522
-    },
-    {
-      "id": "144fa02036ba",
-      "title": "Pairing industrial AI autonomy and human control",
-      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "summary": "",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-10-28 12:00:00",
-      "timestamp": 1793188800
     }
   ]
 }
