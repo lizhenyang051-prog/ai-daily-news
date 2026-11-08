@@ -1,214 +1,291 @@
 {
-  "updated_at": "2026-11-07 04:16:36",
+  "updated_at": "2026-11-08 03:59:32",
   "articles": [
     {
-      "id": "adc9e4f21fee",
-      "title": "Lighting the Skies",
-      "link": "https://computer.rip/2026-10-25-searchlights.html",
-      "summary": "\nArticle URL: https://computer.rip/2026-10-25-searchlights.html\nComments URL: https://news.ycombinator.com/item?id=50401414\nPoints: 5\n# Comments: 0\n",
+      "id": "97241f8ecbac",
+      "title": "Commodore PET – The Worlds First Personal Computer",
+      "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "summary": "\nArticle URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/\nComments URL: https://news.ycombinator.com/item?id=50408961\nPoints: 24\n# Comments: 7\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-07 03:40:34",
-      "timestamp": 1794022834
+      "published": "2026-11-07 23:15:34",
+      "timestamp": 1794093334
     },
     {
-      "id": "3e6d5b353763",
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "summary": "\nArticle URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective\nComments URL: https://news.ycombinator.com/item?id=50401029\nPoints: 14\n# Comments: 1\n",
+      "id": "f3e4b7156bdf",
+      "title": "GitHub New pull request overview page in public preview",
+      "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "summary": "\nArticle URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\nComments URL: https://news.ycombinator.com/item?id=50408931\nPoints: 82\n# Comments: 60\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-07 02:20:06",
-      "timestamp": 1794018006
+      "published": "2026-11-07 23:09:40",
+      "timestamp": 1794092980
     },
     {
-      "id": "810be9b87f48",
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "link": "https://josef.cn/blog/unitree",
-      "summary": "\nArticle URL: https://josef.cn/blog/unitree\nComments URL: https://news.ycombinator.com/item?id=50400597\nPoints: 60\n# Comments: 35\n",
+      "id": "498e806ffd2e",
+      "title": "IRA Velinsky – Commodore's Industrial Designer",
+      "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+      "summary": "\nArticle URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/\nComments URL: https://news.ycombinator.com/item?id=50408750\nPoints: 18\n# Comments: 0\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-07 01:05:16",
-      "timestamp": 1794013516
+      "published": "2026-11-07 22:45:39",
+      "timestamp": 1794091539
     },
     {
-      "id": "b1dce1cd667c",
-      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-      "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-      "summary": "\nArticle URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/\nComments URL: https://news.ycombinator.com/item?id=50399991\nPoints: 58\n# Comments: 20\n",
+      "id": "42e639c672ac",
+      "title": "Making any integer with four 2s (2025)",
+      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "summary": "\nArticle URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/\nComments URL: https://news.ycombinator.com/item?id=50408713\nPoints: 77\n# Comments: 21\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-06 23:37:19",
-      "timestamp": 1794008239
+      "published": "2026-11-07 22:38:58",
+      "timestamp": 1794091138
     },
     {
-      "id": "abf5d9cb0dad",
-      "title": "Libghostty 1.0",
-      "link": "https://mitchellh.com/writing/libghostty-1-0",
-      "summary": "\nArticle URL: https://mitchellh.com/writing/libghostty-1-0\nComments URL: https://news.ycombinator.com/item?id=50399933\nPoints: 350\n# Comments: 58\n",
+      "id": "f1afe6c93a3c",
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "link": "https://eyesrhythm.com/",
+      "summary": "\nProfession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am al",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-06 23:30:52",
-      "timestamp": 1794007852
+      "published": "2026-11-07 21:47:47",
+      "timestamp": 1794088067
     },
     {
-      "id": "93ba80806e2d",
-      "title": "Sodium-ion batteries approach cost parity with LFP",
-      "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-      "summary": "\nArticle URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/\nComments URL: https://news.ycombinator.com/item?id=50399657\nPoints: 149\n# Comments: 66\n",
+      "id": "6cfc0d2ac58b",
+      "title": "Show HN: Where Were We",
+      "link": "https://wherewerewe.app/",
+      "summary": "\nA little web game I made as an anniversary present for my wife.Upload vacation photos and make them into a game.WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone.\n\nComments URL: https://news.ycombinator.com/item?id=50408082\nPoints:",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-06 23:00:46",
-      "timestamp": 1794006046
+      "published": "2026-11-07 21:08:35",
+      "timestamp": 1794085715
     },
     {
-      "id": "1dec890592c8",
-      "title": "AI is dramatically accelerating AI research",
-      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "summary": "\nArticle URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\nComments URL: https://news.ycombinator.com/item?id=50397994\nPoints: 234\n# Comments: 175\n",
+      "id": "d9574d113fb8",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "summary": "\nArticle URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\nComments URL: https://news.ycombinator.com/item?id=50407882\nPoints: 230\n# Comments: 149\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-06 20:27:23",
-      "timestamp": 1793996843
+      "published": "2026-11-07 20:45:32",
+      "timestamp": 1794084332
     },
     {
-      "id": "49d910bffa0f",
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "summary": "\nArticle URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\nComments URL: https://news.ycombinator.com/item?id=50397711\nPoints: 54\n# Comments: 8\n",
+      "id": "a50c20596716",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "link": "https://blog.bosscher.ch/posts/openstick/",
+      "summary": "\nArticle URL: https://blog.bosscher.ch/posts/openstick/\nComments URL: https://news.ycombinator.com/item?id=50406670\nPoints: 398\n# Comments: 90\n",
       "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 18:12:12",
+      "timestamp": 1794075132
+    },
+    {
+      "id": "1efb626e3b54",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "link": "https://hunch.net/?p=13764006",
+      "summary": "\nhttps://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft...\n\nComments URL: https://news.ycombinator.com/item?id=50406563\nPoints: 419\n# Comments: 244\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 18:02:17",
+      "timestamp": 1794074537
+    },
+    {
+      "id": "29dab6edea82",
+      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+      "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+      "summary": "\nArticle URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor\nComments URL: https://news.ycombinator.com/item?id=50406502\nPoints: 47\n# Comments: 20\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 17:54:56",
+      "timestamp": 1794074096
+    },
+    {
+      "id": "6569be0ef540",
+      "title": "Five memorable books about programming (2008)",
+      "link": "https://prog21.dadgum.com/19.html",
+      "summary": "\nArticle URL: https://prog21.dadgum.com/19.html\nComments URL: https://news.ycombinator.com/item?id=50406319\nPoints: 94\n# Comments: 61\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 17:30:49",
+      "timestamp": 1794072649
+    },
+    {
+      "id": "e87301a7104c",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "link": "https://github.com/hedgerow-dev/coldframe",
+      "summary": "\nI built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.To learn more about this I built a honeypot that resembled perfectly",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 17:27:30",
+      "timestamp": 1794072450
+    },
+    {
+      "id": "d2957b885850",
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "summary": "\nArticle URL: https://maxxbench.unlap.ai/research/why-maxxbench/\nComments URL: https://news.ycombinator.com/item?id=50406222\nPoints: 223\n# Comments: 67\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 17:19:00",
+      "timestamp": 1794071940
+    },
+    {
+      "id": "8f5636fef9f7",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "summary": "\nArticle URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you\nComments URL: https://news.ycombinator.com/item?id=50406111\nPoints: 395\n# Comments: 262\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 17:06:36",
+      "timestamp": 1794071196
+    },
+    {
+      "id": "8839079cf677",
+      "title": "How Long Can Life Wait?",
+      "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "summary": "\nArticle URL: https://mceglowski.substack.com/p/how-long-can-life-wait\nComments URL: https://news.ycombinator.com/item?id=50405789\nPoints: 132\n# Comments: 80\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 16:22:59",
+      "timestamp": 1794068579
+    },
+    {
+      "id": "d94cd508f499",
+      "title": "Every processor die anyone has photographed and given away",
+      "link": "https://sheets.works/data-viz/cpu-dies",
+      "summary": "\nArticle URL: https://sheets.works/data-viz/cpu-dies\nComments URL: https://news.ycombinator.com/item?id=50405782\nPoints: 89\n# Comments: 18\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 16:21:36",
+      "timestamp": 1794068496
+    },
+    {
+      "id": "375061a0e4a5",
+      "title": "Terry Pratchett's Study",
+      "link": "https://www.sussi.dk/terry-pratchetts-study",
+      "summary": "\nArticle URL: https://www.sussi.dk/terry-pratchetts-study\nComments URL: https://news.ycombinator.com/item?id=50405674\nPoints: 112\n# Comments: 31\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 16:05:45",
+      "timestamp": 1794067545
+    },
+    {
+      "id": "8d3b9159e103",
+      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+      "link": "https://www.retrosongbird.com/",
+      "summary": "\nArticle URL: https://www.retrosongbird.com/\nComments URL: https://news.ycombinator.com/item?id=50405172\nPoints: 47\n# Comments: 15\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 15:06:54",
+      "timestamp": 1794064014
+    },
+    {
+      "id": "1377d0fdf9a9",
+      "title": "The $8 Linux Computer (2022)",
+      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "summary": "\nArticle URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html\nComments URL: https://news.ycombinator.com/item?id=50404599\nPoints: 208\n# Comments: 87\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 14:00:20",
+      "timestamp": 1794060020
+    },
+    {
+      "id": "2a4161f27ebd",
+      "title": "Cancer at Sea",
+      "link": "https://biographic.com/cancer-at-sea/",
+      "summary": "\nArticle URL: https://biographic.com/cancer-at-sea/\nComments URL: https://news.ycombinator.com/item?id=50404438\nPoints: 21\n# Comments: 2\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-07 13:37:27",
+      "timestamp": 1794058647
+    },
+    {
+      "id": "d78aa36411d4",
+      "title": "一个 05 后的个人数码编年史",
+      "link": "https://sspai.com/post/116750",
+      "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-07 17:05:06",
+      "timestamp": 1794042306
+    },
+    {
+      "id": "b68bbb693fb9",
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "link": "https://www.qbitai.com/2026/11/508264.html",
+      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+      "source": "量子位",
       "category": "product",
-      "lang": "en",
-      "published": "2026-11-06 20:09:14",
-      "timestamp": 1793995754
+      "lang": "zh",
+      "published": "2026-11-07 05:01:17",
+      "timestamp": 1794027677
     },
     {
-      "id": "09bdb1931169",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "summary": "\nArticle URL: https://hightouch.com/blog/llm-judges-identity-resolution\nComments URL: https://news.ycombinator.com/item?id=50397429\nPoints: 378\n# Comments: 86\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 19:48:51",
-      "timestamp": 1793994531
-    },
-    {
-      "id": "ff5dccd679cd",
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "link": "https://pwn.ai/blog/firecracker-escape",
-      "summary": "\nArticle URL: https://pwn.ai/blog/firecracker-escape\nComments URL: https://news.ycombinator.com/item?id=50397219\nPoints: 194\n# Comments: 90\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 19:33:38",
-      "timestamp": 1793993618
-    },
-    {
-      "id": "713c80d47111",
-      "title": "GitHub's new Git storage architecture",
-      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "summary": "\nArticle URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\nComments URL: https://news.ycombinator.com/item?id=50397099\nPoints: 88\n# Comments: 16\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 19:24:21",
-      "timestamp": 1793993061
-    },
-    {
-      "id": "e81efd8b57fd",
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "summary": "\nArticle URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\nComments URL: https://news.ycombinator.com/item?id=50397017\nPoints: 104\n# Comments: 51\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 19:19:27",
-      "timestamp": 1793992767
-    },
-    {
-      "id": "12e3381b5efc",
-      "title": "Replit rebuilt its sandbox engine with microVMs",
-      "link": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-      "summary": "\nArticle URL: https://frontier.replit.com/sandbox-engine-microvms-part-1/\nComments URL: https://news.ycombinator.com/item?id=50396834\nPoints: 76\n# Comments: 25\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 19:06:10",
-      "timestamp": 1793991970
-    },
-    {
-      "id": "573bad333f66",
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "link": "https://arxiv.org/abs/2610.21375",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2610.21375\nComments URL: https://news.ycombinator.com/item?id=50395919\nPoints: 95\n# Comments: 9\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 18:03:33",
-      "timestamp": 1793988213
-    },
-    {
-      "id": "bb9b11981918",
-      "title": "Devvm.dev: One VM for every project",
-      "link": "https://devvm.dev/",
-      "summary": "\nArticle URL: https://devvm.dev/\nComments URL: https://news.ycombinator.com/item?id=50395450\nPoints: 131\n# Comments: 54\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 17:30:22",
-      "timestamp": 1793986222
-    },
-    {
-      "id": "9a8fcd4c576f",
-      "title": "Notes on San Marino",
-      "link": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-      "summary": "\nArticle URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino/\nComments URL: https://news.ycombinator.com/item?id=50395183\nPoints: 21\n# Comments: 2\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 17:12:05",
-      "timestamp": 1793985125
-    },
-    {
-      "id": "d6573026e43e",
-      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-      "link": "https://up.codes/careers?utm_source=HN",
-      "summary": "\nArticle URL: https://up.codes/careers?utm_source=HN\nComments URL: https://news.ycombinator.com/item?id=50395043\nPoints: 0\n# Comments: 0\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 17:03:33",
-      "timestamp": 1793984613
-    },
-    {
-      "id": "15ea19930d70",
-      "title": "First steps in bare-metal programming using UEFI",
-      "link": "https://kevinboone.me/efitest_index.html",
-      "summary": "\nArticle URL: https://kevinboone.me/efitest_index.html\nComments URL: https://news.ycombinator.com/item?id=50394855\nPoints: 200\n# Comments: 36\n",
-      "source": "Hacker News",
+      "id": "d654a3d4b8b1",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "link": "https://www.qbitai.com/2026/11/508244.html",
+      "summary": "全新的电脑病毒",
+      "source": "量子位",
       "category": "product",
-      "lang": "en",
-      "published": "2026-11-06 16:50:29",
-      "timestamp": 1793983829
+      "lang": "zh",
+      "published": "2026-11-07 03:43:55",
+      "timestamp": 1794023035
     },
     {
-      "id": "efb96f34e26f",
-      "title": "Gemini Omni 1.2 Flash",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "summary": "\nArticle URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\nComments URL: https://news.ycombinator.com/item?id=50392118\nPoints: 306\n# Comments: 220\n",
-      "source": "Hacker News",
+      "id": "c0c5e93daf6a",
+      "title": "",
+      "link": "https://www.qbitai.com/2026/11/508236.html",
+      "summary": "中国版cosmos再交卷",
+      "source": "量子位",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-11-06 13:35:27",
-      "timestamp": 1793972127
+      "lang": "zh",
+      "published": "2026-11-07 03:31:44",
+      "timestamp": 1794022304
+    },
+    {
+      "id": "b6345d1040fe",
+      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+      "link": "https://www.qbitai.com/2026/11/508196.html",
+      "summary": "RSI不可能无限快",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-07 03:23:29",
+      "timestamp": 1794021809
+    },
+    {
+      "id": "0595a7193b90",
+      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+      "link": "https://www.qbitai.com/2026/11/508184.html",
+      "summary": "Dario刚喊减速…",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 15:21:56",
+      "timestamp": 1793978516
     },
     {
       "id": "d2365e5bd033",
@@ -231,6 +308,39 @@
       "lang": "zh",
       "published": "2026-11-06 17:30:15",
       "timestamp": 1793957415
+    },
+    {
+      "id": "228af707b18f",
+      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "link": "https://www.qbitai.com/2026/11/508174.html",
+      "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-11-06 09:25:59",
+      "timestamp": 1793957159
+    },
+    {
+      "id": "557c31dd9f07",
+      "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+      "link": "https://www.qbitai.com/2026/11/508170.html",
+      "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 09:21:51",
+      "timestamp": 1793956911
+    },
+    {
+      "id": "bfa77d84c104",
+      "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+      "link": "https://www.qbitai.com/2026/11/508165.html",
+      "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-06 09:19:00",
+      "timestamp": 1793956740
     },
     {
       "id": "7e5dc945d4a6",
@@ -266,50 +376,6 @@
       "timestamp": 1793948057
     },
     {
-      "id": "79000350cc48",
-      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-      "link": "https://www.qbitai.com/2026/11/508143.html",
-      "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-06 06:43:14",
-      "timestamp": 1793947394
-    },
-    {
-      "id": "d5d28f08b146",
-      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "link": "https://www.qbitai.com/2026/11/508107.html",
-      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-06 05:01:47",
-      "timestamp": 1793941307
-    },
-    {
-      "id": "3ef4586dbede",
-      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-      "link": "https://www.qbitai.com/2026/11/507988.html",
-      "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-06 03:36:34",
-      "timestamp": 1793936194
-    },
-    {
-      "id": "03cf406a653b",
-      "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
-      "link": "https://www.qbitai.com/2026/11/507972.html",
-      "summary": "Seedance 2.5 单秒低至0.15元",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-06 03:20:05",
-      "timestamp": 1793935205
-    },
-    {
       "id": "34c2371b56d8",
       "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
       "link": "https://sspai.com/post/118570",
@@ -319,17 +385,6 @@
       "lang": "zh",
       "published": "2026-11-06 11:06:53",
       "timestamp": 1793934413
-    },
-    {
-      "id": "1e2580f5b783",
-      "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-      "link": "https://www.qbitai.com/2026/11/507967.html",
-      "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-06 02:00:11",
-      "timestamp": 1793930411
     },
     {
       "id": "2331e68dbe7f",
@@ -343,28 +398,6 @@
       "timestamp": 1793887251
     },
     {
-      "id": "d410f94713f4",
-      "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
-      "link": "https://www.qbitai.com/2026/11/507919.html",
-      "summary": "基础规划免费！",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-05 13:17:00",
-      "timestamp": 1793884620
-    },
-    {
-      "id": "b624cecc062f",
-      "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
-      "link": "https://www.qbitai.com/2026/11/507834.html",
-      "summary": "走向“智能体化世界模型”。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-05 09:37:40",
-      "timestamp": 1793871460
-    },
-    {
       "id": "cfce795f1fae",
       "title": "新玩意 255｜少数派的编辑们最近买了啥？",
       "link": "https://sspai.com/post/118541",
@@ -374,17 +407,6 @@
       "lang": "zh",
       "published": "2026-11-05 17:11:28",
       "timestamp": 1793869888
-    },
-    {
-      "id": "84ab8f8c00cb",
-      "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
-      "link": "https://www.qbitai.com/2026/11/507823.html",
-      "summary": "拼多多把农创赛搬出了PPT。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-05 09:00:18",
-      "timestamp": 1793869218
     },
     {
       "id": "f43b8dfc4249",
@@ -440,17 +462,6 @@
       "lang": "en",
       "published": "2026-11-04 13:00:00",
       "timestamp": 1793797200
-    },
-    {
-      "id": "27b8bd8e1d5a",
-      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
-      "link": "https://sspai.com/post/117713",
-      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-04 20:25:55",
-      "timestamp": 1793795155
     },
     {
       "id": "694e0c8cb010",
