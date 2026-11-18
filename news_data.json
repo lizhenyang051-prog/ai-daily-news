@@ -1,6 +1,358 @@
 {
-  "updated_at": "2026-11-17 06:11:34",
+  "updated_at": "2026-11-18 05:39:33",
   "articles": [
+    {
+      "id": "47f944890a59",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "summary": "\nArticle URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/\nComments URL: https://news.ycombinator.com/item?id=50541790\nPoints: 14\n# Comments: 2\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-18 04:14:04",
+      "timestamp": 1794975244
+    },
+    {
+      "id": "b496ee421c10",
+      "title": "H-1B Executive Actions in 2026 [pdf]",
+      "link": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
+      "summary": "\nArticle URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf\nComments URL: https://news.ycombinator.com/item?id=50541550\nPoints: 14\n# Comments: 8\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-18 03:37:35",
+      "timestamp": 1794973055
+    },
+    {
+      "id": "0395dacf2018",
+      "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+      "summary": "\nArticle URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer\nComments URL: https://news.ycombinator.com/item?id=50541538\nPoints: 0\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-18 03:35:47",
+      "timestamp": 1794972947
+    },
+    {
+      "id": "a16f30880a76",
+      "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+      "link": "https://sspai.com/post/119193",
+      "summary": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-18 11:00:00",
+      "timestamp": 1794970800
+    },
+    {
+      "id": "9044b4227a74",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "link": "https://www.qbitai.com/2026/11/510737.html",
+      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心 ",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-18 02:49:23",
+      "timestamp": 1794970163
+    },
+    {
+      "id": "7efb5268646d",
+      "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+      "link": "https://sspai.com/post/118975",
+      "summary": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-18 10:30:00",
+      "timestamp": 1794969000
+    },
+    {
+      "id": "0b3326f2fc98",
+      "title": "Cerebras Disaggregated Inference",
+      "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "summary": "\nArticle URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference\nComments URL: https://news.ycombinator.com/item?id=50540472\nPoints: 53\n# Comments: 13\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-18 00:56:23",
+      "timestamp": 1794963383
+    },
+    {
+      "id": "e28a10faecde",
+      "title": "ID.me terms required for IRS sign-in",
+      "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "summary": "\nArticle URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in\nComments URL: https://news.ycombinator.com/item?id=50540437\nPoints: 238\n# Comments: 102\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-18 00:51:45",
+      "timestamp": 1794963105
+    },
+    {
+      "id": "40761f24a135",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "link": "https://www.qbitai.com/2026/11/510707.html",
+      "summary": "Sol逼近旗舰性能",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-18 00:49:14",
+      "timestamp": 1794962954
+    },
+    {
+      "id": "d30b2dd140ab",
+      "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+      "link": "https://sspai.com/post/119210",
+      "summary": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-18 08:46:03",
+      "timestamp": 1794962763
+    },
+    {
+      "id": "f2093c194d8f",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "link": "https://revscope.co/blog/search-seo-geo-2026/",
+      "summary": "\nArticle URL: https://revscope.co/blog/search-seo-geo-2026/\nComments URL: https://news.ycombinator.com/item?id=50540178\nPoints: 231\n# Comments: 159\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-18 00:17:58",
+      "timestamp": 1794961078
+    },
+    {
+      "id": "ebcab46de25c",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "summary": "\nArticle URL: https://wiki.archiveteam.org/index.php/Apple_Discussions\nComments URL: https://news.ycombinator.com/item?id=50539747\nPoints: 144\n# Comments: 51\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 23:32:58",
+      "timestamp": 1794958378
+    },
+    {
+      "id": "a486ea36aebb",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "link": "https://github.com/microsoft/onnxruntime",
+      "summary": "\nArticle URL: https://github.com/microsoft/onnxruntime\nComments URL: https://news.ycombinator.com/item?id=50539610\nPoints: 215\n# Comments: 52\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 23:18:49",
+      "timestamp": 1794957529
+    },
+    {
+      "id": "89e9d6007c95",
+      "title": "Latent Lattice Language Models",
+      "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+      "summary": "\nArticle URL: https://shivamduggal4.github.io/latent-lattice-language-models/\nComments URL: https://news.ycombinator.com/item?id=50539039\nPoints: 43\n# Comments: 5\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 22:17:18",
+      "timestamp": 1794953838
+    },
+    {
+      "id": "7b4364864ac9",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "summary": "\nArticle URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/\nComments URL: https://news.ycombinator.com/item?id=50538994\nPoints: 396\n# Comments: 128\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 22:13:34",
+      "timestamp": 1794953614
+    },
+    {
+      "id": "fc9391992451",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "summary": "\nArticle URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/\nComments URL: https://news.ycombinator.com/item?id=50538303\nPoints: 117\n# Comments: 170\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-17 21:16:12",
+      "timestamp": 1794950172
+    },
+    {
+      "id": "884ed3aa1188",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "link": "https://calif.io/java4shell/",
+      "summary": "\nArticle URL: https://calif.io/java4shell/\nComments URL: https://news.ycombinator.com/item?id=50538240\nPoints: 688\n# Comments: 185\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 21:11:28",
+      "timestamp": 1794949888
+    },
+    {
+      "id": "cdb390e6a62e",
+      "title": "Tencent Hy4 Flash",
+      "link": "https://hy.tencent.ai/research/hy4-flash",
+      "summary": "\nArticle URL: https://hy.tencent.ai/research/hy4-flash\nComments URL: https://news.ycombinator.com/item?id=50538184\nPoints: 88\n# Comments: 12\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 21:06:08",
+      "timestamp": 1794949568
+    },
+    {
+      "id": "a9148d2102e6",
+      "title": "Web Browser Engineering (2021)",
+      "link": "https://browser.engineering/",
+      "summary": "\nArticle URL: https://browser.engineering/\nComments URL: https://news.ycombinator.com/item?id=50537290\nPoints: 146\n# Comments: 20\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 20:01:35",
+      "timestamp": 1794945695
+    },
+    {
+      "id": "ecdebd8fcea2",
+      "title": "jQuery 4.1.0",
+      "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "summary": "\nArticle URL: https://github.com/jquery/jquery/releases/tag/4.1.0\nComments URL: https://news.ycombinator.com/item?id=50537156\nPoints: 284\n# Comments: 153\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 19:50:40",
+      "timestamp": 1794945040
+    },
+    {
+      "id": "6616932e11d7",
+      "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+      "link": "https://arxiv.org/abs/2611.09827",
+      "summary": "\nArticle URL: https://arxiv.org/abs/2611.09827\nComments URL: https://news.ycombinator.com/item?id=50537120\nPoints: 93\n# Comments: 66\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 19:46:57",
+      "timestamp": 1794944817
+    },
+    {
+      "id": "9aa6b01c69d9",
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "summary": "\nArticle URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969\nComments URL: https://news.ycombinator.com/item?id=50536813\nPoints: 291\n# Comments: 84\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 19:25:27",
+      "timestamp": 1794943527
+    },
+    {
+      "id": "257c553d7a79",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "link": "https://starsling.dev",
+      "summary": "\nWe’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency s",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-17 19:01:43",
+      "timestamp": 1794942103
+    },
+    {
+      "id": "e0c1f928dae9",
+      "title": "Solid 2.0",
+      "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "summary": "\nArticle URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/\nComments URL: https://news.ycombinator.com/item?id=50536387\nPoints: 263\n# Comments: 75\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 18:56:17",
+      "timestamp": 1794941777
+    },
+    {
+      "id": "70c6c6058f76",
+      "title": "Phrack 73 Released",
+      "link": "https://phrack.org/issues/73/introduction_md",
+      "summary": "\nArticle URL: https://phrack.org/issues/73/introduction_md\nComments URL: https://news.ycombinator.com/item?id=50535992\nPoints: 333\n# Comments: 49\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 18:31:25",
+      "timestamp": 1794940285
+    },
+    {
+      "id": "fa5a48fad451",
+      "title": "Research Reports",
+      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "summary": "To access a report, click on the corresponding image below.",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-17 14:39:46",
+      "timestamp": 1794926386
+    },
+    {
+      "id": "32da752f026f",
+      "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+      "link": "https://www.qbitai.com/2026/11/510695.html",
+      "summary": "82亿美元股票，46天闪电交割",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-17 14:15:20",
+      "timestamp": 1794924920
+    },
+    {
+      "id": "b2b1b1a76505",
+      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+      "link": "https://www.qbitai.com/2026/11/510688.html",
+      "summary": "瞄准「产业级世界模型」",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-17 11:40:37",
+      "timestamp": 1794915637
+    },
+    {
+      "id": "650a8f465920",
+      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "link": "https://sspai.com/post/119184",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-11-17 17:02:00",
+      "timestamp": 1794906120
+    },
+    {
+      "id": "8995c2de7851",
+      "title": "TDS REVIEW｜Bose 有线消噪耳塞体验",
+      "link": "https://sspai.com/post/118976",
+      "summary": "这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-17 15:00:00",
+      "timestamp": 1794898800
+    },
+    {
+      "id": "e2572af899ce",
+      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+      "link": "https://www.qbitai.com/2026/11/510652.html",
+      "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-11-17 06:09:40",
+      "timestamp": 1794895780
+    },
+    {
+      "id": "457ca7a25477",
+      "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+      "link": "https://www.qbitai.com/2026/11/510610.html",
+      "summary": "斩获80000元奖金",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-17 04:35:03",
+      "timestamp": 1794890103
+    },
     {
       "id": "62fb387a45e4",
       "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
@@ -13,59 +365,15 @@
       "timestamp": 1794884391
     },
     {
-      "id": "9fdf2efe97b8",
-      "title": "The most expensive bargaining chip in history",
-      "link": "https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/",
-      "summary": "\nArticle URL: https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/\nComments URL: https://news.ycombinator.com/item?id=50526621\nPoints: 16\n# Comments: 14\n",
-      "source": "Hacker News",
+      "id": "e6c979f991b2",
+      "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+      "link": "https://www.qbitai.com/2026/11/510561.html",
+      "summary": "",
+      "source": "量子位",
       "category": "tool",
-      "lang": "en",
-      "published": "2026-11-17 02:23:34",
-      "timestamp": 1794882214
-    },
-    {
-      "id": "029487a37374",
-      "title": "Tokendoctor – the same Claude Code for up to 38% less",
-      "link": "https://github.com/localixai/tokendoctor",
-      "summary": "\nArticle URL: https://github.com/localixai/tokendoctor\nComments URL: https://news.ycombinator.com/item?id=50526584\nPoints: 11\n# Comments: 3\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-17 02:19:50",
-      "timestamp": 1794881990
-    },
-    {
-      "id": "4debe27f7422",
-      "title": "Running coding agents without handing them my credentials",
-      "link": "https://blog.antonio.cx/running-agents-with-lend",
-      "summary": "\nArticle URL: https://blog.antonio.cx/running-agents-with-lend\nComments URL: https://news.ycombinator.com/item?id=50526152\nPoints: 82\n# Comments: 39\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-11-17 01:18:56",
-      "timestamp": 1794878336
-    },
-    {
-      "id": "1bc07b10cb28",
-      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-      "link": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
-      "summary": "\nArticle URL: https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/\nComments URL: https://news.ycombinator.com/item?id=50525658\nPoints: 97\n# Comments: 32\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-17 00:23:21",
-      "timestamp": 1794875001
-    },
-    {
-      "id": "6ed97b04c1b3",
-      "title": "Why 3dfx 1 cards had such a washed out color output?",
-      "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-      "summary": "\nArticle URL: https://twitter.com/id_aa_carmack/status/2122478083319992513\nComments URL: https://news.ycombinator.com/item?id=50525575\nPoints: 65\n# Comments: 7\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-17 00:16:24",
-      "timestamp": 1794874584
+      "lang": "zh",
+      "published": "2026-11-17 02:03:22",
+      "timestamp": 1794881002
     },
     {
       "id": "e2990ea40eef",
@@ -79,160 +387,6 @@
       "timestamp": 1794873460
     },
     {
-      "id": "2359b04bf362",
-      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-      "link": "https://github.com/0nelight/sutra-os",
-      "summary": "\nArticle URL: https://github.com/0nelight/sutra-os\nComments URL: https://news.ycombinator.com/item?id=50525052\nPoints: 47\n# Comments: 24\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 23:25:41",
-      "timestamp": 1794871541
-    },
-    {
-      "id": "d3f76cbe3981",
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "summary": "\nArticle URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/\nComments URL: https://news.ycombinator.com/item?id=50524767\nPoints: 237\n# Comments: 101\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 23:00:34",
-      "timestamp": 1794870034
-    },
-    {
-      "id": "2bb2d9099736",
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "summary": "\nArticle URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/\nComments URL: https://news.ycombinator.com/item?id=50524736\nPoints: 436\n# Comments: 281\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-11-16 22:58:20",
-      "timestamp": 1794869900
-    },
-    {
-      "id": "cb86463fc197",
-      "title": "How to Break into Security, Ptacek Edition (2012)",
-      "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-      "summary": "\nArticle URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/\nComments URL: https://news.ycombinator.com/item?id=50524225\nPoints: 97\n# Comments: 24\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 22:19:23",
-      "timestamp": 1794867563
-    },
-    {
-      "id": "4283731dab29",
-      "title": "United Airlines experiencing a widespread system outage, airline says",
-      "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-      "summary": "\nhttps://news.ycombinator.com/item?id=50524260\n\nComments URL: https://news.ycombinator.com/item?id=50524165\nPoints: 226\n# Comments: 116\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 22:14:38",
-      "timestamp": 1794867278
-    },
-    {
-      "id": "16f89b423b07",
-      "title": "Spamhaus new email sender requirements in November",
-      "link": "https://www.spamhaus.org/sender-guidelines/",
-      "summary": "\nArticle URL: https://www.spamhaus.org/sender-guidelines/\nComments URL: https://news.ycombinator.com/item?id=50523784\nPoints: 90\n# Comments: 82\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 21:47:19",
-      "timestamp": 1794865639
-    },
-    {
-      "id": "5cb4138297f8",
-      "title": "BugMeNot has closed",
-      "link": "https://www.bugmenot.com/",
-      "summary": "\nArticle URL: https://www.bugmenot.com/\nComments URL: https://news.ycombinator.com/item?id=50523601\nPoints: 438\n# Comments: 210\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 21:32:17",
-      "timestamp": 1794864737
-    },
-    {
-      "id": "0c36adbc8c2b",
-      "title": "OpenCode Browse",
-      "link": "https://opencode.ai/product/browse",
-      "summary": "\nArticle URL: https://opencode.ai/product/browse\nComments URL: https://news.ycombinator.com/item?id=50523459\nPoints: 197\n# Comments: 89\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 21:20:37",
-      "timestamp": 1794864037
-    },
-    {
-      "id": "0b8cb0d3b3c0",
-      "title": "My Quest to push native Three.js quality match AAA Game Engines",
-      "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-      "summary": "\nArticle URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs\nComments URL: https://news.ycombinator.com/item?id=50523291\nPoints: 125\n# Comments: 46\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 21:07:43",
-      "timestamp": 1794863263
-    },
-    {
-      "id": "c1861884c2ef",
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "summary": "\nArticle URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/\nComments URL: https://news.ycombinator.com/item?id=50523025\nPoints: 106\n# Comments: 84\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 20:48:08",
-      "timestamp": 1794862088
-    },
-    {
-      "id": "fd938d79105e",
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "link": "https://www.cs.cmu.edu/learn/",
-      "summary": "\nArticle URL: https://www.cs.cmu.edu/learn/\nComments URL: https://news.ycombinator.com/item?id=50522980\nPoints: 1130\n# Comments: 166\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 20:43:36",
-      "timestamp": 1794861816
-    },
-    {
-      "id": "e0196c2d8b73",
-      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-      "link": "https://news.ycombinator.com/item?id=50522776",
-      "summary": "\nHi HN! We’re Arsh and Max, founders of Axonnic (https://axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 20:29:48",
-      "timestamp": 1794860988
-    },
-    {
-      "id": "ebf2a3cf0659",
-      "title": "Chemistry is Actually Geometry",
-      "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-      "summary": "\nArticle URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry\nComments URL: https://news.ycombinator.com/item?id=50522643\nPoints: 183\n# Comments: 89\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 20:22:18",
-      "timestamp": 1794860538
-    },
-    {
-      "id": "5fee09fdce98",
-      "title": "Rust changed me as a developer",
-      "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
-      "summary": "\nArticle URL: https://blog.startifact.com/posts/how-rust-changed-me/\nComments URL: https://news.ycombinator.com/item?id=50522563\nPoints: 237\n# Comments: 145\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 20:16:50",
-      "timestamp": 1794860210
-    },
-    {
       "id": "ad1fc9a62902",
       "title": "The open-source movement wants Jensen Huang back",
       "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
@@ -242,17 +396,6 @@
       "lang": "en",
       "published": "2026-11-16 18:38:47",
       "timestamp": 1794854327
-    },
-    {
-      "id": "d950057376c3",
-      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-      "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "summary": "\nArticle URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\nComments URL: https://news.ycombinator.com/item?id=50521045\nPoints: 749\n# Comments: 625\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-16 18:31:30",
-      "timestamp": 1794853890
     },
     {
       "id": "c3acd2fe9636",
@@ -299,39 +442,6 @@
       "timestamp": 1794823787
     },
     {
-      "id": "ad646f6b335d",
-      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-      "link": "https://www.qbitai.com/2026/11/510526.html",
-      "summary": "12月1日，细数AI的未竟之问。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-16 08:45:17",
-      "timestamp": 1794818717
-    },
-    {
-      "id": "780cf129b948",
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-      "link": "https://www.qbitai.com/2026/11/510496.html",
-      "summary": "在华为待了快10000天。",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-16 08:02:07",
-      "timestamp": 1794816127
-    },
-    {
-      "id": "f2dc32889794",
-      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-      "link": "https://www.qbitai.com/2026/11/510486.html",
-      "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-16 07:51:57",
-      "timestamp": 1794815517
-    },
-    {
       "id": "8683a92cfe54",
       "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
       "link": "https://sspai.com/post/118100",
@@ -343,61 +453,6 @@
       "timestamp": 1794814671
     },
     {
-      "id": "dcad8c479ace",
-      "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
-      "link": "https://www.qbitai.com/2026/11/510436.html",
-      "summary": "余承东重新明确分工",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-16 07:26:33",
-      "timestamp": 1794813993
-    },
-    {
-      "id": "7c940ec785c6",
-      "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
-      "link": "https://www.qbitai.com/2026/11/510416.html",
-      "summary": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-16 05:05:22",
-      "timestamp": 1794805522
-    },
-    {
-      "id": "1f9063dc9b13",
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-      "link": "https://www.qbitai.com/2026/11/510404.html",
-      "summary": "50岁，以“华为董事”之名退休，又有几人？",
-      "source": "量子位",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-16 03:54:30",
-      "timestamp": 1794801270
-    },
-    {
-      "id": "f27c261cc5ab",
-      "title": "今天截止！2026年度AI表彰，错过再等一年！",
-      "link": "https://www.qbitai.com/2026/11/510382.html",
-      "summary": "量子位在寻找“能干”的答案",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-16 03:19:53",
-      "timestamp": 1794799193
-    },
-    {
-      "id": "13d93331d649",
-      "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
-      "link": "https://www.qbitai.com/2026/11/510369.html",
-      "summary": "是石科技最新发布多模态模型服务",
-      "source": "量子位",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-11-16 03:07:39",
-      "timestamp": 1794798459
-    },
-    {
       "id": "9e6eb8e8c84b",
       "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
       "link": "https://sspai.com/post/119012",
@@ -407,61 +462,6 @@
       "lang": "zh",
       "published": "2026-11-16 10:52:11",
       "timestamp": 1794797531
-    },
-    {
-      "id": "e693b709f099",
-      "title": "派早报：逾十万人次联署要求黄仁勋复职",
-      "link": "https://sspai.com/post/119119",
-      "summary": "逾十万人次联署要求黄仁勋复职Microsoft 365 服务在 19 小时全球宕机后恢复国产前沿模型携带 Blackwell GPU 特征线缆更换导致全美飞机停飞流媒体用户抱怨更难找到想看作品特斯拉 Cybercab 订阅协议包含苛刻条款看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-16 07:24:34",
-      "timestamp": 1794785074
-    },
-    {
-      "id": "e8dcd49a9a91",
-      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
-      "link": "https://sspai.com/post/118392",
-      "summary": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-15 15:55:16",
-      "timestamp": 1794729316
-    },
-    {
-      "id": "77106ae4a946",
-      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-      "link": "https://sspai.com/post/118276",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-11-14 15:40:21",
-      "timestamp": 1794642021
-    },
-    {
-      "id": "0e36ca9f1d08",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "link": "https://sspai.com/post/118999",
-      "summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-13 17:39:22",
-      "timestamp": 1794562762
-    },
-    {
-      "id": "b688f10b4c6e",
-      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
-      "link": "https://sspai.com/post/118153",
-      "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-13 15:00:00",
-      "timestamp": 1794553200
     },
     {
       "id": "5687a0e4cd8b",
@@ -497,8 +497,8 @@
       "timestamp": 1794243943
     },
     {
-      "id": "5c0664ea6cae",
-      "title": "Innovating with AI in the special chemicals industry",
+      "id": "e420a42cf074",
+      "title": "Innovating with AI in the specialty chemicals industry",
       "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
       "source": "MIT Tech Review",
@@ -528,17 +528,6 @@
       "lang": "en",
       "published": "2026-11-04 18:50:55",
       "timestamp": 1793818255
-    },
-    {
-      "id": "086eac1d1176",
-      "title": "Securing the agentic enterprise with data lineage",
-      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
-      "source": "MIT Tech Review",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-11-04 13:00:00",
-      "timestamp": 1793797200
     }
   ]
 }
