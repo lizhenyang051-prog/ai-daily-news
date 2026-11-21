@@ -1,27 +1,302 @@
 {
-  "updated_at": "2026-11-20 05:26:30",
+  "updated_at": "2026-11-21 05:18:09",
   "articles": [
     {
-      "id": "c17bff0fd503",
-      "title": "GIMP now has UI tests",
-      "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-      "summary": "\nArticle URL: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/\nComments URL: https://news.ycombinator.com/item?id=50569985\nPoints: 20\n# Comments: 4\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-20 04:00:24",
-      "timestamp": 1795147224
+      "id": "2de8fb690dfc",
+      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+      "link": "https://sspai.com/post/119291",
+      "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...查看全文",
+      "source": "少数派",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-11-21 12:00:00",
+      "timestamp": 1795233600
     },
     {
-      "id": "c977566bb039",
-      "title": "PostgreSQL 19",
-      "link": "https://www.postgresql.org/docs/release/19.0/",
-      "summary": "\nArticle URL: https://www.postgresql.org/docs/release/19.0/\nComments URL: https://news.ycombinator.com/item?id=50569890\nPoints: 29\n# Comments: 1\n",
+      "id": "c4f3494e2c03",
+      "title": "BlackBlaze now explicitly states selling your data for advertisement",
+      "link": "https://www.backblaze.com/company/policy/privacy",
+      "summary": "\nArticle URL: https://www.backblaze.com/company/policy/privacy\nComments URL: https://news.ycombinator.com/item?id=50585593\nPoints: 57\n# Comments: 8\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-20 03:45:45",
-      "timestamp": 1795146345
+      "published": "2026-11-21 03:23:16",
+      "timestamp": 1795231396
+    },
+    {
+      "id": "03c876d212d4",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "summary": "\nArticle URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/\nComments URL: https://news.ycombinator.com/item?id=50585376\nPoints: 20\n# Comments: 5\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-21 02:40:39",
+      "timestamp": 1795228839
+    },
+    {
+      "id": "1edb54708394",
+      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "summary": "\nArticle URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes\nComments URL: https://news.ycombinator.com/item?id=50584429\nPoints: 22\n# Comments: 1\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-21 00:33:40",
+      "timestamp": 1795221220
+    },
+    {
+      "id": "f27d7470ec6d",
+      "title": "Re: Riemann",
+      "link": "https://borretti.me/article/re-riemann",
+      "summary": "\nArticle URL: https://borretti.me/article/re-riemann\nComments URL: https://news.ycombinator.com/item?id=50583982\nPoints: 183\n# Comments: 176\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 23:42:44",
+      "timestamp": 1795218164
+    },
+    {
+      "id": "9da3d4c7edcd",
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "summary": "\nArticle URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411\nComments URL: https://news.ycombinator.com/item?id=50583856\nPoints: 40\n# Comments: 24\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 23:29:30",
+      "timestamp": 1795217370
+    },
+    {
+      "id": "702e6a0d8f56",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "summary": "\nArticle URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid\nComments URL: https://news.ycombinator.com/item?id=50583768\nPoints: 66\n# Comments: 14\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 23:19:44",
+      "timestamp": 1795216784
+    },
+    {
+      "id": "8ef31be87f00",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "link": "https://ninlive.com/",
+      "summary": "\nArticle URL: https://ninlive.com/\nComments URL: https://news.ycombinator.com/item?id=50583274\nPoints: 180\n# Comments: 43\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 22:30:47",
+      "timestamp": 1795213847
+    },
+    {
+      "id": "bb279b72a65d",
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "summary": "\nArticle URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models\nComments URL: https://news.ycombinator.com/item?id=50583117\nPoints: 27\n# Comments: 8\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 22:18:20",
+      "timestamp": 1795213100
+    },
+    {
+      "id": "b392d1f400a0",
+      "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "link": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+      "summary": "\nArticle URL: https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627\nComments URL: https://news.ycombinator.com/item?id=50581438\nPoints: 266\n# Comments: 140\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 20:22:41",
+      "timestamp": 1795206161
+    },
+    {
+      "id": "fab9762e802a",
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "link": "https://github.com/diggerhq/opencomputer",
+      "summary": "\nHi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; t",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-20 20:19:56",
+      "timestamp": 1795205996
+    },
+    {
+      "id": "cb5bbdfdccda",
+      "title": "Inkling 2 Mini",
+      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "summary": "\nArticle URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 829\n# Comments: 143\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 20:12:19",
+      "timestamp": 1795205539
+    },
+    {
+      "id": "696d3cf4a842",
+      "title": "And yet, it moves",
+      "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "summary": "\nArticle URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/\nComments URL: https://news.ycombinator.com/item?id=50581177\nPoints: 120\n# Comments: 61\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 20:07:55",
+      "timestamp": 1795205275
+    },
+    {
+      "id": "b6da9701ce76",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "summary": "\nArticle URL: https://www.masteringemacs.org/article/announcing-dreamcoder\nComments URL: https://news.ycombinator.com/item?id=50581110\nPoints: 152\n# Comments: 29\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 20:03:59",
+      "timestamp": 1795205039
+    },
+    {
+      "id": "79f5624ee3ea",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "link": "https://scottaaronson.blog/?p=10344",
+      "summary": "\nArticle URL: https://scottaaronson.blog/?p=10344\nComments URL: https://news.ycombinator.com/item?id=50581084\nPoints: 250\n# Comments: 226\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 20:03:07",
+      "timestamp": 1795204987
+    },
+    {
+      "id": "fee08d14993d",
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "link": "https://winedroid.soham.sh/demo/",
+      "summary": "\nArticle URL: https://winedroid.soham.sh/demo/\nComments URL: https://news.ycombinator.com/item?id=50580536\nPoints: 117\n# Comments: 36\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 19:30:16",
+      "timestamp": 1795203016
+    },
+    {
+      "id": "8ba6bb085451",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "summary": "\nRelated: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968\n\nComments URL: https://news.ycombinator.com/item?id=50579568\nPoints: 1775\n# Comments: 791\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 18:33:14",
+      "timestamp": 1795199594
+    },
+    {
+      "id": "3b5875a16ab9",
+      "title": "We promoted developers into architects without informing them",
+      "link": "https://manidoraisamy.com/developer-to-architect.html",
+      "summary": "\nArticle URL: https://manidoraisamy.com/developer-to-architect.html\nComments URL: https://news.ycombinator.com/item?id=50579331\nPoints: 347\n# Comments: 210\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 18:17:51",
+      "timestamp": 1795198671
+    },
+    {
+      "id": "40aaa2400c5d",
+      "title": "Vibecoding an inference chip",
+      "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "summary": "\nArticle URL: https://ankitg.me/blog/vibecoding-inference-chip/\nComments URL: https://news.ycombinator.com/item?id=50579297\nPoints: 128\n# Comments: 49\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 18:15:16",
+      "timestamp": 1795198516
+    },
+    {
+      "id": "7c733832ff9c",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+      "source": "MIT Tech Review",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 18:15:15",
+      "timestamp": 1795198515
+    },
+    {
+      "id": "9170404eafbf",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "summary": "\nArticle URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/\nComments URL: https://news.ycombinator.com/item?id=50578358\nPoints: 384\n# Comments: 154\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 17:21:36",
+      "timestamp": 1795195296
+    },
+    {
+      "id": "089bf2cb69fc",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "link": "https://news.ycombinator.com/item?id=50577613",
+      "summary": "\nI'll be here for the rest of the day. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with. Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won't have access to all the facts. Please stick to a",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-20 16:45:25",
+      "timestamp": 1795193125
+    },
+    {
+      "id": "19962fad2312",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "link": "https://sspai.com/post/119337",
+      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-20 17:54:01",
+      "timestamp": 1795168441
+    },
+    {
+      "id": "723ff8235a22",
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "link": "https://www.qbitai.com/2026/11/511610.html",
+      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-11-20 08:04:58",
+      "timestamp": 1795161898
+    },
+    {
+      "id": "7247df683e57",
+      "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+      "link": "https://sspai.com/post/119327",
+      "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-20 15:34:26",
+      "timestamp": 1795160066
+    },
+    {
+      "id": "9df724f72396",
+      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+      "link": "https://www.qbitai.com/2026/11/511603.html",
+      "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+      "source": "量子位",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-20 06:16:06",
+      "timestamp": 1795155366
+    },
+    {
+      "id": "6e86039e0f46",
+      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+      "link": "https://www.qbitai.com/2026/11/511582.html",
+      "summary": "已开源Agnes Harness",
+      "source": "量子位",
+      "category": "product",
+      "lang": "zh",
+      "published": "2026-11-20 05:24:11",
+      "timestamp": 1795152251
     },
     {
       "id": "e1b6e667f1dd",
@@ -35,28 +310,6 @@
       "timestamp": 1795142872
     },
     {
-      "id": "749eca4145e2",
-      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "summary": "\nArticle URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/\nComments URL: https://news.ycombinator.com/item?id=50569516\nPoints: 27\n# Comments: 1\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-20 02:43:49",
-      "timestamp": 1795142629
-    },
-    {
-      "id": "e319f1ae38a4",
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "link": "https://github.com/openssl/openssl/pull/33652",
-      "summary": "\nArticle URL: https://github.com/openssl/openssl/pull/33652\nComments URL: https://news.ycombinator.com/item?id=50569226\nPoints: 75\n# Comments: 42\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-20 02:01:09",
-      "timestamp": 1795140069
-    },
-    {
       "id": "7e60dc6e23a9",
       "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
       "link": "https://www.qbitai.com/2026/11/511426.html",
@@ -68,28 +321,6 @@
       "timestamp": 1795136858
     },
     {
-      "id": "f52363549a5e",
-      "title": "Vint Cerf on why TCP/IP was never patented",
-      "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-      "summary": "\nArticle URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never\nComments URL: https://news.ycombinator.com/item?id=50568861\nPoints: 57\n# Comments: 12\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-20 01:06:12",
-      "timestamp": 1795136772
-    },
-    {
-      "id": "a7919b81d597",
-      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
-      "link": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
-      "summary": "\nArticle URL: https://www.databricks.com/blog/postgresql-19-available-lakebase\nComments URL: https://news.ycombinator.com/item?id=50568643\nPoints: 32\n# Comments: 17\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-20 00:37:31",
-      "timestamp": 1795135051
-    },
-    {
       "id": "35ff7975a58a",
       "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
       "link": "https://sspai.com/post/119311",
@@ -99,160 +330,6 @@
       "lang": "zh",
       "published": "2026-11-20 08:34:31",
       "timestamp": 1795134871
-    },
-    {
-      "id": "c2828d296921",
-      "title": "ChatGPT for SNES",
-      "link": "https://www.bxfoundry.com/chatgpt_snes/",
-      "summary": "\nArticle URL: https://www.bxfoundry.com/chatgpt_snes/\nComments URL: https://news.ycombinator.com/item?id=50568548\nPoints: 18\n# Comments: 4\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-20 00:25:59",
-      "timestamp": 1795134359
-    },
-    {
-      "id": "85b06e1fc376",
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "link": "https://git-aarvin.github.io/mei/",
-      "summary": "\nArticle URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 309\n# Comments: 177\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 23:35:35",
-      "timestamp": 1795131335
-    },
-    {
-      "id": "40194df27447",
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-      "summary": "\nArticle URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87\nComments URL: https://news.ycombinator.com/item?id=50568082\nPoints: 149\n# Comments: 40\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 23:32:11",
-      "timestamp": 1795131131
-    },
-    {
-      "id": "5fd6ea4bdbf5",
-      "title": "RegExr: Temporarily Offline",
-      "link": "https://regexr.com/",
-      "summary": "\nArticle URL: https://regexr.com/\nComments URL: https://news.ycombinator.com/item?id=50567374\nPoints: 66\n# Comments: 35\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 22:27:07",
-      "timestamp": 1795127227
-    },
-    {
-      "id": "1fa870258e84",
-      "title": "Synology Security Advisory",
-      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "summary": "\nArticle URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21\nComments URL: https://news.ycombinator.com/item?id=50567209\nPoints: 125\n# Comments: 89\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 22:13:40",
-      "timestamp": 1795126420
-    },
-    {
-      "id": "8cdfba4c6e86",
-      "title": "Rebuilding my local voice assistant pipeline",
-      "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "summary": "\nArticle URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline\nComments URL: https://news.ycombinator.com/item?id=50566261\nPoints: 81\n# Comments: 14\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 20:57:14",
-      "timestamp": 1795121834
-    },
-    {
-      "id": "ce4ca0a67cb7",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "summary": "\nArticle URL: https://www.youtube.com/watch?v=lwfewYL7X0o\nComments URL: https://news.ycombinator.com/item?id=50564366\nPoints: 90\n# Comments: 173\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 18:47:16",
-      "timestamp": 1795114036
-    },
-    {
-      "id": "a7398a232ad7",
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "summary": "\nArticle URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\nComments URL: https://news.ycombinator.com/item?id=50564159\nPoints: 238\n# Comments: 132\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 18:35:17",
-      "timestamp": 1795113317
-    },
-    {
-      "id": "faf14df956dc",
-      "title": "Claude solves two open problems in the physics of black holes",
-      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "summary": "\nArticle URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 440\n# Comments: 203\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 17:30:44",
-      "timestamp": 1795109444
-    },
-    {
-      "id": "fcecc784603d",
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "summary": "\nhttps://archive.ph/2Et0x\n\nComments URL: https://news.ycombinator.com/item?id=50563066\nPoints: 688\n# Comments: 108\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 17:25:33",
-      "timestamp": 1795109133
-    },
-    {
-      "id": "361f0db1ce0f",
-      "title": "Anthropic’s Nasdaq debut",
-      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "summary": "\nArticle URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 1014\n# Comments: 1998\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 17:02:40",
-      "timestamp": 1795107760
-    },
-    {
-      "id": "8a8c87cb0f67",
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "link": "https://github.com/onlook-dev/onlook/",
-      "summary": "\nHey HN, I'm Daniel, founder of Onlook (https://github.com/onlook-dev/onlook and onlook.com).Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 1",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-11-19 16:34:04",
-      "timestamp": 1795106044
-    },
-    {
-      "id": "987773836bcb",
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "summary": "\nArticle URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/\nComments URL: https://news.ycombinator.com/item?id=50562113\nPoints: 575\n# Comments: 260\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 16:21:03",
-      "timestamp": 1795105263
-    },
-    {
-      "id": "4790395b6001",
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "link": "https://cornholenews.news",
-      "summary": "\nArticle URL: https://cornholenews.news\nComments URL: https://news.ycombinator.com/item?id=50561515\nPoints: 203\n# Comments: 95\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-19 15:38:32",
-      "timestamp": 1795102712
     },
     {
       "id": "f8e32091c102",
@@ -354,17 +431,6 @@
       "timestamp": 1795060959
     },
     {
-      "id": "196118f5e1dd",
-      "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
-      "link": "https://www.qbitai.com/2026/11/511071.html",
-      "summary": "语言模型单张3090卡即可运行",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-19 03:01:45",
-      "timestamp": 1795057305
-    },
-    {
       "id": "8ee55529dbc5",
       "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
       "link": "https://sspai.com/post/119039",
@@ -387,17 +453,6 @@
       "timestamp": 1795048170
     },
     {
-      "id": "e7c31c69cc40",
-      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
-      "link": "https://www.qbitai.com/2026/11/510947.html",
-      "summary": "国产AI工具实现「一个人就是一个剧组」",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-19 00:26:40",
-      "timestamp": 1795048000
-    },
-    {
       "id": "ba68950ef141",
       "title": "The AI Hype Index: AI is everywhere",
       "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
@@ -418,50 +473,6 @@
       "lang": "en",
       "published": "2026-11-18 10:20:30",
       "timestamp": 1794997230
-    },
-    {
-      "id": "fa4ad7cb56ab",
-      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-      "link": "https://www.qbitai.com/2026/11/510922.html",
-      "summary": "氖人寻味！",
-      "source": "量子位",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-18 09:41:55",
-      "timestamp": 1794994915
-    },
-    {
-      "id": "1dd7674c8e73",
-      "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
-      "link": "https://sspai.com/post/118985",
-      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-18 16:59:58",
-      "timestamp": 1794992398
-    },
-    {
-      "id": "1c7c8a96fe6f",
-      "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
-      "link": "https://sspai.com/post/118732",
-      "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-18 14:54:30",
-      "timestamp": 1794984870
-    },
-    {
-      "id": "a16f30880a76",
-      "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
-      "link": "https://sspai.com/post/119193",
-      "summary": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-18 11:00:00",
-      "timestamp": 1794970800
     },
     {
       "id": "fa5a48fad451",
@@ -539,17 +550,6 @@
       "lang": "en",
       "published": "2026-11-09 17:05:43",
       "timestamp": 1794243943
-    },
-    {
-      "id": "e420a42cf074",
-      "title": "Innovating with AI in the specialty chemicals industry",
-      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-09 13:00:00",
-      "timestamp": 1794229200
     }
   ]
 }
