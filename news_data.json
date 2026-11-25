@@ -1,16 +1,280 @@
 {
-  "updated_at": "2026-11-24 08:01:37",
+  "updated_at": "2026-11-25 06:39:47",
   "articles": [
     {
-      "id": "a223f4d1d7a3",
-      "title": "VP ≠ VNP over Every Field [pdf]",
-      "link": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf",
-      "summary": "\nArticle URL: https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50624929\nPoints: 11\n# Comments: 1\n",
+      "id": "1756fd83f9b0",
+      "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
+      "link": "https://github.com/samcorcos/legatum/issues/147",
+      "summary": "\nArticle URL: https://github.com/samcorcos/legatum/issues/147\nComments URL: https://news.ycombinator.com/item?id=50638647\nPoints: 75\n# Comments: 5\n",
       "source": "Hacker News",
       "category": "tool",
       "lang": "en",
-      "published": "2026-11-24 07:38:50",
-      "timestamp": 1795505930
+      "published": "2026-11-25 04:56:36",
+      "timestamp": 1795582596
+    },
+    {
+      "id": "4a03b2a4d85c",
+      "title": "Show HN: U.S. Interstate Weather",
+      "link": "https://www.interstateweather.com/",
+      "summary": "\nIn case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday).\n\nComments URL: https://news.ycombinator.com/item?id=50638523\nPoints: 21\n# Comments: 4\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 04:35:32",
+      "timestamp": 1795581332
+    },
+    {
+      "id": "e5c92e3f35a4",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "link": "https://gpu-demo-gallery.pages.dev/",
+      "summary": "\nArticle URL: https://gpu-demo-gallery.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50638503\nPoints: 32\n# Comments: 4\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 04:31:48",
+      "timestamp": 1795581108
+    },
+    {
+      "id": "d11da296c497",
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "summary": "\nArticle URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each\nComments URL: https://news.ycombinator.com/item?id=50638478\nPoints: 20\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 04:27:55",
+      "timestamp": 1795580875
+    },
+    {
+      "id": "3d207638a5db",
+      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+      "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+      "summary": "\nArticle URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F\nComments URL: https://news.ycombinator.com/item?id=50638320\nPoints: 103\n# Comments: 70\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 04:03:33",
+      "timestamp": 1795579413
+    },
+    {
+      "id": "4653d0b8e3f7",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "summary": "\nArticle URL: https://www.marginalia.nu/log/a_141_marginalia_update/\nComments URL: https://news.ycombinator.com/item?id=50638220\nPoints: 53\n# Comments: 11\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 03:47:42",
+      "timestamp": 1795578462
+    },
+    {
+      "id": "a0b981831db9",
+      "title": "A faster algorithm for extracting hexadecimal digits of π",
+      "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+      "summary": "\nArticle URL: https://www.stylewarning.com/posts/faster-digit-extraction/\nComments URL: https://news.ycombinator.com/item?id=50638075\nPoints: 19\n# Comments: 0\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 03:28:42",
+      "timestamp": 1795577322
+    },
+    {
+      "id": "d8571d29eaf4",
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "summary": "\nArticle URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas\nComments URL: https://news.ycombinator.com/item?id=50638070\nPoints: 39\n# Comments: 8\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 03:28:06",
+      "timestamp": 1795577286
+    },
+    {
+      "id": "682d688b4411",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "link": "https://buttons.joshwcomeau.com/",
+      "summary": "\nArticle URL: https://buttons.joshwcomeau.com/\nComments URL: https://news.ycombinator.com/item?id=50638032\nPoints: 163\n# Comments: 12\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 03:23:07",
+      "timestamp": 1795576987
+    },
+    {
+      "id": "cd8e178ec52e",
+      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+      "link": "https://sspai.com/post/118791",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-11-25 11:07:41",
+      "timestamp": 1795576061
+    },
+    {
+      "id": "366dfce3fda3",
+      "title": "Macrohistory in Six Facts",
+      "link": "https://basilhalperin.com/essays/macrohistory.html",
+      "summary": "\nArticle URL: https://basilhalperin.com/essays/macrohistory.html\nComments URL: https://news.ycombinator.com/item?id=50637891\nPoints: 39\n# Comments: 10\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 03:04:46",
+      "timestamp": 1795575886
+    },
+    {
+      "id": "90a64624f1c2",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "summary": "\nArticle URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit\nComments URL: https://news.ycombinator.com/item?id=50637890\nPoints: 82\n# Comments: 20\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 03:04:37",
+      "timestamp": 1795575877
+    },
+    {
+      "id": "1c7353e8ecd7",
+      "title": "Lua for Data Representation",
+      "link": "https://citrons.xyz/journal/2025-07-23",
+      "summary": "\nArticle URL: https://citrons.xyz/journal/2025-07-23\nComments URL: https://news.ycombinator.com/item?id=50637888\nPoints: 38\n# Comments: 8\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 03:04:12",
+      "timestamp": 1795575852
+    },
+    {
+      "id": "7dd55f57aff6",
+      "title": "I've been drinking wine in my kitchen",
+      "link": "https://scottaaronson.blog/?p=10362",
+      "summary": "\nArticle URL: https://scottaaronson.blog/?p=10362\nComments URL: https://news.ycombinator.com/item?id=50637874\nPoints: 115\n# Comments: 71\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 03:02:10",
+      "timestamp": 1795575730
+    },
+    {
+      "id": "9cc26a84ff0d",
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "link": "https://www.proofatlas.ai/open-problems/",
+      "summary": "\nArticle URL: https://www.proofatlas.ai/open-problems/\nComments URL: https://news.ycombinator.com/item?id=50637871\nPoints: 28\n# Comments: 5\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 03:01:36",
+      "timestamp": 1795575696
+    },
+    {
+      "id": "2489e257d1c3",
+      "title": "Bo3mac: Static ARM64 Recompiler and Direct Metal Port of Black Ops III",
+      "link": "https://github.com/mawlicious/bo3mac",
+      "summary": "\nArticle URL: https://github.com/mawlicious/bo3mac\nComments URL: https://news.ycombinator.com/item?id=50637863\nPoints: 22\n# Comments: 2\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-25 03:00:12",
+      "timestamp": 1795575612
+    },
+    {
+      "id": "8f7225b76e0c",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "summary": "\nArticle URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being\nComments URL: https://news.ycombinator.com/item?id=50637686\nPoints: 136\n# Comments: 52\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 02:34:21",
+      "timestamp": 1795574061
+    },
+    {
+      "id": "10f815408f7a",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "\nArticle URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 425\n# Comments: 203\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-25 01:19:26",
+      "timestamp": 1795569566
+    },
+    {
+      "id": "cbd3c48d26cd",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "summary": "\nArticle URL: https://greydanus.github.io/2026/11/12/pengpt/\nComments URL: https://news.ycombinator.com/item?id=50637056\nPoints: 179\n# Comments: 29\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 00:54:49",
+      "timestamp": 1795568089
+    },
+    {
+      "id": "95b4a87540db",
+      "title": "Here in the World: Letters of Albert Camus, 1944–1959",
+      "link": "https://literaryreview.co.uk/here-in-the-world",
+      "summary": "\nArticle URL: https://literaryreview.co.uk/here-in-the-world\nComments URL: https://news.ycombinator.com/item?id=50636925\nPoints: 45\n# Comments: 3\n",
+      "source": "Hacker News",
+      "category": "tool",
+      "lang": "en",
+      "published": "2026-11-25 00:36:43",
+      "timestamp": 1795567003
+    },
+    {
+      "id": "7b0b9e5fd289",
+      "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+      "link": "https://sspai.com/post/119527",
+      "summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-25 08:22:35",
+      "timestamp": 1795566155
+    },
+    {
+      "id": "cbfdc23c3e14",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "summary": "\nArticle URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\nComments URL: https://news.ycombinator.com/item?id=50634658\nPoints: 233\n# Comments: 72\n",
+      "source": "Hacker News",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-24 21:02:22",
+      "timestamp": 1795554142
+    },
+    {
+      "id": "8c4709c24af9",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
+      "source": "MIT Tech Review",
+      "category": "product",
+      "lang": "en",
+      "published": "2026-11-24 15:15:16",
+      "timestamp": 1795533316
+    },
+    {
+      "id": "69cf3dc4682e",
+      "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+      "link": "https://sspai.com/post/119492",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "source": "少数派",
+      "category": "case",
+      "lang": "zh",
+      "published": "2026-11-24 17:14:11",
+      "timestamp": 1795511651
+    },
+    {
+      "id": "22e2ca56630d",
+      "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+      "link": "https://sspai.com/post/119035",
+      "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...查看全文",
+      "source": "少数派",
+      "category": "tool",
+      "lang": "zh",
+      "published": "2026-11-24 15:38:42",
+      "timestamp": 1795505922
     },
     {
       "id": "3b5e92a9308b",
@@ -35,17 +299,6 @@
       "timestamp": 1795502106
     },
     {
-      "id": "ec0481c6927e",
-      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
-      "link": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
-      "summary": "\nArticle URL: https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html\nComments URL: https://news.ycombinator.com/item?id=50624487\nPoints: 161\n# Comments: 50\n",
-      "source": "Hacker News",
-      "category": "product",
-      "lang": "en",
-      "published": "2026-11-24 06:28:04",
-      "timestamp": 1795501684
-    },
-    {
       "id": "abb37eaca0b0",
       "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
       "link": "https://www.qbitai.com/2026/11/512354.html",
@@ -66,28 +319,6 @@
       "lang": "zh",
       "published": "2026-11-24 06:12:16",
       "timestamp": 1795500736
-    },
-    {
-      "id": "62bb69b05c60",
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "link": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "summary": "\nArticle URL: https://www.phoronix.com/review/amd-epyc-9006-7601\nComments URL: https://news.ycombinator.com/item?id=50624061\nPoints: 34\n# Comments: 9\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-24 05:15:22",
-      "timestamp": 1795497322
-    },
-    {
-      "id": "2f7209dd4609",
-      "title": "Drone Maps of Salvage Yards",
-      "link": "https://salvageyarddrone.wordpress.com/",
-      "summary": "\nArticle URL: https://salvageyarddrone.wordpress.com/\nComments URL: https://news.ycombinator.com/item?id=50623515\nPoints: 61\n# Comments: 23\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-24 04:00:28",
-      "timestamp": 1795492828
     },
     {
       "id": "e51611d2d513",
@@ -134,28 +365,6 @@
       "timestamp": 1795489390
     },
     {
-      "id": "d729337e9149",
-      "title": "Making a dumb TV just smart enough",
-      "link": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-      "summary": "\nArticle URL: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/\nComments URL: https://news.ycombinator.com/item?id=50622934\nPoints: 59\n# Comments: 18\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-24 02:46:54",
-      "timestamp": 1795488414
-    },
-    {
-      "id": "6b4ab0dc9c0e",
-      "title": "Declare is a UI language for you and your AI",
-      "link": "https://davidtemkin.github.io/declarelang/",
-      "summary": "\nArticle URL: https://davidtemkin.github.io/declarelang/\nComments URL: https://news.ycombinator.com/item?id=50622854\nPoints: 44\n# Comments: 33\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-24 02:36:56",
-      "timestamp": 1795487816
-    },
-    {
       "id": "0ccb0d1df2c5",
       "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
       "link": "https://www.qbitai.com/2026/11/512297.html",
@@ -165,39 +374,6 @@
       "lang": "zh",
       "published": "2026-11-24 02:36:08",
       "timestamp": 1795487768
-    },
-    {
-      "id": "e1eab048720e",
-      "title": "Rune: Rust VM for Emacs",
-      "link": "https://github.com/CeleritasCelery/rune",
-      "summary": "\nArticle URL: https://github.com/CeleritasCelery/rune\nComments URL: https://news.ycombinator.com/item?id=50622804\nPoints: 32\n# Comments: 7\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-24 02:30:47",
-      "timestamp": 1795487447
-    },
-    {
-      "id": "2ea409035d6a",
-      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "link": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-      "summary": "\nArticle URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription\nComments URL: https://news.ycombinator.com/item?id=50622774\nPoints: 267\n# Comments: 77\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-24 02:27:02",
-      "timestamp": 1795487222
-    },
-    {
-      "id": "7d3f0fa4995c",
-      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
-      "link": "https://github.com/ItsNotRexed/Leonida/issues",
-      "summary": "\nArticle URL: https://github.com/ItsNotRexed/Leonida/issues\nComments URL: https://news.ycombinator.com/item?id=50622638\nPoints: 46\n# Comments: 31\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-24 02:08:09",
-      "timestamp": 1795486089
     },
     {
       "id": "b0efbfe59479",
@@ -222,83 +398,6 @@
       "timestamp": 1795480651
     },
     {
-      "id": "bf2e75ef45c3",
-      "title": "The Power of GraphQL, Without GraphQL",
-      "link": "https://cobalt27.dev/",
-      "summary": "\nArticle URL: https://cobalt27.dev/\nComments URL: https://news.ycombinator.com/item?id=50621466\nPoints: 42\n# Comments: 21\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-24 00:03:59",
-      "timestamp": 1795478639
-    },
-    {
-      "id": "dd472fea40a5",
-      "title": "The search for a top dark matter candidate",
-      "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-      "summary": "\nArticle URL: https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/\nComments URL: https://news.ycombinator.com/item?id=50620831\nPoints: 40\n# Comments: 22\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-23 23:12:40",
-      "timestamp": 1795475560
-    },
-    {
-      "id": "7deda9d6d611",
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "summary": "\nArticle URL: https://stalw.art/blog/microsoft-exchange-replacement/\nComments URL: https://news.ycombinator.com/item?id=50620349\nPoints: 403\n# Comments: 207\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-23 22:32:29",
-      "timestamp": 1795473149
-    },
-    {
-      "id": "36a990c868cb",
-      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "link": "https://arxiv.org/abs/2602.20031",
-      "summary": "\nArticle URL: https://arxiv.org/abs/2602.20031\nComments URL: https://news.ycombinator.com/item?id=50620328\nPoints: 55\n# Comments: 4\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-23 22:29:48",
-      "timestamp": 1795472988
-    },
-    {
-      "id": "6297a688b7c8",
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "link": "https://www.bored.com/",
-      "summary": "\nArticle URL: https://www.bored.com/\nComments URL: https://news.ycombinator.com/item?id=50619207\nPoints: 215\n# Comments: 46\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-23 21:01:16",
-      "timestamp": 1795467676
-    },
-    {
-      "id": "59216c07770f",
-      "title": "GPUI is getting its own repository",
-      "link": "https://github.com/zed-industries/gpui",
-      "summary": "\nArticle URL: https://github.com/zed-industries/gpui\nComments URL: https://news.ycombinator.com/item?id=50619103\nPoints: 235\n# Comments: 89\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-23 20:52:54",
-      "timestamp": 1795467174
-    },
-    {
-      "id": "da28c4c7746c",
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "link": "https://arm.jonpalmisc.com/",
-      "summary": "\nArticle URL: https://arm.jonpalmisc.com/\nComments URL: https://news.ycombinator.com/item?id=50617499\nPoints: 994\n# Comments: 230\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-23 19:17:55",
-      "timestamp": 1795461475
-    },
-    {
       "id": "ff4cb540b700",
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
       "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
@@ -308,39 +407,6 @@
       "lang": "en",
       "published": "2026-11-23 17:36:08",
       "timestamp": 1795455368
-    },
-    {
-      "id": "9c3abaaa3865",
-      "title": "Kagi Mail (public beta)",
-      "link": "https://blog.kagi.com/kagi-mail-public-beta",
-      "summary": "\nArticle URL: https://blog.kagi.com/kagi-mail-public-beta\nComments URL: https://news.ycombinator.com/item?id=50615481\nPoints: 405\n# Comments: 320\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-23 17:17:01",
-      "timestamp": 1795454221
-    },
-    {
-      "id": "0f39acfd2010",
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "link": "https://twitter.com/ylecun/status/2124550037912920090",
-      "summary": "\nArticle URL: https://twitter.com/ylecun/status/2124550037912920090\nComments URL: https://news.ycombinator.com/item?id=50615308\nPoints: 1568\n# Comments: 880\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-23 17:07:26",
-      "timestamp": 1795453646
-    },
-    {
-      "id": "3bf75f892eee",
-      "title": "Ladybird is now in alpha",
-      "link": "https://ladybird.org/posts/alpha/",
-      "summary": "\nArticle URL: https://ladybird.org/posts/alpha/\nComments URL: https://news.ycombinator.com/item?id=50614249\nPoints: 1768\n# Comments: 410\n",
-      "source": "Hacker News",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-23 16:13:12",
-      "timestamp": 1795450392
     },
     {
       "id": "e504bdf96d59",
@@ -387,39 +453,6 @@
       "timestamp": 1795413653
     },
     {
-      "id": "b7021b7acc10",
-      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
-      "link": "https://sspai.com/post/119418",
-      "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-23 07:34:27",
-      "timestamp": 1795390467
-    },
-    {
-      "id": "f0cad3b54229",
-      "title": "从深圳到上海，少数派的共创故事还在继续",
-      "link": "https://sspai.com/post/119318",
-      "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文",
-      "source": "少数派",
-      "category": "case",
-      "lang": "zh",
-      "published": "2026-11-22 09:05:44",
-      "timestamp": 1795309544
-    },
-    {
-      "id": "2de8fb690dfc",
-      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
-      "link": "https://sspai.com/post/119291",
-      "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...查看全文",
-      "source": "少数派",
-      "category": "product",
-      "lang": "zh",
-      "published": "2026-11-21 12:00:00",
-      "timestamp": 1795233600
-    },
-    {
       "id": "7c733832ff9c",
       "title": "The most misunderstood graph in AI just got a major update",
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
@@ -429,17 +462,6 @@
       "lang": "en",
       "published": "2026-11-20 18:15:15",
       "timestamp": 1795198515
-    },
-    {
-      "id": "19962fad2312",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "link": "https://sspai.com/post/119337",
-      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文",
-      "source": "少数派",
-      "category": "tool",
-      "lang": "zh",
-      "published": "2026-11-20 17:54:01",
-      "timestamp": 1795168441
     },
     {
       "id": "ba68950ef141",
@@ -517,17 +539,6 @@
       "lang": "en",
       "published": "2026-11-12 20:16:24",
       "timestamp": 1794514584
-    },
-    {
-      "id": "0c07a58a7597",
-      "title": "The backlash about data centers might really just be about electricity",
-      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
-      "source": "MIT Tech Review",
-      "category": "tool",
-      "lang": "en",
-      "published": "2026-11-09 19:35:33",
-      "timestamp": 1794252933
     }
   ]
 }
